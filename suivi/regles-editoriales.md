@@ -2,6 +2,19 @@
 
 Ce fichier est la référence de la tâche planifiée hebdomadaire. À relire en entier avant chaque lot.
 
+## Règle n°1 : on parle de « fiche Google », et ça doit sauter aux yeux
+
+Le public (artisans, commerçants) ne sait pas ce qu'est « la fiche ». Il faut que chaque contenu fasse comprendre **dès la première ligne** qu'on parle de la **fiche Google** de leur entreprise.
+
+- Toujours écrire **« fiche Google »**, jamais « la fiche », « votre fiche » ou « le profil » tout seuls. Un rappel plus loin dans le même texte peut dire « elle » ou « votre fiche Google ».
+- L'accroche (première ligne, titre du visuel, accroche de la vidéo, titre YouTube) contient **« Google »**. Sur X, la mention doit tenir dans les 280 caractères.
+- Apporter le contexte, au moins une fois par contenu : c'est **ce qui s'affiche quand un client cherche votre métier sur Google ou Google Maps** (nom, photos, avis, horaires, téléphone). Exemples de tournures :
+  - « Votre fiche Google, c'est ce que vos clients voient en premier quand ils cherchent “plombier” sur Google Maps. »
+  - « Quand on tape “coiffeur près de moi”, Google affiche des fiches : photos, avis, horaires. La vôtre en fait partie. »
+- Vidéos : l'accroche ou la scène Contraste doit nommer la fiche Google (le téléphone montre une recherche ou une fiche ; le texte à l'écran doit dire « fiche Google »).
+- Visuels : `outils/visuel.py` refuse un brief dont le surtitre et le titre ne contiennent pas « Google ».
+- Ne jamais reproduire le logo ni l'interface de Google : le mot suffit.
+
 ## Grille quotidienne (heure de Paris)
 
 | Créneau | Type | Canaux Postiz | Média |
@@ -67,7 +80,7 @@ Ne pas utiliser deux fois le même format le même jour, ni le même format deux
 ## Variété sur la semaine
 
 - 11 métiers : plombier, électricien, chauffagiste, serrurier, paysagiste, maçon, coiffeur, esthéticienne, auto-école, boulangerie, garage. Pas le même métier deux créneaux de suite, et au moins 6 métiers différents par semaine.
-- Lire `suivi/publications.csv` : ne pas reprendre une accroche déjà publiée ni un trio métier + angle + format des 3 dernières semaines.
+- Lire les fiches de `cerveau/productions/` : ne pas reprendre une accroche déjà publiée ni un trio métier + angle + format des 3 dernières semaines. Suivre aussi les orientations de la dernière analyse (`cerveau/analyses/`) et de `cerveau/decisions.md`.
 - Les 7 vidéos de la semaine passent par le tirage du skill avec `suivi/historique-pubs.json`.
 
 ## Médias

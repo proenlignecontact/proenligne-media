@@ -1,0 +1,61 @@
+{
+ "id": "2026-11-02_0920_test-metier-ville",
+ "date_paris": "2026-11-02",
+ "heure_paris": "09:20",
+ "jour_semaine": "lundi",
+ "creneau": "video",
+ "metier": "general",
+ "angle": "peur-de-perdre",
+ "format": "test",
+ "ton": "question",
+ "symptome": null,
+ "offre": "essai",
+ "accroche": "Tapez votre métier + votre ville sur Google. Vous êtes où ?",
+ "media": {
+  "type": "video",
+  "fichiers": [
+   "proenligne-ou-*.mp4 (probable)"
+  ],
+  "postiz": []
+ },
+ "publications": [
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvsheeq9000jo77zvxx953nl",
+   "caracteres": null,
+   "texte": null
+  },
+  {
+   "canal": "instagram",
+   "postiz_id": "cmvsheeon000io77z8c5jr23k",
+   "caracteres": null,
+   "texte": null
+  },
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmvshgecr000lo77zthu0wlq6",
+   "caracteres": null,
+   "texte": null
+  },
+  {
+   "canal": "x",
+   "postiz_id": "cmvshgebg000ko77z36pyd4l7",
+   "caracteres": null,
+   "texte": null
+  },
+  {
+   "canal": "youtube",
+   "postiz_id": "cmvshic55000mo77zrqmjcfbb",
+   "caracteres": null,
+   "texte": null
+  }
+ ],
+ "notes": "Reprise. Programmé avant le planning, hors grille (YouTube à 09:00). Média exact à confirmer. TikTok en mode UPLOAD.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "source": "reprise"
+}

@@ -1,0 +1,57 @@
+{
+ "id": "2026-10-28_1759_concurrent-plus-vivant",
+ "date_paris": "2026-10-28",
+ "heure_paris": "17:59",
+ "jour_semaine": "mercredi",
+ "creneau": "video",
+ "metier": "general",
+ "angle": "peur-de-perdre",
+ "format": "libre",
+ "ton": "constat",
+ "symptome": "concurrent-plus-riche",
+ "offre": "essai",
+ "accroche": "Votre concurrent n'est pas meilleur que vous. Sa fiche Google est juste plus vivante.",
+ "media": {
+  "type": "video",
+  "fichiers": [
+   "PubConcurrent.mp4"
+  ],
+  "postiz": [
+   "https://media.glidy.uk/u0RK0ait6NhV5HNNJnQC.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvscsk1w0000o77z1vrubvpf",
+   "caracteres": null,
+   "texte": null
+  },
+  {
+   "canal": "instagram",
+   "postiz_id": "cmvscsk3y0001o77z79evxv7h",
+   "caracteres": null,
+   "texte": null
+  },
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmvsd5nrv000co77z6pi0gl8u",
+   "caracteres": null,
+   "texte": null
+  },
+  {
+   "canal": "x",
+   "postiz_id": "cmvse6ufu000eo77zjtho46xq",
+   "caracteres": null,
+   "texte": null
+  }
+ ],
+ "notes": "Reprise. Heures réelles : FB/IG 17:59, TikTok 18:03, X 18:53 (Paris). TikTok en mode UPLOAD : publication non garantie.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "source": "reprise"
+}

@@ -4,9 +4,9 @@ usage : python3 outils/visuel.py <brief.json> <sortie.png>
 
 brief.json :
 {
-  "surtitre": "Plombiers, un soir de fuite.",          # ≤ 60 car., phrase d'amorce
-  "titre": "On appelle la fiche qui a l'air vivante.", # ≤ 60 car.
-  "mot": "l'air vivante",                              # morceau exact de "titre", surligné en vert
+  "surtitre": "Un soir de fuite, on cherche sur Google.",  # ≤ 60 car., phrase d'amorce
+  "titre": "On appelle la fiche Google la plus vivante.", # ≤ 60 car. ; surtitre + titre doivent contenir « Google »
+  "mot": "la plus vivante",                              # morceau exact de "titre", surligné en vert
   "carte": {                                           # mini-fiche avant / après
     "enseigne": "Plomberie Weber",                     # FICTIF : métier + un nom de noms_fictifs du skill (Weber, Martin, Durand, Bernard, Petit)
     "metier": "Plombier",
@@ -47,6 +47,8 @@ def verifier(b):
             err.append(f'carte.{k} > 34 caractères')
     if b.get('offre', 'essai') not in OFFRES:
         err.append('offre inconnue')
+    if 'google' not in (b.get('surtitre', '') + ' ' + b.get('titre', '')).lower():
+        err.append('le surtitre ou le titre doit dire « fiche Google » (règle n°1)')
     return err
 
 
@@ -75,6 +77,7 @@ mark{{background:linear-gradient(transparent 62%,#cfe3d6 62%);color:#1f6b4a;padd
 .mention{{font-size:28px;color:#3b4740}}
 .carte{{position:absolute;left:150px;right:150px;bottom:110px;background:#fff;border-radius:32px;padding:40px 44px;
   box-shadow:0 30px 60px rgba(22,32,27,.10);border:3px solid #1f6b4a}}
+.lab{{font-size:22px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#1f6b4a;margin-bottom:10px}}
 .ent{{font-family:B;font-weight:700;font-size:40px}}
 .met{{font-size:26px;color:#5b665f;margin-top:6px}}
 .met b{{color:#f2b63c}}
@@ -90,7 +93,8 @@ mark{{background:linear-gradient(transparent 62%,#cfe3d6 62%);color:#1f6b4a;padd
 <h1>{t}</h1>
 <div class="cta"><span class="btn">{html.escape(bouton)}</span><span class="mention">{html.escape(mention)}</span></div>
 </div>
-<div class="carte"><span class="badge">Fiche à jour</span>
+<div class="carte"><span class="badge">Fiche Google à jour</span>
+<div class="lab">Votre fiche Google</div>
 <div class="ent">{c['enseigne']}</div><div class="met"><b>★★★★★</b> · {c['metier']}</div>
 <div class="ligne avant"><span class="pt"></span>{c['avant']}</div>
 <div class="ligne apres"><span class="pt"></span>{c['apres']}</div>

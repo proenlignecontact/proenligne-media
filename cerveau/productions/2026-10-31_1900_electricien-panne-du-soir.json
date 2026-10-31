@@ -1,0 +1,65 @@
+{
+ "id": "2026-10-31_1900_electricien-panne-du-soir",
+ "date_paris": "2026-10-31",
+ "heure_paris": "19:00",
+ "jour_semaine": "samedi",
+ "creneau": "video",
+ "metier": "electricien",
+ "angle": "peur-de-perdre",
+ "format": "libre",
+ "ton": "scene",
+ "symptome": "photos-anciennes",
+ "offre": "essai",
+ "accroche": "Électriciens : ce soir, vous êtes 3e sur Google. Aucune photo depuis 2021.",
+ "media": {
+  "type": "video",
+  "fichiers": [
+   "proenligne-panne-du-soir-electricien-vertical.mp4",
+   "proenligne-panne-du-soir-electricien-horizontal.mp4"
+  ],
+  "postiz": [
+   "https://media.glidy.uk/oZ1q6HYAJS8ZBV0uiqhq.mp4",
+   "https://media.glidy.uk/6WEc2mSxKCQXvVgAc00U.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvwm8ppv0006kb7zqwx8v1rh",
+   "caracteres": null,
+   "texte": null
+  },
+  {
+   "canal": "instagram",
+   "postiz_id": "cmvwm8pog0005kb7z54kpm83z",
+   "caracteres": null,
+   "texte": null
+  },
+  {
+   "canal": "youtube",
+   "postiz_id": "cmvwm8prg0007kb7z6jff27hx",
+   "caracteres": null,
+   "texte": null
+  },
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmvwmarjg0009kb7z3a3a0qpg",
+   "caracteres": null,
+   "texte": null
+  },
+  {
+   "canal": "x",
+   "postiz_id": "cmvwmari50008kb7z04egfpim",
+   "caracteres": null,
+   "texte": null
+  }
+ ],
+ "notes": "Reprise. Texte X coupé après « gratuitement, ». TikTok en mode UPLOAD.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "source": "reprise"
+}
