@@ -1,5 +1,5 @@
 {
- "_lisezmoi": "Créneaux de la semaine du 2/11/2026 prêts mais NON programmés : Postiz refusait les pièces jointes (« URL must contain the domain: uploads.postiz.com ») puis a demandé une nouvelle connexion. À programmer tels quels une fois corrigé (dates UTC, Paris = UTC+1). Créer ensuite la fiche cerveau/productions/ de chaque créneau.",
+ "_lisezmoi": "PROGRAMMÉ le 31/10/2026 (via le connecteur personnalisé « postiz »). Conservé pour mémoire ; les fiches sont dans cerveau/productions/.",
  "creneaux": [
   {
    "date": "2026-11-02",

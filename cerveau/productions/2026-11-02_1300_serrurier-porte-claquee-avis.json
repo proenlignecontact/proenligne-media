@@ -1,0 +1,47 @@
+{
+ "id": "2026-11-02_1300_serrurier-porte-claquee-avis",
+ "date_paris": "2026-11-02",
+ "heure_paris": "13:00",
+ "jour_semaine": "lundi",
+ "creneau": "visuel",
+ "metier": "serrurier",
+ "angle": "peur-de-perdre",
+ "format": "avant-apres",
+ "ton": "scene",
+ "symptome": "avis-sans-reponse",
+ "offre": "essai",
+ "accroche": "Porte claquée : on cherche « serrurier » sur Google, et on choisit une fiche Google.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Artisan",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal",
+  "#Serrurier"
+ ],
+ "media": {
+  "type": "image",
+  "fichiers": [
+   "medias/2026-11-02/visuel-serrurier.png"
+  ],
+  "postiz": [
+   "https://media.glidy.uk/8aOz5pISYN.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "instagram",
+   "postiz_id": "cmvwv917r000rkb7z53cxutjb",
+   "caracteres": 573,
+   "texte": "Porte claquée : on cherche « serrurier » sur Google, et on choisit une fiche Google.\n\nUne fiche Google, c'est ce qui s'affiche sur Google et Google Maps quand on cherche votre métier : nom, photos, avis, téléphone.\n\nDans l'urgence, on lit vite. 3 avis sans réponse, et on appelle le suivant.\n\nProenligne s'en charge pour vous :\n\n✅ Une réponse à chaque avis\n✅ Vous validez celles aux avis négatifs\n✅ Une photo le lundi, une publication le jeudi\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Serrurier #Artisan"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvwv9194000skb7zi3lkq62z",
+   "caracteres": 564,
+   "texte": "Porte claquée : on cherche « serrurier » sur Google, et on choisit une fiche Google.\n\nUne fiche Google, c'est ce qui s'affiche sur Google et Google Maps quand on cherche votre métier : nom, photos, avis, téléphone.\n\nDans l'urgence, on lit vite. 3 avis sans réponse, et on appelle le suivant.\n\nProenligne s'en charge pour vous :\n\n✅ Une réponse à chaque avis\n✅ Vous validez celles aux avis négatifs\n✅ Une photo le lundi, une publication le jeudi\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Serrurier"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "Préparé par la tâche du 31/10 ; programmé à la main le 31/10 via le connecteur personnalisé (bug #2278 du connecteur officiel)."
+}

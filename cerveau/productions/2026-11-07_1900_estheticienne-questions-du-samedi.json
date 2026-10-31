@@ -1,0 +1,55 @@
+{
+ "id": "2026-11-07_1900_estheticienne-questions-du-samedi",
+ "date_paris": "2026-11-07",
+ "heure_paris": "19:00",
+ "jour_semaine": "samedi",
+ "creneau": "video",
+ "metier": "estheticienne",
+ "angle": "preuve",
+ "format": "avis",
+ "ton": "pendant-que",
+ "symptome": "questions-sans-reponse",
+ "offre": "essai",
+ "accroche": "Pendant que vous soignez vos clientes, leurs questions attendent sur votre fiche Google.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Commerce",
+  "#Estheticienne",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [
+   "medias/2026-11-07/video-estheticienne-questions-du-samedi-vertical.mp4",
+   "medias/2026-11-07/video-estheticienne-questions-du-samedi-horizontal.mp4"
+  ],
+  "postiz": [
+   "https://media.glidy.uk/vm2C2xNUs2.mp4",
+   "https://media.glidy.uk/mfQzuXlDWr.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmvwvbgnh001ikb7z9dudd1dy",
+   "caracteres": 312,
+   "texte": "Pendant que vous soignez vos clientes, leurs questions attendent sur votre fiche Google.\n\nVotre fiche Google, c'est ce qu'on voit en cherchant « esthéticienne » sur Google Maps.\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Estheticienne #Commerce"
+  },
+  {
+   "canal": "instagram",
+   "postiz_id": "cmvwvbgp3001jkb7z2h420st4",
+   "caracteres": 572,
+   "texte": "Pendant que vous soignez vos clientes, leurs questions attendent sur votre fiche Google. Sans réponse sur la fiche Google, elle réserve ailleurs.\n\nVotre fiche Google, c'est ce que lisent vos futures clientes quand elles cherchent une esthéticienne sur Google Maps. Un avis qui pose une question et reste sans réponse les fait réserver ailleurs.\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Estheticienne #Commerce"
+  },
+  {
+   "canal": "youtube",
+   "postiz_id": "cmvwvbgq9001kkb7ziqvzd5qk",
+   "caracteres": 572,
+   "texte": "Pendant que vous soignez vos clientes, leurs questions attendent sur votre fiche Google. Sans réponse sur la fiche Google, elle réserve ailleurs.\n\nVotre fiche Google, c'est ce que lisent vos futures clientes quand elles cherchent une esthéticienne sur Google Maps. Un avis qui pose une question et reste sans réponse les fait réserver ailleurs.\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Estheticienne #Commerce"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "Préparé par la tâche du 31/10 ; programmé à la main le 31/10 via le connecteur personnalisé (bug #2278 du connecteur officiel). Pub vidéo du skill : estheticienne-questions-du-samedi."
+}

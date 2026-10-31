@@ -1,0 +1,55 @@
+{
+ "id": "2026-11-02_1900_chauffagiste-camion-inconnu",
+ "date_paris": "2026-11-02",
+ "heure_paris": "19:00",
+ "jour_semaine": "lundi",
+ "creneau": "video",
+ "metier": "chauffagiste",
+ "angle": "gain-de-temps",
+ "format": "fiche",
+ "ton": "constat",
+ "symptome": "devanture-introuvable",
+ "offre": "essai",
+ "accroche": "Sur votre fiche Google, aucune photo de votre camion. Le client ne sait pas qui va sonner.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Artisan",
+  "#Chauffagiste",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [
+   "medias/2026-11-02/video-chauffagiste-camion-inconnu-vertical.mp4",
+   "medias/2026-11-02/video-chauffagiste-camion-inconnu-horizontal.mp4"
+  ],
+  "postiz": [
+   "https://media.glidy.uk/N9uvwB7GAv.mp4",
+   "https://media.glidy.uk/c3MnJxwDlu.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmvwv91a0000tkb7z7r08o6gz",
+   "caracteres": 311,
+   "texte": "Sur votre fiche Google, aucune photo de votre camion. Le client ne sait pas qui va sonner.\n\nVotre fiche Google, c'est ce qu'on voit en cherchant « chauffagiste » sur Google Maps.\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Chauffagiste #Artisan"
+  },
+  {
+   "canal": "instagram",
+   "postiz_id": "cmvwv91ay000ukb7z00j663xx",
+   "caracteres": 561,
+   "texte": "Sur votre fiche Google, aucune photo de votre camion. Le client ne sait pas qui va sonner. Une fiche Google sans visage, on la passe.\n\nQuand on cherche un chauffagiste sur Google ou Google Maps, on voit d'abord sa fiche Google : nom, photos, avis. Sans photo de votre camion ni de votre atelier, le client ne sait pas à qui il ouvrira.\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Chauffagiste #Artisan"
+  },
+  {
+   "canal": "youtube",
+   "postiz_id": "cmvwv91bt000vkb7zolbt4b9u",
+   "caracteres": 561,
+   "texte": "Sur votre fiche Google, aucune photo de votre camion. Le client ne sait pas qui va sonner. Une fiche Google sans visage, on la passe.\n\nQuand on cherche un chauffagiste sur Google ou Google Maps, on voit d'abord sa fiche Google : nom, photos, avis. Sans photo de votre camion ni de votre atelier, le client ne sait pas à qui il ouvrira.\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Chauffagiste #Artisan"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "Préparé par la tâche du 31/10 ; programmé à la main le 31/10 via le connecteur personnalisé (bug #2278 du connecteur officiel). Pub vidéo du skill : chauffagiste-camion-inconnu."
+}

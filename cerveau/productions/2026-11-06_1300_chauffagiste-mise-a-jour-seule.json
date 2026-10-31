@@ -1,0 +1,47 @@
+{
+ "id": "2026-11-06_1300_chauffagiste-mise-a-jour-seule",
+ "date_paris": "2026-11-06",
+ "heure_paris": "13:00",
+ "jour_semaine": "vendredi",
+ "creneau": "visuel",
+ "metier": "chauffagiste",
+ "angle": "gain-de-temps",
+ "format": "avant-apres",
+ "ton": "pendant-que",
+ "symptome": "aucune-publication",
+ "offre": "essai",
+ "accroche": "Vous êtes sur le chantier. Votre fiche Google, elle, se met à jour seule.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Artisan",
+  "#Chauffagiste",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "image",
+  "fichiers": [
+   "medias/2026-11-06/visuel-chauffagiste.png"
+  ],
+  "postiz": [
+   "https://media.glidy.uk/QJ7N8I135J.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "instagram",
+   "postiz_id": "cmvwvaz1x001bkb7zr9utjx0l",
+   "caracteres": 519,
+   "texte": "Vous êtes sur le chantier. Votre fiche Google, elle, se met à jour seule.\n\nVotre fiche Google, c'est ce que voient vos clients quand ils cherchent « chauffagiste » sur Google Maps. En plein hiver, c'est là qu'ils choisissent qui appeler.\n\nRien publié depuis 2021 ? Proenligne prend le relais :\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Chauffagiste #Artisan"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvwvaz2m001ckb7zwzb1atk0",
+   "caracteres": 510,
+   "texte": "Vous êtes sur le chantier. Votre fiche Google, elle, se met à jour seule.\n\nVotre fiche Google, c'est ce que voient vos clients quand ils cherchent « chauffagiste » sur Google Maps. En plein hiver, c'est là qu'ils choisissent qui appeler.\n\nRien publié depuis 2021 ? Proenligne prend le relais :\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Chauffagiste"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "Préparé par la tâche du 31/10 ; programmé à la main le 31/10 via le connecteur personnalisé (bug #2278 du connecteur officiel)."
+}

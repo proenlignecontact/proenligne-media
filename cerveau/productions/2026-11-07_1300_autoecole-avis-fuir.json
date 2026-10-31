@@ -1,0 +1,47 @@
+{
+ "id": "2026-11-07_1300_autoecole-avis-fuir",
+ "date_paris": "2026-11-07",
+ "heure_paris": "13:00",
+ "jour_semaine": "samedi",
+ "creneau": "visuel",
+ "metier": "autoecole",
+ "angle": "peur-de-perdre",
+ "format": "avant-apres",
+ "ton": "constat",
+ "symptome": "avis-negatif-seul",
+ "offre": "essai",
+ "accroche": "Un avis sans réponse sur votre fiche Google fait fuir les futurs élèves.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#AutoEcole",
+  "#Commerce",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "image",
+  "fichiers": [
+   "medias/2026-11-07/visuel-autoecole.png"
+  ],
+  "postiz": [
+   "https://media.glidy.uk/xf1BWDLilO.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "instagram",
+   "postiz_id": "cmvwvbgl1001gkb7zgo4wt85e",
+   "caracteres": 531,
+   "texte": "Un avis sans réponse sur votre fiche Google fait fuir les futurs élèves.\n\nAvant de s'inscrire, on cherche « auto-école » sur Google et on lit chaque fiche Google : notes, avis, réponses.\n\n2 avis négatifs sans réponse, et les parents passent à l'auto-école d'à côté.\n\nAvec Proenligne :\n\n✅ Une réponse à chaque avis\n✅ Vous validez celles aux avis négatifs\n✅ Une photo le lundi, une publication le jeudi\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #AutoEcole #Commerce"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvwvbgm5001hkb7zgkrmyvsn",
+   "caracteres": 521,
+   "texte": "Un avis sans réponse sur votre fiche Google fait fuir les futurs élèves.\n\nAvant de s'inscrire, on cherche « auto-école » sur Google et on lit chaque fiche Google : notes, avis, réponses.\n\n2 avis négatifs sans réponse, et les parents passent à l'auto-école d'à côté.\n\nAvec Proenligne :\n\n✅ Une réponse à chaque avis\n✅ Vous validez celles aux avis négatifs\n✅ Une photo le lundi, une publication le jeudi\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #AutoEcole"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "Préparé par la tâche du 31/10 ; programmé à la main le 31/10 via le connecteur personnalisé (bug #2278 du connecteur officiel)."
+}

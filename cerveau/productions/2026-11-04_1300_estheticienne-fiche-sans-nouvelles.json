@@ -1,0 +1,47 @@
+{
+ "id": "2026-11-04_1300_estheticienne-fiche-sans-nouvelles",
+ "date_paris": "2026-11-04",
+ "heure_paris": "13:00",
+ "jour_semaine": "mercredi",
+ "creneau": "visuel",
+ "metier": "estheticienne",
+ "angle": "peur-de-perdre",
+ "format": "avant-apres",
+ "ton": "question",
+ "symptome": "aucune-publication",
+ "offre": "essai",
+ "accroche": "Une fiche Google sans nouvelles ? Elle réserve ailleurs.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Commerce",
+  "#Estheticienne",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "image",
+  "fichiers": [
+   "medias/2026-11-04/visuel-estheticienne.png"
+  ],
+  "postiz": [
+   "https://media.glidy.uk/iIUgF3FiD2.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "instagram",
+   "postiz_id": "cmvwva10t0011kb7zfeqlur0c",
+   "caracteres": 538,
+   "texte": "Une fiche Google sans nouvelles ? Elle réserve ailleurs.\n\nQuand une cliente cherche « esthéticienne » sur Google Maps, elle voit des fiches Google : photos, avis, horaires. Elle choisit celle qui a l'air vivante.\n\nAucune publication depuis 2021, et votre institut semble endormi.\n\nProenligne publie pour vous :\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Estheticienne #Commerce"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvwva11t0012kb7zwrus0yli",
+   "caracteres": 528,
+   "texte": "Une fiche Google sans nouvelles ? Elle réserve ailleurs.\n\nQuand une cliente cherche « esthéticienne » sur Google Maps, elle voit des fiches Google : photos, avis, horaires. Elle choisit celle qui a l'air vivante.\n\nAucune publication depuis 2021, et votre institut semble endormi.\n\nProenligne publie pour vous :\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Estheticienne"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "Préparé par la tâche du 31/10 ; programmé à la main le 31/10 via le connecteur personnalisé (bug #2278 du connecteur officiel)."
+}

@@ -1,0 +1,47 @@
+{
+ "id": "2026-11-05_1300_preuve-plombier-x3-appels",
+ "date_paris": "2026-11-05",
+ "heure_paris": "13:00",
+ "jour_semaine": "jeudi",
+ "creneau": "visuel",
+ "metier": "plombier",
+ "angle": "preuve",
+ "format": "avant-apres",
+ "ton": "constat",
+ "symptome": "aucune-publication",
+ "offre": "essai",
+ "accroche": "Un de nos clients plombiers : ×3 appels venus de sa fiche Google en un semestre.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Artisan",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#Plombier",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "image",
+  "fichiers": [
+   "medias/2026-11-05/visuel-plombier.png"
+  ],
+  "postiz": [
+   "https://media.glidy.uk/UzqoOxhSPt.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "instagram",
+   "postiz_id": "cmvwvahwf0016kb7zusi1iufm",
+   "caracteres": 489,
+   "texte": "Un de nos clients plombiers : ×3 appels venus de sa fiche Google en un semestre.\n\nSa fiche Google, c'est ce qui s'affiche quand on cherche « plombier » sur Google ou Google Maps : photos, avis, téléphone.\n\nCe qui a changé : elle vit chaque semaine.\n\nAvec Proenligne :\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Plombier #Artisan"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvwvahxc0017kb7z1ufsf0hd",
+   "caracteres": 480,
+   "texte": "Un de nos clients plombiers : ×3 appels venus de sa fiche Google en un semestre.\n\nSa fiche Google, c'est ce qui s'affiche quand on cherche « plombier » sur Google ou Google Maps : photos, avis, téléphone.\n\nCe qui a changé : elle vit chaque semaine.\n\nAvec Proenligne :\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Plombier"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "Préparé par la tâche du 31/10 ; programmé à la main le 31/10 via le connecteur personnalisé (bug #2278 du connecteur officiel)."
+}

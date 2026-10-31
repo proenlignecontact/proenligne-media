@@ -1,0 +1,55 @@
+{
+ "id": "2026-11-08_1900_macon-fiche-de-demain",
+ "date_paris": "2026-11-08",
+ "heure_paris": "19:00",
+ "jour_semaine": "dimanche",
+ "creneau": "video",
+ "metier": "macon",
+ "angle": "gain-de-temps",
+ "format": "journee",
+ "ton": "scene",
+ "symptome": "fiche-oubliee",
+ "offre": "essai",
+ "accroche": "Il est 20 h. Vous rentrez du chantier. Votre fiche Google attend encore.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Artisan",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#Macon",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [
+   "medias/2026-11-08/video-macon-fiche-de-demain-vertical.mp4",
+   "medias/2026-11-08/video-macon-fiche-de-demain-horizontal.mp4"
+  ],
+  "postiz": [
+   "https://media.glidy.uk/a5OQrnDKiG.mp4",
+   "https://media.glidy.uk/CBohAB3u7H.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmvwvbz36001nkb7zvgap4bmb",
+   "caracteres": 279,
+   "texte": "Il est 20 h. Vous rentrez du chantier. Votre fiche Google attend encore.\n\nVotre fiche Google, c'est ce qu'on voit en cherchant « maçon » sur Google Maps.\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Macon #Artisan"
+  },
+  {
+   "canal": "instagram",
+   "postiz_id": "cmvwvbz4x001okb7zungzdqgn",
+   "caracteres": 535,
+   "texte": "Il est 20 h. Vous rentrez du chantier. Votre fiche Google attend encore. Le soir, la fiche Google finit en bas de la liste.\n\nVotre fiche Google, c'est ce que vos clients retrouvent sur Google ou Google Maps quand ils cherchent un maçon, même ceux qui vous connaissent. Si elle n'a pas bougé depuis 2021, ils doutent.\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Macon #Artisan"
+  },
+  {
+   "canal": "youtube",
+   "postiz_id": "cmvwvbz66001pkb7z9i1po1ls",
+   "caracteres": 535,
+   "texte": "Il est 20 h. Vous rentrez du chantier. Votre fiche Google attend encore. Le soir, la fiche Google finit en bas de la liste.\n\nVotre fiche Google, c'est ce que vos clients retrouvent sur Google ou Google Maps quand ils cherchent un maçon, même ceux qui vous connaissent. Si elle n'a pas bougé depuis 2021, ils doutent.\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Macon #Artisan"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "Préparé par la tâche du 31/10 ; programmé à la main le 31/10 via le connecteur personnalisé (bug #2278 du connecteur officiel). Pub vidéo du skill : macon-fiche-de-demain."
+}
