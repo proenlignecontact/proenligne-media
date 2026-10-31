@@ -53,12 +53,31 @@ Règles :
 ```
 Champs absents = inconnus (pas zéro). Le format exact sera adapté à l'API de stats une fois disponible (voir `suivi/api-stats.md`).
 
+## Outils
+
+| Script | Rôle |
+|---|---|
+| `outils/heure_utc.py <lundi>` | Grille des 21 créneaux de la semaine avec l'heure UTC exacte (heure d'été gérée). |
+| `cerveau/verifier.py suivi/plan/<lundi>.json` | **Avant programmation** : règles « fiche Google » et « gratuit sans prix », vocabulaire fermé, canaux et heures de la grille, longueurs X / titres, rotation des métiers et formats, ressemblance des accroches (≥ 40 % de mots communs) avec le plan et avec toutes les fiches existantes. Code 1 tant que ce n'est pas « plan OK ». |
+| `cerveau/fiche.py <plan.json> <ids.json>` | **Après programmation** : écrit les fiches à partir du plan et des postiz_id. Une fiche déjà présente pour le même créneau est complétée, jamais dupliquée. |
+| `cerveau/convertir_stats.py` | Relevé brut → relevé converti. |
+| `cerveau/analyse.py --sortie cerveau/analyses/<date>.md` | Rapport : comptes, médianes par canal, verdicts par dimension. |
+
+Le plan (`suivi/plan/<lundi>.json`) est la source unique du lot : le vérificateur, la programmation et les fiches s'appuient dessus. Format en tête de `cerveau/verifier.py`.
+
 ## Décider
 
-`python3 cerveau/analyse.py` produit, pour chaque dimension (métier, angle, format, ton, offre, créneau, jour, heure, canal) :
-le nombre de posts mesurés, les vues médianes et le taux d'engagement moyen ((likes + commentaires + partages + enregistrements) / vues).
+`python3 cerveau/analyse.py` produit, pour chaque dimension (canal, créneau, angle, format, métier, ton, symptôme, jour) :
+le nombre de publications mesurées, l'audience médiane (vues, ou portée en secours), le taux d'engagement moyen
+((likes + commentaires + partages + enregistrements) / audience) et un **indice normalisé par canal** (1,0 = médiane du canal).
+Les verdicts se lisent sur l'indice : ≥ 1,2 « à renforcer », ≤ 0,8 « à réduire ».
+
+Ce que les stats ne voient pas : X et Facebook texte ne renvoient rien par post. Le créneau texte de 06:30 se pilote donc
+sur la section « Comptes » (abonnés, impressions de page) et sur le bon sens éditorial, pas sur un taux par post.
 
 Règles de décision appliquées par la tâche hebdomadaire :
-- Une valeur ne compte que si elle a **au moins 5 posts mesurés** et des stats relevées **au moins 48 h** après publication.
-- **70 / 30** : 70 % des créneaux sur ce qui marche (valeurs au-dessus de la médiane), 30 % en exploration (valeurs peu testées ou nouvelles), pour ne pas s'enfermer.
+- Une valeur ne compte que si elle a **au moins 5 publications mesurées** (relevé ≥ 48 h après publication).
+- **Démarrage** : tant que moins de 30 publications sont mesurées au total, exploration à **50 / 50** (le rapport le signale).
+- Ensuite **70 / 30** : 70 % des créneaux sur ce qui marche (indice > 1), 30 % en exploration (valeurs peu testées), pour ne pas s'enfermer.
+- Les dimensions larges (canal, créneau, angle, jour) atteignent le seuil en 2 à 3 semaines ; métier en un mois ; ton et symptôme beaucoup plus tard. Ne pas forcer une décision sur une dimension qui n'a pas le seuil.
 - Chaque décision est écrite dans `decisions.md` avec le chiffre qui la justifie.
