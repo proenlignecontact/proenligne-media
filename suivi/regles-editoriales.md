@@ -28,6 +28,10 @@ Le public (artisans, commerçants) ne sait pas ce qu'est « la fiche ». Il faut
 **Heure UTC à passer à Postiz** : Paris = UTC+1 en heure d'hiver (jusqu'au 28 mars 2027), UTC+2 en heure d'été.
 Exemple en hiver : 06:30 → 05:30 UTC, 13:00 → 12:00 UTC, 19:00 → 18:00 UTC.
 
+## Connecteur Postiz
+
+Toujours le connecteur personnalisé « postiz » (outils `mcp__postiz__*`, en minuscules), branché directement sur l'instance. Le connecteur officiel (`mcp__Postiz__*`) passe par le relais de Postiz Cloud, qui refuse toute pièce jointe hors `uploads.postiz.com` (bug gitroomhq/postiz-app #2278).
+
 ## Identifiants des canaux Postiz
 
 | Canal | integrationId |

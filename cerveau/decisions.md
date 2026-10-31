@@ -24,3 +24,4 @@ Chaque lot hebdomadaire ajoute ici ses décisions, avec le chiffre qui les justi
 - **« mois » banni des textes publiés** : la preuve s'écrit « en un semestre » dans les textes (la vidéo et les visuels gardent « 6 mois », chiffre autorisé).
 - **Comptes** (relevé du 31/10) : TikTok 87 vues compte, 0 abonné ; Facebook 40 vues de médias, 5 impressions ; YouTube 1 like. Trop faible pour orienter les plateformes.
 - **Postiz** : les pièces jointes sont refusées (« URL must contain the domain: uploads.postiz.com »). Seuls les textes de 06:30 sont programmés ; les visuels et vidéos attendent dans `suivi/a-programmer/2026-11-02.json`.
+- **Résolu le 31/10 à 21h45** : le refus venait du connecteur Postiz officiel (bug #2278). Programmation via le connecteur personnalisé « postiz » (outils `mcp__postiz__*`) ; les 35 posts avec médias sont programmés et la tâche hebdomadaire a été recréée avec ce connecteur.
