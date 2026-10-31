@@ -1,0 +1,128 @@
+[
+ {
+  "date": "2026-10-31",
+  "produit": "chauffagiste-camion-inconnu",
+  "slug": "chauffagiste-camion-inconnu",
+  "metier": "chauffagiste",
+  "angle": "gain de temps",
+  "scene": "fiche",
+  "symptome": "devanture-introuvable",
+  "contexte": "fin de journée, l'artisan rentre et la fiche passe encore après tout le reste",
+  "client": "un voisin qui a eu une mauvaise expérience ailleurs",
+  "ton": "constat qui pique, en une phrase",
+  "probleme": "Un voisin échaudé par un autre chauffagiste cherche sur Google : la fiche Google de Chauffage Weber ne montre ni le camion ni l'atelier, il ne sait pas à qui il ouvrira, et l'artisan, rentré tard du chantier, n'a jamais eu le temps d'en ajouter.",
+  "accroches": [
+   "Sur votre fiche Google, aucune photo de votre camion. Le client ne sait pas qui va sonner.",
+   "Votre fiche Google ne montre ni votre atelier ni votre camion. Le client hésite à ouvrir."
+  ],
+  "suite": "Une fiche Google sans visage, on la passe."
+ },
+ {
+  "date": "2026-10-31",
+  "produit": "garage-avis-en-tete",
+  "slug": "garage-avis-en-tete",
+  "metier": "garage",
+  "angle": "peur de perdre",
+  "scene": "avis",
+  "symptome": "avis-negatif-seul",
+  "contexte": "un nouvel arrivant dans le quartier cherche ses adresses",
+  "client": "un couple qui vient d'emménager",
+  "ton": "constat qui pique, en une phrase",
+  "probleme": "Un couple qui vient d'emménager cherche un garage sur Google Maps : sur la fiche Google du Garage Weber, le premier avis lu est un 2 étoiles sans réponse, et ils passent au garage suivant.",
+  "accroches": [
+   "Sur votre fiche Google, le premier avis lu est un 2 étoiles. Sans réponse.",
+   "Nouveaux voisins, première recherche Google : votre 2 étoiles, toujours sans réponse."
+  ],
+  "suite": "Sur une fiche Google, le silence se lit aussi."
+ },
+ {
+  "date": "2026-10-31",
+  "produit": "autoecole-facade-introuvable",
+  "slug": "autoecole-facade-introuvable",
+  "metier": "autoecole",
+  "angle": "peur de perdre",
+  "scene": "fiche",
+  "symptome": "devanture-introuvable",
+  "contexte": "début de saison haute pour ce métier (hiver, printemps, rentrée, fêtes)",
+  "client": "un voisin qui a eu une mauvaise expérience ailleurs",
+  "ton": "réplique de client, entre guillemets",
+  "probleme": "À la rentrée, une mère et son fils comparent les auto-écoles sur Google : la fiche Google de l'Auto-école Weber n'a aucune photo de la façade ni des voitures, et elle lâche « On ne sait même pas où c'est ».",
+  "accroches": [
+   "« C'est où, cette auto-école ? » Votre fiche Google ne montre pas votre façade.",
+   "« Elles ressemblent à quoi, les voitures ? » Votre fiche Google n'en dit rien."
+  ],
+  "suite": "Une fiche Google sans façade, on ne la trouve pas."
+ },
+ {
+  "date": "2026-10-31",
+  "produit": "coiffeur-salon-muet",
+  "slug": "coiffeur-salon-muet",
+  "metier": "coiffeur",
+  "angle": "preuve",
+  "scene": "recherche",
+  "symptome": "note-sans-contexte",
+  "contexte": "l'entreprise vient d'être créée et personne ne la connaît encore",
+  "client": "un retraité qui lit tout avant d'appeler",
+  "ton": "question directe au spectateur",
+  "probleme": "Un retraité qui lit tout avant d'appeler cherche un coiffeur sur Google : le Salon Weber a une bonne note mais aucune photo ni publication depuis 2021, il se demande si le salon existe encore et réserve chez le suivant.",
+  "accroches": [
+   "Une bonne note, mais rien de neuf sur votre fiche Google. Êtes-vous encore ouvert ?",
+   "Votre fiche Google n'a rien publié depuis 2021. Vos clients savent-ils que vous coiffez ?"
+  ],
+  "suite": "Une fiche Google muette, ça semble fermé."
+ },
+ {
+  "date": "2026-10-31",
+  "produit": "estheticienne-questions-du-samedi",
+  "slug": "estheticienne-questions-du-samedi",
+  "metier": "estheticienne",
+  "angle": "preuve",
+  "scene": "avis",
+  "symptome": "questions-sans-reponse",
+  "contexte": "le week-end, un client compare tranquillement depuis son canapé",
+  "client": "un voisin qui a eu une mauvaise expérience ailleurs",
+  "ton": "« pendant que vous… »",
+  "probleme": "Le week-end, depuis son canapé, une cliente déçue par un autre institut lit la fiche Google de l'Institut Weber : les avis qui posent une question restent sans réponse, et elle réserve ailleurs.",
+  "accroches": [
+   "Pendant que vous soignez vos clientes, leurs questions attendent sur votre fiche Google.",
+   "Pendant votre soin du samedi, un avis reste sans réponse sur votre fiche Google."
+  ],
+  "suite": "Sans réponse sur la fiche Google, elle réserve ailleurs."
+ },
+ {
+  "date": "2026-10-31",
+  "produit": "serrurier-avis-du-gerant",
+  "slug": "serrurier-avis-du-gerant",
+  "metier": "serrurier",
+  "angle": "gain de temps",
+  "scene": "fiche",
+  "symptome": "avis-sans-reponse",
+  "contexte": "un voisin a recommandé l'artisan, le client vérifie sur Google avant d'appeler",
+  "client": "un gérant d'entreprise qui cherche un prestataire fiable",
+  "ton": "avant / après",
+  "probleme": "Un gérant d'entreprise, à qui un voisin a recommandé Serrurerie Weber, vérifie sa fiche Google avant d'appeler pour ses locaux : 3 avis sans réponse, et il se demande si l'artisan suit vraiment ses clients.",
+  "accroches": [
+   "Un voisin vous recommande. Le gérant ouvre votre fiche Google : vos clients parlent seuls.",
+   "Avant d'appeler, le gérant ouvre votre fiche Google. Personne n'y répond à vos clients."
+  ],
+  "suite": "Une fiche Google qui ne répond pas, ça inquiète."
+ },
+ {
+  "date": "2026-10-31",
+  "produit": "macon-fiche-de-demain",
+  "slug": "macon-fiche-de-demain",
+  "metier": "macon",
+  "angle": "gain de temps",
+  "scene": "journee",
+  "symptome": "fiche-oubliee",
+  "contexte": "un client fidèle cherche le numéro et tombe sur des infos périmées",
+  "client": "une mère pressée entre deux trajets",
+  "ton": "scène vécue au présent (« Il est 20 h. … »)",
+  "probleme": "Une ancienne cliente pressée cherche Maçonnerie Weber sur Google pour un nouveau mur : la fiche Google n'a pas bougé depuis 2021, parce que le maçon repousse chaque soir la mise à jour, faute de temps.",
+  "accroches": [
+   "Il est 20 h. Vous rentrez du chantier. Votre fiche Google attend encore.",
+   "Il est 22 h. Votre fiche Google, ce sera demain. Comme hier."
+  ],
+  "suite": "Le soir, la fiche Google finit en bas de la liste."
+ }
+]
