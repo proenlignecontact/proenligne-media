@@ -8,18 +8,14 @@ GET https://postiz-stats.proenligne.fr/report?days=30
 ```
 - `days` : nombre de jours couverts par le rapport (30 par défaut ; la tâche hebdomadaire peut passer 60 pour couvrir les posts plus anciens).
 
-## Authentification
-Le jeton Bearer est stocké comme **secret réseau** (Network secret) sur l'environnement cloud, pour l'hôte `postiz-stats.proenligne.fr`.
-Le proxy d'Anthropic ajoute `Authorization: Bearer …` à la requête : appeler **sans en-tête d'authentification** :
-```
-curl -sS "https://postiz-stats.proenligne.fr/report?days=30"
-```
-Le jeton n'est jamais visible dans la session et ne doit JAMAIS apparaître dans ce dépôt public.
-- 403 au CONNECT (avant même d'atteindre l'API) : le secret réseau n'est pas déclaré pour cet hôte dans l'environnement de la session.
-- 401 / 403 renvoyé par l'API : le jeton du secret est absent, expiré ou invalide.
+## Relevé automatique (GitHub Actions)
+La session Claude n'appelle **pas** l'API elle-même. L'action `.github/workflows/releve-stats.yml` l'appelle chaque jour vers 6h17 (Paris) avec le jeton stocké dans le secret GitHub `STATS_TOKEN`, et enregistre la réponse brute dans `cerveau/stats/brut/AAAA-MM-JJ.json` (60 jours couverts).
+- Lancement manuel : onglet Actions du dépôt > « Relevé des stats » > Run workflow.
+- Le jeton n'est jamais dans le dépôt ni dans les journaux. Ne jamais l'écrire ici.
+- Si le dernier fichier de `cerveau/stats/brut/` a plus de 3 jours : l'action échoue (voir l'onglet Actions sur GitHub) ; le signaler dans le rapport.
 
 ## Format de réponse et conversion
-À compléter après le premier appel réussi. En attendant, la tâche :
-1. enregistre la réponse brute dans `cerveau/stats/brut/<date>.json` ;
+À compléter après le premier relevé réussi. En attendant, la tâche :
+1. lit le relevé brut le plus récent de `cerveau/stats/brut/` ;
 2. en déduit la correspondance avec le format de `cerveau/stats/` (postiz_id, canal, vues, likes, commentaires, partages, enregistrements, clics ; champs inconnus omis, jamais mis à zéro) ;
 3. écrit le relevé converti dans `cerveau/stats/<date>.json` et décrit la correspondance retenue ici, dans cette section.

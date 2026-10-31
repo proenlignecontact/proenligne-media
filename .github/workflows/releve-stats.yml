@@ -1,0 +1,56 @@
+# Relève chaque jour les statistiques Postiz et les enregistre dans le dépôt.
+# Le jeton vient du secret GitHub STATS_TOKEN (Settings > Secrets and variables > Actions) :
+# il n'apparaît jamais dans le dépôt ni dans les journaux.
+name: Relevé des stats
+
+on:
+  schedule:
+    - cron: "17 5 * * *"   # tous les jours vers 6h17 heure de Paris (5h17 UTC)
+  workflow_dispatch: {}      # bouton « Run workflow » pour lancer à la main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: releve-stats
+  cancel-in-progress: false
+
+jobs:
+  releve:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Appeler l'API de stats
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: |
+          if [ -z "$STATS_TOKEN" ]; then
+            echo "::error::Secret STATS_TOKEN absent : l'ajouter dans Settings > Secrets and variables > Actions"
+            exit 1
+          fi
+          mkdir -p cerveau/stats/brut
+          FICHIER="cerveau/stats/brut/$(date -u +%F).json"
+          CODE=$(curl -sS -o /tmp/report.json -w "%{http_code}" \
+            -H "Authorization: Bearer $STATS_TOKEN" \
+            "https://postiz-stats.proenligne.fr/report?days=60")
+          if [ "$CODE" != "200" ]; then
+            echo "::error::L'API a répondu HTTP $CODE"
+            head -c 500 /tmp/report.json || true
+            exit 1
+          fi
+          python3 -m json.tool /tmp/report.json > "$FICHIER"
+          echo "Relevé enregistré : $FICHIER ($(wc -c < "$FICHIER") octets)"
+
+      - name: Enregistrer dans le dépôt
+        run: |
+          git config user.name "releve-stats"
+          git config user.email "actions@users.noreply.github.com"
+          git add cerveau/stats/brut
+          if git diff --cached --quiet; then
+            echo "Rien de nouveau."
+          else
+            git commit -m "Relevé des stats du $(date -u +%F)"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
