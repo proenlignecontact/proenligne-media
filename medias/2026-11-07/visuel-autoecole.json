@@ -1,0 +1,12 @@
+{
+ "surtitre": "Avant de s'inscrire, on lit les avis sur Google.",
+ "titre": "Un avis sans réponse sur votre fiche Google fait fuir.",
+ "mot": "fait fuir",
+ "carte": {
+  "enseigne": "Auto-école Martin",
+  "metier": "Auto-école",
+  "avant": "2 avis négatifs sans réponse",
+  "apres": "Réponses validées par vous"
+ },
+ "offre": "essai"
+}
