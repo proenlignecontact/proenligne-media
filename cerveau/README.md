@@ -25,7 +25,7 @@ cerveau/
   "format": "test",                        // texte : conseil | test | constat | idee-recue | preuve ; visuel : avant-apres ; video : recherche | fiche | avis | journee | libre
   "ton": "question",                       // question | constat | scene | avant-apres | contre-intuitif | pendant-que | replique
   "symptome": "photos-anciennes",          // id de symptôme du skill (photos-anciennes, aucune-publication, avis-sans-reponse, horaires-faux…) ou null
-  "offre": "essai",                        // essai | audit | unEuro | annuel | aucune
+  "offre": "essai",                        // essai (essai gratuit, sans prix ; règle depuis le 31/10/2026) | aucune — les fiches de reprise en "essai" affichaient encore 14,99 €
   "accroche": "Tapez votre métier + votre ville sur Google. Vous êtes où ?",
   "promesse": "photo lundi, publication jeudi, réponse aux avis",
   "hashtags": ["#FicheGoogle", "#Plombier"],

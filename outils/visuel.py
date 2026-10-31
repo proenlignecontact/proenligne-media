@@ -13,7 +13,7 @@ brief.json :
     "avant": "Dernière photo : il y a 2 ans",          # ≤ 34 car., ligne ambre (le problème)
     "apres": "Nouvelle photo publiée lundi"            # ≤ 34 car., ligne verte (Proenligne)
   },
-  "offre": "essai"                                     # essai | audit | unEuro | annuel
+  "offre": "essai"                                     # toujours "essai" : « Essayez gratuitement », aucun prix
 }
 Format : 1080 × 1350 (4:5), accepté par Instagram et Facebook.
 """
@@ -22,11 +22,8 @@ import base64, html, json, os, sys
 ICI = os.path.dirname(os.path.abspath(__file__))
 A = os.path.join(ICI, 'assets')
 
-OFFRES = {
-    'essai': ('Essayez dès 14,99 €/mois', 'Sans engagement'),
-    'audit': ('Audit gratuit de votre fiche', 'Puis dès 14,99 €/mois'),
-    'unEuro': ('Premier mois à 1 €', 'Puis 14,99 €/mois'),
-    'annuel': ('99,99 € par an', 'Soit 8,33 €/mois'),
+OFFRES = {  # règle actuelle : essai gratuit, aucun prix ; les anciennes clés restent acceptées
+    k: ('Essayez gratuitement', 'Sans engagement') for k in ('essai', 'audit', 'unEuro', 'annuel')
 }
 LIMITES = {'surtitre': 60, 'titre': 60}
 
@@ -47,6 +44,9 @@ def verifier(b):
             err.append(f'carte.{k} > 34 caractères')
     if b.get('offre', 'essai') not in OFFRES:
         err.append('offre inconnue')
+    texte = ' '.join([b.get('surtitre', ''), b.get('titre', '')] + list(b['carte'].values()))
+    if '€' in texte or 'euro' in texte.lower():
+        err.append('aucun prix ne doit apparaître (règle : essai gratuit, sans prix)')
     if 'google' not in (b.get('surtitre', '') + ' ' + b.get('titre', '')).lower():
         err.append('le surtitre ou le titre doit dire « fiche Google » (règle n°1)')
     return err

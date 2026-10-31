@@ -72,9 +72,9 @@ Ne pas utiliser deux fois le même format le même jour, ni le même format deux
 ## Règles de contenu (non négociables, reprises du skill)
 
 - **Aucun client réel** : ni nom d'entreprise, ni prénom, ni ville, ni avis recopié. Enseignes fictives : métier + Weber, Martin, Durand, Bernard ou Petit. Prénoms : ceux du skill.
-- **Chiffres autorisés uniquement** : 14,99 · 99,99 · 8,33 · 50 · 3 · ×3 · 100 · 6 · 5 · 2 · 1 · 2021 · 4 · 20 · 22 · 23 · 30. Pas d'heure, de pourcentage ni de prix inventés.
+- **Chiffres autorisés uniquement** : 3 · ×3 · 100 · 6 · 5 · 2 · 1 · 2021 · 4 · 20 · 22 · 23 · 30. Pas d'heure, de pourcentage ni de montant inventés.
 - **Promesses** : Proenligne publie une photo le lundi, une publication le jeudi, répond à chaque avis, fait valider les réponses aux avis négatifs. Rien d'autre.
-- **Offres** : `essai` (dès 14,99 €/mois, sans engagement) par défaut ; `audit`, `unEuro` en variation (1 à 2 fois par semaine) ; `annuel` (99,99 €/an) pour le Black Friday, le 27 novembre.
+- **Offre unique : l'essai gratuit, sans aucun prix.** Appel à l'action : « Essayez gratuitement » / « Essayez Proenligne gratuitement », éventuellement « sans engagement ». Jamais de montant, de « € », de « par mois », de « centimes par jour » ni de comparaison de prix, dans aucun texte, visuel ou vidéo.
 - Hashtags de base : #FicheGoogle #GoogleBusinessProfile #ReferencementLocal, plus le hashtag du métier.
 
 ## Variété sur la semaine
