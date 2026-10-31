@@ -1,0 +1,411 @@
+{
+ "_lisezmoi": "Créneaux de la semaine du 2/11/2026 prêts mais NON programmés : Postiz refusait les pièces jointes (« URL must contain the domain: uploads.postiz.com ») puis a demandé une nouvelle connexion. À programmer tels quels une fois corrigé (dates UTC, Paris = UTC+1). Créer ensuite la fiche cerveau/productions/ de chaque créneau.",
+ "creneaux": [
+  {
+   "date": "2026-11-02",
+   "heure": "13:00",
+   "creneau": "visuel",
+   "metier": "serrurier",
+   "format": "avant-apres",
+   "angle": "peur-de-perdre",
+   "ton": "scene",
+   "symptome": "avis-sans-reponse",
+   "accroche": "Porte claquée : on cherche « serrurier » sur Google, et on choisit une fiche Google.",
+   "slug": "serrurier-porte-claquee-avis",
+   "heure_utc": "12:00:00",
+   "textes": {
+    "facebook": "Porte claquée : on cherche « serrurier » sur Google, et on choisit une fiche Google.\n\nUne fiche Google, c'est ce qui s'affiche sur Google et Google Maps quand on cherche votre métier : nom, photos, avis, téléphone.\n\nDans l'urgence, on lit vite. 3 avis sans réponse, et on appelle le suivant.\n\nProenligne s'en charge pour vous :\n\n✅ Une réponse à chaque avis\n✅ Vous validez celles aux avis négatifs\n✅ Une photo le lundi, une publication le jeudi\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Serrurier",
+    "instagram": "Porte claquée : on cherche « serrurier » sur Google, et on choisit une fiche Google.\n\nUne fiche Google, c'est ce qui s'affiche sur Google et Google Maps quand on cherche votre métier : nom, photos, avis, téléphone.\n\nDans l'urgence, on lit vite. 3 avis sans réponse, et on appelle le suivant.\n\nProenligne s'en charge pour vous :\n\n✅ Une réponse à chaque avis\n✅ Vous validez celles aux avis négatifs\n✅ Une photo le lundi, une publication le jeudi\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Serrurier #Artisan"
+   },
+   "media": {
+    "postiz": "https://media.glidy.uk/8aOz5pISYN.png",
+    "depot": "medias/2026-11-02/visuel-serrurier.png"
+   }
+  },
+  {
+   "date": "2026-11-02",
+   "heure": "19:00",
+   "creneau": "video",
+   "metier": "chauffagiste",
+   "format": "fiche",
+   "angle": "gain-de-temps",
+   "ton": "constat",
+   "symptome": "devanture-introuvable",
+   "accroche": "Sur votre fiche Google, aucune photo de votre camion. Le client ne sait pas qui va sonner.",
+   "slug": "chauffagiste-camion-inconnu",
+   "heure_utc": "18:00:00",
+   "textes": {
+    "tiktok": "Sur votre fiche Google, aucune photo de votre camion. Le client ne sait pas qui va sonner.\n\nVotre fiche Google, c'est ce qu'on voit en cherchant « chauffagiste » sur Google Maps.\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Chauffagiste #Artisan",
+    "instagram": "Sur votre fiche Google, aucune photo de votre camion. Le client ne sait pas qui va sonner. Une fiche Google sans visage, on la passe.\n\nQuand on cherche un chauffagiste sur Google ou Google Maps, on voit d'abord sa fiche Google : nom, photos, avis. Sans photo de votre camion ni de votre atelier, le client ne sait pas à qui il ouvrira.\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Chauffagiste #Artisan",
+    "youtube": "Sur votre fiche Google, aucune photo de votre camion. Le client ne sait pas qui va sonner. Une fiche Google sans visage, on la passe.\n\nQuand on cherche un chauffagiste sur Google ou Google Maps, on voit d'abord sa fiche Google : nom, photos, avis. Sans photo de votre camion ni de votre atelier, le client ne sait pas à qui il ouvrira.\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Chauffagiste #Artisan"
+   },
+   "pub": "chauffagiste-camion-inconnu",
+   "media": {
+    "vertical": "https://raw.githubusercontent.com/proenlignecontact/proenligne-media/main/medias/2026-11-02/video-chauffagiste-camion-inconnu-vertical.mp4",
+    "horizontal": "https://raw.githubusercontent.com/proenlignecontact/proenligne-media/main/medias/2026-11-02/video-chauffagiste-camion-inconnu-horizontal.mp4",
+    "postiz": "à importer"
+   },
+   "youtube_title": "Sur votre fiche Google, aucune photo de votre camion. Le client ne sait pas qui va sonner.",
+   "tiktok_title": "Sur votre fiche Google, aucune photo de votre camion. Le client ne sait pas qui va sonner.",
+   "reglages_tiktok": {
+    "content_posting_method": "DIRECT_POST",
+    "privacy_level": "PUBLIC_TO_EVERYONE",
+    "duet": false,
+    "stitch": false,
+    "comment": true,
+    "autoAddMusic": "no",
+    "brand_content_toggle": false,
+    "brand_organic_toggle": false,
+    "video_made_with_ai": false
+   }
+  },
+  {
+   "date": "2026-11-03",
+   "heure": "13:00",
+   "creneau": "visuel",
+   "metier": "boulangerie",
+   "format": "avant-apres",
+   "angle": "gain-de-temps",
+   "ton": "constat",
+   "symptome": "photos-anciennes",
+   "accroche": "Votre fiche Google, c'est votre vitrine sur Google Maps.",
+   "slug": "boulangerie-vitrine-google",
+   "heure_utc": "12:00:00",
+   "textes": {
+    "facebook": "Votre fiche Google, c'est votre vitrine sur Google Maps.\n\nQuand on cherche « boulangerie » sur Google ou Google Maps, c'est elle qui s'affiche : photos, avis, horaires.\n\nVos fournées changent tous les jours. Sur votre fiche Google, la dernière photo date de 2 ans ?\n\nProenligne la fait vivre, sans que vous y pensiez :\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Boulangerie",
+    "instagram": "Votre fiche Google, c'est votre vitrine sur Google Maps.\n\nQuand on cherche « boulangerie » sur Google ou Google Maps, c'est elle qui s'affiche : photos, avis, horaires.\n\nVos fournées changent tous les jours. Sur votre fiche Google, la dernière photo date de 2 ans ?\n\nProenligne la fait vivre, sans que vous y pensiez :\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Boulangerie #Commerce"
+   },
+   "media": {
+    "postiz": "https://media.glidy.uk/A885TcJVAI.png",
+    "depot": "medias/2026-11-03/visuel-boulangerie.png"
+   }
+  },
+  {
+   "date": "2026-11-03",
+   "heure": "19:00",
+   "creneau": "video",
+   "metier": "garage",
+   "format": "avis",
+   "angle": "peur-de-perdre",
+   "ton": "constat",
+   "symptome": "avis-negatif-seul",
+   "accroche": "Sur votre fiche Google, le premier avis lu est un 2 étoiles. Sans réponse.",
+   "slug": "garage-avis-en-tete",
+   "heure_utc": "18:00:00",
+   "textes": {
+    "tiktok": "Sur votre fiche Google, le premier avis lu est un 2 étoiles. Sans réponse.\n\nVotre fiche Google, c'est ce qu'on voit en cherchant « garage » sur Google Maps.\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Garage #Commerce",
+    "instagram": "Sur votre fiche Google, le premier avis lu est un 2 étoiles. Sans réponse. Sur une fiche Google, le silence se lit aussi.\n\nVotre fiche Google, c'est ce que voient les nouveaux arrivants quand ils cherchent un garage sur Google Maps. Un avis négatif sans réponse en haut, et ils appellent le garage d'à côté.\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Garage #Commerce",
+    "youtube": "Sur votre fiche Google, le premier avis lu est un 2 étoiles. Sans réponse. Sur une fiche Google, le silence se lit aussi.\n\nVotre fiche Google, c'est ce que voient les nouveaux arrivants quand ils cherchent un garage sur Google Maps. Un avis négatif sans réponse en haut, et ils appellent le garage d'à côté.\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Garage #Commerce"
+   },
+   "pub": "garage-avis-en-tete",
+   "media": {
+    "vertical": "https://raw.githubusercontent.com/proenlignecontact/proenligne-media/main/medias/2026-11-03/video-garage-avis-en-tete-vertical.mp4",
+    "horizontal": "https://raw.githubusercontent.com/proenlignecontact/proenligne-media/main/medias/2026-11-03/video-garage-avis-en-tete-horizontal.mp4",
+    "postiz": "à importer"
+   },
+   "youtube_title": "Sur votre fiche Google, le premier avis lu est un 2 étoiles. Sans réponse.",
+   "tiktok_title": "Sur votre fiche Google, le premier avis lu est un 2 étoiles. Sans réponse.",
+   "reglages_tiktok": {
+    "content_posting_method": "DIRECT_POST",
+    "privacy_level": "PUBLIC_TO_EVERYONE",
+    "duet": false,
+    "stitch": false,
+    "comment": true,
+    "autoAddMusic": "no",
+    "brand_content_toggle": false,
+    "brand_organic_toggle": false,
+    "video_made_with_ai": false
+   }
+  },
+  {
+   "date": "2026-11-04",
+   "heure": "13:00",
+   "creneau": "visuel",
+   "metier": "estheticienne",
+   "format": "avant-apres",
+   "angle": "peur-de-perdre",
+   "ton": "question",
+   "symptome": "aucune-publication",
+   "accroche": "Une fiche Google sans nouvelles ? Elle réserve ailleurs.",
+   "slug": "estheticienne-fiche-sans-nouvelles",
+   "heure_utc": "12:00:00",
+   "textes": {
+    "facebook": "Une fiche Google sans nouvelles ? Elle réserve ailleurs.\n\nQuand une cliente cherche « esthéticienne » sur Google Maps, elle voit des fiches Google : photos, avis, horaires. Elle choisit celle qui a l'air vivante.\n\nAucune publication depuis 2021, et votre institut semble endormi.\n\nProenligne publie pour vous :\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Estheticienne",
+    "instagram": "Une fiche Google sans nouvelles ? Elle réserve ailleurs.\n\nQuand une cliente cherche « esthéticienne » sur Google Maps, elle voit des fiches Google : photos, avis, horaires. Elle choisit celle qui a l'air vivante.\n\nAucune publication depuis 2021, et votre institut semble endormi.\n\nProenligne publie pour vous :\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Estheticienne #Commerce"
+   },
+   "media": {
+    "postiz": "https://media.glidy.uk/iIUgF3FiD2.png",
+    "depot": "medias/2026-11-04/visuel-estheticienne.png"
+   }
+  },
+  {
+   "date": "2026-11-04",
+   "heure": "19:00",
+   "creneau": "video",
+   "metier": "autoecole",
+   "format": "fiche",
+   "angle": "peur-de-perdre",
+   "ton": "replique",
+   "symptome": "devanture-introuvable",
+   "accroche": "« C'est où, cette auto-école ? » Votre fiche Google ne montre pas votre façade.",
+   "slug": "autoecole-facade-introuvable",
+   "heure_utc": "18:00:00",
+   "textes": {
+    "tiktok": "« C'est où, cette auto-école ? » Votre fiche Google ne montre pas votre façade.\n\nVotre fiche Google, c'est ce qu'on voit en cherchant « auto-école » sur Google Maps.\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #AutoEcole #Commerce",
+    "instagram": "« C'est où, cette auto-école ? » Votre fiche Google ne montre pas votre façade. Une fiche Google sans façade, on ne la trouve pas.\n\nQuand on cherche une auto-école sur Google ou Google Maps, sa fiche Google s'affiche : photos, avis, horaires. Sans photo de la façade ni des voitures, les familles hésitent et choisissent celle qu'elles reconnaissent.\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #AutoEcole #Commerce",
+    "youtube": "« C'est où, cette auto-école ? » Votre fiche Google ne montre pas votre façade. Une fiche Google sans façade, on ne la trouve pas.\n\nQuand on cherche une auto-école sur Google ou Google Maps, sa fiche Google s'affiche : photos, avis, horaires. Sans photo de la façade ni des voitures, les familles hésitent et choisissent celle qu'elles reconnaissent.\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #AutoEcole #Commerce"
+   },
+   "pub": "autoecole-facade-introuvable",
+   "media": {
+    "vertical": "https://raw.githubusercontent.com/proenlignecontact/proenligne-media/main/medias/2026-11-04/video-autoecole-facade-introuvable-vertical.mp4",
+    "horizontal": "https://raw.githubusercontent.com/proenlignecontact/proenligne-media/main/medias/2026-11-04/video-autoecole-facade-introuvable-horizontal.mp4",
+    "postiz": "à importer"
+   },
+   "youtube_title": "« C'est où, cette auto-école ? » Votre fiche Google ne montre pas votre façade.",
+   "tiktok_title": "« C'est où, cette auto-école ? » Votre fiche Google ne montre pas votre façade.",
+   "reglages_tiktok": {
+    "content_posting_method": "DIRECT_POST",
+    "privacy_level": "PUBLIC_TO_EVERYONE",
+    "duet": false,
+    "stitch": false,
+    "comment": true,
+    "autoAddMusic": "no",
+    "brand_content_toggle": false,
+    "brand_organic_toggle": false,
+    "video_made_with_ai": false
+   }
+  },
+  {
+   "date": "2026-11-05",
+   "heure": "13:00",
+   "creneau": "visuel",
+   "metier": "plombier",
+   "format": "avant-apres",
+   "angle": "preuve",
+   "ton": "constat",
+   "symptome": "aucune-publication",
+   "accroche": "Un de nos clients plombiers : ×3 appels venus de sa fiche Google en un semestre.",
+   "slug": "preuve-plombier-x3-appels",
+   "heure_utc": "12:00:00",
+   "textes": {
+    "facebook": "Un de nos clients plombiers : ×3 appels venus de sa fiche Google en un semestre.\n\nSa fiche Google, c'est ce qui s'affiche quand on cherche « plombier » sur Google ou Google Maps : photos, avis, téléphone.\n\nCe qui a changé : elle vit chaque semaine.\n\nAvec Proenligne :\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Plombier",
+    "instagram": "Un de nos clients plombiers : ×3 appels venus de sa fiche Google en un semestre.\n\nSa fiche Google, c'est ce qui s'affiche quand on cherche « plombier » sur Google ou Google Maps : photos, avis, téléphone.\n\nCe qui a changé : elle vit chaque semaine.\n\nAvec Proenligne :\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Plombier #Artisan"
+   },
+   "media": {
+    "postiz": "https://media.glidy.uk/UzqoOxhSPt.png",
+    "depot": "medias/2026-11-05/visuel-plombier.png"
+   }
+  },
+  {
+   "date": "2026-11-05",
+   "heure": "19:00",
+   "creneau": "video",
+   "metier": "coiffeur",
+   "format": "recherche",
+   "angle": "preuve",
+   "ton": "question",
+   "symptome": "note-sans-contexte",
+   "accroche": "Une bonne note, mais rien de neuf sur votre fiche Google. Êtes-vous encore ouvert ?",
+   "slug": "coiffeur-salon-muet",
+   "heure_utc": "18:00:00",
+   "textes": {
+    "tiktok": "Une bonne note, mais rien de neuf sur votre fiche Google. Êtes-vous encore ouvert ?\n\nVotre fiche Google, c'est ce qu'on voit en cherchant « coiffeur » sur Google Maps.\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Coiffeur #Commerce",
+    "instagram": "Une bonne note, mais rien de neuf sur votre fiche Google. Êtes-vous encore ouvert ? Une fiche Google muette, ça semble fermé.\n\nVotre fiche Google, c'est ce qui s'affiche quand on cherche un coiffeur sur Google ou Google Maps. Une bonne note sans signe de vie fait douter ; un de nos clients a reçu 3 fois plus d'appels en un semestre.\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Coiffeur #Commerce",
+    "youtube": "Une bonne note, mais rien de neuf sur votre fiche Google. Êtes-vous encore ouvert ? Une fiche Google muette, ça semble fermé.\n\nVotre fiche Google, c'est ce qui s'affiche quand on cherche un coiffeur sur Google ou Google Maps. Une bonne note sans signe de vie fait douter ; un de nos clients a reçu 3 fois plus d'appels en un semestre.\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Coiffeur #Commerce"
+   },
+   "pub": "coiffeur-salon-muet",
+   "media": {
+    "vertical": "https://raw.githubusercontent.com/proenlignecontact/proenligne-media/main/medias/2026-11-05/video-coiffeur-salon-muet-vertical.mp4",
+    "horizontal": "https://raw.githubusercontent.com/proenlignecontact/proenligne-media/main/medias/2026-11-05/video-coiffeur-salon-muet-horizontal.mp4",
+    "postiz": "à importer"
+   },
+   "youtube_title": "Une bonne note, mais rien de neuf sur votre fiche Google. Êtes-vous encore ouvert ?",
+   "tiktok_title": "Une bonne note, mais rien de neuf sur votre fiche Google. Êtes-vous encore ouvert ?",
+   "reglages_tiktok": {
+    "content_posting_method": "DIRECT_POST",
+    "privacy_level": "PUBLIC_TO_EVERYONE",
+    "duet": false,
+    "stitch": false,
+    "comment": true,
+    "autoAddMusic": "no",
+    "brand_content_toggle": false,
+    "brand_organic_toggle": false,
+    "video_made_with_ai": false
+   }
+  },
+  {
+   "date": "2026-11-06",
+   "heure": "13:00",
+   "creneau": "visuel",
+   "metier": "chauffagiste",
+   "format": "avant-apres",
+   "angle": "gain-de-temps",
+   "ton": "pendant-que",
+   "symptome": "aucune-publication",
+   "accroche": "Vous êtes sur le chantier. Votre fiche Google, elle, se met à jour seule.",
+   "slug": "chauffagiste-mise-a-jour-seule",
+   "heure_utc": "12:00:00",
+   "textes": {
+    "facebook": "Vous êtes sur le chantier. Votre fiche Google, elle, se met à jour seule.\n\nVotre fiche Google, c'est ce que voient vos clients quand ils cherchent « chauffagiste » sur Google Maps. En plein hiver, c'est là qu'ils choisissent qui appeler.\n\nRien publié depuis 2021 ? Proenligne prend le relais :\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Chauffagiste",
+    "instagram": "Vous êtes sur le chantier. Votre fiche Google, elle, se met à jour seule.\n\nVotre fiche Google, c'est ce que voient vos clients quand ils cherchent « chauffagiste » sur Google Maps. En plein hiver, c'est là qu'ils choisissent qui appeler.\n\nRien publié depuis 2021 ? Proenligne prend le relais :\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Chauffagiste #Artisan"
+   },
+   "media": {
+    "postiz": "https://media.glidy.uk/QJ7N8I135J.png",
+    "depot": "medias/2026-11-06/visuel-chauffagiste.png"
+   }
+  },
+  {
+   "date": "2026-11-06",
+   "heure": "19:00",
+   "creneau": "video",
+   "metier": "serrurier",
+   "format": "fiche",
+   "angle": "gain-de-temps",
+   "ton": "avant-apres",
+   "symptome": "avis-sans-reponse",
+   "accroche": "Un voisin vous recommande. Le gérant ouvre votre fiche Google : vos clients parlent seuls.",
+   "slug": "serrurier-avis-du-gerant",
+   "heure_utc": "18:00:00",
+   "textes": {
+    "tiktok": "Un voisin vous recommande. Le gérant ouvre votre fiche Google : vos clients parlent seuls.\n\nVotre fiche Google, c'est ce qu'on voit en cherchant « serrurier » sur Google Maps.\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Serrurier #Artisan",
+    "instagram": "Un voisin vous recommande. Le gérant ouvre votre fiche Google : vos clients parlent seuls. Une fiche Google qui ne répond pas, ça inquiète.\n\nVotre fiche Google, c'est ce qu'un client vérifie sur Google ou Google Maps avant d'appeler un serrurier, même recommandé. Des avis sans réponse donnent l'impression que personne ne suit.\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Serrurier #Artisan",
+    "youtube": "Un voisin vous recommande. Le gérant ouvre votre fiche Google : vos clients parlent seuls. Une fiche Google qui ne répond pas, ça inquiète.\n\nVotre fiche Google, c'est ce qu'un client vérifie sur Google ou Google Maps avant d'appeler un serrurier, même recommandé. Des avis sans réponse donnent l'impression que personne ne suit.\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Serrurier #Artisan"
+   },
+   "pub": "serrurier-avis-du-gerant",
+   "media": {
+    "vertical": "https://raw.githubusercontent.com/proenlignecontact/proenligne-media/main/medias/2026-11-06/video-serrurier-avis-du-gerant-vertical.mp4",
+    "horizontal": "https://raw.githubusercontent.com/proenlignecontact/proenligne-media/main/medias/2026-11-06/video-serrurier-avis-du-gerant-horizontal.mp4",
+    "postiz": "à importer"
+   },
+   "youtube_title": "Un voisin vous recommande. Le gérant ouvre votre fiche Google : vos clients parlent seuls.",
+   "tiktok_title": "Un voisin vous recommande. Le gérant ouvre votre fiche Google : vos clients parlent seuls.",
+   "reglages_tiktok": {
+    "content_posting_method": "DIRECT_POST",
+    "privacy_level": "PUBLIC_TO_EVERYONE",
+    "duet": false,
+    "stitch": false,
+    "comment": true,
+    "autoAddMusic": "no",
+    "brand_content_toggle": false,
+    "brand_organic_toggle": false,
+    "video_made_with_ai": false
+   }
+  },
+  {
+   "date": "2026-11-07",
+   "heure": "13:00",
+   "creneau": "visuel",
+   "metier": "autoecole",
+   "format": "avant-apres",
+   "angle": "peur-de-perdre",
+   "ton": "constat",
+   "symptome": "avis-negatif-seul",
+   "accroche": "Un avis sans réponse sur votre fiche Google fait fuir les futurs élèves.",
+   "slug": "autoecole-avis-fuir",
+   "heure_utc": "12:00:00",
+   "textes": {
+    "facebook": "Un avis sans réponse sur votre fiche Google fait fuir les futurs élèves.\n\nAvant de s'inscrire, on cherche « auto-école » sur Google et on lit chaque fiche Google : notes, avis, réponses.\n\n2 avis négatifs sans réponse, et les parents passent à l'auto-école d'à côté.\n\nAvec Proenligne :\n\n✅ Une réponse à chaque avis\n✅ Vous validez celles aux avis négatifs\n✅ Une photo le lundi, une publication le jeudi\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #AutoEcole",
+    "instagram": "Un avis sans réponse sur votre fiche Google fait fuir les futurs élèves.\n\nAvant de s'inscrire, on cherche « auto-école » sur Google et on lit chaque fiche Google : notes, avis, réponses.\n\n2 avis négatifs sans réponse, et les parents passent à l'auto-école d'à côté.\n\nAvec Proenligne :\n\n✅ Une réponse à chaque avis\n✅ Vous validez celles aux avis négatifs\n✅ Une photo le lundi, une publication le jeudi\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #AutoEcole #Commerce"
+   },
+   "media": {
+    "postiz": "https://media.glidy.uk/xf1BWDLilO.png",
+    "depot": "medias/2026-11-07/visuel-autoecole.png"
+   }
+  },
+  {
+   "date": "2026-11-07",
+   "heure": "19:00",
+   "creneau": "video",
+   "metier": "estheticienne",
+   "format": "avis",
+   "angle": "preuve",
+   "ton": "pendant-que",
+   "symptome": "questions-sans-reponse",
+   "accroche": "Pendant que vous soignez vos clientes, leurs questions attendent sur votre fiche Google.",
+   "slug": "estheticienne-questions-du-samedi",
+   "heure_utc": "18:00:00",
+   "textes": {
+    "tiktok": "Pendant que vous soignez vos clientes, leurs questions attendent sur votre fiche Google.\n\nVotre fiche Google, c'est ce qu'on voit en cherchant « esthéticienne » sur Google Maps.\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Estheticienne #Commerce",
+    "instagram": "Pendant que vous soignez vos clientes, leurs questions attendent sur votre fiche Google. Sans réponse sur la fiche Google, elle réserve ailleurs.\n\nVotre fiche Google, c'est ce que lisent vos futures clientes quand elles cherchent une esthéticienne sur Google Maps. Un avis qui pose une question et reste sans réponse les fait réserver ailleurs.\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Estheticienne #Commerce",
+    "youtube": "Pendant que vous soignez vos clientes, leurs questions attendent sur votre fiche Google. Sans réponse sur la fiche Google, elle réserve ailleurs.\n\nVotre fiche Google, c'est ce que lisent vos futures clientes quand elles cherchent une esthéticienne sur Google Maps. Un avis qui pose une question et reste sans réponse les fait réserver ailleurs.\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Estheticienne #Commerce"
+   },
+   "pub": "estheticienne-questions-du-samedi",
+   "media": {
+    "vertical": "https://raw.githubusercontent.com/proenlignecontact/proenligne-media/main/medias/2026-11-07/video-estheticienne-questions-du-samedi-vertical.mp4",
+    "horizontal": "https://raw.githubusercontent.com/proenlignecontact/proenligne-media/main/medias/2026-11-07/video-estheticienne-questions-du-samedi-horizontal.mp4",
+    "postiz": "à importer"
+   },
+   "youtube_title": "Pendant que vous soignez vos clientes, leurs questions attendent sur votre fiche Google.",
+   "tiktok_title": "Pendant que vous soignez vos clientes, leurs questions attendent sur votre fiche Google.",
+   "reglages_tiktok": {
+    "content_posting_method": "DIRECT_POST",
+    "privacy_level": "PUBLIC_TO_EVERYONE",
+    "duet": false,
+    "stitch": false,
+    "comment": true,
+    "autoAddMusic": "no",
+    "brand_content_toggle": false,
+    "brand_organic_toggle": false,
+    "video_made_with_ai": false
+   }
+  },
+  {
+   "date": "2026-11-08",
+   "heure": "13:00",
+   "creneau": "visuel",
+   "metier": "paysagiste",
+   "format": "avant-apres",
+   "angle": "preuve",
+   "ton": "constat",
+   "symptome": "photos-anciennes",
+   "accroche": "Un de nos clients paysagistes : 100 appels venus de sa fiche Google en un semestre.",
+   "slug": "preuve-paysagiste-100-appels",
+   "heure_utc": "12:00:00",
+   "textes": {
+    "facebook": "Un de nos clients paysagistes : 100 appels venus de sa fiche Google en un semestre.\n\nSa fiche Google, c'est ce qui s'affiche quand on cherche « paysagiste » sur Google Maps : photos de jardins, avis, téléphone.\n\nCe qui a changé : ses chantiers se voient enfin. Avec Proenligne :\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Paysagiste",
+    "instagram": "Un de nos clients paysagistes : 100 appels venus de sa fiche Google en un semestre.\n\nSa fiche Google, c'est ce qui s'affiche quand on cherche « paysagiste » sur Google Maps : photos de jardins, avis, téléphone.\n\nCe qui a changé : ses chantiers se voient enfin. Avec Proenligne :\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Paysagiste #Artisan"
+   },
+   "media": {
+    "postiz": "https://media.glidy.uk/pTZgmr6QsL.png",
+    "depot": "medias/2026-11-08/visuel-paysagiste.png"
+   }
+  },
+  {
+   "date": "2026-11-08",
+   "heure": "19:00",
+   "creneau": "video",
+   "metier": "macon",
+   "format": "journee",
+   "angle": "gain-de-temps",
+   "ton": "scene",
+   "symptome": "fiche-oubliee",
+   "accroche": "Il est 20 h. Vous rentrez du chantier. Votre fiche Google attend encore.",
+   "slug": "macon-fiche-de-demain",
+   "heure_utc": "18:00:00",
+   "textes": {
+    "tiktok": "Il est 20 h. Vous rentrez du chantier. Votre fiche Google attend encore.\n\nVotre fiche Google, c'est ce qu'on voit en cherchant « maçon » sur Google Maps.\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Macon #Artisan",
+    "instagram": "Il est 20 h. Vous rentrez du chantier. Votre fiche Google attend encore. Le soir, la fiche Google finit en bas de la liste.\n\nVotre fiche Google, c'est ce que vos clients retrouvent sur Google ou Google Maps quand ils cherchent un maçon, même ceux qui vous connaissent. Si elle n'a pas bougé depuis 2021, ils doutent.\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Macon #Artisan",
+    "youtube": "Il est 20 h. Vous rentrez du chantier. Votre fiche Google attend encore. Le soir, la fiche Google finit en bas de la liste.\n\nVotre fiche Google, c'est ce que vos clients retrouvent sur Google ou Google Maps quand ils cherchent un maçon, même ceux qui vous connaissent. Si elle n'a pas bougé depuis 2021, ils doutent.\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Macon #Artisan"
+   },
+   "pub": "macon-fiche-de-demain",
+   "media": {
+    "vertical": "https://raw.githubusercontent.com/proenlignecontact/proenligne-media/main/medias/2026-11-08/video-macon-fiche-de-demain-vertical.mp4",
+    "horizontal": "https://raw.githubusercontent.com/proenlignecontact/proenligne-media/main/medias/2026-11-08/video-macon-fiche-de-demain-horizontal.mp4",
+    "postiz": "à importer"
+   },
+   "youtube_title": "Il est 20 h. Vous rentrez du chantier. Votre fiche Google attend encore.",
+   "tiktok_title": "Il est 20 h. Vous rentrez du chantier. Votre fiche Google attend encore.",
+   "reglages_tiktok": {
+    "content_posting_method": "DIRECT_POST",
+    "privacy_level": "PUBLIC_TO_EVERYONE",
+    "duet": false,
+    "stitch": false,
+    "comment": true,
+    "autoAddMusic": "no",
+    "brand_content_toggle": false,
+    "brand_organic_toggle": false,
+    "video_made_with_ai": false
+   }
+  }
+ ]
+}

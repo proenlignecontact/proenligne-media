@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-03_0630_test-paysagiste-google-maps",
+ "date_paris": "2026-11-03",
+ "heure_paris": "06:30",
+ "jour_semaine": "mardi",
+ "creneau": "texte",
+ "metier": "paysagiste",
+ "angle": "peur-de-perdre",
+ "format": "test",
+ "ton": "question",
+ "symptome": null,
+ "offre": "essai",
+ "accroche": "Paysagistes, faites le test : tapez « paysagiste » sur Google Maps.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal",
+  "#Paysagiste"
+ ],
+ "media": {
+  "type": "aucun",
+  "fichiers": [],
+  "postiz": []
+ },
+ "publications": [
+  {
+   "canal": "x",
+   "postiz_id": "cmvwuwet9000ekb7z1z4grqmf",
+   "caracteres": 256,
+   "texte": "Paysagistes, faites le test : tapez « paysagiste » sur Google Maps. Les fiches Google affichées, avec photos et avis, c'est là que vos clients choisissent. La vôtre est dans les 3 premières ? Sinon, essayez Proenligne gratuitement. #FicheGoogle #Paysagiste"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvwuweuj000fkb7zet6s1n3c",
+   "caracteres": 566,
+   "texte": "Paysagistes, faites le test : tapez « paysagiste » sur Google Maps.\n\nLes fiches Google qui s'affichent (photos de jardins, avis, horaires, téléphone), c'est là que vos clients choisissent qui appeler.\n\nLa vôtre est dans les 3 premières ? Avec des photos de chantiers récents ?\n\nSi elle n'y est pas, c'est souvent qu'elle dort. Proenligne la réveille :\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Paysagiste"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

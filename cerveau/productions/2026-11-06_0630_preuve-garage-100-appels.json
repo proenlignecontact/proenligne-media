@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-06_0630_preuve-garage-100-appels",
+ "date_paris": "2026-11-06",
+ "heure_paris": "06:30",
+ "jour_semaine": "vendredi",
+ "creneau": "texte",
+ "metier": "garage",
+ "angle": "preuve",
+ "format": "preuve",
+ "ton": "constat",
+ "symptome": null,
+ "offre": "essai",
+ "accroche": "Garages : un de nos clients a reçu 100 appels venus de sa fiche Google en un semestre.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal",
+  "#Garage"
+ ],
+ "media": {
+  "type": "aucun",
+  "fichiers": [],
+  "postiz": []
+ },
+ "publications": [
+  {
+   "canal": "x",
+   "postiz_id": "cmvwuwf4j000kkb7zryw72ej6",
+   "caracteres": 268,
+   "texte": "Garages : un de nos clients a reçu 100 appels venus de sa fiche Google en un semestre. Sa fiche Google, c'est ce qu'on voit en cherchant « garage » sur Google Maps. Photo le lundi, publication le jeudi, réponse à chaque avis. Essayez gratuitement. #FicheGoogle #Garage"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvwuwf60000lkb7zzuyomqur",
+   "caracteres": 496,
+   "texte": "Garages : un de nos clients a reçu 100 appels venus de sa fiche Google en un semestre.\n\nSa fiche Google, c'est ce qui s'affiche quand on cherche « garage » sur Google Maps : photos, avis, horaires.\n\nRien de magique : une fiche Google vivante inspire confiance. Ce que fait Proenligne :\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Garage"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

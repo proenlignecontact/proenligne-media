@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-04_0630_constat-macon-deux-fiches",
+ "date_paris": "2026-11-04",
+ "heure_paris": "06:30",
+ "jour_semaine": "mercredi",
+ "creneau": "texte",
+ "metier": "macon",
+ "angle": "peur-de-perdre",
+ "format": "constat",
+ "ton": "scene",
+ "symptome": "photos-anciennes",
+ "offre": "essai",
+ "accroche": "Maçons : un client cherche « maçon » sur Google et compare 2 fiches Google.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal",
+  "#Macon"
+ ],
+ "media": {
+  "type": "aucun",
+  "fichiers": [],
+  "postiz": []
+ },
+ "publications": [
+  {
+   "canal": "x",
+   "postiz_id": "cmvwuwexa000gkb7zv3ldhh10",
+   "caracteres": 257,
+   "texte": "Maçons : un client cherche « maçon » sur Google et compare 2 fiches Google. L'une montre un muret fini cette semaine, l'autre rien depuis 2021. Il appelle la première. Proenligne publie vos chantiers chaque semaine. Essayez gratuitement. #FicheGoogle #Macon"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvwuweyg000hkb7ztfzvjmch",
+   "caracteres": 589,
+   "texte": "Maçons : un client cherche « maçon » sur Google et compare 2 fiches Google.\n\nUne fiche Google, c'est ce qui s'affiche sur Google et Google Maps quand on cherche un artisan : photos, avis, téléphone.\n\nLa première montre un muret fini cette semaine. La seconde, rien depuis 2021. Il appelle la première.\n\nVotre travail est bon. Il faut juste qu'il se voie. Proenligne s'en occupe :\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Macon"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

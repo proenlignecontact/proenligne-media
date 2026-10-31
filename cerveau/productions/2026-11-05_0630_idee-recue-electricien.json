@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-05_0630_idee-recue-electricien",
+ "date_paris": "2026-11-05",
+ "heure_paris": "06:30",
+ "jour_semaine": "jeudi",
+ "creneau": "texte",
+ "metier": "electricien",
+ "angle": "gain-de-temps",
+ "format": "idee-recue",
+ "ton": "contre-intuitif",
+ "symptome": null,
+ "offre": "essai",
+ "accroche": "Électriciens, idée reçue : « Ma fiche Google ne sert à rien, et je n'ai pas le temps. »",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal",
+  "#Electricien"
+ ],
+ "media": {
+  "type": "aucun",
+  "fichiers": [],
+  "postiz": []
+ },
+ "publications": [
+  {
+   "canal": "x",
+   "postiz_id": "cmvwuwf09000ikb7z4zzveey9",
+   "caracteres": 266,
+   "texte": "Idée reçue d'électricien : « Ma fiche Google ne sert à rien. » En réalité, c'est ce que voient vos clients en cherchant « électricien » sur Google Maps. Elle travaille pendant vos chantiers, et Proenligne l'entretient. Essayez gratuitement. #FicheGoogle #Electricien"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvwuwf3c000jkb7ztcq186j9",
+   "caracteres": 557,
+   "texte": "Électriciens, idée reçue : « Ma fiche Google ne sert à rien, et je n'ai pas le temps. »\n\nEn réalité, votre fiche Google, c'est ce que voient vos clients quand ils cherchent « électricien » sur Google ou Google Maps : photos, avis, téléphone.\n\nElle travaille pendant vos chantiers. Et l'entretenir ne vous prend rien : Proenligne s'en occupe.\n\n✅ Une photo publiée le lundi\n✅ Une publication rédigée le jeudi\n✅ Une réponse à chaque avis\n\n👉 Essayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Electricien"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}
