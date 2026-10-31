@@ -1,6 +1,6 @@
 # API de statistiques
 
-Statut : **disponible** (format de réponse à découvrir au premier appel réussi, voir plus bas).
+Statut : **disponible**. Premier relevé réussi le 31/10/2026.
 
 ## Appel
 ```
@@ -15,7 +15,14 @@ La session Claude n'appelle **pas** l'API elle-même. L'action `.github/workflow
 - Si le dernier fichier de `cerveau/stats/brut/` a plus de 3 jours : l'action échoue (voir l'onglet Actions sur GitHub) ; le signaler dans le rapport.
 
 ## Format de réponse et conversion
-À compléter après le premier relevé réussi. En attendant, la tâche :
-1. lit le relevé brut le plus récent de `cerveau/stats/brut/` ;
-2. en déduit la correspondance avec le format de `cerveau/stats/` (postiz_id, canal, vues, likes, commentaires, partages, enregistrements, clics ; champs inconnus omis, jamais mis à zéro) ;
-3. écrit le relevé converti dans `cerveau/stats/<date>.json` et décrit la correspondance retenue ici, dans cette section.
+Réponse : `{generatedAt, days, channels[], posts[]}`.
+- `channels[]` : `{id, platform, stats: {available, metrics: [{metric, latest, sum, percentageChange}]}}` — chiffres du compte.
+- `posts[]` : `{id (= postiz_id), platform, integrationId, publishDate, state, url, content, stats: {available, reason?, metrics[]}}`.
+
+Conversion : `python3 cerveau/convertir_stats.py` (relevé brut le plus récent → `cerveau/stats/<même date>.json`). La correspondance des métriques est décrite en tête du script (valeur `sum`).
+
+Constat au 31/10/2026 :
+- Instagram, YouTube et Facebook (vidéo) renvoient des stats par post.
+- X : aucune stat par post (« Aucune statistique renvoyée par la plateforme »).
+- TikTok : les posts envoyés en mode UPLOAD n'ont pas d'identifiant TikTok (« Postiz ne connaît pas l'ID du post ») — ils n'ont pas été publiés. Les posts en DIRECT_POST devraient être mesurables.
+- Facebook texte (sans vidéo) : pas de stats pour le premier post ; à surveiller.
