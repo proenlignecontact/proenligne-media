@@ -14,6 +14,36 @@ Le public (artisans, commerçants) ne sait pas ce qu'est « la fiche ». Il faut
 - Vidéos : l'accroche ou la scène Contraste doit nommer la fiche Google (le téléphone montre une recherche ou une fiche ; le texte à l'écran doit dire « fiche Google »).
 - Visuels : `outils/visuel.py` refuse un brief dont le surtitre et le titre ne contiennent pas « Google ».
 - Ne jamais reproduire le logo ni l'interface de Google : le mot suffit.
+- **Varier la phrase d'explication** : elle ne doit pas être copiée telle quelle dans tous les posts (le vérificateur refuse plus de 4 copies identiques par semaine). Tournures à alterner :
+  - « Votre fiche Google, c'est ce qui s'affiche quand un client cherche “plombier” sur Google ou Google Maps : nom, photos, avis, horaires. »
+  - « Quand on tape “coiffeur près de moi”, Google affiche des fiches : photos, avis, horaires. La vôtre en fait partie. »
+  - « Sur Google Maps, chaque garage a sa fiche Google : la note, les photos, le bouton Appeler. C'est elle qu'on regarde avant de vous appeler. »
+  - « La fiche Google, c'est la carte de visite que Google montre à votre place : photos, avis, horaires, téléphone. »
+  - « Cherchez “boulangerie” dans votre ville : les encadrés avec note et photos sont des fiches Google. »
+  - « Avant d'appeler un serrurier, le client ouvre sa fiche Google sur Google Maps : avis, horaires, et vos réponses. »
+
+## Règle n°2 : l'essai est gratuit, aucun prix nulle part
+
+Appel à l'action : « Essayez gratuitement » / « Essayez Proenligne gratuitement », éventuellement « sans engagement ». Jamais de montant, de « € », de « par mois », de « centimes par jour », d'abonnement ni de comparaison de prix, dans aucun texte, visuel, vidéo, titre ou commentaire.
+
+## Règle n°3 : aucune statistique ni résultat chiffré venant de nos clients
+
+**On ne donne jamais un chiffre de résultat de nos clients.** Ni « ×3 appels », ni « 100 appels en un semestre », ni « un de nos clients a triplé ses appels », ni pourcentage, ni « résultat : … », ni « en 6 mois ». Ni dans un texte, ni dans un visuel, ni dans une vidéo, ni dans un titre, ni dans un premier commentaire, ni dans un brief.
+
+- La **preuve** se fait par une **démonstration** : un avant / après descriptif (ce qu'il y avait, ce qu'il y a maintenant), une scène vécue, le fonctionnement public de Google (une fiche complète et active rassure, un avis sans réponse fait douter), jamais par un chiffre de résultat.
+- Les seuls chiffres autorisés décrivent une situation ou une action, pas un résultat : « 3 avis sans réponse », « une photo par semaine », « 5 secondes », « depuis 2021 ».
+- Contrôle mécanique : `cerveau/regles_texte.py` (regex STATS) appliqué par `cerveau/verifier.py`, `outils/visuel.py` et le `brief.py valider` du skill vidéo adapté. L'angle `preuve` du skill vidéo est retiré ; le format texte « Preuve » devient « Démonstration ».
+
+## Règle n°4 : chaque élément textuel est relu comme par un humain avant programmation
+
+Le vérificateur contrôle des règles mécaniques ; il ne sait pas si une phrase a du sens. Avant tout rendu de média et toute programmation, **tous** les éléments textuels de la semaine (textes par canal, accroches, titres, premiers commentaires, textes des visuels, textes des briefs vidéo : accroches, suite, réveil, corps, notifications, scène) passent par une **relecture indépendante** :
+
+1. `python3 cerveau/relecture.py extraire <lundi> --briefs <dossier des briefs vidéo>` → `suivi/relecture/<lundi>-textes.json`.
+2. Un **agent relecteur distinct** (Agent tool, agent neuf qui n'a pas écrit les textes) lit `cerveau/relecture-consigne.md` et le fichier -textes, et écrit `suivi/relecture/<lundi>.json` avec un verdict par élément (ok / refuse + motif + proposition). Il se met à la place d'un artisan qui lit la phrase froidement : compréhensible seule, sans contradiction avec les autres éléments du même post, sans affirmation invérifiable, règles n°1-2-3, ton, français.
+3. Chaque refus est corrigé (dans le plan ou le brief), puis on réextrait et on relit **jusqu'à zéro refus**. L'empreinte des textes est vérifiée : une relecture faite sur une version antérieure des textes ne compte pas.
+4. `python3 cerveau/verifier.py suivi/plan/<lundi>.json --briefs <dossier> --relecture` doit répondre « plan OK + relecture validée ». Sans cela, rien n'est rendu ni programmé.
+
+Exemples de phrases refusées : « Nouveauté tue sur votre fiche Google, clients partis » (télégraphique, incompréhensible seule) ; « Vous trouvez les fuites sans casser. Votre fiche Google ne le dit à personne » (jargon non expliqué en accroche) ; un quiz dont la 1re slide coche déjà la bonne réponse alors que le texte dit « réponse dans le carrousel » ; un texte qui dit « il regarde 3 choses » quand le visuel n'en retient qu'une.
 
 ## Grille quotidienne (heure de Paris)
 
@@ -40,10 +70,10 @@ Les algorithmes distribuent peu les publicités. Chaque créneau porte une **int
 | Intention | Part de la semaine | Ce que c'est | Appel à l'action |
 |---|---|---|---|
 | `utile` | **au moins 13 créneaux sur 21** | Le lecteur repart avec quelque chose : un test à faire sur sa fiche Google, une astuce concrète, une erreur à éviter, une idée reçue démontée, une scène où il se reconnaît. Proenligne est cité une fois au plus, en passant. | **Une question** qui fait commenter (dans le texte ou le premier commentaire). « Essayez gratuitement » autorisé mais pas obligatoire, et jamais dans le visuel. |
-| `preuve` | 2 à 5 créneaux | Un résultat (×3 appels, 100 appels, en un semestre), une histoire avant / après, toujours « un de nos clients ». | Question ou « Essayez gratuitement », discret, en fin de texte. |
+| `preuve` | 2 à 5 créneaux | Une **démonstration** : avant / après descriptif d'une fiche Google (ce qu'il y avait, ce qu'il y a maintenant), scène où le client compare deux fiches, ce que Google affiche et pourquoi ça rassure. **Jamais un chiffre de résultat** (règle n°3). | Question ou « Essayez gratuitement », discret, en fin de texte. |
 | `offre` | **3 créneaux au plus** | Ce que fait Proenligne (photo le lundi, publication le jeudi, réponse aux avis) et l'essai gratuit. | « Essayez Proenligne gratuitement, sans engagement. » Les 3 ✅ ne sont autorisés **que** dans ces posts. |
 
-Règles transverses : jamais plus de 3 ✅ ; la règle n°1 « fiche Google » s'applique à toutes les intentions ; aucun prix nulle part (règle n°2) ; un contenu utile se termine par une question, pas par une promesse.
+Règles transverses : jamais plus de 3 ✅ ; la règle n°1 « fiche Google » s'applique à toutes les intentions ; aucun prix nulle part (règle n°2) ; aucune statistique client (règle n°3) ; relecture de chaque élément (règle n°4) ; un contenu utile se termine par une question, pas par une promesse.
 
 ## A/B et amplification
 
@@ -100,26 +130,34 @@ Un même message se décline par plateforme, jamais copié tel quel :
 2. **Test** : « Tapez votre métier + votre ville… » ou équivalent, qui fait vérifier sa position.
 3. **Constat métier** : une scène vraie pour un métier précis (fuite du soir, panne, rendez-vous coiffure…).
 4. **Idée reçue** : « On croit que… En réalité… ».
-5. **Preuve** : uniquement ×3 appels, 100 appels, 6 mois, attribués à « un de nos clients ».
+5. **Démonstration** (format `preuve`) : un avant / après descriptif ou une scène de comparaison, sans aucun chiffre de résultat (règle n°3).
 
 Ne pas utiliser deux fois le même format le même jour, ni le même format deux jours de suite au même créneau. Même règle pour le **ton** (jamais le même deux créneaux de suite, 5 fois par semaine au plus) et pour le **gabarit visuel** de 13:00 (`avant-apres`, `conseil`, `question`, en alternance).
 
 ## Règles de contenu (non négociables, reprises du skill)
 
-- **Aucun client réel** : ni nom d'entreprise, ni prénom, ni ville, ni avis recopié. Enseignes fictives : métier + Weber, Martin, Durand, Bernard ou Petit. Prénoms : ceux du skill.
-- **Chiffres autorisés uniquement** : 3 · ×3 · 100 · 6 · 5 · 2 · 1 · 2021 · 4 · 20 · 22 · 23 · 30. Pas d'heure, de pourcentage ni de montant inventés.
+- **Aucun client réel** : ni nom d'entreprise, ni prénom, ni ville, ni avis recopié. Enseignes fictives : métier + Weber, Martin, Durand, Bernard ou Petit, **en alternance** (jamais le même nom fictif deux fois le même jour, 3 fois par semaine au plus dans les vidéos). Prénoms : ceux du skill.
+- **Chiffres autorisés uniquement** : 3 · 5 · 2 · 1 · 2021 · 4 · 20 · 22 · 23 · 30, pour décrire une situation ou une action. **Aucun chiffre de résultat** (règle n°3), pas d'heure, de pourcentage ni de montant inventés.
+- **Rien d'invérifiable sur Google** : pas de « Google préfère », « sort en premier », « glisse vers le bas » présentés comme des certitudes. Dire ce que Google rend public (une fiche complète et active, des photos récentes, des réponses aux avis) et ce que ça change pour le client qui compare.
+- **Des phrases, pas des télégrammes** : chaque accroche, titre de scène vidéo (`suite`), titre de visuel et légende a un sujet et un verbe et se comprend seule, lue froidement sur un téléphone. Le jargon du métier est explicité (« la recherche de fuite sans casser les murs », pas « les fuites sans casser »).
 - **Promesses** : Proenligne publie une photo le lundi, une publication le jeudi, répond à chaque avis, fait valider les réponses aux avis négatifs. Rien d'autre.
-- **Offre unique : l'essai gratuit, sans aucun prix.** Appel à l'action : « Essayez gratuitement » / « Essayez Proenligne gratuitement », éventuellement « sans engagement ». Jamais de montant, de « € », de « par mois », de « centimes par jour » ni de comparaison de prix, dans aucun texte, visuel ou vidéo.
+- **Offre unique : l'essai gratuit, sans aucun prix** (règle n°2).
 - Hashtags de base : #FicheGoogle #GoogleBusinessProfile #ReferencementLocal, plus le hashtag du métier.
 
 ## Variété sur la semaine
 
 - 11 métiers : plombier, électricien, chauffagiste, serrurier, paysagiste, maçon, coiffeur, esthéticienne, auto-école, boulangerie, garage. Pas le même métier deux créneaux de suite, et au moins 6 métiers différents par semaine.
 - Lire les fiches de `cerveau/productions/` : ne pas reprendre une accroche déjà publiée ni un trio métier + angle + format des 3 dernières semaines.
-- **Ouvertures variées** : alterner question directe, réplique de client entre guillemets, chiffre autorisé, scène au présent (« Il est 20 h… »), constat qui pique, idée contre-intuitive, « pendant que vous… ». Deux textes de la semaine ne commencent jamais par les mêmes 5 mots ; la structure accroche + 3 ✅ + CTA est réservée aux 3 posts « offre ».
+- **Ouvertures variées** : alterner question directe, réplique de client entre guillemets, scène au présent (« Il est 20 h… »), constat qui pique, idée contre-intuitive, « pendant que vous… ». Deux textes de la semaine ne commencent jamais par les mêmes 5 mots ; la structure accroche + 3 ✅ + CTA est réservée aux 3 posts « offre ».
 - **Vidéos** : varier la mise en scène (recherche, fiche, avis, journée) et l'ambiance sonore (`PUB_AMBIANCE=0|1|2`, jamais la même deux jours de suite).
 - Lire `suivi/amplifier.json` : les sujets qui ont décollé sont repris en priorité (voir « A/B et amplification »). Suivre aussi les orientations de la dernière analyse (`cerveau/analyses/`) et de `cerveau/decisions.md`.
 - Les 7 vidéos de la semaine passent par le tirage du skill avec `suivi/historique-pubs.json`.
+
+## Visuels : tests et quiz
+
+- Gabarit `question` : le titre est une vraie question (finit par « ? »). **Aucune réponse n'est cochée** sur l'image ou la 1re slide : un sondage n'a pas de bonne réponse ; un quiz révèle la réponse sur une slide suivante (`numero` = la lettre), et le texte du post peut dire « réponse dans le carrousel ».
+- Le titre annonce ce que le contenu donne : « 3 réflexes » si ce sont 3 conseils, pas « 3 photos ».
+- Le visuel et le texte disent la même chose : mêmes chiffres, mêmes jours, même nombre d'éléments.
 
 ## Médias
 

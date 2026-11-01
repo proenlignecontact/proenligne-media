@@ -1,7 +1,13 @@
 """Vérifie un plan de semaine AVANT programmation : règles de contenu, mix éditorial, vocabulaire, rotation, ressemblance.
 
-usage : python3 cerveau/verifier.py suivi/plan/<lundi>.json
+usage : python3 cerveau/verifier.py suivi/plan/<lundi>.json [--briefs <dossier des briefs vidéo>] [--relecture]
 sortie : « plan OK » (code 0) ou la liste des problèmes (code 1).
+  --briefs     : contrôle aussi les textes des briefs vidéo (règles n°1-2-3, phrases complètes)
+  --relecture  : exige une relecture validée et à jour (cerveau/relecture.py controler) — obligatoire avant programmation
+
+Règles mécaniques appliquées à CHAQUE élément textuel (textes, accroche, titres, premier commentaire, briefs visuels et vidéo) :
+  n°1 « fiche Google » · n°2 aucun prix · n°3 aucune statistique ni résultat client (cerveau/regles_texte.py).
+La compréhension (sens, contradictions) est jugée par la relecture, pas ici.
 
 Format du plan : {"creneaux": [ {
    "date": "2026-11-09", "creneau_nominal": "06:30|13:00|19:00", "heure": "06:50"  (heure réelle, à ±45 min du nominal),
@@ -25,6 +31,8 @@ import datetime as dt, glob, itertools, json, os, re, sys, unicodedata
 from collections import Counter
 
 ICI = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, ICI)
+import regles_texte  # noqa: E402
 METIERS = {'plombier', 'electricien', 'chauffagiste', 'serrurier', 'paysagiste', 'macon', 'coiffeur', 'estheticienne', 'autoecole', 'boulangerie', 'garage', 'general'}
 ANGLES = {'peur-de-perdre', 'gain-de-temps', 'preuve'}
 TONS = {'question', 'constat', 'scene', 'avant-apres', 'contre-intuitif', 'pendant-que', 'replique'}
@@ -34,7 +42,8 @@ CANAUX = {'texte': {'x', 'facebook'}, 'visuel': {'instagram', 'facebook'}, 'vide
 HEURES = {'texte': '06:30', 'visuel': '13:00', 'video': '19:00'}
 TOLERANCE_MIN = 45
 LIMITES = {'x': 280, 'tiktok': 2000, 'instagram': 2200, 'linkedin': 3000}
-PRIX = re.compile(r'€|\bmois\b|centime|euro', re.I)
+PRIX = regles_texte.PRIX
+MAX_EXPLICATION_IDENTIQUE = 4   # la phrase « Votre fiche Google, c'est ce qui s'affiche… » ne peut pas être copiée telle quelle plus de 4 fois par semaine
 SEUIL_RESSEMBLANCE = 0.4
 STOP = {'votre', 'vous', 'fiche', 'google', 'maps', 'dans', 'pour', 'avec', 'sans', 'cherche', 'quand', 'cette', 'leur', 'leurs', 'elle', 'vos'}
 
@@ -94,6 +103,17 @@ def verifier(plan):
         acc = c.get('accroche', '')
         if 'google' not in acc.lower(): pb.append(f'{ref} : accroche sans « Google »')
         if PRIX.search(acc): pb.append(f'{ref} : prix ou « mois » dans l\'accroche')
+        pb += regles_texte.phrase_complete(acc, f'{ref} accroche')
+        for _, champ, t in regles_texte.textes_du_plan({'creneaux': [c]}):
+            pb += regles_texte.problemes(t, f'{ref} {champ}')
+        v = c.get('visuel') or {}
+        if v:
+            if v.get('gabarit') == 'question' and not v.get('titre', '').rstrip().endswith('?'):
+                pb.append(f'{ref} visuel : gabarit question, le titre doit être une question (finir par « ? »)')
+            if 'bonne' in v:
+                pb.append(f'{ref} visuel : « bonne » interdit — un test ne coche aucune réponse, un quiz révèle la réponse sur une slide suivante')
+            if 'google' not in (v.get('surtitre', '') + v.get('titre', '')).lower():
+                pb.append(f'{ref} visuel : « Google » absent du surtitre + titre')
         pc = c.get('premier_commentaire') or ''
         if not pc: pb.append(f'{ref} : premier_commentaire manquant')
         elif len(pc) > 300: pb.append(f'{ref} : premier_commentaire > 300 caractères')
@@ -139,6 +159,17 @@ def verifier(plan):
             r = ressemblance(acc, f.get('accroche', ''))
             if r >= SEUIL_RESSEMBLANCE:
                 pb.append(f'{ref} : accroche trop proche ({r:.0%}) de la fiche {f["id"]}')
+    # phrase d'explication copiée-collée
+    expl = Counter()
+    for c in cr:
+        for t in (c.get('textes') or {}).values():
+            for ph in re.split(r'(?<=[.!?])\s+|\n', t or ''):
+                if "c'est ce qui s'affiche" in ph.lower() or "c’est ce qui s’affiche" in ph.lower():
+                    expl[re.sub(r'«[^»]*»', '«…»', ph.strip().lower())] += 1
+                    break
+    for ph, n in expl.items():
+        if n > MAX_EXPLICATION_IDENTIQUE:
+            pb.append(f'explication « fiche Google » copiée {n} fois à l\'identique (max {MAX_EXPLICATION_IDENTIQUE}) : varier la formulation — « {ph[:70]}… »')
     # ressemblance et structures à l'intérieur du plan
     for a, b in itertools.combinations(cr, 2):
         if a.get('slug') == b.get('slug') and {a.get('ab'), b.get('ab')} == {'A', 'B'}:
@@ -183,10 +214,39 @@ def verifier(plan):
     return pb
 
 
+def verifier_briefs(dossier):
+    """Briefs vidéo (pub-work/briefs ou suivi/briefs/<lundi>) : mêmes règles de texte, et les titres sont de vraies phrases."""
+    pb, noms = [], Counter()
+    for f in sorted(glob.glob(os.path.join(dossier, '*.json'))):
+        b = json.load(open(f, encoding='utf-8'))
+        slug = b.get('slug') or os.path.basename(f)
+        for champ, t in regles_texte.textes_du_brief(b):
+            pb += regles_texte.problemes(t, f'brief {slug} {champ}')
+        for i, a in enumerate(b.get('accroches') or []):
+            pb += regles_texte.phrase_complete(a, f'brief {slug} accroche {"ABC"[i] if i < 3 else i}')
+            if 'google' not in a.lower(): pb.append(f'brief {slug} accroche {"ABC"[i] if i < 3 else i} : sans « Google »')
+        pb += regles_texte.phrase_complete(b.get('suite', ''), f'brief {slug} suite')
+        if b.get('angle') == 'preuve': pb.append(f'brief {slug} : angle « preuve » retiré (règle n°3) — utiliser peur de perdre ou gain de temps')
+        for n in re.findall(r'\b(Weber|Martin|Durand|Bernard|Petit)\b', json.dumps(b, ensure_ascii=False)):
+            noms[n] += 1
+    if noms and max(noms.values()) > 3:
+        pb.append(f'briefs vidéo : nom fictif trop répété {dict(noms)} (max 3 par semaine, alterner Weber / Martin / Durand / Bernard / Petit)')
+    return pb
+
+
 if __name__ == '__main__':
-    if len(sys.argv) != 2:
+    if len(sys.argv) < 2:
         raise SystemExit(__doc__)
-    pb = verifier(json.load(open(sys.argv[1], encoding='utf-8')))
+    plan = json.load(open(sys.argv[1], encoding='utf-8'))
+    pb = verifier(plan)
+    briefs = sys.argv[sys.argv.index('--briefs') + 1] if '--briefs' in sys.argv else None
+    if briefs:
+        pb += verifier_briefs(briefs)
+    if '--relecture' in sys.argv:
+        import relecture
+        lundi = plan.get('lundi') if isinstance(plan, dict) else None
+        lundi = lundi or os.path.basename(sys.argv[1]).split('.')[0]
+        pb += ['relecture — ' + x for x in relecture.controler(lundi, briefs)]
     if pb:
         print('\n'.join('ATTENTION : ' + p for p in pb)); sys.exit(1)
-    print('plan OK')
+    print('plan OK' + (' (briefs vidéo contrôlés)' if briefs else '') + (' + relecture validée' if '--relecture' in sys.argv else ''))

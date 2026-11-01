@@ -12,7 +12,10 @@ brief.json (champs communs) :
 
 Gabarit avant-apres : "carte": {"enseigne": FICTIF (métier + Weber/Martin/Durand/Bernard/Petit), "metier", "avant" ≤ 34, "apres" ≤ 34}
 Gabarit conseil     : "points": 2 à 3 phrases courtes (≤ 70 car.) — une astuce concrète, chaque point commence par un verbe
-Gabarit question    : "reponses": 2 à 3 propositions (≤ 40 car.) — un test / sondage ; la bonne est marquée par "bonne": index
+Gabarit question    : "reponses": 2 à 3 propositions (≤ 40 car.) — un test / sondage. Le titre finit par « ? ».
+                      Aucune réponse n'est cochée ("bonne" est refusé) : un sondage n'a pas de bonne réponse, et un quiz
+                      la révèle sur une slide suivante (type "point", numero = la lettre de la réponse), jamais sur la 1re.
+  Règle n°3 : aucune statistique ni résultat chiffré de nos clients (×3, 100 appels, semestre…) nulle part.
 
 Carrousel ("slides", 3 à 5) : la 1re slide = le brief ci-dessus (accroche), les suivantes :
   {"type": "point", "numero": "1", "titre": ≤ 40, "texte": ≤ 120}   une idée par slide
@@ -22,7 +25,9 @@ import base64, html, json, os, re, sys
 
 ICI = os.path.dirname(os.path.abspath(__file__))
 A = os.path.join(ICI, 'assets')
-PRIX = re.compile(r'€|\bmois\b|centime|euro', re.I)
+sys.path.insert(0, os.path.join(ICI, '..', 'cerveau'))
+import regles_texte  # noqa: E402
+PRIX = regles_texte.PRIX
 GABARITS = ('avant-apres', 'conseil', 'question')
 
 
@@ -32,6 +37,15 @@ def b64(nom):
 
 def verifier(b):
     err = []
+    if b.get('gabarit') == 'question':
+        if 'bonne' in b: err.append('« bonne » refusé : aucune réponse cochée sur la slide question (révéler sur une slide suivante)')
+        if not b.get('titre', '').rstrip().endswith('?'): err.append('gabarit question : le titre doit finir par « ? »')
+    for k, v in b.items():
+        if isinstance(v, str): err += regles_texte.problemes(v, k)
+    for k in ('points', 'reponses'):
+        for i, v in enumerate(b.get(k) or [], 1): err += regles_texte.problemes(v, f'{k} {i}')
+    for i, sl in enumerate(b.get('slides') or [], 2):
+        err += regles_texte.problemes(sl.get('titre', ''), f'slide {i} titre') + regles_texte.problemes(sl.get('texte', ''), f'slide {i} texte')
     g = b.get('gabarit', 'avant-apres')
     if g not in GABARITS: err.append(f'gabarit inconnu « {g} »')
     for k, n in (('surtitre', 60), ('titre', 60), ('question', 90)):
@@ -92,37 +106,45 @@ mark{background:linear-gradient(transparent 62%,#cfe3d6 62%);color:#1f6b4a;paddi
 .pt{width:16px;height:16px;border-radius:50%;flex:none}
 .avant .pt{background:#f2b63c} .apres .pt{background:#1f6b4a}
 .badge{position:absolute;top:-26px;right:40px;background:#1f6b4a;color:#fff;font-weight:700;font-size:24px;padding:12px 20px;border-radius:30px}
-.points{position:absolute;left:110px;right:110px;bottom:120px}
-.point{display:flex;gap:26px;align-items:flex-start;background:#fff;border-radius:24px;padding:30px 34px;margin-top:22px;
-  box-shadow:0 20px 40px rgba(22,32,27,.08);font-size:34px;line-height:1.25}
+.points{position:absolute;left:100px;right:100px;bottom:150px}
+.point{display:flex;gap:26px;align-items:flex-start;background:#fff;border-radius:24px;padding:36px 38px;margin-top:26px;
+  box-shadow:0 20px 40px rgba(22,32,27,.08);font-size:38px;line-height:1.25}
 .num{font-family:B;font-weight:800;font-size:40px;color:#1f6b4a;min-width:52px}
-.rep{display:flex;align-items:center;gap:22px;background:#fff;border:3px solid #e2e7e3;border-radius:22px;padding:28px 34px;margin-top:22px;font-size:34px}
+.rep{display:flex;align-items:center;gap:22px;background:#fff;border:3px solid #e2e7e3;border-radius:22px;padding:34px 38px;margin-top:26px;font-size:38px}
 .rep.bonne{border-color:#1f6b4a;background:#e7f0ea;font-weight:700}
 .case{width:40px;height:40px;border-radius:12px;border:3px solid #9aa89f;flex:none}
 .rep.bonne .case{background:#1f6b4a;border-color:#1f6b4a}
 .slidenum{position:absolute;top:84px;right:80px;font-size:28px;color:#5b665f;font-weight:600}
 .big{font-family:B;font-weight:800;font-size:200px;color:#cfe3d6;position:absolute;left:80px;top:300px;line-height:1}
-h2{font-family:B;font-weight:700;font-size:76px;line-height:1.05;letter-spacing:-1.5px;margin-top:300px;position:relative}
-.texte{font-size:40px;line-height:1.3;margin-top:40px;color:#3b4740;position:relative}
-.fin h2{margin-top:260px;color:#1f6b4a}
+h2{font-family:B;font-weight:700;font-size:84px;line-height:1.05;letter-spacing:-1.5px;margin-top:300px;position:relative}
+.texte{font-size:46px;line-height:1.3;margin-top:44px;color:#3b4740;position:relative}
+.fin h2{margin-top:300px;color:#1f6b4a;font-size:96px}
+.fin .texte{font-size:50px}
 .suivez{position:absolute;left:80px;bottom:110px;font-size:30px;color:#3b4740}
 """
 
 
+def typo(t):
+    """Typographie française : espace insécable avant ? ! : ; et après « / avant » (pas de « ? » orphelin en début de ligne)."""
+    t = html.escape(t)
+    t = re.sub(r' ([?!:;»])', r'&nbsp;\1', t)
+    return t.replace('« ', '«&nbsp;')
+
+
 def entete(b):
-    t = html.escape(b['titre'])
+    t = typo(b['titre'])
     if b.get('mot'):
-        m = html.escape(b['mot']); t = t.replace(m, f'<mark>{m}</mark>', 1)
+        m = typo(b['mot']); t = t.replace(m, f'<mark>{m}</mark>', 1)
     cta = b.get('cta', 'offre')
     if cta == 'offre':
         bas = '<div class="cta"><span class="btn">Essayez gratuitement</span><span class="mention">Sans engagement</span></div>'
     elif cta == 'question':
-        bas = f'<p class="q">{html.escape(b["question"])}</p>'
+        bas = f'<p class="q">{typo(b["question"])}</p>'
     else:
         bas = ''
     petit = ' class="petit"' if len(b['titre']) > 48 else ''
     return f'''<div class="wrap"><div class="marque"><img src="data:image/svg+xml;base64,{b64('logo.svg')}">Proenligne</div>
-<p class="sur">{html.escape(b['surtitre'])}</p><h1{petit}>{t}</h1>{bas}</div>'''
+<p class="sur">{typo(b['surtitre'])}</p><h1{petit}>{t}</h1>{bas}</div>'''
 
 
 def corps(b):
@@ -133,11 +155,10 @@ def corps(b):
 <div class="ent">{c['enseigne']}</div><div class="met"><b>★★★★★</b> · {c['metier']}</div>
 <div class="ligne avant"><span class="pt"></span>{c['avant']}</div><div class="ligne apres"><span class="pt"></span>{c['apres']}</div></div>'''
     if g == 'conseil':
-        return '<div class="points">' + ''.join(f'<div class="point"><span class="num">{i}</span><span>{html.escape(p)}</span></div>'
+        return '<div class="points">' + ''.join(f'<div class="point"><span class="num">{i}</span><span>{typo(p)}</span></div>'
                                               for i, p in enumerate(b['points'], 1)) + '</div>'
-    bonne = b.get('bonne')
-    return '<div class="points">' + ''.join(f'<div class="rep{" bonne" if i == bonne else ""}"><span class="case"></span>{html.escape(r)}</div>'
-                                          for i, r in enumerate(b['reponses'])) + '</div>'
+    return '<div class="points">' + ''.join(f'<div class="rep"><span class="case"></span>{typo(r)}</div>'
+                                          for r in b['reponses']) + '</div>'
 
 
 def doc(inner):
@@ -152,7 +173,7 @@ def page_slide(s, i, n, offre=False):
     cls = 'fin' if s['type'] == 'fin' else ''
     num = f'<div class="big">{html.escape(str(s.get("numero", i - 1)))}</div>' if s['type'] == 'point' else ''
     return doc(f'''<div class="wrap {cls}"><div class="marque"><img src="data:image/svg+xml;base64,{b64('logo.svg')}">Proenligne</div>
-<div class="slidenum">{i} / {n}</div>{num}<h2>{html.escape(s['titre'])}</h2><p class="texte">{html.escape(s['texte'])}</p></div>
+<div class="slidenum">{i} / {n}</div>{num}<h2>{typo(s['titre'])}</h2><p class="texte">{typo(s['texte'])}</p></div>
 <div class="suivez">{('Votre fiche Google, animée chaque semaine · Essayez gratuitement' if offre else 'Votre fiche Google, animée chaque semaine') if s['type'] == 'fin' else 'Proenligne · fiche Google'}</div>''')
 
 
