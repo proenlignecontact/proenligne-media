@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-01T15:59:27.328Z",
+    "generatedAt": "2026-11-01T16:22:12.913Z",
     "days": 60,
     "channels": [
         {
@@ -9,57 +9,8 @@
             "profile": "proenligne",
             "disabled": false,
             "stats": {
-                "available": true,
-                "metrics": [
-                    {
-                        "metric": "Followers",
-                        "latest": 0,
-                        "sum": 0,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Following",
-                        "latest": 6,
-                        "sum": 6,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Total Likes",
-                        "latest": 1,
-                        "sum": 1,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Videos",
-                        "latest": 2,
-                        "sum": 2,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Views",
-                        "latest": 863,
-                        "sum": 863,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Recent Likes",
-                        "latest": 1,
-                        "sum": 1,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Recent Comments",
-                        "latest": 0,
-                        "sum": 0,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Recent Shares",
-                        "latest": 0,
-                        "sum": 0,
-                        "percentageChange": 0
-                    }
-                ]
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
             }
         },
         {
@@ -246,33 +197,8 @@
             "url": "https://www.tiktok.com/@proenligne/video/7702937693541485857",
             "content": "\u00c9lectriciens : ce soir, vous \u00eates 3e sur Google. Aucune photo depuis 2021. Vous restez dans l'ombre.\n\nProenligne fait vivre votre fiche Google chaque semaine, sans que vous y pensiez.\n\n\ud83d\udc49 Essayez Proenligne gratuitement, puis d\u00e8s 14,99 \u20ac/mois, sans engagement.\n\n#GoogleBusinessProfile",
             "stats": {
-                "available": true,
-                "metrics": [
-                    {
-                        "metric": "Views",
-                        "latest": 776,
-                        "sum": 776,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Likes",
-                        "latest": 1,
-                        "sum": 1,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Comments",
-                        "latest": 0,
-                        "sum": 0,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Shares",
-                        "latest": 0,
-                        "sum": 0,
-                        "percentageChange": 0
-                    }
-                ]
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
             }
         },
         {
