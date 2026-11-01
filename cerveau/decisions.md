@@ -61,3 +61,8 @@ Chaque lot hebdomadaire ajoute ici ses décisions, avec le chiffre qui les justi
 - **Vérificateur étendu** : mix, premier commentaire, rotation des formats texte et des gabarits visuels, ton ≤ 5 par semaine, ressemblance des accroches contre toutes les fiches, entrées A/B acceptées.
 - **Semaine du 2/11 corrigée** : 7 posts YouTube recréés en vertical (Shorts) avec premier commentaire ; 7 Reels Facebook ajoutés à 19:00.
 - **Non retenu** (choix de Maxime) : séries récurrentes avec un personnage fictif ; LinkedIn depuis un profil personnel. **Impossible via Postiz** : réponse aux commentaires, sons tendance TikTok (compte Business requis).
+
+## 2026-11-01 17 h — Semaine du 2/11 remise à zéro pour tester le nouveau pipeline
+
+- Les 61 posts programmés à la main (31/10 et 1/11) ont été supprimés de Postiz ; fiches, plan, médias et rapport de la semaine retirés du dépôt (jamais publiés, donc sans valeur statistique).
+- La tâche hebdomadaire est déclenchée manuellement pour produire la semaine entière selon la nouvelle consigne (mix 70/20/10, carrousels, premiers commentaires, A/B, heures variées). Objectif : contrôler la conformité des posts générés sans intervention humaine.
