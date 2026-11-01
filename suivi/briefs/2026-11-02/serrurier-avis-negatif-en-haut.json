@@ -1,0 +1,55 @@
+{
+ "slug": "serrurier-avis-negatif-en-haut",
+ "label": "Un avis négatif en haut",
+ "metier": "serrurier",
+ "angle": "gain de temps",
+ "ingredients": {
+  "symptome": "avis-negatif-seul",
+  "contexte": "une urgence le soir, le client cherche vite et appelle le premier résultat crédible",
+  "client": "une étudiante au budget serré",
+  "ton": "question directe au spectateur"
+ },
+ "probleme": "Un dimanche soir, une étudiante bloquée dehors ouvre la fiche Google de Serrurerie Durand et tombe d'abord sur un avis à une étoile resté sans réponse, alors que les avis suivants sont excellents.",
+ "accroches": [
+  "Bloqué dehors, que pense un client devant l'avis à une étoile de votre fiche Google ?"
+ ],
+ "suite": "Sous cet avis négatif, votre fiche Google ne montre rien.",
+ "suite_mot": "ne montre rien",
+ "reveil": "Proenligne prépare la réponse, vous validez",
+ "reveil_sous": "Une réponse calme, relue par vous avant d'être publiée. Comment répondez-vous à un avis négatif ?",
+ "corps": "Un avis négatif sans réponse sur votre fiche Google, c'est souvent lui qu'on remarque. Proenligne rédige une réponse calme que vous validez, et répond à chaque avis.",
+ "notifs": [
+  "Réponse à Hugo, prête à valider",
+  "Réponse envoyée à Sophie",
+  "Réponse envoyée à Paul"
+ ],
+ "desc": {
+  "Accroche": "Une cliente bloquée dehors ouvre la fiche Google d’un serrurier.",
+  "Contraste": "Un avis à une étoile resté sans réponse est cerclé en ambre.",
+  "Reveil": "Une réponse calme est validée, les autres avis reçoivent la leur.",
+  "Offre": "Le logo Proenligne apparaît avec la promesse et l'essai gratuit."
+ },
+ "scene": {
+  "type": "avis",
+  "avis": [
+   {
+    "prenom": "Hugo",
+    "etoiles": 1,
+    "texte": "Le serrurier est arrivé bien après l'heure annoncée.",
+    "reponse": "Bonjour Hugo, désolés pour l'attente. Appelez-nous, parlons-en."
+   },
+   {
+    "prenom": "Sophie",
+    "etoiles": 5,
+    "texte": "Il est venu vite un dimanche soir et le travail était propre.",
+    "reponse": "Merci Sophie, ravis d'avoir pu vous aider ce dimanche."
+   },
+   {
+    "prenom": "Paul",
+    "etoiles": 4,
+    "texte": "La serrure a été changée sans souci, le rendez-vous tenu.",
+    "reponse": "Merci Paul, bonne continuation avec votre nouvelle serrure."
+   }
+  ]
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "autoecole-bonne-note-sans-vie",
+ "label": "Bonne note, aucun signe de vie",
+ "metier": "autoecole",
+ "angle": "gain de temps",
+ "ingredients": {
+  "symptome": "note-sans-contexte",
+  "contexte": "un parent compare les auto-écoles avant d’inscrire sa fille",
+  "client": "un père de famille",
+  "ton": "avant / après"
+ },
+ "probleme": "Un père qui cherche une auto-école pour sa fille voit la bonne note de l'Auto-école Petit sur sa fiche Google, mais aucune photo ni publication depuis 2021, et se demande si l'école accepte encore des élèves.",
+ "accroches": [
+  "Avant, votre fiche Google avait une bonne note et aucun signe de vie récent."
+ ],
+ "suite": "Les parents voient une fiche Google figée depuis 2021.",
+ "suite_mot": "figée depuis 2021",
+ "reveil": "Après, Proenligne fait vivre votre fiche Google",
+ "reveil_sous": "Une photo paraît le lundi, un article sur le code le jeudi, et chaque avis reçoit sa réponse.",
+ "corps": "Une bonne note ne suffit pas à rassurer si rien ne bouge sur votre fiche Google. Proenligne publie une photo le lundi, un article le jeudi et répond à chaque avis.",
+ "notifs": [
+  "Photo publiée, voiture école",
+  "Article publié, réussir son code",
+  "Réponse envoyée à Inès"
+ ],
+ "desc": {
+  "Accroche": "Un parent ouvre la fiche Google d’une auto-école bien notée.",
+  "Contraste": "La ligne qui montre que rien n’a été publié depuis 2021 est cerclée en ambre.",
+  "Reveil": "Photo, article et réponse font revivre la fiche Google.",
+  "Offre": "Le logo Proenligne apparaît avec la promesse et l'essai gratuit."
+ },
+ "scene": {
+  "type": "fiche",
+  "infos": [
+   {
+    "label": "Photos",
+    "avant": "Aucune depuis 2021",
+    "apres": "Photo publiée lundi"
+   },
+   {
+    "label": "Actualités",
+    "avant": "Rien de publié",
+    "apres": "Article sur le code"
+   },
+   {
+    "label": "Avis",
+    "avant": "Inès sans réponse",
+    "apres": "Réponse envoyée"
+   }
+  ]
+ }
+}

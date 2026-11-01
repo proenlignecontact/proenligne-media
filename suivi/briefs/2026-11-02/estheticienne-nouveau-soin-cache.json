@@ -1,0 +1,58 @@
+{
+ "slug": "estheticienne-nouveau-soin-cache",
+ "label": "Un nouveau soin jamais annoncé",
+ "metier": "estheticienne",
+ "angle": "peur de perdre",
+ "ingredients": {
+  "symptome": "pas-de-nouveaute",
+  "contexte": "un client fidèle cherche un soin et ne le trouve pas",
+  "client": "une cliente fidèle",
+  "ton": "scène vécue au présent"
+ },
+ "probleme": "L'esthéticienne de l'Institut Bernard propose depuis peu un rehaussement de cils, mais le soir, après une journée pleine, elle n'a toujours pas trouvé le temps de l'annoncer sur sa fiche Google, et une cliente fidèle part le faire ailleurs.",
+ "accroches": [
+  "Il est 22 h. La cabine est rangée, mais votre nouveau soin manque sur votre fiche Google."
+ ],
+ "suite": "Votre fiche Google ignore encore votre nouveau soin.",
+ "suite_mot": "votre nouveau soin",
+ "reveil": "Proenligne publie un article chaque jeudi",
+ "reveil_sous": "Un article le jeudi présente votre nouveau soin. Lequel aimeriez-vous mettre en avant ?",
+ "corps": "Une nouveauté qui n'est pas annoncée sur votre fiche Google reste invisible pour les clientes qui cherchent. Proenligne publie un article le jeudi, une photo le lundi et répond à chaque avis.",
+ "notifs": [
+  "Article publié, nouveau soin du regard",
+  "Photo publiée, cabine prête",
+  "Réponse envoyée à Léa"
+ ],
+ "desc": {
+  "Accroche": "La journée d'une esthéticienne, pleine du matin au soir.",
+  "Contraste": "L'annonce du nouveau soin attend toujours, cerclée en ambre.",
+  "Reveil": "L'annonce est publiée par Proenligne.",
+  "Offre": "Le logo Proenligne apparaît avec la promesse et l'essai gratuit."
+ },
+ "scene": {
+  "type": "journee",
+  "heures": [
+   {
+    "heure": "9 h",
+    "texte": "Soin du visage",
+    "google": false
+   },
+   {
+    "heure": "12 h",
+    "texte": "Pause rapide en cabine",
+    "google": false
+   },
+   {
+    "heure": "16 h",
+    "texte": "Épilation et manucure",
+    "google": false
+   },
+   {
+    "heure": "22 h",
+    "texte": "Annoncer le nouveau soin",
+    "google": true
+   }
+  ],
+  "fin": "Soirée tranquille"
+ }
+}

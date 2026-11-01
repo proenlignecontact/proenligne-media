@@ -1,0 +1,52 @@
+{
+ "slug": "paysagiste-fiche-endormie-hiver",
+ "label": "Fiche Google endormie l'hiver",
+ "metier": "paysagiste",
+ "angle": "peur de perdre",
+ "ingredients": {
+  "symptome": "aucune-publication",
+  "contexte": "fin de journée, l'artisan rentre et la fiche passe encore après tout le reste",
+  "client": "une étudiante au budget serré",
+  "ton": "scène vécue au présent"
+ },
+ "probleme": "Un soir de novembre, une étudiante qui loue une petite maison avec jardin ouvre la fiche Google de Paysages Martin pour faire tailler ses haies, ne voit rien de publié depuis le printemps et se demande s'il travaille encore l'hiver.",
+ "accroches": [
+  "Il est 20 h. Une cliente cherche un paysagiste et ouvre votre fiche Google."
+ ],
+ "suite": "Votre fiche Google n'a plus bougé depuis le printemps.",
+ "suite_mot": "depuis le printemps",
+ "reveil": "Proenligne publie sur votre fiche Google",
+ "reveil_sous": "Une photo paraît le lundi, un article le jeudi, même l'hiver. Votre dernière publication date de quand ?",
+ "corps": "En hiver, une fiche Google sans nouvelles donne l'impression que l'entreprise est en pause. Proenligne publie une photo le lundi et un article le jeudi, et répond à chaque avis.",
+ "notifs": [
+  "Photo d'une haie taillée publiée",
+  "Article sur l'entretien d'hiver publié",
+  "Réponse envoyée à l'avis de Sophie"
+ ],
+ "desc": {
+  "Accroche": "Une cliente ouvre la fiche Google d'un paysagiste un soir de novembre.",
+  "Contraste": "La dernière publication, qui date du printemps, est cerclée en ambre.",
+  "Reveil": "Une photo, un article et une réponse à un avis arrivent, et la fiche Google reprend vie.",
+  "Offre": "Le logo Proenligne apparaît avec la promesse et l'essai gratuit."
+ },
+ "scene": {
+  "type": "fiche",
+  "infos": [
+   {
+    "label": "Actualités",
+    "avant": "Rien depuis le printemps",
+    "apres": "Article publié jeudi"
+   },
+   {
+    "label": "Photos",
+    "avant": "Tonte du printemps",
+    "apres": "Haie taillée lundi"
+   },
+   {
+    "label": "Avis",
+    "avant": "Sophie attend sa réponse",
+    "apres": "Réponse envoyée"
+   }
+  ]
+ }
+}

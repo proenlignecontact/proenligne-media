@@ -1,0 +1,547 @@
+{
+ "empreinte": "0af736436975423e",
+ "verdicts": [
+  {
+   "id": "e001",
+   "verdict": "ok"
+  },
+  {
+   "id": "e002",
+   "verdict": "refuse",
+   "motif": "Contradiction avec le visuel du même post, qui propose une photo, des horaires et un avis avec réponse, alors que le commentaire cite « la note ».",
+   "proposition": "Faites le test et dites-nous ce que vous avez remarqué en premier sur votre fiche Google. La photo, les horaires ou le dernier avis ?"
+  },
+  {
+   "id": "e003",
+   "verdict": "ok"
+  },
+  {
+   "id": "e004",
+   "verdict": "ok"
+  },
+  {
+   "id": "e005",
+   "verdict": "ok"
+  },
+  {
+   "id": "e006",
+   "verdict": "ok"
+  },
+  {
+   "id": "e007",
+   "verdict": "ok"
+  },
+  {
+   "id": "e008",
+   "verdict": "ok"
+  },
+  {
+   "id": "e009",
+   "verdict": "ok"
+  },
+  {
+   "id": "e010",
+   "verdict": "ok"
+  },
+  {
+   "id": "e011",
+   "verdict": "ok"
+  },
+  {
+   "id": "e012",
+   "verdict": "ok"
+  },
+  {
+   "id": "e013",
+   "verdict": "refuse",
+   "motif": "« ce sont les photos qu'on regarde d'abord » est présenté comme une certitude invérifiable sur le comportement des clients.",
+   "proposition": "Vos plus belles coupes dorment dans votre téléphone au lieu d'être sur votre fiche Google.\n\nQuand quelqu'un tape « coiffeur près de moi », Google affiche des fiches avec des photos, des avis et des horaires. La vôtre en fait partie, et ce sont souvent les photos qu'on regarde en premier.\n\nVoici trois réflexes qui prennent deux minutes.\n1. Photographiez la coupe près de la vitrine, à la lumière du jour, sans flash.\n2. Demandez l'accord de la cliente. Beaucoup sont flattées qu'on leur pose la question.\n3. Publiez la photo sur votre fiche Google le soir même, pendant que vous y pensez.\n\nAu salon, qui prend les photos des coupes, vous ou quelqu'un de l'équipe ?\n\n#FicheGoogle #Coiffeur #Coiffure #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "id": "e014",
+   "verdict": "ok"
+  },
+  {
+   "id": "e015",
+   "verdict": "ok"
+  },
+  {
+   "id": "e016",
+   "verdict": "ok"
+  },
+  {
+   "id": "e017",
+   "verdict": "ok"
+  },
+  {
+   "id": "e018",
+   "verdict": "ok"
+  },
+  {
+   "id": "e019",
+   "verdict": "ok"
+  },
+  {
+   "id": "e020",
+   "verdict": "ok"
+  },
+  {
+   "id": "e021",
+   "verdict": "ok"
+  },
+  {
+   "id": "e022",
+   "verdict": "ok"
+  },
+  {
+   "id": "e023",
+   "verdict": "ok"
+  },
+  {
+   "id": "e024",
+   "verdict": "ok"
+  },
+  {
+   "id": "e025",
+   "verdict": "ok"
+  },
+  {
+   "id": "e026",
+   "verdict": "ok"
+  },
+  {
+   "id": "e027",
+   "verdict": "ok"
+  },
+  {
+   "id": "e028",
+   "verdict": "ok"
+  },
+  {
+   "id": "e029",
+   "verdict": "ok"
+  },
+  {
+   "id": "e030",
+   "verdict": "ok"
+  },
+  {
+   "id": "e031",
+   "verdict": "ok"
+  },
+  {
+   "id": "e032",
+   "verdict": "ok"
+  },
+  {
+   "id": "e033",
+   "verdict": "ok"
+  },
+  {
+   "id": "e034",
+   "verdict": "refuse",
+   "motif": "La fiche Google n'est pas expliquée dans la légende, et « Rien n'est publié depuis le printemps » se lit mal (temps du verbe).",
+   "proposition": "Il est 20 h. Une cliente cherche un paysagiste pour ses haies et ouvre votre fiche Google, l'encadré que Google affiche avec vos photos et vos avis.\nRien n'y a été publié depuis le printemps. Elle se demande si vous travaillez encore l'hiver.\n\n#FicheGoogle #Paysagiste #Jardin"
+  },
+  {
+   "id": "e035",
+   "verdict": "refuse",
+   "motif": "« elle voit une pelouse en plein été » se comprend mal (on est en novembre) et contredit « rien de publié depuis le printemps » ainsi que la scène suite « n'a plus bougé depuis le printemps ».",
+   "proposition": "Il est 20 h. Une cliente cherche un paysagiste pour ses haies et ouvre votre fiche Google.\n\nVotre fiche Google, c'est ce qui s'affiche quand quelqu'un tape « paysagiste » sur Google Maps, avec vos photos, vos avis et vos publications.\n\nCe soir-là, la dernière photo montre une pelouse tondue au printemps, et rien n'a été publié depuis. Elle se demande si vous travaillez encore l'hiver, et elle continue de chercher.\n\nL'hiver, il y a pourtant de quoi montrer. Une taille de haie, un ramassage de feuilles, une plantation d'arbres.\n\nQue publiez-vous sur votre fiche Google pendant l'hiver ?\n\n#FicheGoogle #Paysagiste #Jardin #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "id": "e036",
+   "verdict": "refuse",
+   "motif": "« ouvre sa fiche Google » est ambigu (on croit qu'il s'agit de la fiche de la cliente) et contredit « votre fiche Google » des autres textes du post.",
+   "proposition": "Il est 20 h. Une cliente cherche un paysagiste et ouvre votre fiche Google. Rien n'y a été publié depuis le printemps.\n\nLa fiche Google, c'est la carte de visite que Google montre à votre place, avec vos photos, vos avis et vos publications. En hiver, quand elle ne bouge plus, on peut croire que l'entreprise est en pause.\n\nProenligne publie une photo le lundi et un article le jeudi, et répond à chaque avis, même l'hiver.\n\nEt vous, que montrez-vous sur votre fiche Google en novembre ?\n\n#FicheGoogle #Paysagiste #Jardin"
+  },
+  {
+   "id": "e037",
+   "verdict": "ok"
+  },
+  {
+   "id": "e038",
+   "verdict": "ok"
+  },
+  {
+   "id": "e039",
+   "verdict": "ok"
+  },
+  {
+   "id": "e040",
+   "verdict": "refuse",
+   "motif": "La fiche Google n'est ni expliquée ni située dans ce texte X, contrairement à la règle n°1.",
+   "proposition": "Pendant que vous êtes sur un chantier, votre fiche Google, l'encadré de Google avec vos horaires, affiche peut-être encore « Fermé ».\n\nUn client sans courant appelle alors un autre électricien.\n\nVos horaires sont-ils à jour ?\n\n#FicheGoogle #Electricien"
+  },
+  {
+   "id": "e041",
+   "verdict": "ok"
+  },
+  {
+   "id": "e042",
+   "verdict": "ok"
+  },
+  {
+   "id": "e043",
+   "verdict": "refuse",
+   "motif": "Injonction qui suppose que l'artisan a laissé des horaires de vacances, une question honnête convient mieux.",
+   "proposition": "Vos horaires de vacances sont-ils encore affichés ?"
+  },
+  {
+   "id": "e044",
+   "verdict": "ok"
+  },
+  {
+   "id": "e045",
+   "verdict": "ok"
+  },
+  {
+   "id": "e046",
+   "verdict": "ok"
+  },
+  {
+   "id": "e047",
+   "verdict": "ok"
+  },
+  {
+   "id": "e048",
+   "verdict": "ok"
+  },
+  {
+   "id": "e049",
+   "verdict": "ok"
+  },
+  {
+   "id": "e050",
+   "verdict": "refuse",
+   "motif": "La fiche Google est nommée mais pas expliquée au début du post (règle n°1).",
+   "proposition": "La même boulangerie peut avoir deux visages sur sa fiche Google. Lequel donne faim ?\n\nLa fiche Google, c'est l'encadré qui s'affiche quand on cherche « boulangerie » sur Google Maps, avec la note, les photos et les horaires.\n\nPrenons une boulangerie imaginaire, la boulangerie Durand.\n\nAvant, sa fiche Google n'avait qu'une photo, une vitrine vide prise un soir après la fermeture.\n\nAprès, une photo de la fournée du matin arrive chaque lundi. On voit les baguettes, les viennoiseries et l'équipe derrière le comptoir.\n\nLe pain est le même et la note aussi. Ce qui change, c'est ce que le client voit avant de choisir où s'arrêter.\n\nVous, vous entreriez dans laquelle ?\n\n#FicheGoogle #Boulangerie #Boulanger #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "id": "e051",
+   "verdict": "refuse",
+   "motif": "Plusieurs phrases sans verbe (« Avant, une seule photo… », « Après, une photo… publiée… », « Même pain, même note. »), style télégraphique.",
+   "proposition": "La même boulangerie peut avoir deux visages sur sa fiche Google. Lequel donne faim ?\n\nCherchez « boulangerie » dans votre ville. Les encadrés avec une note et des photos sont des fiches Google. C'est souvent là que se joue le choix du croissant du dimanche.\n\nVoici une boulangerie imaginaire, la boulangerie Durand, en deux versions.\nAvant, sa fiche Google n'avait qu'une photo, une vitrine vide prise un soir après la fermeture.\nAprès, une photo de la fournée du matin est publiée chaque lundi, avec les baguettes, les viennoiseries et l'équipe.\n\nLe pain est le même, la note aussi. Seule la vitrine sur Google a changé.\n\nLaquelle vous donnerait envie d'entrer ?\n\n#FicheGoogle #Boulangerie #Boulanger #ReferencementLocal"
+  },
+  {
+   "id": "e052",
+   "verdict": "ok"
+  },
+  {
+   "id": "e053",
+   "verdict": "ok"
+  },
+  {
+   "id": "e054",
+   "verdict": "ok"
+  },
+  {
+   "id": "e055",
+   "verdict": "ok"
+  },
+  {
+   "id": "e056",
+   "verdict": "ok"
+  },
+  {
+   "id": "e057",
+   "verdict": "ok"
+  },
+  {
+   "id": "e058",
+   "verdict": "ok"
+  },
+  {
+   "id": "e059",
+   "verdict": "ok"
+  },
+  {
+   "id": "e060",
+   "verdict": "ok"
+  },
+  {
+   "id": "e061",
+   "verdict": "ok"
+  },
+  {
+   "id": "e062",
+   "verdict": "ok"
+  },
+  {
+   "id": "e063",
+   "verdict": "refuse",
+   "motif": "La première phrase n'a pas de verbe.",
+   "proposition": "Chaque lundi, une photo de la fournée du matin est publiée. On y voit les baguettes, les viennoiseries et l'équipe."
+  },
+  {
+   "id": "e064",
+   "verdict": "ok"
+  },
+  {
+   "id": "e065",
+   "verdict": "ok"
+  },
+  {
+   "id": "e066",
+   "verdict": "ok"
+  },
+  {
+   "id": "e067",
+   "verdict": "refuse",
+   "motif": "« ou vous n'osez pas regarder ? » est légèrement moqueur et culpabilisant.",
+   "proposition": "Garagistes, combien d'avis attendent une réponse sur votre fiche Google en ce moment ? Aucun, quelques-uns ou beaucoup ?"
+  },
+  {
+   "id": "e068",
+   "verdict": "refuse",
+   "motif": "« Garage, ces avis… » s'adresse au garage et non au garagiste, « ces avis » n'a pas d'antécédent, et l'affirmation gagne à être une question.",
+   "proposition": "Garagiste, vos avis sans réponse sur votre fiche Google font-ils douter vos clients ?"
+  },
+  {
+   "id": "e069",
+   "verdict": "ok"
+  },
+  {
+   "id": "e070",
+   "verdict": "refuse",
+   "motif": "La fiche Google n'est pas expliquée dans la légende (règle n°1).",
+   "proposition": "« Ce garage ne répond jamais ? » C'est ce que se demande un client quand les avis de votre fiche Google restent sans réponse. Votre fiche Google, c'est l'encadré que Google affiche avec votre note et vos avis quand on cherche un garage.\n\n#FicheGoogle #Garage #Garagiste #Mecanique"
+  },
+  {
+   "id": "e071",
+   "verdict": "refuse",
+   "motif": "« tout le monde les lit » est une généralisation invérifiable, et la réponse citée diffère de celle affichée dans la vidéo (« ravis… ce samedi »).",
+   "proposition": "« Ce garage ne répond jamais ? » se demande un client devant votre fiche Google.\n\nSur Google Maps, chaque garage a sa fiche Google, avec la note, les avis et le bouton Appeler. Les avis, la plupart des clients les lisent. Les réponses aussi.\n\nTrois bons avis sans un mot en dessous, et le nouveau client se demande si quelqu'un lit ce qu'écrivent les clients.\n\nRépondre prend une phrase. « Merci Karim, ravis d'avoir pu vous dépanner ce samedi. »\n\nCombien d'avis attendent une réponse sur votre fiche Google ?\n\n#FicheGoogle #Garage #Garagiste #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "id": "e072",
+   "verdict": "refuse",
+   "motif": "« pleine de bons avis » contredit les trois avis montrés dans la vidéo et les autres textes du post.",
+   "proposition": "« Ce garage ne répond jamais ? » C'est la question d'un client devant une fiche Google où trois bons avis restent sans réponse.\n\nVotre fiche Google, c'est ce que vos clients voient en premier quand ils cherchent « garage » sur Google Maps. Les réponses aux avis montrent qu'une vraie personne écoute.\n\nProenligne répond à chaque avis, publie une photo le lundi et un article le jeudi.\n\nVous répondez à vos avis, vous ?\n\n#FicheGoogle #Garage #Garagiste"
+  },
+  {
+   "id": "e073",
+   "verdict": "refuse",
+   "motif": "La fiche Google est nommée mais jamais expliquée dans ce texte (règle n°1).",
+   "proposition": "« Ce garage ne répond jamais ? » se demande un client devant votre fiche Google.\n\nIl cherche un garage pour sa révision. Sur votre fiche Google, l'encadré que Google lui montre avec votre note et vos avis, il lit trois bons avis. Aucun n'a de réponse.\n\nCe n'est pas grave en soi, mais ça laisse un doute. Est-ce que quelqu'un lit vraiment ce qu'écrivent les clients ?\n\nUne phrase suffit sous chaque avis, avec un merci, un prénom et un détail.\n\nVous répondez à vos avis le jour même, ou plutôt quand vous avez un moment ?\n\n#FicheGoogle #Garage #Garagiste #ReferencementLocal"
+  },
+  {
+   "id": "e336",
+   "verdict": "ok"
+  },
+  {
+   "id": "e337",
+   "verdict": "ok"
+  },
+  {
+   "id": "e338",
+   "verdict": "ok"
+  },
+  {
+   "id": "e339",
+   "verdict": "ok"
+  },
+  {
+   "id": "e340",
+   "verdict": "ok"
+  },
+  {
+   "id": "e341",
+   "verdict": "refuse",
+   "motif": "« même le samedi » est un trait du service absent des règles éditoriales, la première phrase n'a pas de verbe, et « Combien d'avis attendent chez vous ? » est elliptique.",
+   "proposition": "Chaque avis reçoit une réponse polie et personnelle. Combien d'avis attendent une réponse chez vous ?"
+  },
+  {
+   "id": "e342",
+   "verdict": "ok"
+  },
+  {
+   "id": "e343",
+   "verdict": "ok"
+  },
+  {
+   "id": "e344",
+   "verdict": "ok"
+  },
+  {
+   "id": "e345",
+   "verdict": "ok"
+  },
+  {
+   "id": "e346",
+   "verdict": "ok"
+  },
+  {
+   "id": "e347",
+   "verdict": "ok"
+  },
+  {
+   "id": "e348",
+   "verdict": "refuse",
+   "motif": "Description sans verbe, en style télégraphique.",
+   "proposition": "Trois bons avis restent sans réponse, cerclés en ambre."
+  },
+  {
+   "id": "e349",
+   "verdict": "ok"
+  },
+  {
+   "id": "e350",
+   "verdict": "refuse",
+   "motif": "Description sans verbe, en style télégraphique.",
+   "proposition": "Le logo Proenligne apparaît avec la promesse et l'essai gratuit."
+  },
+  {
+   "id": "e351",
+   "verdict": "ok"
+  },
+  {
+   "id": "e352",
+   "verdict": "ok"
+  },
+  {
+   "id": "e353",
+   "verdict": "ok"
+  },
+  {
+   "id": "e354",
+   "verdict": "ok"
+  },
+  {
+   "id": "e355",
+   "verdict": "ok"
+  },
+  {
+   "id": "e356",
+   "verdict": "refuse",
+   "motif": "Avis mitigé (attente au comptoir) qui contredit « trois bons avis » et « ces clients ravis » du même post.",
+   "proposition": "Bon accueil et devis clair, je recommande ce garage."
+  },
+  {
+   "id": "e357",
+   "verdict": "refuse",
+   "motif": "La réponse doit suivre l'avis réécrit de Léa, qui ne mentionne plus d'attente.",
+   "proposition": "Merci Léa, ravis que le devis vous ait paru clair."
+  },
+  {
+   "id": "e358",
+   "verdict": "ok"
+  },
+  {
+   "id": "e359",
+   "verdict": "ok"
+  },
+  {
+   "id": "e360",
+   "verdict": "ok"
+  },
+  {
+   "id": "e361",
+   "verdict": "ok"
+  },
+  {
+   "id": "e362",
+   "verdict": "ok"
+  },
+  {
+   "id": "e363",
+   "verdict": "ok"
+  },
+  {
+   "id": "e364",
+   "verdict": "ok"
+  },
+  {
+   "id": "e365",
+   "verdict": "refuse",
+   "motif": "La première phrase est une suite de noms sans verbe (style télégraphique).",
+   "proposition": "Une photo arrive chaque lundi et un article chaque jeudi, même l'hiver. Votre dernière publication date de quand ?"
+  },
+  {
+   "id": "e366",
+   "verdict": "ok"
+  },
+  {
+   "id": "e367",
+   "verdict": "ok"
+  },
+  {
+   "id": "e368",
+   "verdict": "refuse",
+   "motif": "Notification télégraphique, « Photo publiée, taille de haie » ne se comprend pas d'emblée.",
+   "proposition": "Photo d'une haie taillée publiée"
+  },
+  {
+   "id": "e369",
+   "verdict": "refuse",
+   "motif": "Notification télégraphique, « Article publié, entretien d'hiver » ne se comprend pas d'emblée.",
+   "proposition": "Article sur l'entretien d'hiver publié"
+  },
+  {
+   "id": "e370",
+   "verdict": "ok"
+  },
+  {
+   "id": "e371",
+   "verdict": "ok"
+  },
+  {
+   "id": "e372",
+   "verdict": "ok"
+  },
+  {
+   "id": "e373",
+   "verdict": "refuse",
+   "motif": "Contradiction, les trois éléments qui arrivent sont une photo, un article et une réponse à un avis, pas trois publications.",
+   "proposition": "Une photo, un article et une réponse à un avis arrivent, et la fiche Google reprend vie."
+  },
+  {
+   "id": "e374",
+   "verdict": "refuse",
+   "motif": "Description sans verbe, en style télégraphique.",
+   "proposition": "Le logo Proenligne apparaît avec la promesse et l'essai gratuit."
+  },
+  {
+   "id": "e375",
+   "verdict": "ok"
+  },
+  {
+   "id": "e376",
+   "verdict": "ok"
+  },
+  {
+   "id": "e377",
+   "verdict": "ok"
+  },
+  {
+   "id": "e378",
+   "verdict": "ok"
+  },
+  {
+   "id": "e379",
+   "verdict": "ok"
+  },
+  {
+   "id": "e380",
+   "verdict": "refuse",
+   "motif": "Contradiction avec la suite « Votre fiche Google n'a plus bougé depuis le printemps », car une photo d'été signifie qu'elle a bougé après le printemps.",
+   "proposition": "Pelouse tondue au printemps"
+  },
+  {
+   "id": "e381",
+   "verdict": "ok"
+  },
+  {
+   "id": "e382",
+   "verdict": "ok"
+  },
+  {
+   "id": "e383",
+   "verdict": "ok"
+  },
+  {
+   "id": "e384",
+   "verdict": "ok"
+  }
+ ]
+}

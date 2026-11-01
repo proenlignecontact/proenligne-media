@@ -1,0 +1,53 @@
+{
+ "slug": "plombier-photos-qui-datent",
+ "label": "Des photos qui datent",
+ "metier": "plombier",
+ "angle": "peur de perdre",
+ "ingredients": {
+  "symptome": "photos-anciennes",
+  "contexte": "l'artisan est en intervention pendant que le client compare",
+  "client": "un jeune couple qui vient d’acheter",
+  "ton": "« pendant que vous… »"
+ },
+ "probleme": "Pendant que Plomberie Weber répare une fuite dans une cuisine, un jeune couple qui vient d'acheter regarde sa fiche Google, ne voit que des photos de 2021 et se demande si l'entreprise existe encore.",
+ "accroches": [
+  "Pendant que vous réparez une fuite, un client regarde les photos de votre fiche Google.",
+  "Sur votre fiche Google, vos photos montrent-elles encore votre travail d'aujourd'hui ?"
+ ],
+ "suite": "Votre fiche Google affiche encore des photos de 2021.",
+ "suite_mot": "photos de 2021",
+ "reveil": "Proenligne publie une photo chaque lundi",
+ "reveil_sous": "Vos derniers chantiers apparaissent sur votre fiche Google. Quelle photo choisiriez-vous en premier ?",
+ "corps": "Des photos anciennes sur votre fiche Google ne montrent pas ce que vous faites aujourd'hui. Proenligne publie une photo chaque lundi, un article le jeudi et répond à chaque avis.",
+ "notifs": [
+  "Photo publiée, chauffe-eau neuf",
+  "Article publié, fuite sous évier",
+  "Réponse envoyée à Thomas"
+ ],
+ "desc": {
+  "Accroche": "Un client fait défiler les photos de la fiche Google d’un plombier.",
+  "Contraste": "La dernière photo, qui date de 2021, est cerclée en ambre.",
+  "Reveil": "Une photo, un article et une réponse remettent la fiche Google à jour.",
+  "Offre": "Le logo Proenligne apparaît avec la promesse et l'essai gratuit."
+ },
+ "scene": {
+  "type": "fiche",
+  "infos": [
+   {
+    "label": "Photos",
+    "avant": "Dernière photo en 2021",
+    "apres": "Photo publiée lundi"
+   },
+   {
+    "label": "Actualités",
+    "avant": "Aucune publication",
+    "apres": "Article publié jeudi"
+   },
+   {
+    "label": "Avis",
+    "avant": "Thomas sans réponse",
+    "apres": "Réponse envoyée"
+   }
+  ]
+ }
+}

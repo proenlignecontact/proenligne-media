@@ -1,0 +1,58 @@
+{
+ "slug": "chauffagiste-soiree-sans-google",
+ "label": "Plus une minute en novembre",
+ "metier": "chauffagiste",
+ "angle": "gain de temps",
+ "ingredients": {
+  "symptome": "fiche-oubliee",
+  "contexte": "saison de chauffe, les dépannages s’enchaînent du matin au soir",
+  "client": "une étudiante au budget serré",
+  "ton": "constat qui pique, en une phrase"
+ },
+ "probleme": "En pleine saison de chauffe, Chauffage Petit enchaîne les dépannages de chaudière du matin au soir et, le soir venu, n'a plus la force de publier la photo prévue sur sa fiche Google.",
+ "accroches": [
+  "En novembre, un chauffagiste n'a plus une minute pour sa fiche Google."
+ ],
+ "suite": "Les chaudières passent avant votre fiche Google.",
+ "suite_mot": "passent avant",
+ "reveil": "Proenligne s'occupe de votre fiche Google",
+ "reveil_sous": "Une photo le lundi, un article le jeudi, une réponse à chaque avis. Essayez gratuitement, sans engagement.",
+ "corps": "En pleine saison de chauffe, la fiche Google passe après les dépannages. Proenligne publie une photo le lundi, un article le jeudi et répond à chaque avis, sans vous prendre une soirée.",
+ "notifs": [
+  "Photo publiée, chaudière remise en route",
+  "Article publié, entretien avant l'hiver",
+  "Réponse envoyée à Nadia"
+ ],
+ "desc": {
+  "Accroche": "L'agenda d'un chauffagiste en novembre, rempli du matin au soir.",
+  "Contraste": "La tâche Google du soir reste en attente, cerclée en ambre.",
+  "Reveil": "La tâche est barrée, car Proenligne s'en charge à la place du chauffagiste.",
+  "Offre": "Le logo Proenligne apparaît avec la promesse et l'essai gratuit."
+ },
+ "scene": {
+  "type": "journee",
+  "heures": [
+   {
+    "heure": "8 h",
+    "texte": "Chaudière en panne",
+    "google": false
+   },
+   {
+    "heure": "12 h",
+    "texte": "Sandwich dans le camion",
+    "google": false
+   },
+   {
+    "heure": "17 h",
+    "texte": "Entretien de chaudière",
+    "google": false
+   },
+   {
+    "heure": "21 h",
+    "texte": "Photo pour la fiche Google",
+    "google": true
+   }
+  ],
+  "fin": "Soirée en famille"
+ }
+}

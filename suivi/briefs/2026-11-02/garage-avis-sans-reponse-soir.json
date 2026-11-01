@@ -1,0 +1,56 @@
+{
+ "slug": "garage-avis-sans-reponse-soir",
+ "label": "Avis sans réponse au garage",
+ "metier": "garage",
+ "angle": "gain de temps",
+ "ingredients": {
+  "symptome": "avis-sans-reponse",
+  "contexte": "un soir, le client compare deux garages avant de prendre rendez-vous",
+  "client": "un jeune conducteur",
+  "ton": "réplique de client, entre guillemets"
+ },
+ "probleme": "Un soir, un jeune conducteur qui cherche un garage pour sa révision ouvre la fiche Google du Garage Bernard, lit trois bons avis restés sans réponse et se demande si quelqu'un lit vraiment ce qu'écrivent les clients.",
+ "accroches": [
+  "« Ce garage ne répond jamais ? » se demande un client devant votre fiche Google.",
+  "Quand chaque avis de votre fiche Google reçoit un merci, vos clients le remarquent."
+ ],
+ "suite": "Ces clients ravis attendent un mot sur votre fiche Google.",
+ "suite_mot": "attendent un mot",
+ "reveil": "Proenligne répond à chaque avis pour vous",
+ "reveil_sous": "Chaque avis reçoit une réponse polie et personnelle. Combien d'avis attendent une réponse chez vous ?",
+ "corps": "Un avis sans réponse sur votre fiche Google laisse croire que personne ne lit. Proenligne répond à chaque avis, publie une photo le lundi et un article le jeudi.",
+ "notifs": [
+  "Réponse envoyée à Karim",
+  "Réponse envoyée à Léa",
+  "Réponse envoyée à Marc"
+ ],
+ "desc": {
+  "Accroche": "Un client lit les avis sur la fiche Google d’un garage.",
+  "Contraste": "Trois bons avis restent sans réponse, cerclés en ambre.",
+  "Reveil": "Une réponse apparaît sous chaque avis.",
+  "Offre": "Le logo Proenligne apparaît avec la promesse et l'essai gratuit."
+ },
+ "scene": {
+  "type": "avis",
+  "avis": [
+   {
+    "prenom": "Karim",
+    "etoiles": 5,
+    "texte": "Dépanné un samedi matin, merci à toute l'équipe !",
+    "reponse": "Merci Karim, ravis d'avoir pu vous dépanner ce samedi."
+   },
+   {
+    "prenom": "Léa",
+    "etoiles": 4,
+    "texte": "Bon accueil et devis clair, je recommande ce garage.",
+    "reponse": "Merci Léa, ravis que le devis vous ait paru clair."
+   },
+   {
+    "prenom": "Marc",
+    "etoiles": 5,
+    "texte": "Révision faite dans la journée, comme promis.",
+    "reponse": "Merci Marc, à l'année prochaine pour la révision !"
+   }
+  ]
+ }
+}

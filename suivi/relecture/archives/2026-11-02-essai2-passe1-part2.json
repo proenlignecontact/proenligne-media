@@ -1,0 +1,543 @@
+{
+ "empreinte": "0af736436975423e",
+ "verdicts": [
+  {
+   "id": "e074",
+   "verdict": "ok"
+  },
+  {
+   "id": "e075",
+   "verdict": "ok"
+  },
+  {
+   "id": "e076",
+   "verdict": "refuse",
+   "motif": "Le texte X ne dit nulle part ce qu'est une fiche Google (règle n°1), et la question finale « que regardez-vous en premier ? » ne précise pas sur quoi ni dans quelle situation.",
+   "proposition": "On pense qu'en urgence, personne ne regarde votre fiche Google. C'est souvent l'inverse.\n\nBloqué dehors, le client ouvre les fiches Google des serruriers sur Google Maps et lit leurs avis.\n\nÀ sa place, que regarderiez-vous en premier ?\n\n#FicheGoogle #Serrurier"
+  },
+  {
+   "id": "e077",
+   "verdict": "refuse",
+   "motif": "La phrase « Un nom et une camionnette en photo, des avis récents, des réponses polies. » est une suite de noms sans verbe, en style télégraphique.",
+   "proposition": "On pense qu'en urgence, personne ne regarde votre fiche Google. C'est souvent l'inverse.\n\nImaginez quelqu'un bloqué devant sa porte un dimanche soir. Il a entendu des histoires de dépannages qui tournent mal. Alors avant d'appeler, il ouvre Google Maps et regarde les fiches Google des serruriers du coin, avec leur note, leurs avis et leurs photos.\n\nIl cherche des signes rassurants, comme un nom et une camionnette en photo, des avis récents et des réponses polies.\n\nL'urgence ne fait pas disparaître la méfiance. Elle la rend plus forte.\n\nSi vous étiez bloqué dehors, qu'est-ce qui vous ferait appeler un serrurier plutôt qu'un autre ?\n\n#FicheGoogle #Serrurier #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "id": "e078",
+   "verdict": "refuse",
+   "motif": "Placé juste au-dessus du titre, « une idée reçue » fait croire que l'idée reçue est « le client vérifie votre fiche Google », soit l'inverse du message du post.",
+   "proposition": "Serruriers, contrairement à une idée reçue"
+  },
+  {
+   "id": "e079",
+   "verdict": "ok"
+  },
+  {
+   "id": "e080",
+   "verdict": "ok"
+  },
+  {
+   "id": "e081",
+   "verdict": "ok"
+  },
+  {
+   "id": "e082",
+   "verdict": "ok"
+  },
+  {
+   "id": "e083",
+   "verdict": "ok"
+  },
+  {
+   "id": "e084",
+   "verdict": "ok"
+  },
+  {
+   "id": "e085",
+   "verdict": "ok"
+  },
+  {
+   "id": "e086",
+   "verdict": "ok"
+  },
+  {
+   "id": "e087",
+   "verdict": "ok"
+  },
+  {
+   "id": "e088",
+   "verdict": "refuse",
+   "motif": "« Trois éléments reviennent souvent dans les échanges avec les gérantes d'institut » est une affirmation invérifiable, présentée comme un retour de terrain. Le texte n'annonce pas non plus les lettres A, B et C que le carrousel demande de choisir.",
+   "proposition": "Quand deux instituts affichent la même note sur leur fiche Google, qu'est-ce qui fait pencher la cliente ?\nLa fiche Google, c'est la présentation que Google affiche quand on cherche « institut de beauté » à proximité.\n\nLa note attire l'œil, mais quand deux adresses voisines ont la même, la cliente fait défiler le reste.\n\nTrois éléments peuvent faire la différence.\nA. Des photos récentes des soins et de la cabine, qui montrent une activité réelle.\nB. Des réponses aux avis, qui montrent qu'une personne lit et prend soin de sa clientèle.\nC. Des horaires lisibles, avec la pause du midi et le samedi bien indiqués.\n\nAucun de ces éléments ne demande de budget. Ils demandent de la régularité, et c'est souvent là que le temps manque. Proenligne s'en charge chaque semaine pour les instituts qui le souhaitent.\n\nSelon vous, lequel pèse le plus dans le choix d'une nouvelle cliente, A, B ou C ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Esthetique #TPE"
+  },
+  {
+   "id": "e089",
+   "verdict": "ok"
+  },
+  {
+   "id": "e090",
+   "verdict": "ok"
+  },
+  {
+   "id": "e091",
+   "verdict": "ok"
+  },
+  {
+   "id": "e092",
+   "verdict": "ok"
+  },
+  {
+   "id": "e093",
+   "verdict": "ok"
+  },
+  {
+   "id": "e094",
+   "verdict": "ok"
+  },
+  {
+   "id": "e095",
+   "verdict": "ok"
+  },
+  {
+   "id": "e096",
+   "verdict": "ok"
+  },
+  {
+   "id": "e097",
+   "verdict": "ok"
+  },
+  {
+   "id": "e098",
+   "verdict": "ok"
+  },
+  {
+   "id": "e099",
+   "verdict": "ok"
+  },
+  {
+   "id": "e100",
+   "verdict": "ok"
+  },
+  {
+   "id": "e101",
+   "verdict": "ok"
+  },
+  {
+   "id": "e102",
+   "verdict": "ok"
+  },
+  {
+   "id": "e103",
+   "verdict": "ok"
+  },
+  {
+   "id": "e104",
+   "verdict": "ok"
+  },
+  {
+   "id": "e105",
+   "verdict": "ok"
+  },
+  {
+   "id": "e106",
+   "verdict": "refuse",
+   "motif": "« Chauffagiste, plus une minute pour votre fiche Google ? » n'a pas de verbe et se lit comme un télégramme.",
+   "proposition": "Chauffagiste, avez-vous encore une minute pour votre fiche Google ?"
+  },
+  {
+   "id": "e107",
+   "verdict": "refuse",
+   "motif": "La légende TikTok ne dit pas ce qu'est une fiche Google (règle n°1), et la vidéo ne l'explique pas non plus. « Publie à votre place » ne dit pas non plus ce qui est publié.",
+   "proposition": "En novembre, un chauffagiste n'a plus une minute pour sa fiche Google.\nC'est pourtant elle que voit un client qui cherche « chauffagiste » sur Google Maps. Proenligne publie une photo le lundi, un article le jeudi et répond à vos avis. Essayez gratuitement, sans engagement.\n\n#FicheGoogle #Chauffagiste #Chauffage"
+  },
+  {
+   "id": "e108",
+   "verdict": "ok"
+  },
+  {
+   "id": "e109",
+   "verdict": "ok"
+  },
+  {
+   "id": "e110",
+   "verdict": "ok"
+  },
+  {
+   "id": "e111",
+   "verdict": "ok"
+  },
+  {
+   "id": "e112",
+   "verdict": "ok"
+  },
+  {
+   "id": "e113",
+   "verdict": "refuse",
+   "motif": "Le texte X ne dit nulle part ce qu'est une fiche Google (règle n°1), et l'image ne l'explique pas non plus.",
+   "proposition": "Ce soir, le mur est monté et le chantier est propre. Votre fiche Google n'en montre rien.\n\nC'est pourtant elle qu'on voit en cherchant « maçon » sur Google Maps. Une photo avant de remonter dans le camion suffit.\n\nVous prenez vos chantiers en photo ?\n\n#FicheGoogle #Macon"
+  },
+  {
+   "id": "e114",
+   "verdict": "ok"
+  },
+  {
+   "id": "e115",
+   "verdict": "ok"
+  },
+  {
+   "id": "e116",
+   "verdict": "ok"
+  },
+  {
+   "id": "e117",
+   "verdict": "ok"
+  },
+  {
+   "id": "e118",
+   "verdict": "ok"
+  },
+  {
+   "id": "e119",
+   "verdict": "ok"
+  },
+  {
+   "id": "e120",
+   "verdict": "ok"
+  },
+  {
+   "id": "e121",
+   "verdict": "ok"
+  },
+  {
+   "id": "e122",
+   "verdict": "refuse",
+   "motif": "Le même jour, il reprend presque mot pour mot le premier commentaire des auto-écoles de 13 h (« vous répondez aux avis vous-même, ou… »), alors que le post de 13 h parle aussi de répondre aux avis avec un prénom. Et « personne n'a le temps » sonne comme un léger reproche.",
+   "proposition": "Garagistes, quel avis client vous a fait le plus plaisir cette année sur votre fiche Google ?"
+  },
+  {
+   "id": "e123",
+   "verdict": "ok"
+  },
+  {
+   "id": "e124",
+   "verdict": "refuse",
+   "motif": "La légende TikTok ne dit pas ce qu'est une fiche Google (règle n°1), et la vidéo ne l'explique pas non plus.",
+   "proposition": "Quand chaque avis de votre fiche Google reçoit un merci, vos clients le remarquent.\nVotre fiche Google, c'est l'encadré de votre garage sur Google Maps, avec la note et les avis. Une phrase et le prénom du client suffisent pour montrer que vous lisez.\n\n#FicheGoogle #Garage #Garagiste"
+  },
+  {
+   "id": "e125",
+   "verdict": "ok"
+  },
+  {
+   "id": "e126",
+   "verdict": "ok"
+  },
+  {
+   "id": "e127",
+   "verdict": "ok"
+  },
+  {
+   "id": "e128",
+   "verdict": "refuse",
+   "motif": "« Exemple. » tout seul, en guise de phrase, sonne comme un deux-points déguisé et fait buter la lecture.",
+   "proposition": "« Elle est sérieuse, cette auto-école ? » Les parents cherchent la réponse sur votre fiche Google.\n\nVotre fiche Google, c'est ce qui s'affiche quand des parents cherchent « auto-école » près de chez eux. Ils lisent les avis des anciens élèves, et ils lisent aussi vos réponses.\n\nUne réponse qui rassure se construit en 3 temps.\nRemerciez l'élève par son prénom.\nRappelez un détail de sa formation.\nSouhaitez-lui bonne route.\n\nVoici un exemple de réponse. « Merci Inès ! Votre première conduite de nuit vous faisait peur, et vous l'avez réussie haut la main. Bonne route ! »\n\nQui répond aux avis chez vous, vous ou un moniteur ?\n\n#FicheGoogle #AutoEcole #PermisDeConduire #ReferencementLocal"
+  },
+  {
+   "id": "e129",
+   "verdict": "ok"
+  },
+  {
+   "id": "e130",
+   "verdict": "ok"
+  },
+  {
+   "id": "e131",
+   "verdict": "ok"
+  },
+  {
+   "id": "e132",
+   "verdict": "ok"
+  },
+  {
+   "id": "e133",
+   "verdict": "ok"
+  },
+  {
+   "id": "e134",
+   "verdict": "ok"
+  },
+  {
+   "id": "e135",
+   "verdict": "ok"
+  },
+  {
+   "id": "e136",
+   "verdict": "ok"
+  },
+  {
+   "id": "e137",
+   "verdict": "ok"
+  },
+  {
+   "id": "e138",
+   "verdict": "ok"
+  },
+  {
+   "id": "e139",
+   "verdict": "ok"
+  },
+  {
+   "id": "e140",
+   "verdict": "ok"
+  },
+  {
+   "id": "e141",
+   "verdict": "ok"
+  },
+  {
+   "id": "e142",
+   "verdict": "ok"
+  },
+  {
+   "id": "e143",
+   "verdict": "ok"
+  },
+  {
+   "id": "e144",
+   "verdict": "ok"
+  },
+  {
+   "id": "e145",
+   "verdict": "refuse",
+   "motif": "« ou vous préférez ne pas regarder ? » culpabilise un peu le lecteur, et reprend la chute du premier commentaire garage du 3 novembre (« ou vous n'osez pas regarder ? »).",
+   "proposition": "Plombiers, de quand date la dernière photo de chantier publiée sur votre fiche Google ? De cette semaine, de cette année, ou de plus longtemps ?"
+  },
+  {
+   "id": "e146",
+   "verdict": "ok"
+  },
+  {
+   "id": "e147",
+   "verdict": "ok"
+  },
+  {
+   "id": "e148",
+   "verdict": "refuse",
+   "motif": "La légende TikTok ne dit pas ce qu'est une fiche Google (règle n°1), et la vidéo ne l'explique pas non plus.",
+   "proposition": "Pendant que vous réparez une fuite, un client regarde les photos de votre fiche Google, l'encadré qui s'affiche sur Google Maps quand on cherche « plombier ».\nSi la dernière photo date de 2021, il se demande si vous êtes toujours là.\n\n#FicheGoogle #Plombier #Plomberie"
+  },
+  {
+   "id": "e149",
+   "verdict": "ok"
+  },
+  {
+   "id": "e150",
+   "verdict": "ok"
+  },
+  {
+   "id": "e151",
+   "verdict": "ok"
+  },
+  {
+   "id": "e288",
+   "verdict": "ok"
+  },
+  {
+   "id": "e289",
+   "verdict": "ok"
+  },
+  {
+   "id": "e290",
+   "verdict": "refuse",
+   "motif": "« attend après la dernière chaudière » est ambigu, car « attendre après » se lit aussi « avoir besoin de ». On bute à la première lecture.",
+   "proposition": "Votre fiche Google passe après la dernière chaudière."
+  },
+  {
+   "id": "e291",
+   "verdict": "ok"
+  },
+  {
+   "id": "e292",
+   "verdict": "ok"
+  },
+  {
+   "id": "e293",
+   "verdict": "ok"
+  },
+  {
+   "id": "e294",
+   "verdict": "ok"
+  },
+  {
+   "id": "e295",
+   "verdict": "refuse",
+   "motif": "« chaudière en route » est ambigu (une chaudière qui arrive ? qui fonctionne ?). Le lecteur ne comprend pas ce que montre la photo.",
+   "proposition": "Photo publiée, chaudière remise en route"
+  },
+  {
+   "id": "e296",
+   "verdict": "ok"
+  },
+  {
+   "id": "e297",
+   "verdict": "ok"
+  },
+  {
+   "id": "e298",
+   "verdict": "ok"
+  },
+  {
+   "id": "e299",
+   "verdict": "ok"
+  },
+  {
+   "id": "e300",
+   "verdict": "refuse",
+   "motif": "Dans « la fait à sa place », on ne sait pas à qui renvoie « sa ». La phrase peut se lire « à la place de Proenligne ».",
+   "proposition": "La tâche est barrée, car Proenligne s'en charge à la place du chauffagiste."
+  },
+  {
+   "id": "e301",
+   "verdict": "ok"
+  },
+  {
+   "id": "e302",
+   "verdict": "ok"
+  },
+  {
+   "id": "e303",
+   "verdict": "ok"
+  },
+  {
+   "id": "e304",
+   "verdict": "ok"
+  },
+  {
+   "id": "e305",
+   "verdict": "ok"
+  },
+  {
+   "id": "e306",
+   "verdict": "ok"
+  },
+  {
+   "id": "e307",
+   "verdict": "ok"
+  },
+  {
+   "id": "e308",
+   "verdict": "ok"
+  },
+  {
+   "id": "e309",
+   "verdict": "ok"
+  },
+  {
+   "id": "e310",
+   "verdict": "ok"
+  },
+  {
+   "id": "e311",
+   "verdict": "ok"
+  },
+  {
+   "id": "e385",
+   "verdict": "ok"
+  },
+  {
+   "id": "e386",
+   "verdict": "ok"
+  },
+  {
+   "id": "e387",
+   "verdict": "ok"
+  },
+  {
+   "id": "e388",
+   "verdict": "ok"
+  },
+  {
+   "id": "e389",
+   "verdict": "ok"
+  },
+  {
+   "id": "e390",
+   "verdict": "ok"
+  },
+  {
+   "id": "e391",
+   "verdict": "ok"
+  },
+  {
+   "id": "e392",
+   "verdict": "ok"
+  },
+  {
+   "id": "e393",
+   "verdict": "ok"
+  },
+  {
+   "id": "e394",
+   "verdict": "ok"
+  },
+  {
+   "id": "e395",
+   "verdict": "ok"
+  },
+  {
+   "id": "e396",
+   "verdict": "ok"
+  },
+  {
+   "id": "e397",
+   "verdict": "ok"
+  },
+  {
+   "id": "e398",
+   "verdict": "ok"
+  },
+  {
+   "id": "e399",
+   "verdict": "ok"
+  },
+  {
+   "id": "e400",
+   "verdict": "ok"
+  },
+  {
+   "id": "e401",
+   "verdict": "ok"
+  },
+  {
+   "id": "e402",
+   "verdict": "ok"
+  },
+  {
+   "id": "e403",
+   "verdict": "ok"
+  },
+  {
+   "id": "e404",
+   "verdict": "ok"
+  },
+  {
+   "id": "e405",
+   "verdict": "ok"
+  },
+  {
+   "id": "e406",
+   "verdict": "ok"
+  },
+  {
+   "id": "e407",
+   "verdict": "ok"
+  },
+  {
+   "id": "e408",
+   "verdict": "ok"
+  },
+  {
+   "id": "e409",
+   "verdict": "ok"
+  }
+ ]
+}
