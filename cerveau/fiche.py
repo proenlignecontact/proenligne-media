@@ -4,6 +4,7 @@ usage : python3 cerveau/fiche.py suivi/plan/<lundi>.json suivi/plan/<lundi>-ids.
 
 <lundi>-ids.json : les postiz_id renvoyés par Postiz, par créneau et par canal :
   {"2026-11-09_0630": {"x": "cmv…", "facebook": "cmv…"}, "2026-11-09_1300": {"instagram": "…", "facebook": "…"}, …}
+  (clé = date + créneau NOMINAL, même si l'heure réelle est décalée)
 
 Pour chaque créneau du plan qui a des ids :
 - s'il existe déjà une fiche cerveau/productions/<date>_<HHMM>_*.json, elle est COMPLÉTÉE (ids, textes) et non dupliquée ;
@@ -26,6 +27,8 @@ def media_de(c):
             postiz.append(v)
         elif 'medias/' in v:
             fichiers.append(v.split('/main/')[-1] if '/main/' in v else v)
+    for v in (c.get('media') or {}).get('carrousel') or []:
+        if isinstance(v, str) and 'media.glidy.uk' in v: postiz.append(v)
     return {'type': TYPE_MEDIA[c['creneau']], 'fichiers': fichiers, 'postiz': postiz}
 
 
@@ -33,7 +36,8 @@ def ecrire(plan, ids, source):
     cr = plan['creneaux'] if isinstance(plan, dict) else plan
     faits = []
     for c in cr:
-        cle = f"{c['date']}_{c['heure'].replace(':', '')}"
+        nominal = c.get('creneau_nominal') or c['heure']
+        cle = f"{c['date']}_{nominal.replace(':', '')}"
         pid = ids.get(cle)
         if not pid:
             continue
@@ -45,7 +49,8 @@ def ecrire(plan, ids, source):
                 print(f'ATTENTION : {len(exist)} fiches pour {cle}, la première est complétée : {os.path.basename(chemin)}')
         else:
             chemin = os.path.join(ICI, 'productions', f"{cle}_{c['slug']}.json")
-            f = {'id': f"{cle}_{c['slug']}", 'date_paris': c['date'], 'heure_paris': c['heure'],
+            f = {'id': f"{cle}_{c['slug']}", 'date_paris': c['date'], 'heure_paris': c['heure'], 'creneau_nominal': nominal,
+                 'intention': c.get('intention'), 'ab': c.get('ab'), 'premier_commentaire': c.get('premier_commentaire'),
                  'jour_semaine': JOURS[dt.date.fromisoformat(c['date']).weekday()], 'creneau': c['creneau'],
                  'metier': c['metier'], 'angle': c['angle'], 'format': c['format'], 'ton': c['ton'],
                  'symptome': c.get('symptome'), 'offre': 'essai', 'accroche': c['accroche'],

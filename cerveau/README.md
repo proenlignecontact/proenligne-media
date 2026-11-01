@@ -19,7 +19,11 @@ cerveau/
   "date_paris": "2026-11-02",
   "heure_paris": "06:30",
   "jour_semaine": "lundi",
+  "creneau_nominal": "06:30",              // créneau de la grille ; heure_paris = heure réelle (± 45 min)
   "creneau": "texte",                      // texte | visuel | video
+  "intention": "utile",                    // utile (≥ 70 %) | preuve | offre (≤ 3 par semaine)
+  "ab": null,                              // "A" | "B" pour les vidéos TikTok en test A/B, sinon null
+  "premier_commentaire": "…",              // le commentaire posté avec le post (question ou complément)
   "metier": "plombier",                    // un des 11 métiers, ou "general"
   "angle": "peur-de-perdre",               // peur-de-perdre | gain-de-temps | preuve
   "format": "test",                        // texte : conseil | test | constat | idee-recue | preuve ; visuel : avant-apres ; video : recherche | fiche | avis | journee | libre
@@ -57,7 +61,8 @@ Champs absents = inconnus (pas zéro). Le format exact sera adapté à l'API de 
 
 | Script | Rôle |
 |---|---|
-| `outils/heure_utc.py <lundi>` | Grille des 21 créneaux de la semaine avec l'heure UTC exacte (heure d'été gérée). |
+| `outils/heure_utc.py <lundi> --varier` | Grille des 21 créneaux avec heures réelles tirées à ± 45 min et heure UTC exacte (heure d'été gérée). |
+| `outils/visuel.py <brief> <sortie>` / `--carrousel` | Image 1080×1350 (gabarits avant-apres, conseil, question) ou carrousel de 3 à 5 slides. |
 | `cerveau/verifier.py suivi/plan/<lundi>.json` | **Avant programmation** : règles « fiche Google » et « gratuit sans prix », vocabulaire fermé, canaux et heures de la grille, longueurs X / titres, rotation des métiers et formats, ressemblance des accroches (≥ 40 % de mots communs) avec le plan et avec toutes les fiches existantes. Code 1 tant que ce n'est pas « plan OK ». |
 | `cerveau/fiche.py <plan.json> <ids.json>` | **Après programmation** : écrit les fiches à partir du plan et des postiz_id. Une fiche déjà présente pour le même créneau est complétée, jamais dupliquée. |
 | `cerveau/convertir_stats.py` | Relevé brut → relevé converti. |
@@ -67,9 +72,9 @@ Le plan (`suivi/plan/<lundi>.json`) est la source unique du lot : le vérificate
 
 ## Décider
 
-`python3 cerveau/analyse.py` produit, pour chaque dimension (canal, créneau, angle, format, métier, ton, symptôme, jour) :
-le nombre de publications mesurées, l'audience médiane (vues, ou portée en secours), le taux d'engagement moyen
-((likes + commentaires + partages + enregistrements) / audience) et un **indice normalisé par canal** (1,0 = médiane du canal).
+`python3 cerveau/analyse.py` produit, pour chaque dimension (canal, créneau, intention, angle, format, métier, ton, symptôme, jour, heure réelle, A/B) :
+le nombre de publications mesurées, l'audience médiane (vues, ou portée en secours), le taux d'engagement pondéré
+((likes + 1,5 × enregistrements + 2 × commentaires + 3 × partages) / audience — partages et commentaires sont les signaux de viralité) et un **indice normalisé par canal** (1,0 = médiane du canal).
 Les verdicts se lisent sur l'indice : ≥ 1,2 « à renforcer », ≤ 0,8 « à réduire ».
 
 Canaux : x, facebook, instagram, tiktok, youtube, **linkedin** (page Proenligne, depuis le 02/11/2026, créneau 13:00 en semaine ; plateforme Postiz `linkedin-page` notée `linkedin`). LinkedIn a une audience de décideurs : ne pas transposer telles quelles ses conclusions aux autres canaux, et inversement — d'où l'indice normalisé par canal.
@@ -82,4 +87,6 @@ Règles de décision appliquées par la tâche hebdomadaire :
 - **Démarrage** : tant que moins de 30 publications sont mesurées au total, exploration à **50 / 50** (le rapport le signale).
 - Ensuite **70 / 30** : 70 % des créneaux sur ce qui marche (indice > 1), 30 % en exploration (valeurs peu testées), pour ne pas s'enfermer.
 - Les dimensions larges (canal, créneau, angle, jour) atteignent le seuil en 2 à 3 semaines ; métier en un mois ; ton et symptôme beaucoup plus tard. Ne pas forcer une décision sur une dimension qui n'a pas le seuil.
+- **Amplification** : `suivi/amplifier.json` (écrit par la tâche quotidienne) liste les posts qui ont dépassé 2 × la médiane de leur canal. La tâche hebdomadaire reprend ces sujets en priorité et le note dans `decisions.md`.
+- **A/B** : la dimension `ab` compare, sur TikTok, l'accroche A (grille) et l'accroche B (surlendemain 12:30). Une variante gagnante 3 semaines de suite devient la règle d'ouverture par défaut.
 - Chaque décision est écrite dans `decisions.md` avec le chiffre qui la justifie.

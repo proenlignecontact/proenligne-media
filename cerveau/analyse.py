@@ -6,6 +6,7 @@ usage : python3 cerveau/analyse.py [--sortie cerveau/analyses/AAAA-MM-JJ.md] [--
 - Stats  : cerveau/stats/*.json (le relevé le plus récent de chaque post l'emporte)
 - Une publication est « mesurée » si son relevé date d'au moins --delai heures après sa publication
   et donne une audience connue (vues, ou portée en secours). Une audience de 0 est une mesure, pas une inconnue.
+- Engagement pondéré : like ×1, enregistrement ×1,5, commentaire ×2, partage ×3 (les partages et commentaires sont les signaux de viralité).
 - Les verdicts sont NORMALISÉS PAR CANAL : l'engagement d'une publication est rapporté à la médiane de son canal
   (indice 1,0 = dans la moyenne du canal), car un taux TikTok ne se compare pas à un taux Instagram.
 - Une valeur de dimension n'est classée que si elle a au moins --min publications mesurées.
@@ -17,8 +18,10 @@ from zoneinfo import ZoneInfo
 
 ICI = os.path.dirname(os.path.abspath(__file__))
 PARIS = ZoneInfo('Europe/Paris')
-DIMS = ['canal', 'creneau', 'angle', 'format', 'metier', 'ton', 'symptome', 'jour_semaine']
-ENGAGE = ['likes', 'commentaires', 'partages', 'enregistrements']
+DIMS = ['canal', 'creneau', 'intention', 'angle', 'format', 'metier', 'ton', 'symptome', 'jour_semaine', 'heure_paris', 'ab']
+# Engagement pondéré : un partage ou un commentaire pèse plus qu'un like (signaux de viralité)
+POIDS = {'likes': 1.0, 'commentaires': 2.0, 'partages': 3.0, 'enregistrements': 1.5}
+ENGAGE = list(POIDS)
 
 
 def charger_fiches():
@@ -52,7 +55,7 @@ def lignes(fiches, stats, delai_h):
             audience = m.get('vues') if m.get('vues') is not None else m.get('portee')
             if audience is None:
                 sans_stats[p['canal']] += 1; continue
-            eng = sum(m.get(k) or 0 for k in ENGAGE)
+            eng = sum((m.get(k) or 0) * POIDS[k] for k in ENGAGE)
             ligne = {d: f.get(d) for d in DIMS if d != 'canal'}
             ligne.update(canal=p['canal'], audience=audience, taux=(eng / audience) if audience else 0.0,
                          clics=m.get('clics'), id=f['id'], accroche=f.get('accroche', ''))
@@ -106,7 +109,8 @@ def rapport(fiches, rows, non_mesurees, sans_stats, med, comptes, mini):
          f'- Fiches de production : {len(fiches)}',
          f'- Publications mesurées : {len(rows)} · trop récentes ou sans relevé : {non_mesurees} · sans stats par post : '
          + (', '.join(f'{k} {v}' for k, v in sans_stats.items()) or '0'),
-         f'- Seuil de fiabilité : {mini} publications mesurées par valeur ; verdicts normalisés par canal (indice 1,0 = médiane du canal)', '']
+         f'- Seuil de fiabilité : {mini} publications mesurées par valeur ; verdicts normalisés par canal (indice 1,0 = médiane du canal)',
+         '- Engagement pondéré : like ×1 · enregistrement ×1,5 · commentaire ×2 · partage ×3, rapporté à l\'audience (vues, ou portée)', '']
     total = len(rows)
     if total < 30:
         L += [f'**Phase de démarrage ({total} < 30 publications mesurées) : exploration à 50 / 50**, pas de pondération 70 / 30.', '']
