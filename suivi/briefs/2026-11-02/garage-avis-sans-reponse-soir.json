@@ -11,13 +11,13 @@
  },
  "probleme": "Un soir, un jeune conducteur qui cherche un garage pour sa révision ouvre la fiche Google du Garage Bernard, lit trois bons avis restés sans réponse et se demande si quelqu'un lit vraiment ce qu'écrivent les clients.",
  "accroches": [
-  "« Ce garage ne répond jamais ? » se demande un client devant votre fiche Google.",
+  "« Ils ne lisent pas leurs avis ? » se demande un client devant votre fiche Google.",
   "Quand chaque avis de votre fiche Google reçoit un merci, vos clients le remarquent."
  ],
- "suite": "Ces clients ravis attendent un mot sur votre fiche Google.",
+ "suite": "Trois clients ravis attendent un mot sur votre fiche Google.",
  "suite_mot": "attendent un mot",
  "reveil": "Proenligne répond à chaque avis pour vous",
- "reveil_sous": "Chaque avis reçoit une réponse polie et personnelle. Combien d'avis attendent une réponse chez vous ?",
+ "reveil_sous": "Chaque avis de votre fiche Google reçoit une réponse. Combien d'avis attendent encore chez vous ?",
  "corps": "Un avis sans réponse sur votre fiche Google laisse croire que personne ne lit. Proenligne répond à chaque avis, publie une photo le lundi et un article le jeudi.",
  "notifs": [
   "Réponse envoyée à Karim",

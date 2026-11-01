@@ -1,0 +1,463 @@
+{
+ "empreinte": "c715cac310f7a846",
+ "verdicts": [
+  {
+   "id": "e011",
+   "verdict": "ok"
+  },
+  {
+   "id": "e012",
+   "verdict": "ok"
+  },
+  {
+   "id": "e013",
+   "verdict": "ok"
+  },
+  {
+   "id": "e014",
+   "verdict": "ok"
+  },
+  {
+   "id": "e015",
+   "verdict": "ok"
+  },
+  {
+   "id": "e016",
+   "verdict": "ok"
+  },
+  {
+   "id": "e017",
+   "verdict": "ok"
+  },
+  {
+   "id": "e018",
+   "verdict": "ok"
+  },
+  {
+   "id": "e019",
+   "verdict": "ok"
+  },
+  {
+   "id": "e020",
+   "verdict": "ok"
+  },
+  {
+   "id": "e021",
+   "verdict": "ok"
+  },
+  {
+   "id": "e022",
+   "verdict": "ok"
+  },
+  {
+   "id": "e023",
+   "verdict": "ok"
+  },
+  {
+   "id": "e024",
+   "verdict": "ok"
+  },
+  {
+   "id": "e025",
+   "verdict": "ok"
+  },
+  {
+   "id": "e026",
+   "verdict": "ok"
+  },
+  {
+   "id": "e027",
+   "verdict": "ok"
+  },
+  {
+   "id": "e028",
+   "verdict": "ok"
+  },
+  {
+   "id": "e029",
+   "verdict": "ok"
+  },
+  {
+   "id": "e038",
+   "verdict": "ok"
+  },
+  {
+   "id": "e039",
+   "verdict": "ok"
+  },
+  {
+   "id": "e040",
+   "verdict": "ok"
+  },
+  {
+   "id": "e041",
+   "verdict": "ok"
+  },
+  {
+   "id": "e042",
+   "verdict": "ok"
+  },
+  {
+   "id": "e043",
+   "verdict": "ok"
+  },
+  {
+   "id": "e044",
+   "verdict": "ok"
+  },
+  {
+   "id": "e045",
+   "verdict": "ok"
+  },
+  {
+   "id": "e046",
+   "verdict": "ok"
+  },
+  {
+   "id": "e047",
+   "verdict": "ok"
+  },
+  {
+   "id": "e066",
+   "verdict": "ok"
+  },
+  {
+   "id": "e067",
+   "verdict": "ok"
+  },
+  {
+   "id": "e068",
+   "verdict": "ok"
+  },
+  {
+   "id": "e069",
+   "verdict": "ok"
+  },
+  {
+   "id": "e070",
+   "verdict": "ok"
+  },
+  {
+   "id": "e071",
+   "verdict": "ok"
+  },
+  {
+   "id": "e072",
+   "verdict": "ok"
+  },
+  {
+   "id": "e073",
+   "verdict": "ok"
+  },
+  {
+   "id": "e084",
+   "verdict": "ok"
+  },
+  {
+   "id": "e085",
+   "verdict": "ok"
+  },
+  {
+   "id": "e086",
+   "verdict": "ok"
+  },
+  {
+   "id": "e087",
+   "verdict": "ok"
+  },
+  {
+   "id": "e088",
+   "verdict": "ok"
+  },
+  {
+   "id": "e089",
+   "verdict": "ok"
+  },
+  {
+   "id": "e090",
+   "verdict": "ok"
+  },
+  {
+   "id": "e091",
+   "verdict": "ok"
+  },
+  {
+   "id": "e092",
+   "verdict": "ok"
+  },
+  {
+   "id": "e093",
+   "verdict": "ok"
+  },
+  {
+   "id": "e094",
+   "verdict": "ok"
+  },
+  {
+   "id": "e095",
+   "verdict": "ok"
+  },
+  {
+   "id": "e096",
+   "verdict": "ok"
+  },
+  {
+   "id": "e097",
+   "verdict": "ok"
+  },
+  {
+   "id": "e098",
+   "verdict": "ok"
+  },
+  {
+   "id": "e099",
+   "verdict": "ok"
+  },
+  {
+   "id": "e100",
+   "verdict": "ok"
+  },
+  {
+   "id": "e101",
+   "verdict": "ok"
+  },
+  {
+   "id": "e102",
+   "verdict": "ok"
+  },
+  {
+   "id": "e144",
+   "verdict": "ok"
+  },
+  {
+   "id": "e145",
+   "verdict": "ok"
+  },
+  {
+   "id": "e146",
+   "verdict": "ok"
+  },
+  {
+   "id": "e147",
+   "verdict": "ok"
+  },
+  {
+   "id": "e148",
+   "verdict": "ok"
+  },
+  {
+   "id": "e149",
+   "verdict": "ok"
+  },
+  {
+   "id": "e150",
+   "verdict": "ok"
+  },
+  {
+   "id": "e151",
+   "verdict": "ok"
+  },
+  {
+   "id": "e336",
+   "verdict": "ok"
+  },
+  {
+   "id": "e337",
+   "verdict": "ok"
+  },
+  {
+   "id": "e338",
+   "verdict": "ok"
+  },
+  {
+   "id": "e339",
+   "verdict": "refuse",
+   "motif": "Le démonstratif « Ces clients ravis » ne renvoie à rien de précis lu seul, et après l'accroche B qui dit que chaque avis reçoit un merci il laisse croire que ces mêmes clients attendent encore, ce qui crée une contradiction",
+   "proposition": "Trois clients ravis attendent un mot sur votre fiche Google."
+  },
+  {
+   "id": "e340",
+   "verdict": "ok"
+  },
+  {
+   "id": "e341",
+   "verdict": "ok"
+  },
+  {
+   "id": "e342",
+   "verdict": "ok"
+  },
+  {
+   "id": "e343",
+   "verdict": "ok"
+  },
+  {
+   "id": "e344",
+   "verdict": "ok"
+  },
+  {
+   "id": "e345",
+   "verdict": "ok"
+  },
+  {
+   "id": "e346",
+   "verdict": "ok"
+  },
+  {
+   "id": "e347",
+   "verdict": "ok"
+  },
+  {
+   "id": "e348",
+   "verdict": "ok"
+  },
+  {
+   "id": "e349",
+   "verdict": "ok"
+  },
+  {
+   "id": "e350",
+   "verdict": "ok"
+  },
+  {
+   "id": "e351",
+   "verdict": "ok"
+  },
+  {
+   "id": "e352",
+   "verdict": "ok"
+  },
+  {
+   "id": "e353",
+   "verdict": "ok"
+  },
+  {
+   "id": "e354",
+   "verdict": "ok"
+  },
+  {
+   "id": "e355",
+   "verdict": "ok"
+  },
+  {
+   "id": "e356",
+   "verdict": "ok"
+  },
+  {
+   "id": "e357",
+   "verdict": "ok"
+  },
+  {
+   "id": "e358",
+   "verdict": "ok"
+  },
+  {
+   "id": "e359",
+   "verdict": "ok"
+  },
+  {
+   "id": "e360",
+   "verdict": "ok"
+  },
+  {
+   "id": "e385",
+   "verdict": "ok"
+  },
+  {
+   "id": "e386",
+   "verdict": "ok"
+  },
+  {
+   "id": "e387",
+   "verdict": "ok"
+  },
+  {
+   "id": "e388",
+   "verdict": "ok"
+  },
+  {
+   "id": "e389",
+   "verdict": "ok"
+  },
+  {
+   "id": "e390",
+   "verdict": "ok"
+  },
+  {
+   "id": "e391",
+   "verdict": "ok"
+  },
+  {
+   "id": "e392",
+   "verdict": "ok"
+  },
+  {
+   "id": "e393",
+   "verdict": "ok"
+  },
+  {
+   "id": "e394",
+   "verdict": "ok"
+  },
+  {
+   "id": "e395",
+   "verdict": "ok"
+  },
+  {
+   "id": "e396",
+   "verdict": "ok"
+  },
+  {
+   "id": "e397",
+   "verdict": "ok"
+  },
+  {
+   "id": "e398",
+   "verdict": "ok"
+  },
+  {
+   "id": "e399",
+   "verdict": "ok"
+  },
+  {
+   "id": "e400",
+   "verdict": "ok"
+  },
+  {
+   "id": "e401",
+   "verdict": "ok"
+  },
+  {
+   "id": "e402",
+   "verdict": "ok"
+  },
+  {
+   "id": "e403",
+   "verdict": "ok"
+  },
+  {
+   "id": "e404",
+   "verdict": "ok"
+  },
+  {
+   "id": "e405",
+   "verdict": "ok"
+  },
+  {
+   "id": "e406",
+   "verdict": "ok"
+  },
+  {
+   "id": "e407",
+   "verdict": "ok"
+  },
+  {
+   "id": "e408",
+   "verdict": "ok"
+  },
+  {
+   "id": "e409",
+   "verdict": "ok"
+  }
+ ]
+}

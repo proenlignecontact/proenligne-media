@@ -1,0 +1,431 @@
+{
+ "empreinte": "70ab2fcf07db2cf8",
+ "verdicts": [
+  {
+   "id": "e103",
+   "verdict": "ok"
+  },
+  {
+   "id": "e104",
+   "verdict": "ok"
+  },
+  {
+   "id": "e105",
+   "verdict": "ok"
+  },
+  {
+   "id": "e106",
+   "verdict": "ok"
+  },
+  {
+   "id": "e107",
+   "verdict": "ok"
+  },
+  {
+   "id": "e108",
+   "verdict": "ok"
+  },
+  {
+   "id": "e109",
+   "verdict": "ok"
+  },
+  {
+   "id": "e110",
+   "verdict": "ok"
+  },
+  {
+   "id": "e111",
+   "verdict": "ok"
+  },
+  {
+   "id": "e112",
+   "verdict": "ok"
+  },
+  {
+   "id": "e113",
+   "verdict": "ok"
+  },
+  {
+   "id": "e114",
+   "verdict": "ok"
+  },
+  {
+   "id": "e115",
+   "verdict": "ok"
+  },
+  {
+   "id": "e116",
+   "verdict": "ok"
+  },
+  {
+   "id": "e117",
+   "verdict": "ok"
+  },
+  {
+   "id": "e118",
+   "verdict": "ok"
+  },
+  {
+   "id": "e119",
+   "verdict": "ok"
+  },
+  {
+   "id": "e120",
+   "verdict": "ok"
+  },
+  {
+   "id": "e125",
+   "verdict": "ok"
+  },
+  {
+   "id": "e126",
+   "verdict": "ok"
+  },
+  {
+   "id": "e127",
+   "verdict": "ok"
+  },
+  {
+   "id": "e128",
+   "verdict": "ok"
+  },
+  {
+   "id": "e129",
+   "verdict": "ok"
+  },
+  {
+   "id": "e130",
+   "verdict": "ok"
+  },
+  {
+   "id": "e131",
+   "verdict": "ok"
+  },
+  {
+   "id": "e132",
+   "verdict": "ok"
+  },
+  {
+   "id": "e133",
+   "verdict": "ok"
+  },
+  {
+   "id": "e134",
+   "verdict": "ok"
+  },
+  {
+   "id": "e135",
+   "verdict": "ok"
+  },
+  {
+   "id": "e136",
+   "verdict": "ok"
+  },
+  {
+   "id": "e137",
+   "verdict": "ok"
+  },
+  {
+   "id": "e138",
+   "verdict": "ok"
+  },
+  {
+   "id": "e139",
+   "verdict": "ok"
+  },
+  {
+   "id": "e140",
+   "verdict": "ok"
+  },
+  {
+   "id": "e141",
+   "verdict": "ok"
+  },
+  {
+   "id": "e142",
+   "verdict": "ok"
+  },
+  {
+   "id": "e143",
+   "verdict": "ok"
+  },
+  {
+   "id": "e144",
+   "verdict": "ok"
+  },
+  {
+   "id": "e145",
+   "verdict": "ok"
+  },
+  {
+   "id": "e146",
+   "verdict": "ok"
+  },
+  {
+   "id": "e147",
+   "verdict": "ok"
+  },
+  {
+   "id": "e148",
+   "verdict": "ok"
+  },
+  {
+   "id": "e149",
+   "verdict": "refuse",
+   "motif": "« une entreprise dont il ne sait plus rien » sonne faux, le client n'en a jamais rien su, la phrase fait buter à la lecture.",
+   "proposition": "Pendant que vous réparez une fuite, un client regarde les photos de votre fiche Google.\n\nLa fiche Google, c'est ce qu'un client voit quand il cherche « plombier » sur Google Maps, avec vos photos, vos avis et votre numéro.\n\nSi la dernière photo date de 2021, il ne voit pas la salle de bain refaite la semaine dernière ni le chauffe-eau posé ce matin. Il voit seulement une entreprise qui n'a rien montré depuis 2021.\n\nQuelle photo de chantier aimeriez-vous qu'il voie en premier ?\n\n#FicheGoogle #Plombier #Plomberie #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "id": "e150",
+   "verdict": "ok"
+  },
+  {
+   "id": "e151",
+   "verdict": "ok"
+  },
+  {
+   "id": "e152",
+   "verdict": "ok"
+  },
+  {
+   "id": "e153",
+   "verdict": "ok"
+  },
+  {
+   "id": "e154",
+   "verdict": "refuse",
+   "motif": "« l'encadré avec note et avis » est télégraphique, il manque les articles.",
+   "proposition": "Avant, trois avis attendaient une réponse sur la fiche Google d'un salon de coiffure. Après, chacun a la sienne.\n\nLa fiche Google, c'est l'encadré avec la note et les avis qu'on voit en cherchant « coiffeur » sur Google Maps.\n\nVous répondez à vos avis ?\n\n#FicheGoogle #Coiffeur"
+  },
+  {
+   "id": "e155",
+   "verdict": "refuse",
+   "motif": "Le texte dit que chaque avis a sa réponse mais n'en montre que deux, Karim est oublié, et la réponse à Julie parle de couleur alors que son avis parle d'une coupe.",
+   "proposition": "Avant, trois avis attendaient une réponse sur la fiche Google d'un salon de coiffure. Après, chacun a la sienne.\n\nPrenons un salon imaginaire, le salon Martin. Sa fiche Google, c'est ce que voit une future cliente quand elle cherche « coiffeur » dans son quartier, avec la note, les photos et les avis.\n\nAvant, on y lisait trois avis de Julie, Karim et Nadia. « Super coupe. » « Bon accueil. » « Un peu d'attente, mais ça valait le coup. » Aucune réponse en dessous. Impossible de savoir si le salon les avait lus.\n\nAprès, chaque avis a sa réponse. « Merci Julie, ravis que votre coupe vous plaise, à bientôt ! » « Merci Karim, toute l'équipe est contente de vous avoir bien accueilli. » « Merci Nadia pour votre patience, nous avons revu l'organisation du samedi. »\n\nLa note n'a pas bougé. La future cliente, elle, voit un salon qui écoute.\n\nLaquelle des deux versions vous donnerait envie de réserver ?\n\n#FicheGoogle #Coiffeur #Coiffure #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "id": "e156",
+   "verdict": "ok"
+  },
+  {
+   "id": "e157",
+   "verdict": "ok"
+  },
+  {
+   "id": "e158",
+   "verdict": "ok"
+  },
+  {
+   "id": "e159",
+   "verdict": "ok"
+  },
+  {
+   "id": "e160",
+   "verdict": "ok"
+  },
+  {
+   "id": "e161",
+   "verdict": "ok"
+  },
+  {
+   "id": "e162",
+   "verdict": "ok"
+  },
+  {
+   "id": "e288",
+   "verdict": "ok"
+  },
+  {
+   "id": "e289",
+   "verdict": "ok"
+  },
+  {
+   "id": "e290",
+   "verdict": "ok"
+  },
+  {
+   "id": "e291",
+   "verdict": "ok"
+  },
+  {
+   "id": "e292",
+   "verdict": "ok"
+  },
+  {
+   "id": "e293",
+   "verdict": "ok"
+  },
+  {
+   "id": "e294",
+   "verdict": "ok"
+  },
+  {
+   "id": "e295",
+   "verdict": "ok"
+  },
+  {
+   "id": "e296",
+   "verdict": "ok"
+  },
+  {
+   "id": "e297",
+   "verdict": "ok"
+  },
+  {
+   "id": "e298",
+   "verdict": "ok"
+  },
+  {
+   "id": "e299",
+   "verdict": "ok"
+  },
+  {
+   "id": "e300",
+   "verdict": "ok"
+  },
+  {
+   "id": "e301",
+   "verdict": "ok"
+  },
+  {
+   "id": "e302",
+   "verdict": "ok"
+  },
+  {
+   "id": "e303",
+   "verdict": "ok"
+  },
+  {
+   "id": "e304",
+   "verdict": "ok"
+  },
+  {
+   "id": "e305",
+   "verdict": "ok"
+  },
+  {
+   "id": "e306",
+   "verdict": "ok"
+  },
+  {
+   "id": "e307",
+   "verdict": "ok"
+  },
+  {
+   "id": "e308",
+   "verdict": "ok"
+  },
+  {
+   "id": "e309",
+   "verdict": "ok"
+  },
+  {
+   "id": "e310",
+   "verdict": "ok"
+  },
+  {
+   "id": "e311",
+   "verdict": "ok"
+  },
+  {
+   "id": "e385",
+   "verdict": "ok"
+  },
+  {
+   "id": "e386",
+   "verdict": "ok"
+  },
+  {
+   "id": "e387",
+   "verdict": "ok"
+  },
+  {
+   "id": "e388",
+   "verdict": "ok"
+  },
+  {
+   "id": "e389",
+   "verdict": "ok"
+  },
+  {
+   "id": "e390",
+   "verdict": "ok"
+  },
+  {
+   "id": "e391",
+   "verdict": "ok"
+  },
+  {
+   "id": "e392",
+   "verdict": "ok"
+  },
+  {
+   "id": "e393",
+   "verdict": "ok"
+  },
+  {
+   "id": "e394",
+   "verdict": "ok"
+  },
+  {
+   "id": "e395",
+   "verdict": "ok"
+  },
+  {
+   "id": "e396",
+   "verdict": "ok"
+  },
+  {
+   "id": "e397",
+   "verdict": "ok"
+  },
+  {
+   "id": "e398",
+   "verdict": "ok"
+  },
+  {
+   "id": "e399",
+   "verdict": "ok"
+  },
+  {
+   "id": "e400",
+   "verdict": "ok"
+  },
+  {
+   "id": "e401",
+   "verdict": "ok"
+  },
+  {
+   "id": "e402",
+   "verdict": "ok"
+  },
+  {
+   "id": "e403",
+   "verdict": "ok"
+  },
+  {
+   "id": "e404",
+   "verdict": "ok"
+  },
+  {
+   "id": "e405",
+   "verdict": "ok"
+  },
+  {
+   "id": "e406",
+   "verdict": "ok"
+  },
+  {
+   "id": "e407",
+   "verdict": "ok"
+  },
+  {
+   "id": "e408",
+   "verdict": "ok"
+  },
+  {
+   "id": "e409",
+   "verdict": "ok"
+  }
+ ]
+}

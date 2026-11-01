@@ -1,0 +1,421 @@
+{
+ "empreinte": "c715cac310f7a846",
+ "verdicts": [
+  {
+   "id": "e152",
+   "verdict": "ok"
+  },
+  {
+   "id": "e153",
+   "verdict": "ok"
+  },
+  {
+   "id": "e154",
+   "verdict": "ok"
+  },
+  {
+   "id": "e155",
+   "verdict": "ok"
+  },
+  {
+   "id": "e156",
+   "verdict": "ok"
+  },
+  {
+   "id": "e157",
+   "verdict": "ok"
+  },
+  {
+   "id": "e158",
+   "verdict": "ok"
+  },
+  {
+   "id": "e159",
+   "verdict": "ok"
+  },
+  {
+   "id": "e160",
+   "verdict": "ok"
+  },
+  {
+   "id": "e161",
+   "verdict": "ok"
+  },
+  {
+   "id": "e162",
+   "verdict": "ok"
+  },
+  {
+   "id": "e163",
+   "verdict": "ok"
+  },
+  {
+   "id": "e164",
+   "verdict": "ok"
+  },
+  {
+   "id": "e165",
+   "verdict": "ok"
+  },
+  {
+   "id": "e166",
+   "verdict": "ok"
+  },
+  {
+   "id": "e167",
+   "verdict": "refuse",
+   "motif": "Le pronom « en » de « qu'Électricité Bernard en posait » n'a pas d'antécédent clair dans son paragraphe, puisque le mot bornes n'y figure pas, et la phrase fait buter à la lecture.",
+   "proposition": "Votre entreprise installe des bornes de recharge ? Votre fiche Google le dit-elle ?\nLa fiche Google, c'est l'encadré que Google présente quand un particulier cherche un électricien près de chez lui.\n\nPrenons une entreprise imaginaire, Électricité Bernard.\n\nAvant, sa fiche Google mentionnait seulement « électricien ». Un propriétaire de voiture électrique qui cherchait un installateur de bornes ne pouvait pas deviner qu'Électricité Bernard en posait.\n\nAprès, une photo de borne installée est publiée le lundi, puis un article sur la recharge à domicile le jeudi. Le service devient visible pour les clients qui le cherchent.\n\nLe métier n'a pas changé. Ce qui a changé, c'est ce que la fiche Google raconte de l'activité réelle.\n\nProenligne fonctionne ainsi. Chaque semaine, une photo est publiée le lundi, un article le jeudi, et chaque avis reçoit une réponse.\n\nQuel service de votre entreprise reste aujourd'hui invisible sur Google ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Electricien #Artisanat"
+  },
+  {
+   "id": "e168",
+   "verdict": "ok"
+  },
+  {
+   "id": "e169",
+   "verdict": "ok"
+  },
+  {
+   "id": "e170",
+   "verdict": "ok"
+  },
+  {
+   "id": "e171",
+   "verdict": "ok"
+  },
+  {
+   "id": "e172",
+   "verdict": "ok"
+  },
+  {
+   "id": "e173",
+   "verdict": "ok"
+  },
+  {
+   "id": "e174",
+   "verdict": "ok"
+  },
+  {
+   "id": "e175",
+   "verdict": "ok"
+  },
+  {
+   "id": "e176",
+   "verdict": "ok"
+  },
+  {
+   "id": "e177",
+   "verdict": "ok"
+  },
+  {
+   "id": "e178",
+   "verdict": "ok"
+  },
+  {
+   "id": "e179",
+   "verdict": "ok"
+  },
+  {
+   "id": "e180",
+   "verdict": "ok"
+  },
+  {
+   "id": "e181",
+   "verdict": "ok"
+  },
+  {
+   "id": "e182",
+   "verdict": "ok"
+  },
+  {
+   "id": "e183",
+   "verdict": "ok"
+  },
+  {
+   "id": "e184",
+   "verdict": "ok"
+  },
+  {
+   "id": "e185",
+   "verdict": "ok"
+  },
+  {
+   "id": "e186",
+   "verdict": "ok"
+  },
+  {
+   "id": "e187",
+   "verdict": "ok"
+  },
+  {
+   "id": "e188",
+   "verdict": "ok"
+  },
+  {
+   "id": "e220",
+   "verdict": "ok"
+  },
+  {
+   "id": "e221",
+   "verdict": "ok"
+  },
+  {
+   "id": "e222",
+   "verdict": "ok"
+  },
+  {
+   "id": "e223",
+   "verdict": "ok"
+  },
+  {
+   "id": "e224",
+   "verdict": "ok"
+  },
+  {
+   "id": "e225",
+   "verdict": "ok"
+  },
+  {
+   "id": "e226",
+   "verdict": "ok"
+  },
+  {
+   "id": "e227",
+   "verdict": "ok"
+  },
+  {
+   "id": "e228",
+   "verdict": "ok"
+  },
+  {
+   "id": "e229",
+   "verdict": "ok"
+  },
+  {
+   "id": "e230",
+   "verdict": "ok"
+  },
+  {
+   "id": "e231",
+   "verdict": "ok"
+  },
+  {
+   "id": "e232",
+   "verdict": "ok"
+  },
+  {
+   "id": "e233",
+   "verdict": "ok"
+  },
+  {
+   "id": "e234",
+   "verdict": "ok"
+  },
+  {
+   "id": "e235",
+   "verdict": "ok"
+  },
+  {
+   "id": "e236",
+   "verdict": "ok"
+  },
+  {
+   "id": "e237",
+   "verdict": "ok"
+  },
+  {
+   "id": "e312",
+   "verdict": "ok"
+  },
+  {
+   "id": "e313",
+   "verdict": "ok"
+  },
+  {
+   "id": "e314",
+   "verdict": "ok"
+  },
+  {
+   "id": "e315",
+   "verdict": "ok"
+  },
+  {
+   "id": "e316",
+   "verdict": "ok"
+  },
+  {
+   "id": "e317",
+   "verdict": "ok"
+  },
+  {
+   "id": "e318",
+   "verdict": "ok"
+  },
+  {
+   "id": "e319",
+   "verdict": "ok"
+  },
+  {
+   "id": "e320",
+   "verdict": "ok"
+  },
+  {
+   "id": "e321",
+   "verdict": "ok"
+  },
+  {
+   "id": "e322",
+   "verdict": "ok"
+  },
+  {
+   "id": "e323",
+   "verdict": "ok"
+  },
+  {
+   "id": "e324",
+   "verdict": "ok"
+  },
+  {
+   "id": "e325",
+   "verdict": "ok"
+  },
+  {
+   "id": "e326",
+   "verdict": "ok"
+  },
+  {
+   "id": "e327",
+   "verdict": "ok"
+  },
+  {
+   "id": "e328",
+   "verdict": "ok"
+  },
+  {
+   "id": "e329",
+   "verdict": "ok"
+  },
+  {
+   "id": "e330",
+   "verdict": "ok"
+  },
+  {
+   "id": "e331",
+   "verdict": "ok"
+  },
+  {
+   "id": "e332",
+   "verdict": "ok"
+  },
+  {
+   "id": "e333",
+   "verdict": "ok"
+  },
+  {
+   "id": "e334",
+   "verdict": "ok"
+  },
+  {
+   "id": "e335",
+   "verdict": "ok"
+  },
+  {
+   "id": "e410",
+   "verdict": "ok"
+  },
+  {
+   "id": "e411",
+   "verdict": "ok"
+  },
+  {
+   "id": "e412",
+   "verdict": "refuse",
+   "motif": "« affiche une étoile » se lit comme une note globale d'une étoile, ce qui contredit le reste du post où un seul avis à une étoile précède des avis excellents.",
+   "proposition": "Votre fiche Google montre un avis à une étoile sans réponse."
+  },
+  {
+   "id": "e413",
+   "verdict": "ok"
+  },
+  {
+   "id": "e414",
+   "verdict": "ok"
+  },
+  {
+   "id": "e415",
+   "verdict": "ok"
+  },
+  {
+   "id": "e416",
+   "verdict": "ok"
+  },
+  {
+   "id": "e417",
+   "verdict": "ok"
+  },
+  {
+   "id": "e418",
+   "verdict": "ok"
+  },
+  {
+   "id": "e419",
+   "verdict": "ok"
+  },
+  {
+   "id": "e420",
+   "verdict": "ok"
+  },
+  {
+   "id": "e421",
+   "verdict": "ok"
+  },
+  {
+   "id": "e422",
+   "verdict": "ok"
+  },
+  {
+   "id": "e423",
+   "verdict": "ok"
+  },
+  {
+   "id": "e424",
+   "verdict": "ok"
+  },
+  {
+   "id": "e425",
+   "verdict": "ok"
+  },
+  {
+   "id": "e426",
+   "verdict": "ok"
+  },
+  {
+   "id": "e427",
+   "verdict": "ok"
+  },
+  {
+   "id": "e428",
+   "verdict": "ok"
+  },
+  {
+   "id": "e429",
+   "verdict": "ok"
+  },
+  {
+   "id": "e430",
+   "verdict": "ok"
+  },
+  {
+   "id": "e431",
+   "verdict": "ok"
+  },
+  {
+   "id": "e432",
+   "verdict": "ok"
+  },
+  {
+   "id": "e433",
+   "verdict": "ok"
+  }
+ ]
+}

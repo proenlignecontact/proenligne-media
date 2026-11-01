@@ -1,0 +1,527 @@
+{
+ "empreinte": "d2f02170f5f9fa2a",
+ "verdicts": [
+  {
+   "id": "e074",
+   "verdict": "ok"
+  },
+  {
+   "id": "e075",
+   "verdict": "ok"
+  },
+  {
+   "id": "e076",
+   "verdict": "ok"
+  },
+  {
+   "id": "e077",
+   "verdict": "ok"
+  },
+  {
+   "id": "e078",
+   "verdict": "ok"
+  },
+  {
+   "id": "e079",
+   "verdict": "ok"
+  },
+  {
+   "id": "e080",
+   "verdict": "ok"
+  },
+  {
+   "id": "e081",
+   "verdict": "ok"
+  },
+  {
+   "id": "e082",
+   "verdict": "ok"
+  },
+  {
+   "id": "e083",
+   "verdict": "ok"
+  },
+  {
+   "id": "e084",
+   "verdict": "ok"
+  },
+  {
+   "id": "e085",
+   "verdict": "ok"
+  },
+  {
+   "id": "e086",
+   "verdict": "ok"
+  },
+  {
+   "id": "e087",
+   "verdict": "ok"
+  },
+  {
+   "id": "e088",
+   "verdict": "refuse",
+   "motif": "La phrase « Proenligne s'en charge » laisse croire que le service gère aussi les horaires de la fiche Google (piste C), ce qui ne fait pas partie des promesses autorisées.",
+   "proposition": "Quand deux instituts affichent la même note sur leur fiche Google, qu'est-ce qui fait pencher la cliente ?\nLa fiche Google, c'est la présentation que Google affiche quand on cherche « institut de beauté » à proximité.\n\nLa note attire l'œil, mais quand deux adresses voisines ont la même, la cliente fait défiler le reste.\n\nTrois éléments peuvent faire la différence.\nA. Des photos récentes des soins et de la cabine, qui montrent une activité réelle.\nB. Des réponses aux avis, qui montrent qu'une personne lit et prend soin de sa clientèle.\nC. Des horaires lisibles, avec la pause du midi et le samedi bien indiqués.\n\nAucun de ces éléments ne demande de budget. Ils demandent de la régularité, et c'est souvent là que le temps manque. Pour les instituts qui le souhaitent, Proenligne publie une photo chaque lundi, un article chaque jeudi et répond à chaque avis.\n\nSelon vous, lequel pèse le plus dans le choix d'une nouvelle cliente, A, B ou C ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Esthetique #TPE"
+  },
+  {
+   "id": "e089",
+   "verdict": "ok"
+  },
+  {
+   "id": "e090",
+   "verdict": "ok"
+  },
+  {
+   "id": "e091",
+   "verdict": "ok"
+  },
+  {
+   "id": "e092",
+   "verdict": "ok"
+  },
+  {
+   "id": "e093",
+   "verdict": "ok"
+  },
+  {
+   "id": "e094",
+   "verdict": "ok"
+  },
+  {
+   "id": "e095",
+   "verdict": "ok"
+  },
+  {
+   "id": "e096",
+   "verdict": "ok"
+  },
+  {
+   "id": "e097",
+   "verdict": "ok"
+  },
+  {
+   "id": "e098",
+   "verdict": "ok"
+  },
+  {
+   "id": "e099",
+   "verdict": "ok"
+  },
+  {
+   "id": "e100",
+   "verdict": "ok"
+  },
+  {
+   "id": "e101",
+   "verdict": "ok"
+  },
+  {
+   "id": "e102",
+   "verdict": "ok"
+  },
+  {
+   "id": "e103",
+   "verdict": "ok"
+  },
+  {
+   "id": "e104",
+   "verdict": "refuse",
+   "motif": "La question suppose que le chauffagiste trouve du temps dans la journée, ce qui contredit l'accroche du même post selon laquelle il n'a plus une minute.",
+   "proposition": "Chauffagistes, en pleine saison, trouvez-vous encore le temps de vous occuper de votre fiche Google ?"
+  },
+  {
+   "id": "e105",
+   "verdict": "ok"
+  },
+  {
+   "id": "e106",
+   "verdict": "ok"
+  },
+  {
+   "id": "e107",
+   "verdict": "ok"
+  },
+  {
+   "id": "e108",
+   "verdict": "ok"
+  },
+  {
+   "id": "e109",
+   "verdict": "ok"
+  },
+  {
+   "id": "e110",
+   "verdict": "ok"
+  },
+  {
+   "id": "e111",
+   "verdict": "ok"
+  },
+  {
+   "id": "e112",
+   "verdict": "ok"
+  },
+  {
+   "id": "e113",
+   "verdict": "refuse",
+   "motif": "La phrase « Une photo avant de remonter dans le camion suffit » est elliptique, on ne sait pas à quoi elle suffit.",
+   "proposition": "Ce soir, le mur est monté et le chantier est propre. Votre fiche Google n'en montre rien.\n\nC'est pourtant elle qu'on voit en cherchant « maçon » sur Google Maps. Une photo avant de partir suffit à montrer ce travail.\n\nVous prenez vos chantiers en photo ?\n\n#FicheGoogle #Macon"
+  },
+  {
+   "id": "e114",
+   "verdict": "ok"
+  },
+  {
+   "id": "e115",
+   "verdict": "ok"
+  },
+  {
+   "id": "e116",
+   "verdict": "refuse",
+   "motif": "Le titre n'a ni sujet ni verbe conjugué et ne dit pas que les trois gestes servent à réussir la photo de chantier.",
+   "proposition": "3 gestes suffisent pour une belle photo de chantier"
+  },
+  {
+   "id": "e117",
+   "verdict": "ok"
+  },
+  {
+   "id": "e118",
+   "verdict": "ok"
+  },
+  {
+   "id": "e119",
+   "verdict": "ok"
+  },
+  {
+   "id": "e120",
+   "verdict": "ok"
+  },
+  {
+   "id": "e121",
+   "verdict": "ok"
+  },
+  {
+   "id": "e122",
+   "verdict": "ok"
+  },
+  {
+   "id": "e123",
+   "verdict": "ok"
+  },
+  {
+   "id": "e124",
+   "verdict": "ok"
+  },
+  {
+   "id": "e125",
+   "verdict": "ok"
+  },
+  {
+   "id": "e126",
+   "verdict": "ok"
+  },
+  {
+   "id": "e127",
+   "verdict": "ok"
+  },
+  {
+   "id": "e128",
+   "verdict": "ok"
+  },
+  {
+   "id": "e129",
+   "verdict": "ok"
+  },
+  {
+   "id": "e130",
+   "verdict": "ok"
+  },
+  {
+   "id": "e131",
+   "verdict": "refuse",
+   "motif": "Le titre est un infinitif sans sujet ni verbe conjugué, alors que les titres de visuel doivent être des phrases.",
+   "proposition": "Une bonne réponse à un avis tient en 3 temps"
+  },
+  {
+   "id": "e132",
+   "verdict": "ok"
+  },
+  {
+   "id": "e133",
+   "verdict": "ok"
+  },
+  {
+   "id": "e134",
+   "verdict": "ok"
+  },
+  {
+   "id": "e135",
+   "verdict": "ok"
+  },
+  {
+   "id": "e136",
+   "verdict": "ok"
+  },
+  {
+   "id": "e137",
+   "verdict": "ok"
+  },
+  {
+   "id": "e138",
+   "verdict": "ok"
+  },
+  {
+   "id": "e139",
+   "verdict": "ok"
+  },
+  {
+   "id": "e140",
+   "verdict": "ok"
+  },
+  {
+   "id": "e141",
+   "verdict": "ok"
+  },
+  {
+   "id": "e142",
+   "verdict": "ok"
+  },
+  {
+   "id": "e143",
+   "verdict": "ok"
+  },
+  {
+   "id": "e144",
+   "verdict": "ok"
+  },
+  {
+   "id": "e145",
+   "verdict": "ok"
+  },
+  {
+   "id": "e146",
+   "verdict": "ok"
+  },
+  {
+   "id": "e147",
+   "verdict": "ok"
+  },
+  {
+   "id": "e148",
+   "verdict": "ok"
+  },
+  {
+   "id": "e149",
+   "verdict": "ok"
+  },
+  {
+   "id": "e150",
+   "verdict": "ok"
+  },
+  {
+   "id": "e151",
+   "verdict": "ok"
+  },
+  {
+   "id": "e288",
+   "verdict": "ok"
+  },
+  {
+   "id": "e289",
+   "verdict": "ok"
+  },
+  {
+   "id": "e290",
+   "verdict": "ok"
+  },
+  {
+   "id": "e291",
+   "verdict": "ok"
+  },
+  {
+   "id": "e292",
+   "verdict": "ok"
+  },
+  {
+   "id": "e293",
+   "verdict": "ok"
+  },
+  {
+   "id": "e294",
+   "verdict": "ok"
+  },
+  {
+   "id": "e295",
+   "verdict": "ok"
+  },
+  {
+   "id": "e296",
+   "verdict": "ok"
+  },
+  {
+   "id": "e297",
+   "verdict": "ok"
+  },
+  {
+   "id": "e298",
+   "verdict": "ok"
+  },
+  {
+   "id": "e299",
+   "verdict": "ok"
+  },
+  {
+   "id": "e300",
+   "verdict": "ok"
+  },
+  {
+   "id": "e301",
+   "verdict": "ok"
+  },
+  {
+   "id": "e302",
+   "verdict": "ok"
+  },
+  {
+   "id": "e303",
+   "verdict": "ok"
+  },
+  {
+   "id": "e304",
+   "verdict": "ok"
+  },
+  {
+   "id": "e305",
+   "verdict": "ok"
+  },
+  {
+   "id": "e306",
+   "verdict": "ok"
+  },
+  {
+   "id": "e307",
+   "verdict": "ok"
+  },
+  {
+   "id": "e308",
+   "verdict": "ok"
+  },
+  {
+   "id": "e309",
+   "verdict": "ok"
+  },
+  {
+   "id": "e310",
+   "verdict": "ok"
+  },
+  {
+   "id": "e311",
+   "verdict": "ok"
+  },
+  {
+   "id": "e385",
+   "verdict": "ok"
+  },
+  {
+   "id": "e386",
+   "verdict": "ok"
+  },
+  {
+   "id": "e387",
+   "verdict": "ok"
+  },
+  {
+   "id": "e388",
+   "verdict": "ok"
+  },
+  {
+   "id": "e389",
+   "verdict": "ok"
+  },
+  {
+   "id": "e390",
+   "verdict": "ok"
+  },
+  {
+   "id": "e391",
+   "verdict": "ok"
+  },
+  {
+   "id": "e392",
+   "verdict": "ok"
+  },
+  {
+   "id": "e393",
+   "verdict": "ok"
+  },
+  {
+   "id": "e394",
+   "verdict": "refuse",
+   "motif": "La notification est télégraphique et il manque les articles dans « fuite sous évier ».",
+   "proposition": "Article publié, la fuite sous l'évier"
+  },
+  {
+   "id": "e395",
+   "verdict": "ok"
+  },
+  {
+   "id": "e396",
+   "verdict": "ok"
+  },
+  {
+   "id": "e397",
+   "verdict": "ok"
+  },
+  {
+   "id": "e398",
+   "verdict": "ok"
+  },
+  {
+   "id": "e399",
+   "verdict": "ok"
+  },
+  {
+   "id": "e400",
+   "verdict": "ok"
+  },
+  {
+   "id": "e401",
+   "verdict": "ok"
+  },
+  {
+   "id": "e402",
+   "verdict": "ok"
+  },
+  {
+   "id": "e403",
+   "verdict": "ok"
+  },
+  {
+   "id": "e404",
+   "verdict": "ok"
+  },
+  {
+   "id": "e405",
+   "verdict": "ok"
+  },
+  {
+   "id": "e406",
+   "verdict": "ok"
+  },
+  {
+   "id": "e407",
+   "verdict": "ok"
+  },
+  {
+   "id": "e408",
+   "verdict": "refuse",
+   "motif": "« Thomas sans réponse » est télégraphique et peut se lire comme si Thomas attendait une réponse personnelle, il faut dire que c'est son avis.",
+   "proposition": "Avis de Thomas sans réponse"
+  },
+  {
+   "id": "e409",
+   "verdict": "ok"
+  }
+ ]
+}

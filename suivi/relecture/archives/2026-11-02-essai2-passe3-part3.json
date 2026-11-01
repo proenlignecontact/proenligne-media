@@ -1,0 +1,457 @@
+{
+ "empreinte": "70ab2fcf07db2cf8",
+ "verdicts": [
+  {
+   "id": "e163",
+   "verdict": "ok"
+  },
+  {
+   "id": "e164",
+   "verdict": "ok"
+  },
+  {
+   "id": "e165",
+   "verdict": "refuse",
+   "motif": "« Il » est ambigu dans « ne pouvait pas deviner qu'il posait des bornes », on comprend que le propriétaire de la voiture pose les bornes.",
+   "proposition": "Vous installez des bornes de recharge, mais votre fiche Google n'en dit pas un mot.\n\nLa fiche Google, c'est la carte de visite que Google montre à votre place quand quelqu'un cherche un électricien, avec vos photos, vos avis et votre numéro.\n\nPrenons un électricien imaginaire, Électricité Bernard.\nAvant, sa fiche Google indiquait seulement « électricien ». Un propriétaire de voiture électrique ne pouvait pas deviner qu'Électricité Bernard posait des bornes.\nAprès, une photo de borne installée est publiée le lundi, et un article sur la recharge à domicile le jeudi. Le service se voit enfin.\n\nQuel service faites-vous souvent sans qu'il apparaisse sur votre fiche Google ?\n\n#FicheGoogle #Electricien #BorneDeRecharge #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "id": "e166",
+   "verdict": "ok"
+  },
+  {
+   "id": "e167",
+   "verdict": "refuse",
+   "motif": "L'ouverture « Beaucoup d'électriciens… » est une généralisation invérifiable, et « C'est le principe de Proenligne, une photo chaque lundi… » bute à la lecture (la virgule remplace un deux-points).",
+   "proposition": "Votre entreprise installe des bornes de recharge ? Votre fiche Google le dit-elle ?\nLa fiche Google, c'est l'encadré que Google présente quand un particulier cherche un électricien près de chez lui.\n\nPrenons une entreprise imaginaire, Électricité Bernard.\n\nAvant, sa fiche Google mentionnait seulement « électricien ». Un propriétaire de voiture électrique qui cherchait un installateur ne pouvait pas deviner qu'Électricité Bernard en posait.\n\nAprès, une photo de borne installée est publiée le lundi, puis un article sur la recharge à domicile le jeudi. Le service devient visible pour les clients qui le cherchent.\n\nLe métier n'a pas changé. Ce qui a changé, c'est ce que la fiche Google raconte de l'activité réelle.\n\nProenligne fonctionne ainsi. Chaque semaine, une photo est publiée le lundi, un article le jeudi, et chaque avis reçoit une réponse.\n\nQuel service de votre entreprise reste aujourd'hui invisible sur Google ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Electricien #Artisanat"
+  },
+  {
+   "id": "e168",
+   "verdict": "ok"
+  },
+  {
+   "id": "e169",
+   "verdict": "ok"
+  },
+  {
+   "id": "e170",
+   "verdict": "ok"
+  },
+  {
+   "id": "e171",
+   "verdict": "ok"
+  },
+  {
+   "id": "e172",
+   "verdict": "ok"
+  },
+  {
+   "id": "e173",
+   "verdict": "ok"
+  },
+  {
+   "id": "e174",
+   "verdict": "ok"
+  },
+  {
+   "id": "e175",
+   "verdict": "ok"
+  },
+  {
+   "id": "e176",
+   "verdict": "ok"
+  },
+  {
+   "id": "e177",
+   "verdict": "ok"
+  },
+  {
+   "id": "e178",
+   "verdict": "ok"
+  },
+  {
+   "id": "e179",
+   "verdict": "ok"
+  },
+  {
+   "id": "e180",
+   "verdict": "ok"
+  },
+  {
+   "id": "e181",
+   "verdict": "ok"
+  },
+  {
+   "id": "e182",
+   "verdict": "ok"
+  },
+  {
+   "id": "e183",
+   "verdict": "ok"
+  },
+  {
+   "id": "e184",
+   "verdict": "ok"
+  },
+  {
+   "id": "e185",
+   "verdict": "ok"
+  },
+  {
+   "id": "e186",
+   "verdict": "ok"
+  },
+  {
+   "id": "e187",
+   "verdict": "ok"
+  },
+  {
+   "id": "e188",
+   "verdict": "refuse",
+   "motif": "« Pas de réponse en dessous. » est une phrase sans verbe, et l'enchaînement « Pourtant… Mais… » se lit mal à voix haute.",
+   "proposition": "Bloqué dehors, que pense un client devant l'avis à une étoile de votre fiche Google ?\n\nIl ouvre votre fiche Google, celle qui affiche votre note et vos avis sur Google Maps. Il tombe d'abord sur une étoile et un reproche sur une longue attente. Personne n'a répondu en dessous.\n\nLes avis suivants sont pourtant excellents, mais c'est souvent le premier qu'on retient.\n\nUne réponse calme change la lecture. On s'excuse de l'attente, on propose d'en parler, on reste poli.\n\nComment répondez-vous à un avis négatif, vous ?\n\n#FicheGoogle #Serrurier #Serrurerie #ReferencementLocal"
+  },
+  {
+   "id": "e203",
+   "verdict": "ok"
+  },
+  {
+   "id": "e204",
+   "verdict": "ok"
+  },
+  {
+   "id": "e205",
+   "verdict": "ok"
+  },
+  {
+   "id": "e206",
+   "verdict": "ok"
+  },
+  {
+   "id": "e207",
+   "verdict": "ok"
+  },
+  {
+   "id": "e208",
+   "verdict": "ok"
+  },
+  {
+   "id": "e209",
+   "verdict": "ok"
+  },
+  {
+   "id": "e210",
+   "verdict": "ok"
+  },
+  {
+   "id": "e211",
+   "verdict": "ok"
+  },
+  {
+   "id": "e212",
+   "verdict": "ok"
+  },
+  {
+   "id": "e213",
+   "verdict": "ok"
+  },
+  {
+   "id": "e214",
+   "verdict": "ok"
+  },
+  {
+   "id": "e215",
+   "verdict": "ok"
+  },
+  {
+   "id": "e216",
+   "verdict": "ok"
+  },
+  {
+   "id": "e217",
+   "verdict": "ok"
+  },
+  {
+   "id": "e218",
+   "verdict": "ok"
+  },
+  {
+   "id": "e219",
+   "verdict": "ok"
+  },
+  {
+   "id": "e220",
+   "verdict": "ok"
+  },
+  {
+   "id": "e221",
+   "verdict": "ok"
+  },
+  {
+   "id": "e222",
+   "verdict": "ok"
+  },
+  {
+   "id": "e223",
+   "verdict": "ok"
+  },
+  {
+   "id": "e224",
+   "verdict": "ok"
+  },
+  {
+   "id": "e225",
+   "verdict": "ok"
+  },
+  {
+   "id": "e226",
+   "verdict": "ok"
+  },
+  {
+   "id": "e227",
+   "verdict": "ok"
+  },
+  {
+   "id": "e228",
+   "verdict": "ok"
+  },
+  {
+   "id": "e229",
+   "verdict": "ok"
+  },
+  {
+   "id": "e230",
+   "verdict": "refuse",
+   "motif": "« C'est l'encadré… » n'a pas de référent clair (on peut croire que « c'est » désigne les transformations), la fiche Google n'est donc pas expliquée de façon lisible.",
+   "proposition": "Pourquoi les plus belles transformations se voient-elles si rarement sur la fiche Google des paysagistes ?\n\nLa fiche Google est l'encadré avec photos et avis que Google montre aux clients. La photo d'avant y manque souvent. Vous pensez à la prendre ?\n\n#FicheGoogle #Paysagiste"
+  },
+  {
+   "id": "e231",
+   "verdict": "ok"
+  },
+  {
+   "id": "e232",
+   "verdict": "ok"
+  },
+  {
+   "id": "e233",
+   "verdict": "ok"
+  },
+  {
+   "id": "e234",
+   "verdict": "ok"
+  },
+  {
+   "id": "e235",
+   "verdict": "ok"
+  },
+  {
+   "id": "e236",
+   "verdict": "ok"
+  },
+  {
+   "id": "e237",
+   "verdict": "ok"
+  },
+  {
+   "id": "e312",
+   "verdict": "ok"
+  },
+  {
+   "id": "e313",
+   "verdict": "ok"
+  },
+  {
+   "id": "e314",
+   "verdict": "ok"
+  },
+  {
+   "id": "e315",
+   "verdict": "ok"
+  },
+  {
+   "id": "e316",
+   "verdict": "refuse",
+   "motif": "« Et vous, quel soin mettriez-vous en avant ? » s'adresse à « vous » comme à une autre personne alors que la phrase précédente parle déjà de « votre nouveau soin », et « à vos clientes » omet que l'article paraît sur la fiche Google.",
+   "proposition": "Le jeudi, un article présente votre nouveau soin sur votre fiche Google. Quel soin aimeriez-vous annoncer ensuite ?"
+  },
+  {
+   "id": "e317",
+   "verdict": "ok"
+  },
+  {
+   "id": "e318",
+   "verdict": "ok"
+  },
+  {
+   "id": "e319",
+   "verdict": "ok"
+  },
+  {
+   "id": "e320",
+   "verdict": "ok"
+  },
+  {
+   "id": "e321",
+   "verdict": "ok"
+  },
+  {
+   "id": "e322",
+   "verdict": "ok"
+  },
+  {
+   "id": "e323",
+   "verdict": "ok"
+  },
+  {
+   "id": "e324",
+   "verdict": "ok"
+  },
+  {
+   "id": "e325",
+   "verdict": "ok"
+  },
+  {
+   "id": "e326",
+   "verdict": "ok"
+  },
+  {
+   "id": "e327",
+   "verdict": "ok"
+  },
+  {
+   "id": "e328",
+   "verdict": "ok"
+  },
+  {
+   "id": "e329",
+   "verdict": "ok"
+  },
+  {
+   "id": "e330",
+   "verdict": "ok"
+  },
+  {
+   "id": "e331",
+   "verdict": "ok"
+  },
+  {
+   "id": "e332",
+   "verdict": "ok"
+  },
+  {
+   "id": "e333",
+   "verdict": "ok"
+  },
+  {
+   "id": "e334",
+   "verdict": "ok"
+  },
+  {
+   "id": "e335",
+   "verdict": "ok"
+  },
+  {
+   "id": "e410",
+   "verdict": "ok"
+  },
+  {
+   "id": "e411",
+   "verdict": "ok"
+  },
+  {
+   "id": "e412",
+   "verdict": "refuse",
+   "motif": "« Resté sans suite » est ambigu (en français courant, une affaire classée sans suite est abandonnée) et ne dit pas clairement que l'avis n'a pas de réponse.",
+   "proposition": "Votre fiche Google montre un avis négatif sans réponse."
+  },
+  {
+   "id": "e413",
+   "verdict": "refuse",
+   "motif": "« Vous validez » sans complément se lit comme un télégramme, il manque ce que l'on valide.",
+   "proposition": "Proenligne prépare la réponse, vous la validez"
+  },
+  {
+   "id": "e414",
+   "verdict": "refuse",
+   "motif": "« Et vous » arrive juste après une phrase qui s'adresse déjà à « vous », la question semble s'adresser à quelqu'un d'autre et se lit mal.",
+   "proposition": "Cette réponse calme part seulement après votre accord. Comment répondez-vous aux avis négatifs ?"
+  },
+  {
+   "id": "e415",
+   "verdict": "ok"
+  },
+  {
+   "id": "e416",
+   "verdict": "ok"
+  },
+  {
+   "id": "e417",
+   "verdict": "ok"
+  },
+  {
+   "id": "e418",
+   "verdict": "ok"
+  },
+  {
+   "id": "e419",
+   "verdict": "ok"
+  },
+  {
+   "id": "e420",
+   "verdict": "ok"
+  },
+  {
+   "id": "e421",
+   "verdict": "ok"
+  },
+  {
+   "id": "e422",
+   "verdict": "ok"
+  },
+  {
+   "id": "e423",
+   "verdict": "ok"
+  },
+  {
+   "id": "e424",
+   "verdict": "ok"
+  },
+  {
+   "id": "e425",
+   "verdict": "ok"
+  },
+  {
+   "id": "e426",
+   "verdict": "ok"
+  },
+  {
+   "id": "e427",
+   "verdict": "ok"
+  },
+  {
+   "id": "e428",
+   "verdict": "ok"
+  },
+  {
+   "id": "e429",
+   "verdict": "ok"
+  },
+  {
+   "id": "e430",
+   "verdict": "ok"
+  },
+  {
+   "id": "e431",
+   "verdict": "ok"
+  },
+  {
+   "id": "e432",
+   "verdict": "ok"
+  },
+  {
+   "id": "e433",
+   "verdict": "ok"
+  }
+ ]
+}

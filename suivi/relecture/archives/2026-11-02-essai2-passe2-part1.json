@@ -1,0 +1,507 @@
+{
+ "empreinte": "d2f02170f5f9fa2a",
+ "verdicts": [
+  {
+   "id": "e001",
+   "verdict": "ok"
+  },
+  {
+   "id": "e002",
+   "verdict": "ok"
+  },
+  {
+   "id": "e003",
+   "verdict": "ok"
+  },
+  {
+   "id": "e004",
+   "verdict": "ok"
+  },
+  {
+   "id": "e005",
+   "verdict": "ok"
+  },
+  {
+   "id": "e006",
+   "verdict": "ok"
+  },
+  {
+   "id": "e007",
+   "verdict": "ok"
+  },
+  {
+   "id": "e008",
+   "verdict": "ok"
+  },
+  {
+   "id": "e009",
+   "verdict": "ok"
+  },
+  {
+   "id": "e010",
+   "verdict": "ok"
+  },
+  {
+   "id": "e011",
+   "verdict": "ok"
+  },
+  {
+   "id": "e012",
+   "verdict": "ok"
+  },
+  {
+   "id": "e013",
+   "verdict": "ok"
+  },
+  {
+   "id": "e014",
+   "verdict": "refuse",
+   "motif": "Critère 1, la phrase « Trois réflexes suffisent pour que vos coupes y arrivent » bute à la lecture, car « y arriver » se lit aussi comme « réussir » et le « y » ne renvoie à rien de clair.",
+   "proposition": "Vos plus belles coupes dorment dans votre téléphone au lieu d'être sur votre fiche Google.\n\nVotre fiche Google, c'est ce que voit une future cliente quand elle cherche « coiffeur » sur Google Maps. Avant de réserver, elle fait souvent défiler les photos.\n\nTrois réflexes suffisent pour que vos coupes arrivent sur votre fiche Google.\n1. Photographiez la coupe près de la vitrine, à la lumière du jour, sans flash.\n2. Demandez l'accord de la cliente. Une simple question, et beaucoup sont flattées.\n3. Publiez la photo sur votre fiche Google le soir même, avant qu'elle se perde dans la galerie.\n\nEt chez vous, qui s'occupe des photos au salon ?\n\n#FicheGoogle #Coiffeur #Coiffure #ReferencementLocal"
+  },
+  {
+   "id": "e015",
+   "verdict": "ok"
+  },
+  {
+   "id": "e016",
+   "verdict": "ok"
+  },
+  {
+   "id": "e017",
+   "verdict": "refuse",
+   "motif": "Critère 1, le titre du visuel n'a pas de verbe conjugué alors que les règles exigent un sujet et un verbe pour chaque titre de visuel.",
+   "proposition": "3 réflexes vous aident à montrer vos coupes"
+  },
+  {
+   "id": "e018",
+   "verdict": "ok"
+  },
+  {
+   "id": "e019",
+   "verdict": "ok"
+  },
+  {
+   "id": "e020",
+   "verdict": "ok"
+  },
+  {
+   "id": "e021",
+   "verdict": "ok"
+  },
+  {
+   "id": "e022",
+   "verdict": "ok"
+  },
+  {
+   "id": "e023",
+   "verdict": "ok"
+  },
+  {
+   "id": "e024",
+   "verdict": "ok"
+  },
+  {
+   "id": "e025",
+   "verdict": "ok"
+  },
+  {
+   "id": "e026",
+   "verdict": "ok"
+  },
+  {
+   "id": "e027",
+   "verdict": "ok"
+  },
+  {
+   "id": "e028",
+   "verdict": "ok"
+  },
+  {
+   "id": "e029",
+   "verdict": "ok"
+  },
+  {
+   "id": "e030",
+   "verdict": "ok"
+  },
+  {
+   "id": "e031",
+   "verdict": "ok"
+  },
+  {
+   "id": "e032",
+   "verdict": "ok"
+  },
+  {
+   "id": "e033",
+   "verdict": "ok"
+  },
+  {
+   "id": "e034",
+   "verdict": "ok"
+  },
+  {
+   "id": "e035",
+   "verdict": "ok"
+  },
+  {
+   "id": "e036",
+   "verdict": "ok"
+  },
+  {
+   "id": "e037",
+   "verdict": "ok"
+  },
+  {
+   "id": "e038",
+   "verdict": "ok"
+  },
+  {
+   "id": "e039",
+   "verdict": "ok"
+  },
+  {
+   "id": "e040",
+   "verdict": "refuse",
+   "motif": "Critère 1, « à qui cherche un électricien. S'il lit » donne un « il » sans antécédent clair, et « Vous les avez vérifiés ? » renvoie à des horaires nommés trois phrases plus haut.",
+   "proposition": "Pendant que vous êtes sur un chantier, votre fiche Google affiche peut-être encore vos horaires de vacances.\n\nC'est l'encadré que Google montre quand on cherche un électricien. Si on y lit « Fermé », on appelle ailleurs.\n\nVos horaires sont-ils à jour ?\n\n#FicheGoogle #Electricien"
+  },
+  {
+   "id": "e041",
+   "verdict": "refuse",
+   "motif": "Critère 3, « Les horaires de vacances sont pratiques, à condition de penser à les retirer » est inexact pour les horaires exceptionnels de Google, qui ne s'appliquent qu'aux dates choisies, et contredit le premier commentaire qui conseille justement ces horaires exceptionnels ; seul un changement des horaires habituels doit être annulé à la main.",
+   "proposition": "Pendant que vous êtes sur un chantier, votre fiche Google affiche peut-être encore vos horaires de vacances.\n\nVotre fiche Google, c'est ce que Google montre quand quelqu'un cherche « électricien » près de chez lui, avec votre note, vos photos, vos horaires et votre numéro.\n\nUn client en panne regarde souvent d'abord si vous êtes ouvert. S'il lit « Fermé », il ne prend pas le risque d'appeler. Il passe à l'électricien suivant.\n\nSi vous avez modifié vos horaires habituels pour les vacances, ils restent affichés tant que vous ne les remettez pas. Après la Toussaint, c'est le bon moment pour vérifier.\nOuvrez votre fiche Google depuis votre téléphone.\nVérifiez la ligne des horaires, jour par jour.\nAjoutez dès maintenant les jours fériés de fin d'année en horaires exceptionnels.\n\nVos horaires affichés sont-ils justes aujourd'hui ?\n\n#FicheGoogle #Electricien #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "id": "e042",
+   "verdict": "ok"
+  },
+  {
+   "id": "e043",
+   "verdict": "ok"
+  },
+  {
+   "id": "e044",
+   "verdict": "ok"
+  },
+  {
+   "id": "e045",
+   "verdict": "ok"
+  },
+  {
+   "id": "e046",
+   "verdict": "ok"
+  },
+  {
+   "id": "e047",
+   "verdict": "ok"
+  },
+  {
+   "id": "e048",
+   "verdict": "ok"
+  },
+  {
+   "id": "e049",
+   "verdict": "ok"
+  },
+  {
+   "id": "e050",
+   "verdict": "ok"
+  },
+  {
+   "id": "e051",
+   "verdict": "refuse",
+   "motif": "Critère 1 et 2, « Seule la vitrine sur Google a changé » prête à confusion puisque la photo d'avant montre justement une vraie vitrine vide, on peut croire que c'est la boutique qui a changé.",
+   "proposition": "La même boulangerie peut avoir deux visages sur sa fiche Google. Lequel donne faim ?\n\nCherchez « boulangerie » dans votre ville. Les encadrés avec une note et des photos sont des fiches Google. C'est souvent là que se joue le choix du croissant du dimanche.\n\nVoici une boulangerie imaginaire, la boulangerie Durand, en deux versions.\nAvant, sa fiche Google n'avait qu'une photo, une vitrine vide prise un soir après la fermeture.\nAprès, une photo de la fournée du matin est publiée chaque lundi, avec les baguettes, les viennoiseries et l'équipe.\n\nLe pain est le même, la note aussi. Seules les photos de la fiche Google ont changé.\n\nLaquelle vous donnerait envie d'entrer ?\n\n#FicheGoogle #Boulangerie #Boulanger #ReferencementLocal"
+  },
+  {
+   "id": "e052",
+   "verdict": "ok"
+  },
+  {
+   "id": "e053",
+   "verdict": "ok"
+  },
+  {
+   "id": "e054",
+   "verdict": "ok"
+  },
+  {
+   "id": "e055",
+   "verdict": "ok"
+  },
+  {
+   "id": "e056",
+   "verdict": "ok"
+  },
+  {
+   "id": "e057",
+   "verdict": "ok"
+  },
+  {
+   "id": "e058",
+   "verdict": "ok"
+  },
+  {
+   "id": "e059",
+   "verdict": "ok"
+  },
+  {
+   "id": "e060",
+   "verdict": "ok"
+  },
+  {
+   "id": "e061",
+   "verdict": "ok"
+  },
+  {
+   "id": "e062",
+   "verdict": "ok"
+  },
+  {
+   "id": "e063",
+   "verdict": "ok"
+  },
+  {
+   "id": "e064",
+   "verdict": "ok"
+  },
+  {
+   "id": "e065",
+   "verdict": "ok"
+  },
+  {
+   "id": "e066",
+   "verdict": "ok"
+  },
+  {
+   "id": "e067",
+   "verdict": "ok"
+  },
+  {
+   "id": "e068",
+   "verdict": "ok"
+  },
+  {
+   "id": "e069",
+   "verdict": "ok"
+  },
+  {
+   "id": "e070",
+   "verdict": "ok"
+  },
+  {
+   "id": "e071",
+   "verdict": "refuse",
+   "motif": "Critère 3, « Les avis, la plupart des clients les lisent. Les réponses aussi » présente comme un fait mesuré une affirmation invérifiable, surtout pour les réponses.",
+   "proposition": "« Ce garage ne répond jamais ? » se demande un client devant votre fiche Google.\n\nSur Google Maps, chaque garage a sa fiche Google, avec la note, les avis et le bouton Appeler. Avant d'appeler, beaucoup de clients lisent les avis, et souvent les réponses aussi.\n\nTrois bons avis sans un mot en dessous, et le nouveau client se demande si quelqu'un lit ce qu'écrivent les clients.\n\nRépondre prend une phrase. « Merci Karim, ravis d'avoir pu vous dépanner ce samedi. »\n\nCombien d'avis attendent une réponse sur votre fiche Google ?\n\n#FicheGoogle #Garage #Garagiste #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "id": "e072",
+   "verdict": "ok"
+  },
+  {
+   "id": "e073",
+   "verdict": "ok"
+  },
+  {
+   "id": "e336",
+   "verdict": "ok"
+  },
+  {
+   "id": "e337",
+   "verdict": "ok"
+  },
+  {
+   "id": "e338",
+   "verdict": "ok"
+  },
+  {
+   "id": "e339",
+   "verdict": "ok"
+  },
+  {
+   "id": "e340",
+   "verdict": "ok"
+  },
+  {
+   "id": "e341",
+   "verdict": "refuse",
+   "motif": "Critère 3, « une réponse polie et personnelle » attribue au service une qualité qui ne figure pas dans les promesses des règles éditoriales, qui disent seulement que Proenligne répond à chaque avis.",
+   "proposition": "Chaque avis de votre fiche Google reçoit une réponse. Combien d'avis attendent encore chez vous ?"
+  },
+  {
+   "id": "e342",
+   "verdict": "ok"
+  },
+  {
+   "id": "e343",
+   "verdict": "ok"
+  },
+  {
+   "id": "e344",
+   "verdict": "ok"
+  },
+  {
+   "id": "e345",
+   "verdict": "ok"
+  },
+  {
+   "id": "e346",
+   "verdict": "ok"
+  },
+  {
+   "id": "e347",
+   "verdict": "ok"
+  },
+  {
+   "id": "e348",
+   "verdict": "ok"
+  },
+  {
+   "id": "e349",
+   "verdict": "ok"
+  },
+  {
+   "id": "e350",
+   "verdict": "ok"
+  },
+  {
+   "id": "e351",
+   "verdict": "ok"
+  },
+  {
+   "id": "e352",
+   "verdict": "ok"
+  },
+  {
+   "id": "e353",
+   "verdict": "ok"
+  },
+  {
+   "id": "e354",
+   "verdict": "ok"
+  },
+  {
+   "id": "e355",
+   "verdict": "ok"
+  },
+  {
+   "id": "e356",
+   "verdict": "ok"
+  },
+  {
+   "id": "e357",
+   "verdict": "ok"
+  },
+  {
+   "id": "e358",
+   "verdict": "ok"
+  },
+  {
+   "id": "e359",
+   "verdict": "ok"
+  },
+  {
+   "id": "e360",
+   "verdict": "ok"
+  },
+  {
+   "id": "e361",
+   "verdict": "ok"
+  },
+  {
+   "id": "e362",
+   "verdict": "ok"
+  },
+  {
+   "id": "e363",
+   "verdict": "ok"
+  },
+  {
+   "id": "e364",
+   "verdict": "ok"
+  },
+  {
+   "id": "e365",
+   "verdict": "ok"
+  },
+  {
+   "id": "e366",
+   "verdict": "ok"
+  },
+  {
+   "id": "e367",
+   "verdict": "ok"
+  },
+  {
+   "id": "e368",
+   "verdict": "ok"
+  },
+  {
+   "id": "e369",
+   "verdict": "ok"
+  },
+  {
+   "id": "e370",
+   "verdict": "ok"
+  },
+  {
+   "id": "e371",
+   "verdict": "ok"
+  },
+  {
+   "id": "e372",
+   "verdict": "ok"
+  },
+  {
+   "id": "e373",
+   "verdict": "ok"
+  },
+  {
+   "id": "e374",
+   "verdict": "ok"
+  },
+  {
+   "id": "e375",
+   "verdict": "ok"
+  },
+  {
+   "id": "e376",
+   "verdict": "ok"
+  },
+  {
+   "id": "e377",
+   "verdict": "ok"
+  },
+  {
+   "id": "e378",
+   "verdict": "ok"
+  },
+  {
+   "id": "e379",
+   "verdict": "ok"
+  },
+  {
+   "id": "e380",
+   "verdict": "ok"
+  },
+  {
+   "id": "e381",
+   "verdict": "ok"
+  },
+  {
+   "id": "e382",
+   "verdict": "ok"
+  },
+  {
+   "id": "e383",
+   "verdict": "ok"
+  },
+  {
+   "id": "e384",
+   "verdict": "ok"
+  }
+ ]
+}

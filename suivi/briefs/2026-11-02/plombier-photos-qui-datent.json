@@ -21,7 +21,7 @@
  "corps": "Des photos anciennes sur votre fiche Google ne montrent pas ce que vous faites aujourd'hui. Proenligne publie une photo chaque lundi, un article le jeudi et répond à chaque avis.",
  "notifs": [
   "Photo publiée, chauffe-eau neuf",
-  "Article publié, fuite sous évier",
+  "Article publié, la fuite sous l'évier",
   "Réponse envoyée à Thomas"
  ],
  "desc": {
@@ -45,7 +45,7 @@
    },
    {
     "label": "Avis",
-    "avant": "Thomas sans réponse",
+    "avant": "Thomas attend sa réponse",
     "apres": "Réponse envoyée"
    }
   ]

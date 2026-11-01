@@ -1,0 +1,421 @@
+{
+ "empreinte": "70ab2fcf07db2cf8",
+ "verdicts": [
+  {
+   "id": "e011",
+   "verdict": "ok"
+  },
+  {
+   "id": "e012",
+   "verdict": "ok"
+  },
+  {
+   "id": "e013",
+   "verdict": "ok"
+  },
+  {
+   "id": "e014",
+   "verdict": "ok"
+  },
+  {
+   "id": "e015",
+   "verdict": "ok"
+  },
+  {
+   "id": "e016",
+   "verdict": "ok"
+  },
+  {
+   "id": "e017",
+   "verdict": "ok"
+  },
+  {
+   "id": "e018",
+   "verdict": "ok"
+  },
+  {
+   "id": "e019",
+   "verdict": "ok"
+  },
+  {
+   "id": "e020",
+   "verdict": "ok"
+  },
+  {
+   "id": "e021",
+   "verdict": "refuse",
+   "motif": "Le pronom « la » est ambigu lu seul après le point 2 qui finit sur « la cliente » et « la photo », il faut nommer la photo",
+   "proposition": "Publiez la photo sur votre fiche Google le soir même"
+  },
+  {
+   "id": "e022",
+   "verdict": "ok"
+  },
+  {
+   "id": "e023",
+   "verdict": "ok"
+  },
+  {
+   "id": "e024",
+   "verdict": "ok"
+  },
+  {
+   "id": "e025",
+   "verdict": "refuse",
+   "motif": "« Je peux la prendre en photo ? » est ambigu, on comprend qu'on photographie la cliente elle-même et non sa coupe",
+   "proposition": "Une question suffit. « Je peux prendre votre coupe en photo ? » Beaucoup de clientes sont flattées."
+  },
+  {
+   "id": "e026",
+   "verdict": "ok"
+  },
+  {
+   "id": "e027",
+   "verdict": "ok"
+  },
+  {
+   "id": "e028",
+   "verdict": "ok"
+  },
+  {
+   "id": "e029",
+   "verdict": "ok"
+  },
+  {
+   "id": "e038",
+   "verdict": "ok"
+  },
+  {
+   "id": "e039",
+   "verdict": "ok"
+  },
+  {
+   "id": "e040",
+   "verdict": "ok"
+  },
+  {
+   "id": "e041",
+   "verdict": "ok"
+  },
+  {
+   "id": "e042",
+   "verdict": "ok"
+  },
+  {
+   "id": "e043",
+   "verdict": "ok"
+  },
+  {
+   "id": "e044",
+   "verdict": "ok"
+  },
+  {
+   "id": "e045",
+   "verdict": "ok"
+  },
+  {
+   "id": "e046",
+   "verdict": "ok"
+  },
+  {
+   "id": "e047",
+   "verdict": "refuse",
+   "motif": "Lu seul, « ajoutez les jours fériés » ne dit pas quoi ajouter ni où, il manque la notion d'horaires",
+   "proposition": "Ajoutez dès maintenant vos horaires des jours fériés de fin d'année"
+  },
+  {
+   "id": "e048",
+   "verdict": "ok"
+  },
+  {
+   "id": "e049",
+   "verdict": "ok"
+  },
+  {
+   "id": "e050",
+   "verdict": "ok"
+  },
+  {
+   "id": "e051",
+   "verdict": "ok"
+  },
+  {
+   "id": "e052",
+   "verdict": "ok"
+  },
+  {
+   "id": "e053",
+   "verdict": "ok"
+  },
+  {
+   "id": "e054",
+   "verdict": "ok"
+  },
+  {
+   "id": "e055",
+   "verdict": "ok"
+  },
+  {
+   "id": "e056",
+   "verdict": "ok"
+  },
+  {
+   "id": "e057",
+   "verdict": "ok"
+  },
+  {
+   "id": "e058",
+   "verdict": "ok"
+  },
+  {
+   "id": "e059",
+   "verdict": "ok"
+  },
+  {
+   "id": "e060",
+   "verdict": "ok"
+  },
+  {
+   "id": "e061",
+   "verdict": "ok"
+  },
+  {
+   "id": "e062",
+   "verdict": "ok"
+  },
+  {
+   "id": "e063",
+   "verdict": "ok"
+  },
+  {
+   "id": "e064",
+   "verdict": "ok"
+  },
+  {
+   "id": "e065",
+   "verdict": "ok"
+  },
+  {
+   "id": "e066",
+   "verdict": "refuse",
+   "motif": "La question citée « Ce garage ne répond jamais ? » se comprend d'abord comme un garage qui ne décroche pas le téléphone, pas comme des avis sans réponse, donc le texte n'est pas clair à la première lecture",
+   "proposition": "« Personne ne répond aux avis ? » se demande un client devant votre fiche Google."
+  },
+  {
+   "id": "e067",
+   "verdict": "ok"
+  },
+  {
+   "id": "e068",
+   "verdict": "ok"
+  },
+  {
+   "id": "e069",
+   "verdict": "ok"
+  },
+  {
+   "id": "e070",
+   "verdict": "refuse",
+   "motif": "La question citée « Ce garage ne répond jamais ? » se comprend d'abord comme un garage qui ne décroche pas le téléphone, pas comme des avis sans réponse, donc le texte n'est pas clair à la première lecture, et il faut garder la même question que l'accroche corrigée de la vidéo",
+   "proposition": "« Personne ne répond aux avis ? » C'est ce que se demande un client devant votre fiche Google quand trois bons avis restent sans réponse.\nVotre fiche Google, c'est l'encadré que Google affiche avec votre note et vos avis quand on cherche un garage.\n\n#FicheGoogle #Garage #Garagiste #Mecanique"
+  },
+  {
+   "id": "e071",
+   "verdict": "refuse",
+   "motif": "La question citée « Ce garage ne répond jamais ? » se comprend d'abord comme un garage qui ne décroche pas le téléphone, pas comme des avis sans réponse, donc le texte n'est pas clair à la première lecture, et il faut garder la même question que l'accroche corrigée de la vidéo",
+   "proposition": "« Personne ne répond aux avis ? » se demande un client devant votre fiche Google.\n\nSur Google Maps, chaque garage a sa fiche Google, avec la note, les avis et le bouton Appeler. Avant d'appeler, beaucoup de clients lisent les avis, et souvent les réponses aussi.\n\nTrois bons avis sans un mot en dessous, et le nouveau client se demande si quelqu'un lit ce qu'écrivent les clients.\n\nRépondre prend une phrase. « Merci Karim, ravis d'avoir pu vous dépanner ce samedi. »\n\nCombien d'avis attendent une réponse sur votre fiche Google ?\n\n#FicheGoogle #Garage #Garagiste #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "id": "e072",
+   "verdict": "refuse",
+   "motif": "La question citée « Ce garage ne répond jamais ? » se comprend d'abord comme un garage qui ne décroche pas le téléphone, pas comme des avis sans réponse, donc le texte n'est pas clair à la première lecture, et il faut garder la même question que l'accroche corrigée de la vidéo",
+   "proposition": "« Personne ne répond aux avis ? » C'est la question d'un client devant une fiche Google où trois bons avis restent sans réponse.\n\nVotre fiche Google, c'est ce que vos clients voient en premier quand ils cherchent « garage » sur Google Maps. Les réponses aux avis montrent qu'une vraie personne écoute.\n\nProenligne répond à chaque avis, publie une photo le lundi et un article le jeudi.\n\nVous répondez à vos avis, vous ?\n\n#FicheGoogle #Garage #Garagiste"
+  },
+  {
+   "id": "e073",
+   "verdict": "refuse",
+   "motif": "La question citée « Ce garage ne répond jamais ? » se comprend d'abord comme un garage qui ne décroche pas le téléphone, pas comme des avis sans réponse, donc le texte n'est pas clair à la première lecture, et il faut garder la même question que l'accroche corrigée de la vidéo",
+   "proposition": "« Personne ne répond aux avis ? » se demande un client devant votre fiche Google.\n\nIl cherche un garage pour sa révision. Sur votre fiche Google, l'encadré que Google lui montre avec votre note et vos avis, il lit trois bons avis. Aucun n'a de réponse.\n\nCe n'est pas grave en soi, mais ça laisse un doute. Est-ce que quelqu'un lit vraiment ce qu'écrivent les clients ?\n\nUne phrase suffit sous chaque avis, avec un merci, un prénom et un détail.\n\nVous répondez à vos avis le jour même, ou plutôt quand vous avez un moment ?\n\n#FicheGoogle #Garage #Garagiste #ReferencementLocal"
+  },
+  {
+   "id": "e084",
+   "verdict": "ok"
+  },
+  {
+   "id": "e085",
+   "verdict": "ok"
+  },
+  {
+   "id": "e086",
+   "verdict": "ok"
+  },
+  {
+   "id": "e087",
+   "verdict": "ok"
+  },
+  {
+   "id": "e088",
+   "verdict": "ok"
+  },
+  {
+   "id": "e089",
+   "verdict": "ok"
+  },
+  {
+   "id": "e090",
+   "verdict": "refuse",
+   "motif": "« Qu'est-ce qui fait réserver une cliente ? » se lit de deux façons (faire réserver une cliente ou réserver une cliente) et perd l'idée de la note égale entre deux instituts annoncée par l'accroche",
+   "proposition": "À note égale, qu'est-ce qui fait choisir un institut ?"
+  },
+  {
+   "id": "e091",
+   "verdict": "ok"
+  },
+  {
+   "id": "e092",
+   "verdict": "ok"
+  },
+  {
+   "id": "e093",
+   "verdict": "ok"
+  },
+  {
+   "id": "e094",
+   "verdict": "ok"
+  },
+  {
+   "id": "e095",
+   "verdict": "ok"
+  },
+  {
+   "id": "e096",
+   "verdict": "ok"
+  },
+  {
+   "id": "e097",
+   "verdict": "ok"
+  },
+  {
+   "id": "e098",
+   "verdict": "ok"
+  },
+  {
+   "id": "e099",
+   "verdict": "ok"
+  },
+  {
+   "id": "e100",
+   "verdict": "ok"
+  },
+  {
+   "id": "e101",
+   "verdict": "ok"
+  },
+  {
+   "id": "e102",
+   "verdict": "ok"
+  },
+  {
+   "id": "e336",
+   "verdict": "ok"
+  },
+  {
+   "id": "e337",
+   "verdict": "refuse",
+   "motif": "La question citée « Ce garage ne répond jamais ? » se comprend d'abord comme un garage qui ne décroche pas le téléphone, pas comme des avis sans réponse, donc le texte n'est pas clair à la première lecture (même accroche que le post)",
+   "proposition": "« Personne ne répond aux avis ? » se demande un client devant votre fiche Google."
+  },
+  {
+   "id": "e338",
+   "verdict": "ok"
+  },
+  {
+   "id": "e339",
+   "verdict": "ok"
+  },
+  {
+   "id": "e340",
+   "verdict": "ok"
+  },
+  {
+   "id": "e341",
+   "verdict": "ok"
+  },
+  {
+   "id": "e342",
+   "verdict": "ok"
+  },
+  {
+   "id": "e343",
+   "verdict": "ok"
+  },
+  {
+   "id": "e344",
+   "verdict": "ok"
+  },
+  {
+   "id": "e345",
+   "verdict": "ok"
+  },
+  {
+   "id": "e346",
+   "verdict": "ok"
+  },
+  {
+   "id": "e347",
+   "verdict": "ok"
+  },
+  {
+   "id": "e348",
+   "verdict": "ok"
+  },
+  {
+   "id": "e349",
+   "verdict": "ok"
+  },
+  {
+   "id": "e350",
+   "verdict": "ok"
+  },
+  {
+   "id": "e351",
+   "verdict": "ok"
+  },
+  {
+   "id": "e352",
+   "verdict": "ok"
+  },
+  {
+   "id": "e353",
+   "verdict": "ok"
+  },
+  {
+   "id": "e354",
+   "verdict": "ok"
+  },
+  {
+   "id": "e355",
+   "verdict": "ok"
+  },
+  {
+   "id": "e356",
+   "verdict": "ok"
+  },
+  {
+   "id": "e357",
+   "verdict": "ok"
+  },
+  {
+   "id": "e358",
+   "verdict": "ok"
+  },
+  {
+   "id": "e359",
+   "verdict": "ok"
+  },
+  {
+   "id": "e360",
+   "verdict": "ok"
+  }
+ ]
+}

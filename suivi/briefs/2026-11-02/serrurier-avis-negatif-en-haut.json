@@ -13,10 +13,10 @@
  "accroches": [
   "Bloqué dehors, que pense un client devant l'avis à une étoile de votre fiche Google ?"
  ],
- "suite": "Sous cet avis négatif, votre fiche Google ne montre rien.",
- "suite_mot": "ne montre rien",
- "reveil": "Proenligne prépare la réponse, vous validez",
- "reveil_sous": "Une réponse calme, relue par vous avant d'être publiée. Comment répondez-vous à un avis négatif ?",
+ "suite": "Sous l'avis à une étoile, votre fiche Google reste muette.",
+ "suite_mot": "reste muette",
+ "reveil": "Proenligne prépare la réponse, vous la validez",
+ "reveil_sous": "Cette réponse calme part seulement après votre accord. Comment répondez-vous aux avis négatifs ?",
  "corps": "Un avis négatif sans réponse sur votre fiche Google, c'est souvent lui qu'on remarque. Proenligne rédige une réponse calme que vous validez, et répond à chaque avis.",
  "notifs": [
   "Réponse à Hugo, prête à valider",

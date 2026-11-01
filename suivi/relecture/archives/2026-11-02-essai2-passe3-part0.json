@@ -1,0 +1,605 @@
+{
+ "empreinte": "70ab2fcf07db2cf8",
+ "verdicts": [
+  {
+   "id": "e001",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e002",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e003",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e004",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e005",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e006",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e007",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e008",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e009",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e010",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e030",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e031",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e032",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e033",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e034",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e035",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e036",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e037",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e074",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e075",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e076",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e077",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e078",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e079",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e080",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e081",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e082",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e083",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e121",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e122",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e123",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e124",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e189",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e190",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e191",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e192",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e193",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e194",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e195",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e196",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e197",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e198",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e199",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e200",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e201",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e202",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e238",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e239",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e240",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e241",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e242",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e243",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e244",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e245",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e246",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e247",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e248",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e249",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e250",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e251",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e252",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e253",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e254",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e255",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e256",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e257",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e258",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e259",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e260",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e261",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e262",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e263",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e264",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e265",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e266",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e267",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e268",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e269",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e270",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e271",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e272",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e273",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e274",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e275",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e276",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e277",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e278",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e279",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e280",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e281",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e282",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e283",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e284",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e285",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e286",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e287",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e361",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e362",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e363",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e364",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e365",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e366",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e367",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e368",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e369",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e370",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e371",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e372",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e373",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e374",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e375",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e376",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e377",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e378",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e379",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e380",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e381",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e382",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e383",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  },
+  {
+   "id": "e384",
+   "verdict": "ok",
+   "note": "repris de la passe 2 (texte identique, ref sans refus)"
+  }
+ ]
+}

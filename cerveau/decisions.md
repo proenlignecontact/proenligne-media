@@ -96,3 +96,13 @@ Chaque lot hebdomadaire ajoute ici ses décisions, avec le chiffre qui les justi
 ## 2026-11-01 18 h 15 — Semaine du 2/11 remise à zéro une 2e fois, relance avec les 5 règles et la relecture
 
 - Les 63 posts du 1er essai supprimés de Postiz ; fiches, plan, médias, briefs et rapport retirés. Les verdicts de la relecture test sont archivés dans `suivi/relecture/archives/2026-11-02-essai1*.json` (75 refus sur 426) pour comparaison avec le 2e essai.
+
+## 2026-11-01 soir — Semaine du 2/11, essai 2 (tâche hebdomadaire relancée à la main)
+
+- **Exploration 50 / 50, aucune décision chiffrée** : relevé frais du 01/11 (action « success »), 1 seule publication mesurée (Instagram, 0 vue) sur 3 fiches ; seuil de 30 non atteint, aucune dimension à 5 publications.
+- **Amplification** : `suivi/amplifier.json` vide, rien à reprendre.
+- **Mix** : 15 utiles, 4 preuves (démonstrations sans chiffre), 2 offres. 11 métiers. Tons 3 fois chacun (question 4, contre-intuitif 2).
+- **Vidéos** : mises en scène fiche, avis et journée seulement ; la mise en scène « recherche » est écartée parce qu'elle montre la fiche « remonter N° 1 », une promesse de classement invérifiable.
+- **A/B TikTok** : garage (A mardi « « Ils ne lisent pas leurs avis ? » », réplique / B jeudi 12:30, constat) et plombier (A jeudi « Pendant que vous réparez une fuite… » / B samedi 12:30, question).
+- **Historique des pubs** : les 7 entrées du 01/11 issues de l'essai 1 (vidéos jamais publiées) sont gardées dans `historique-pubs.json` par prudence ; elles bloquent des formulations proches.
+- **Relecture** : 4 passes (82, 26, 21 puis 3 refus). Relecteurs neufs en parallèle par tranche de jours ; à partir de la passe 3, les verdicts « ok » des créneaux sans changement ni refus sont repris (fichier `part0`). Arrêt à la règle des 4 passes avec 3 éléments encore refusés (corrigés depuis dans les sources) : rien n'a été rendu ni programmé.
