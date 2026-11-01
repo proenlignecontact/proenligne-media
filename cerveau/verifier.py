@@ -5,10 +5,10 @@ sortie : « plan OK » (code 0) ou la liste des problèmes (code 1).
 
 Format du plan : {"creneaux": [ { "date": "2026-11-09", "heure": "06:30", "creneau": "texte|visuel|video",
    "metier": …, "angle": …, "format": …, "ton": …, "symptome": … ou null, "accroche": …, "slug": …,
-   "textes": {"x": …, "facebook": …} | {"instagram": …, "facebook": …} | {"tiktok": …, "instagram": …, "youtube": …},
+   "textes": {"x": …, "facebook": …} | {"instagram": …, "facebook": …, "linkedin": … (lundi-vendredi seulement)} | {"tiktok": …, "instagram": …, "youtube": …},
    "youtube_title": … (vidéo), "tiktok_title": … (vidéo), "media": {…} } ] }
 """
-import glob, itertools, json, os, re, sys, unicodedata
+import datetime as dt, glob, itertools, json, os, re, sys, unicodedata
 from collections import Counter
 
 ICI = os.path.dirname(os.path.abspath(__file__))
@@ -18,6 +18,15 @@ TONS = {'question', 'constat', 'scene', 'avant-apres', 'contre-intuitif', 'penda
 FORMATS = {'texte': {'conseil', 'test', 'constat', 'idee-recue', 'preuve'}, 'visuel': {'avant-apres'}, 'video': {'recherche', 'fiche', 'avis', 'journee', 'libre'}}
 CANAUX = {'texte': {'x', 'facebook'}, 'visuel': {'instagram', 'facebook'}, 'video': {'tiktok', 'instagram', 'youtube'}}
 HEURES = {'texte': '06:30', 'visuel': '13:00', 'video': '19:00'}
+LIMITES = {'x': 280, 'tiktok': 2000, 'instagram': 2200, 'linkedin': 3000}
+
+
+def canaux_attendus(typ, date):
+    """LinkedIn s'ajoute au créneau visuel du lundi au vendredi uniquement."""
+    c = set(CANAUX[typ])
+    if typ == 'visuel' and dt.date.fromisoformat(date).weekday() < 5:
+        c.add('linkedin')
+    return c
 PRIX = re.compile(r'€|\bmois\b|centime|euro', re.I)
 SEUIL_RESSEMBLANCE = 0.4
 
@@ -53,17 +62,23 @@ def verifier(plan):
         if 'google' not in acc.lower(): pb.append(f'{ref} : accroche sans « Google »')
         if PRIX.search(acc): pb.append(f'{ref} : prix ou « mois » dans l\'accroche')
         textes = c.get('textes', {})
-        if set(textes) != CANAUX[typ]:
-            pb.append(f'{ref} : canaux {sorted(textes)} au lieu de {sorted(CANAUX[typ])}')
+        attendus = canaux_attendus(typ, c['date'])
+        if set(textes) != attendus:
+            pb.append(f'{ref} : canaux {sorted(textes)} au lieu de {sorted(attendus)}')
         for canal, t in textes.items():
             t = t or ''
             if 'fiche google' not in t.lower(): pb.append(f'{ref} {canal} : « fiche Google » absent')
             if 'google' not in t.split('\n')[0].lower(): pb.append(f'{ref} {canal} : première ligne sans « Google »')
             if PRIX.search(t): pb.append(f'{ref} {canal} : prix, « mois » ou « centime » dans le texte')
             if 'gratuit' not in t.lower(): pb.append(f'{ref} {canal} : appel à l\'action « gratuitement » absent')
-            if canal == 'x' and len(t) > 280: pb.append(f'{ref} x : {len(t)} caractères (> 280)')
-            if canal == 'tiktok' and len(t) > 2000: pb.append(f'{ref} tiktok : {len(t)} caractères (> 2000)')
-            if canal == 'instagram' and len(t) > 2200: pb.append(f'{ref} instagram : {len(t)} caractères (> 2200)')
+            if canal in LIMITES and len(t) > LIMITES[canal]: pb.append(f'{ref} {canal} : {len(t)} caractères (> {LIMITES[canal]})')
+            if canal == 'linkedin':
+                if len(re.findall(r'#\w+', t)) > 5: pb.append(f'{ref} linkedin : plus de 5 hashtags')
+                if re.search(r'https?://|www\.|lien en bio', t, re.I): pb.append(f'{ref} linkedin : lien externe ou « lien en bio »')
+                if 'google' not in t[:220].lower(): pb.append(f'{ref} linkedin : « Google » absent des ~200 premiers caractères (avant « voir plus »)')
+                if t.count('✅') > 3: pb.append(f'{ref} linkedin : plus de 3 ✅')
+                if len(t) < 500: pb.append(f'{ref} linkedin : texte trop court ({len(t)} < 500), viser 700 à 1 300 caractères')
+                if 'facebook' in textes and t.strip() == (textes['facebook'] or '').strip(): pb.append(f'{ref} linkedin : copie exacte du texte Facebook')
             if re.search(r"\b(la|votre|sa|cette) fiche\b(?! google)", t, re.I) and t.lower().count('fiche google') < 2:
                 pb.append(f'{ref} {canal} : « la fiche » seule sans rappel « fiche Google » suffisant')
         if typ == 'video':

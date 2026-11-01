@@ -72,6 +72,8 @@ le nombre de publications mesurées, l'audience médiane (vues, ou portée en se
 ((likes + commentaires + partages + enregistrements) / audience) et un **indice normalisé par canal** (1,0 = médiane du canal).
 Les verdicts se lisent sur l'indice : ≥ 1,2 « à renforcer », ≤ 0,8 « à réduire ».
 
+Canaux : x, facebook, instagram, tiktok, youtube, **linkedin** (page Proenligne, depuis le 02/11/2026, créneau 13:00 en semaine ; plateforme Postiz `linkedin-page` notée `linkedin`). LinkedIn a une audience de décideurs : ne pas transposer telles quelles ses conclusions aux autres canaux, et inversement — d'où l'indice normalisé par canal.
+
 Ce que les stats ne voient pas : X et Facebook texte ne renvoient rien par post. Le créneau texte de 06:30 se pilote donc
 sur la section « Comptes » (abonnés, impressions de page) et sur le bon sens éditorial, pas sur un taux par post.
 

@@ -41,3 +41,11 @@ Chaque lot hebdomadaire ajoute ici ses décisions, avec le chiffre qui les justi
 - **Pas de pondération 70 / 30** : 1 publication mesurée (seuil 30 pour sortir de l'exploration 50 / 50 ; seuil 5 par valeur) ; 57 trop récentes. Le plan de la semaine, déjà programmé le 31/10, n'est pas touché.
 - **Premier signal TikTok** (relevé du 1/11, non encore « mesuré » car < 48 h) : la vidéo électricien du 31/10 19:00 en DIRECT_POST affiche 774 vues et 1 like en moins de 24 h, contre 2 vues sur Instagram, 1 sur YouTube et 0 sur Facebook pour la même production. Le mode DIRECT_POST publie bien (le post du 28/10 en UPLOAD n'a toujours pas d'identifiant TikTok). À confirmer avec les 7 vidéos de la semaine avant toute décision sur les canaux.
 - **Comptes** : TikTok 861 vues de compte (+774), 0 abonné ; Facebook 5 impressions, 40 vues de médias (inchangé) ; YouTube 1 like. Toujours trop faible pour piloter X et Facebook texte.
+
+## 2026-11-01 — Ajout de la page LinkedIn Proenligne
+
+- **Où** : créneau 13:00 (visuel), **du lundi au vendredi seulement** → 5 posts LinkedIn par semaine, 54 posts au total.
+- **Pourquoi ce créneau** : la mi-journée en semaine est l'une des meilleures plages LinkedIn ; l'engagement chute après 17h et le week-end (sources : guides 2026 AdCreate, Publer). 5 posts par semaine est la fréquence optimale indiquée pour une page de PME (minimum 3, maximum utile 1 par jour). 06:30 et 19:00 écartés.
+- **Contenu** : même visuel que Instagram/Facebook, texte réécrit pour des gérants d'entreprise (ton pro, accroche « fiche Google » dans les ~200 premiers caractères visibles avant « voir plus », 700–1 300 caractères, ≤ 5 hashtags, pas de lien externe, ≤ 3 ✅). Contrôlé par `cerveau/verifier.py`.
+- **Semaine du 2/11** : 5 posts LinkedIn ajoutés à la main sur les créneaux de 13:00 du lundi au vendredi (visuels existants), fiches complétées.
+- **Stats** : la page LinkedIn n'apparaît pas encore dans le relevé de l'API de stats (relevé du 01/11). À vérifier au prochain relevé ; `convertir_stats.py` reconnaît déjà `linkedin-page`.

@@ -1,13 +1,13 @@
 """Convertit une heure de Paris en UTC (heure d'été et d'hiver gérées automatiquement).
 
 usage : python3 outils/heure_utc.py 2026-11-02 06:30     → 2026-11-02T05:30:00Z
-        python3 outils/heure_utc.py 2026-11-02            → la grille des 21 créneaux de la semaine qui commence ce lundi
+        python3 outils/heure_utc.py 2026-11-02            → la grille des 21 créneaux de la semaine qui commence ce lundi (54 posts : LinkedIn en plus à 13:00 du lundi au vendredi)
 """
 import datetime as dt, sys
 from zoneinfo import ZoneInfo
 
 PARIS = ZoneInfo('Europe/Paris')
-GRILLE = [('06:30', 'texte', 'x + facebook'), ('13:00', 'visuel', 'instagram + facebook'), ('19:00', 'video', 'tiktok + instagram + youtube')]
+GRILLE = [('06:30', 'texte', 'x + facebook'), ('13:00', 'visuel', 'instagram + facebook (+ linkedin lun-ven)'), ('19:00', 'video', 'tiktok + instagram + youtube')]
 
 
 def utc(date, heure):

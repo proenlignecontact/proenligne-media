@@ -20,13 +20,14 @@ Le public (artisans, commerçants) ne sait pas ce qu'est « la fiche ». Il faut
 | Créneau | Type | Canaux Postiz | Média |
 |---|---|---|---|
 | **06:30** | Texte | X + Facebook | aucun |
-| **13:00** | Visuel fixe | Instagram + Facebook | PNG 1080×1350 fait avec `outils/visuel.py` |
+| **13:00** | Visuel fixe | Instagram + Facebook, **+ LinkedIn du lundi au vendredi** | PNG 1080×1350 fait avec `outils/visuel.py` (le même pour les 3 canaux) |
 | **19:00** | Vidéo | TikTok + Instagram + YouTube | pub motion 15 s (skill `pub-motion-proenligne`) : vertical pour TikTok et Instagram, horizontal pour YouTube |
 
-3 publications par jour, 7 jours sur 7, soit 21 par semaine.
+3 créneaux par jour, 7 jours sur 7, soit 21 créneaux par semaine. En posts Postiz : 7 × (2 + 2 + 3) + 5 LinkedIn = **54 posts par semaine**.
 
-**Heure UTC à passer à Postiz** : Paris = UTC+1 en heure d'hiver (jusqu'au 28 mars 2027), UTC+2 en heure d'été.
-Exemple en hiver : 06:30 → 05:30 UTC, 13:00 → 12:00 UTC, 19:00 → 18:00 UTC.
+**LinkedIn : seulement en semaine, au créneau de 13:00.** Pas le week-end (audience quasi nulle sur une page entreprise), pas à 06:30 (trop tôt) ni à 19:00 (l'engagement LinkedIn chute après 17h). 5 posts par semaine, c'est la fréquence optimale conseillée pour une page de PME (minimum 3, maximum utile 1 par jour). Le midi en semaine est l'un des meilleurs moments sur LinkedIn.
+
+**Heure UTC à passer à Postiz** : toujours celle donnée par `python3 outils/heure_utc.py <lundi>` (heure d'été et d'hiver gérées). Ne jamais calculer le décalage à la main.
 
 ## Connecteur Postiz
 
@@ -41,6 +42,7 @@ Toujours le connecteur personnalisé « postiz » (outils `mcp__postiz__*`, en m
 | Instagram | `cmvs9xsx80003mq8gnh6baz7n` |
 | X | `cmvsbfk2y0001nr8eba2fo36u` (non Premium : 280 caractères max) |
 | YouTube | `cmvsbyqw20001jv87195lx18q` |
+| LinkedIn (page Proenligne) | `cmvxyqbk4001vkb7zbrwvu9pt` (plateforme Postiz `linkedin-page`) |
 
 ## Réglages par plateforme
 
@@ -51,6 +53,7 @@ Toujours le connecteur personnalisé « postiz » (outils `mcp__postiz__*`, en m
 | Instagram | 2 200 caractères, au moins 1 média | `post_type: post` |
 | TikTok | 2 000 caractères, 1 vidéo obligatoire | `content_posting_method: DIRECT_POST` (UPLOAD ne publie pas !), `privacy_level: PUBLIC_TO_EVERYONE`, `duet: false`, `stitch: false`, `comment: true`, `autoAddMusic: no`, `brand_content_toggle: false`, `brand_organic_toggle: false`, `video_made_with_ai: false`, `title` ≤ 90 |
 | YouTube | titre ≤ 100, description ≤ 5 000, 1 vidéo obligatoire | `title`, `type: public`, `selfDeclaredMadeForKids: no` |
+| LinkedIn (page) | **3 000 caractères** ; 1 image (ou 1 vidéo seule, ou ≥ 2 images en carrousel) | aucun réglage obligatoire ; passer `post_as_images_carousel: false` pour une image seule. Le carrousel (`post_as_images_carousel: true` + `carousel_name`) exige au moins 2 images. |
 
 Contenu Postiz en HTML : chaque ligne dans un `<p>`, ligne vide = `<p></p>`.
 
@@ -62,6 +65,12 @@ Un même message se décline par plateforme, jamais copié tel quel :
 - **Instagram** : version complète, hashtags en fin de texte.
 - **TikTok** : légende courte et directe, la vidéo porte le message.
 - **YouTube** : titre accrocheur (≤ 100), description complète.
+- **LinkedIn** : on parle à des **gérants d'entreprise**, pas à leurs clients. Ton professionnel, vouvoiement, phrases courtes, une idée par paragraphe.
+  - Les **2 premières lignes (≈ 200 caractères)** sont les seules visibles avant « … voir plus » : elles portent l'accroche avec « fiche Google ».
+  - Corps de 700 à 1 300 caractères : un constat du métier, ce que ça coûte en clients, ce que fait Proenligne (les 3 promesses), l'appel à l'action « Essayez Proenligne gratuitement, sans engagement ».
+  - 3 à 5 hashtags maximum en fin de texte (#FicheGoogle #GoogleBusinessProfile #ReferencementLocal + métier ou #TPE / #Artisanat). Pas d'avalanche d'emojis : 3 ✅ au plus.
+  - Jamais de lien externe dans le texte (LinkedIn réduit leur portée) ; « lien en bio » n'a pas de sens sur LinkedIn : renvoyer vers la page Proenligne ou ne rien dire.
+  - Ne pas recopier le texte Facebook : reprendre l'idée du créneau, réécrite pour un décideur.
 
 ## Formats du créneau texte (06:30), en rotation
 
