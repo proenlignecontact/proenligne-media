@@ -34,3 +34,10 @@ Chaque lot hebdomadaire ajoute ici ses décisions, avec le chiffre qui les justi
 - **Heure UTC calculée** par `outils/heure_utc.py` (plus de décalage écrit en dur dans le prompt).
 - **Tâche de secours** le dimanche à 16h04 : même consigne ; ne fait que les stats si la semaine est déjà pleine.
 - **Anciens posts à prix** (1/11 19:00 et 2/11 09:00–09:20) supprimés : 14,99 €/mois, pas de « fiche Google » en accroche, TikTok en UPLOAD, et 4 publications Facebook le lundi.
+
+## 2026-11-01 — Exécution de secours (dimanche 16 h) : semaine du 2/11 déjà pleine
+
+- **Aucune programmation** : les 49 posts de la grille (7 × (2 + 2 + 3)) sont en file dans Postiz, tous en QUEUE, aux bonnes heures UTC (05:30 / 12:00 / 18:00). Rien à ajouter, rien modifié.
+- **Pas de pondération 70 / 30** : 1 publication mesurée (seuil 30 pour sortir de l'exploration 50 / 50 ; seuil 5 par valeur) ; 57 trop récentes. Le plan de la semaine, déjà programmé le 31/10, n'est pas touché.
+- **Premier signal TikTok** (relevé du 1/11, non encore « mesuré » car < 48 h) : la vidéo électricien du 31/10 19:00 en DIRECT_POST affiche 774 vues et 1 like en moins de 24 h, contre 2 vues sur Instagram, 1 sur YouTube et 0 sur Facebook pour la même production. Le mode DIRECT_POST publie bien (le post du 28/10 en UPLOAD n'a toujours pas d'identifiant TikTok). À confirmer avec les 7 vidéos de la semaine avant toute décision sur les canaux.
+- **Comptes** : TikTok 861 vues de compte (+774), 0 abonné ; Facebook 5 impressions, 40 vues de médias (inchangé) ; YouTube 1 like. Toujours trop faible pour piloter X et Facebook texte.
