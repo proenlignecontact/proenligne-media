@@ -1,0 +1,59 @@
+{
+ "slug": "plombier-nouveau-service",
+ "label": "Nouveau service muet",
+ "metier": "plombier",
+ "angle": "gain de temps",
+ "ingredients": {
+  "symptome": "pas-de-nouveaute",
+  "contexte": "l'artisan est sur un chantier, les mains prises, le téléphone dans la poche",
+  "client": "un client fidèle depuis des années",
+  "ton": "scène vécue au présent"
+ },
+ "probleme": "Le plombier Weber propose depuis peu la recherche de fuite sans casse, mais ses journées de chantier ne lui laissent jamais le temps de l'annoncer sur sa fiche Google : un client fidèle appelle un autre plombier pour ça.",
+ "accroches": [
+  "Il est 22 h. Votre nouveau service n'est toujours pas sur votre fiche Google.",
+  "Vous trouvez les fuites sans casser. Votre fiche Google ne le dit à personne."
+ ],
+ "suite": "Nouveauté tue sur votre fiche Google, clients partis.",
+ "suite_mot": "clients partis",
+ "reveil": "Proenligne l'annonce pour vous",
+ "reveil_sous": "Un article le jeudi présente votre nouveauté. Quelle nouveauté n'avez-vous jamais annoncée ?",
+ "corps": "Un nouveau service qui n'est pas annoncé sur votre fiche Google ne trouve pas ses clients. Proenligne publie un article chaque jeudi, même quand vos journées débordent.",
+ "notifs": [
+  "Article publié : fuite sans casse",
+  "Photo publiée : détection de fuite",
+  "Avis : réponse envoyée"
+ ],
+ "desc": {
+  "Accroche": "Journée chargée, l'annonce reste pour ce soir",
+  "Contraste": "La tâche Google du soir saute encore",
+  "Reveil": "Barrée : faite par Proenligne",
+  "Offre": "Logo, promesse et essai gratuit"
+ },
+ "scene": {
+  "type": "journee",
+  "heures": [
+   {
+    "heure": "6 h",
+    "texte": "Départ chantier",
+    "google": false
+   },
+   {
+    "heure": "Midi",
+    "texte": "Dépannage fuite",
+    "google": false
+   },
+   {
+    "heure": "20 h",
+    "texte": "Devis à finir",
+    "google": false
+   },
+   {
+    "heure": "22 h",
+    "texte": "Annoncer la nouveauté",
+    "google": true
+   }
+  ],
+  "fin": "Annoncé par Proenligne"
+ }
+}

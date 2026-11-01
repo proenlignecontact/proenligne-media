@@ -124,5 +124,131 @@
    "Il est 22 h. Votre fiche Google, ce sera demain. Comme hier."
   ],
   "suite": "Le soir, la fiche Google finit en bas de la liste."
+ },
+ {
+  "date": "2026-11-01",
+  "produit": "paysagiste-elagage-invisible",
+  "slug": "paysagiste-elagage-invisible",
+  "metier": "paysagiste",
+  "angle": "peur de perdre",
+  "scene": "fiche",
+  "symptome": "service-invisible",
+  "contexte": "le client hésite entre deux résultats côte à côte",
+  "client": "un client fidèle depuis des années",
+  "ton": "scène vécue au présent",
+  "probleme": "Un client fidèle cherche « élagage » sur Google avant l'hiver : la fiche Google de Jardins Weber ne parle que de tonte, alors il appelle Jardins Martin sans savoir que Weber élague aussi.",
+  "accroches": [
+   "Votre client cherche « élagage » sur Google. Votre fiche Google ne parle que de tonte.",
+   "Vous élaguez depuis toujours. Votre fiche Google, elle, ne le dit nulle part."
+  ],
+  "suite": "Un service absent de votre fiche Google n'existe pas."
+ },
+ {
+  "date": "2026-11-01",
+  "produit": "garage-avis-tardifs-A",
+  "slug": "garage-avis-tardifs",
+  "metier": "garage",
+  "angle": "gain de temps",
+  "scene": "avis",
+  "symptome": "reponses-tardives",
+  "contexte": "l'artisan est sur un chantier, les mains prises, le téléphone dans la poche",
+  "client": "un client fidèle depuis des années",
+  "ton": "« pendant que vous… »",
+  "probleme": "Un client fidèle laisse 5 étoiles sur la fiche Google du Garage Weber ; le garagiste, les mains dans un moteur, ne répond que des semaines plus tard, un soir, épuisé, et le client suivant croit que personne ne lit.",
+  "accroches": [
+   "Pendant que vous êtes sous une voiture, les avis de votre fiche Google attendent.",
+   "5 étoiles sur votre fiche Google. Votre merci arrive des semaines plus tard."
+  ],
+  "suite": "Des semaines sans merci sur votre fiche Google."
+ },
+ {
+  "date": "2026-11-01",
+  "produit": "boulangerie-gateaux-invisibles",
+  "slug": "boulangerie-gateaux-invisibles",
+  "metier": "boulangerie",
+  "angle": "peur de perdre",
+  "scene": "recherche",
+  "symptome": "service-invisible",
+  "contexte": "saison creuse, les appels baissent et chaque client compte",
+  "client": "un client fidèle depuis des années",
+  "ton": "idée contre-intuitive",
+  "probleme": "Un client fidèle cherche « gâteau anniversaire » sur Google Maps : la fiche Google de la Boulangerie Weber ne montre aucun gâteau, elle sort au rang 4, derrière celles qui en publient.",
+  "accroches": [
+   "Le meilleur gâteau du quartier ? Introuvable : votre fiche Google n'en montre aucun.",
+   "Vous faites des gâteaux sur commande. Sur votre fiche Google, personne ne le sait."
+  ],
+  "suite": "Rien sur votre fiche Google, rien dans les résultats."
+ },
+ {
+  "date": "2026-11-01",
+  "produit": "plombier-nouveau-service-A",
+  "slug": "plombier-nouveau-service",
+  "metier": "plombier",
+  "angle": "gain de temps",
+  "scene": "journee",
+  "symptome": "pas-de-nouveaute",
+  "contexte": "l'artisan est sur un chantier, les mains prises, le téléphone dans la poche",
+  "client": "un client fidèle depuis des années",
+  "ton": "scène vécue au présent",
+  "probleme": "Le plombier Weber propose depuis peu la recherche de fuite sans casse, mais ses journées de chantier ne lui laissent jamais le temps de l'annoncer sur sa fiche Google : un client fidèle appelle un autre plombier pour ça.",
+  "accroches": [
+   "Il est 22 h. Votre nouveau service n'est toujours pas sur votre fiche Google.",
+   "Vous trouvez les fuites sans casser. Votre fiche Google ne le dit à personne."
+  ],
+  "suite": "Nouveauté tue sur votre fiche Google, clients partis."
+ },
+ {
+  "date": "2026-11-01",
+  "produit": "coiffeur-deux-salons",
+  "slug": "coiffeur-deux-salons",
+  "metier": "coiffeur",
+  "angle": "preuve",
+  "scene": "recherche",
+  "symptome": "concurrent-plus-riche",
+  "contexte": "le client hésite entre deux résultats côte à côte",
+  "client": "une personne qui n'ose pas téléphoner et veut tout savoir avant",
+  "ton": "scène vécue au présent",
+  "probleme": "Une cliente qui n'ose pas appeler compare deux salons sur Google Maps : la fiche Google de Coiffure Weber n'a ni photo de coupe ni nouveauté, celle de Coiffure Martin en montre chaque semaine ; un de nos clients a multiplié ses appels par 3 en 6 mois en comblant cet écart.",
+  "accroches": [
+   "Elle compare deux salons sur Google Maps. Votre fiche Google ne montre aucune coupe.",
+   "Deux salons côte à côte sur Google. Votre fiche Google se tait, l'autre montre ses coupes."
+  ],
+  "suite": "Un de nos clients : ×3 appels avec sa fiche Google."
+ },
+ {
+  "date": "2026-11-01",
+  "produit": "serrurier-samedi-ferme",
+  "slug": "serrurier-samedi-ferme",
+  "metier": "serrurier",
+  "angle": "gain de temps",
+  "scene": "fiche",
+  "symptome": "horaires-faux",
+  "contexte": "l'artisan est sur un chantier, les mains prises, le téléphone dans la poche",
+  "client": "un touriste de passage",
+  "ton": "idée contre-intuitive",
+  "probleme": "Un touriste de passage, bloqué devant sa porte un samedi, lit « fermé le samedi » sur la fiche Google de Serrurerie Weber alors que l'artisan travaille : il appelle Serrurerie Durand.",
+  "accroches": [
+   "Vous travaillez le samedi. Votre fiche Google affirme le contraire.",
+   "Ouvert le samedi ? Pas d'après votre fiche Google. Le client appelle ailleurs."
+  ],
+  "suite": "Votre fiche Google se trompe, le client appelle ailleurs."
+ },
+ {
+  "date": "2026-11-01",
+  "produit": "autoecole-reponse-tardive",
+  "slug": "autoecole-reponse-tardive",
+  "metier": "autoecole",
+  "angle": "peur de perdre",
+  "scene": "avis",
+  "symptome": "reponses-tardives",
+  "contexte": "juste après un avis négatif",
+  "client": "une personne qui n'ose pas téléphoner et veut tout savoir avant",
+  "ton": "réplique de client, entre guillemets",
+  "probleme": "Juste après un avis négatif, un futur élève qui n'ose pas appeler lit les avis de la fiche Google de l'Auto-école Weber : la réponse n'arrive que des semaines plus tard, il s'inscrit ailleurs.",
+  "accroches": [
+   "« Ils ne répondent jamais ? » Un futur élève lit les avis de votre fiche Google.",
+   "« Personne ne répond, là-bas ? » Votre fiche Google laisse vos avis seuls."
+  ],
+  "suite": "Réponse tardive sur votre fiche Google, élève perdu."
  }
 ]

@@ -1,0 +1,53 @@
+{
+ "slug": "serrurier-samedi-ferme",
+ "label": "Samedi fermé",
+ "metier": "serrurier",
+ "angle": "gain de temps",
+ "ingredients": {
+  "symptome": "horaires-faux",
+  "contexte": "l'artisan est sur un chantier, les mains prises, le téléphone dans la poche",
+  "client": "un touriste de passage",
+  "ton": "idée contre-intuitive"
+ },
+ "probleme": "Un touriste de passage, bloqué devant sa porte un samedi, lit « fermé le samedi » sur la fiche Google de Serrurerie Weber alors que l'artisan travaille : il appelle Serrurerie Durand.",
+ "accroches": [
+  "Vous travaillez le samedi. Votre fiche Google affirme le contraire.",
+  "Ouvert le samedi ? Pas d'après votre fiche Google. Le client appelle ailleurs."
+ ],
+ "suite": "Votre fiche Google se trompe, le client appelle ailleurs.",
+ "suite_mot": "appelle ailleurs",
+ "reveil": "Proenligne tient votre fiche Google à jour",
+ "reveil_sous": "Un article chaque jeudi rappelle vos horaires et vos urgences. Essayez gratuitement, sans engagement.",
+ "corps": "Des horaires faux sur votre fiche Google envoient vos clients chez le voisin. Proenligne publie chaque semaine, rappelle vos horaires et répond à chaque avis.",
+ "notifs": [
+  "Article publié : ouvert le samedi",
+  "Photo publiée : intervention",
+  "Avis : réponse envoyée"
+ ],
+ "desc": {
+  "Accroche": "Samedi, porte claquée, fiche Google qui dit fermé",
+  "Contraste": "Horaires faux cerclés d'ambre",
+  "Reveil": "Horaires rappelés, article et réponse publiés",
+  "Offre": "Logo, promesse et essai gratuit"
+ },
+ "scene": {
+  "type": "fiche",
+  "infos": [
+   {
+    "label": "Horaires",
+    "avant": "Fermé le samedi",
+    "apres": "Ouvert le samedi"
+   },
+   {
+    "label": "Actualités",
+    "avant": "Rien depuis 2021",
+    "apres": "Article publié jeudi"
+   },
+   {
+    "label": "Avis",
+    "avant": "3 avis sans réponse",
+    "apres": "Réponse à chaque avis"
+   }
+  ]
+ }
+}

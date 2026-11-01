@@ -1,0 +1,53 @@
+{
+ "slug": "paysagiste-elagage-invisible",
+ "label": "Élagage invisible",
+ "metier": "paysagiste",
+ "angle": "peur de perdre",
+ "ingredients": {
+  "symptome": "service-invisible",
+  "contexte": "le client hésite entre deux résultats côte à côte",
+  "client": "un client fidèle depuis des années",
+  "ton": "scène vécue au présent"
+ },
+ "probleme": "Un client fidèle cherche « élagage » sur Google avant l'hiver : la fiche Google de Jardins Weber ne parle que de tonte, alors il appelle Jardins Martin sans savoir que Weber élague aussi.",
+ "accroches": [
+  "Votre client cherche « élagage » sur Google. Votre fiche Google ne parle que de tonte.",
+  "Vous élaguez depuis toujours. Votre fiche Google, elle, ne le dit nulle part."
+ ],
+ "suite": "Un service absent de votre fiche Google n'existe pas.",
+ "suite_mot": "n'existe pas",
+ "reveil": "Proenligne montre tout ce que vous faites",
+ "reveil_sous": "Une photo de chantier le lundi, un article le jeudi. Quel service manque sur votre fiche Google ?",
+ "corps": "Un service qui n'apparaît pas sur votre fiche Google ne sort pas quand un client le cherche. Chaque semaine, Proenligne publie vos chantiers pour que Google sache tout ce que vous faites.",
+ "notifs": [
+  "Photo publiée : taille de haie",
+  "Article publié : élagage d'hiver",
+  "Avis : réponse envoyée"
+ ],
+ "desc": {
+  "Accroche": "Le client cherche élagage, la fiche Google ne parle que de tonte",
+  "Contraste": "Trois lignes vides cerclées d'ambre",
+  "Reveil": "Services, photo et article ajoutés",
+  "Offre": "Logo, promesse et essai gratuit"
+ },
+ "scene": {
+  "type": "fiche",
+  "infos": [
+   {
+    "label": "Services",
+    "avant": "Tonte uniquement",
+    "apres": "Tonte, taille, élagage"
+   },
+   {
+    "label": "Photos",
+    "avant": "Aucune photo d'élagage",
+    "apres": "Chantier d'élagage"
+   },
+   {
+    "label": "Actualités",
+    "avant": "Rien depuis 2021",
+    "apres": "Article publié jeudi"
+   }
+  ]
+ }
+}
