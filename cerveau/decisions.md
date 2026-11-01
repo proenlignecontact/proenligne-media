@@ -66,3 +66,14 @@ Chaque lot hebdomadaire ajoute ici ses décisions, avec le chiffre qui les justi
 
 - Les 61 posts programmés à la main (31/10 et 1/11) ont été supprimés de Postiz ; fiches, plan, médias et rapport de la semaine retirés du dépôt (jamais publiés, donc sans valeur statistique).
 - La tâche hebdomadaire est déclenchée manuellement pour produire la semaine entière selon la nouvelle consigne (mix 70/20/10, carrousels, premiers commentaires, A/B, heures variées). Objectif : contrôler la conformité des posts générés sans intervention humaine.
+
+## 2026-11-01 (dimanche, tâche hebdomadaire) — Semaine du 2 au 8 novembre, pipeline complet
+
+- **Pas de pondération 70 / 30, exploration 50 / 50** : 1 publication mesurée au total (analyse du 01/11 ; seuil 30 pour sortir du démarrage, 5 par valeur). Aucune dimension n'atteint le seuil : aucun verdict appliqué.
+- **Amplification** : `suivi/amplifier.json` vide (aucun post ≥ 2 × la médiane, faute de 5 posts mesurés par canal) : rien à reprendre.
+- **Mix** : 15 utiles, 4 preuves, 2 offres sur 21 créneaux (≥ 13 / 2 à 5 / ≤ 3). Motif : semaine précédente 21/21 en offre, à corriger pour mesurer l'effet du contenu utile.
+- **Vidéos sur 7 métiers** : paysagiste et boulangerie (jamais en vidéo), garage, plombier, coiffeur, serrurier, auto-école avec des symptômes nouveaux (service-invisible, réponses-tardives, pas-de-nouveauté, horaires-faux, concurrent-plus-riche). Mises en scène : 2 fiche, 2 avis, 2 recherche, 1 journée.
+- **Angles** : gain-de-temps 9, peur-de-perdre 8, preuve 4 — rééquilibrage (les 3 fiches passées étaient toutes peur-de-perdre).
+- **A/B TikTok** : garage (A mardi 19:00 « Pendant que vous êtes sous une voiture… » / B jeudi 12:30 « 5 étoiles sur votre fiche Google… ») et plombier (A jeudi « Il est 22 h… » / B samedi 12:30 « Vous trouvez les fuites sans casser… ») : ouverture « pendant que » / « scène » contre ouverture « constat chiffré ».
+- **TikTok surveillé en priorité** : la vidéo du 31/10 en DIRECT_POST a fait 774 vues en < 24 h contre 0 à 2 ailleurs (non encore « mesurée »). Les 9 TikTok de la semaine sont en DIRECT_POST pour confirmer.
+- **Outil** : `outils/visuel.py` n'affiche plus « Essayez gratuitement » en pied de la dernière slide d'un carrousel sauf si `cta = offre` (règle : jamais d'offre dans le visuel d'un contenu utile).

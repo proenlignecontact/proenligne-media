@@ -1,0 +1,64 @@
+{
+ "id": "2026-11-03_1900_garage-avis-tardifs",
+ "date_paris": "2026-11-03",
+ "heure_paris": "18:30",
+ "creneau_nominal": "19:00",
+ "intention": "utile",
+ "ab": "A",
+ "premier_commentaire": "Combien d'avis attendent encore une réponse sur votre fiche Google ? Allez voir, on attend votre chiffre.",
+ "jour_semaine": "mardi",
+ "creneau": "video",
+ "metier": "garage",
+ "angle": "gain-de-temps",
+ "format": "avis",
+ "ton": "pendant-que",
+ "symptome": "reponses-tardives",
+ "offre": "essai",
+ "accroche": "Pendant que vous êtes sous une voiture, les avis de votre fiche Google attendent.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Artisan",
+  "#Artisans",
+  "#FicheGoogle",
+  "#Garage",
+  "#GoogleBusinessProfile",
+  "#Reels",
+  "#ReferencementLocal",
+  "#Shorts"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/dEttlLWKP4.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmvy18osb003nkb7zw2xjqpxy",
+   "caracteres": 180,
+   "texte": "Pendant que vous êtes sous une voiture, les avis de votre fiche Google attendent.\n\nUn avis sans réponse, le client suivant croit que personne ne lit.\n\n#FicheGoogle #Garage #Artisan"
+  },
+  {
+   "canal": "instagram",
+   "postiz_id": "cmvy18ot9003pkb7zquimr5tm",
+   "caracteres": 640,
+   "texte": "Pendant que vous êtes sous une voiture, les avis de votre fiche Google attendent.\n\nUn client vous laisse 5 étoiles. Vous lui répondez des semaines plus tard, un soir, fatigué. Entre-temps, d'autres clients ont lu cet avis… sans réponse.\n\nUne réponse courte et rapide vaut mieux qu'une belle réponse tardive : « Merci Paul, à la prochaine révision ! » suffit.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « garage » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nCombien de temps mettez-vous à répondre à un avis ?\n\n#FicheGoogle #Garage #ReferencementLocal #GoogleBusinessProfile #Artisans #Reels"
+  },
+  {
+   "canal": "youtube",
+   "postiz_id": "cmvy18ou6003rkb7zdzn8tqwp",
+   "caracteres": 588,
+   "texte": "Pendant que vous êtes sous une voiture, les avis de votre fiche Google attendent.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « garage » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nUn client vous laisse 5 étoiles. Vous lui répondez des semaines plus tard, un soir, fatigué. Entre-temps, d'autres clients ont lu cet avis… sans réponse.\n\nUne réponse courte et rapide vaut mieux qu'une belle réponse tardive : « Merci Paul, à la prochaine révision ! » suffit.\n\nCombien de temps mettez-vous à répondre à un avis ?\n\n#FicheGoogle #Garage #Shorts"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvy18owq003tkb7z6yu80jus",
+   "caracteres": 558,
+   "texte": "Pendant que vous êtes sous une voiture, les avis de votre fiche Google attendent.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « garage » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nUn client vous laisse 5 étoiles. Vous lui répondez des semaines plus tard, un soir, fatigué. Entre-temps, d'autres clients ont lu cet avis… sans réponse.\n\nUne réponse courte et rapide vaut mieux qu'une belle réponse tardive : « Merci Paul, à la prochaine révision ! » suffit.\n\nCombien de temps mettez-vous à répondre à un avis ?"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

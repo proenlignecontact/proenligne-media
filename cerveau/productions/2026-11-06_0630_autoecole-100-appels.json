@@ -1,0 +1,49 @@
+{
+ "id": "2026-11-06_0630_autoecole-100-appels",
+ "date_paris": "2026-11-06",
+ "heure_paris": "06:30",
+ "creneau_nominal": "06:30",
+ "intention": "preuve",
+ "ab": null,
+ "premier_commentaire": "Où voir ce chiffre : dans votre fiche Google, rubrique « Performances », ligne « Appels ». Vous en êtes à combien ?",
+ "jour_semaine": "vendredi",
+ "creneau": "texte",
+ "metier": "autoecole",
+ "angle": "preuve",
+ "format": "preuve",
+ "ton": "avant-apres",
+ "symptome": "aucune-publication",
+ "offre": "essai",
+ "accroche": "100 appels venus de Google en un semestre : la fiche Google d'un de nos clients, avant et après.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Artisans",
+  "#AutoEcole",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "aucun",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/9JOkRTB30p.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "x",
+   "postiz_id": "cmvy1c1ch004xkb7z11zadiyq",
+   "caracteres": 245,
+   "texte": "100 appels venus de Google en un semestre : la fiche Google d'un de nos clients, avant et après.\n\nAvant : rien de publié. Après : une photo le lundi, un article le jeudi, une réponse à chaque avis.\n\nEssayez gratuitement.\n\n#FicheGoogle #AutoEcole"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvy1c1dt004zkb7zgecgljj9",
+   "caracteres": 732,
+   "texte": "100 appels venus de Google en un semestre : la fiche Google d'un de nos clients, avant et après.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « auto-école » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nAvant : une fiche Google sans actualité, des avis d'élèves sans réponse, des photos de voitures qui n'existent plus.\n\nAprès : une photo chaque lundi, un article chaque jeudi (code, examen, conseils), une réponse à chaque avis.\n\nRésultat pour un de nos clients : 100 appels venus de Google en un semestre.\n\nVous savez combien d'appels vous viennent de Google ? Essayez Proenligne gratuitement pour le voir.\n\n#FicheGoogle #AutoEcole #ReferencementLocal #GoogleBusinessProfile #Artisans"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

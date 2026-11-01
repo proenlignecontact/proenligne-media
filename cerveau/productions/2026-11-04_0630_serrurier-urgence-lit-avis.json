@@ -1,0 +1,49 @@
+{
+ "id": "2026-11-04_0630_serrurier-urgence-lit-avis",
+ "date_paris": "2026-11-04",
+ "heure_paris": "06:45",
+ "creneau_nominal": "06:30",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Question pour les serruriers : vos clients en urgence vous trouvent plutôt par Google, par le bouche-à-oreille, ou par un autocollant sur la porte ?",
+ "jour_semaine": "mercredi",
+ "creneau": "texte",
+ "metier": "serrurier",
+ "angle": "peur-de-perdre",
+ "format": "constat",
+ "ton": "replique",
+ "symptome": "avis-sans-reponse",
+ "offre": "essai",
+ "accroche": "« Vous pouvez venir maintenant ? » Avant d'appeler un serrurier, le client lit sa fiche Google.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Artisans",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal",
+  "#Serrurier"
+ ],
+ "media": {
+  "type": "aucun",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/E3zf2RqRnB.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "x",
+   "postiz_id": "cmvy19nx1003vkb7zpznyl70x",
+   "caracteres": 237,
+   "texte": "« Vous pouvez venir maintenant ? » Avant d'appeler un serrurier, le client lit sa fiche Google : la note, les avis, et surtout vos réponses.\n\nPorte claquée, il ne compare pas longtemps. Vous répondez à vos avis ?\n\n#FicheGoogle #Serrurier"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvy19nyi003xkb7zcvc3f03e",
+   "caracteres": 646,
+   "texte": "« Vous pouvez venir maintenant ? » Avant d'appeler un serrurier, le client lit sa fiche Google.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « serrurier » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nPorte claquée, clés à l'intérieur : le client ne compare pas longtemps. Il regarde la note, lit 2 avis, et appelle celui qui semble sérieux.\n\nUn avis sans réponse, surtout s'il est négatif, fait douter en quelques secondes. Une réponse calme, au contraire, rassure.\n\nVous répondez à tous vos avis, ou seulement aux bons ?\n\n#FicheGoogle #Serrurier #ReferencementLocal #GoogleBusinessProfile #Artisans"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

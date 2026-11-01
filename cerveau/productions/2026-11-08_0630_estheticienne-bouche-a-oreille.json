@@ -1,0 +1,49 @@
+{
+ "id": "2026-11-08_0630_estheticienne-bouche-a-oreille",
+ "date_paris": "2026-11-08",
+ "heure_paris": "06:15",
+ "creneau_nominal": "06:30",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Petite astuce : après un soin réussi, demandez simplement « vous accepteriez de laisser un avis sur Google ? ». La plupart disent oui. Vous le faites déjà ?",
+ "jour_semaine": "dimanche",
+ "creneau": "texte",
+ "metier": "estheticienne",
+ "angle": "peur-de-perdre",
+ "format": "idee-recue",
+ "ton": "pendant-que",
+ "symptome": "note-sans-contexte",
+ "offre": "essai",
+ "accroche": "Pendant que vous comptez sur le bouche-à-oreille, vos futures clientes lisent votre fiche Google.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Artisans",
+  "#Estheticienne",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "aucun",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/InHNKMgL56.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "x",
+   "postiz_id": "cmvy1dxpn005xkb7zxpeuwo85",
+   "caracteres": 252,
+   "texte": "Pendant que vous comptez sur le bouche-à-oreille, vos futures clientes lisent votre fiche Google.\n\nIdée reçue : « mes clientes me recommandent, ça suffit ». Une amie recommande, puis on vérifie sur Google.\n\nVous y pensiez ?\n\n#FicheGoogle #Estheticienne"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvy1dxqf005zkb7zhjze9up1",
+   "caracteres": 689,
+   "texte": "Pendant que vous comptez sur le bouche-à-oreille, vos futures clientes lisent votre fiche Google.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « esthéticienne » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nIdée reçue : « mes clientes me recommandent, ça suffit ».\n\nEn réalité, le bouche-à-oreille passe aujourd'hui par Google : une amie donne votre nom, et la future cliente va vérifier votre fiche Google avant de réserver. Photos, avis, réponses : c'est là qu'elle se décide.\n\nVos nouvelles clientes vous ont trouvée comment : une amie, Google, ou les deux ?\n\n#FicheGoogle #Estheticienne #ReferencementLocal #GoogleBusinessProfile #Artisans"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

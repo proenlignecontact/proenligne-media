@@ -1,0 +1,49 @@
+{
+ "id": "2026-11-03_0630_electricien-fiche-qui-bouge",
+ "date_paris": "2026-11-03",
+ "heure_paris": "06:45",
+ "creneau_nominal": "06:30",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Question franche : votre fiche Google, vous l'avez remplie une fois, ou vous la tenez à jour ? Aucune mauvaise réponse.",
+ "jour_semaine": "mardi",
+ "creneau": "texte",
+ "metier": "electricien",
+ "angle": "gain-de-temps",
+ "format": "idee-recue",
+ "ton": "contre-intuitif",
+ "symptome": "aucune-publication",
+ "offre": "essai",
+ "accroche": "Idée reçue : une fiche Google se remplit une fois pour toutes. En réalité, Google préfère celles qui bougent.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Artisans",
+  "#Electricien",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "aucun",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/lD7FlyToLH.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "x",
+   "postiz_id": "cmvy18okz003dkb7zapkcmkf1",
+   "caracteres": 236,
+   "texte": "Idée reçue : une fiche Google se remplit une fois pour toutes.\n\nEn réalité, Google met en avant celles qui bougent : une photo récente, une actualité, des avis qui ont une réponse.\n\nVous publiez sur la vôtre ?\n\n#FicheGoogle #Electricien"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvy18omd003fkb7zi4by1t8q",
+   "caracteres": 784,
+   "texte": "Idée reçue : une fiche Google se remplit une fois pour toutes. En réalité, Google préfère celles qui bougent.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « électricien » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nBeaucoup d'électriciens remplissent leur fiche Google le jour de l'installation, puis n'y touchent plus.\n\nSauf que Google regarde aussi la vie de la fiche : des photos récentes, des actualités, des réponses aux avis. Une fiche Google figée glisse doucement vers le bas.\n\nPas besoin d'y passer des heures : une photo de chantier par semaine change déjà la donne.\n\nEt vous, quand avez-vous publié pour la dernière fois sur votre fiche Google ?\n\n#FicheGoogle #Electricien #ReferencementLocal #GoogleBusinessProfile #Artisans"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

@@ -1,0 +1,49 @@
+{
+ "id": "2026-11-07_0630_garage-test-5-secondes",
+ "date_paris": "2026-11-07",
+ "heure_paris": "06:15",
+ "creneau_nominal": "06:30",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Astuce : la première photo de votre fiche Google peut se choisir. Une photo de l'atelier en activité marche souvent mieux qu'un logo. Vous avez quoi en premier ?",
+ "jour_semaine": "samedi",
+ "creneau": "texte",
+ "metier": "garage",
+ "angle": "peur-de-perdre",
+ "format": "test",
+ "ton": "question",
+ "symptome": null,
+ "offre": "essai",
+ "accroche": "Ouvrez la fiche Google de votre garage comme un client pressé : que voyez-vous en 5 secondes ?",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Artisans",
+  "#FicheGoogle",
+  "#Garage",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "aucun",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/FKxpfxeGFU.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "x",
+   "postiz_id": "cmvy1d0s4005fkb7z4jdaichm",
+   "caracteres": 244,
+   "texte": "Ouvrez la fiche Google de votre garage comme un client pressé : que voyez-vous en 5 secondes ?\n\nLa note, la première photo, le bouton « Appeler ». C'est tout ce qu'il regarde.\n\nEt chez vous, la première photo montre quoi ?\n\n#FicheGoogle #Garage"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvy1d0tm005hkb7zw3mj1lwa",
+   "caracteres": 619,
+   "texte": "Ouvrez la fiche Google de votre garage comme un client pressé : que voyez-vous en 5 secondes ?\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « garage » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nUn client en panne ne lit pas tout. En 5 secondes, il voit :\n• votre note et le nombre d'avis ;\n• la première photo ;\n• le bouton « Appeler ».\n\nSi la première photo est un parking vide ou un logo flou, il passe au suivant.\n\nQue montre la première photo de votre fiche Google ? Dites-le en commentaire.\n\n#FicheGoogle #Garage #ReferencementLocal #GoogleBusinessProfile #Artisans"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

@@ -35,7 +35,13 @@
     "x": "Test de 30 secondes : tapez « plombier » et votre ville sur Google. Où sort votre fiche Google ?\n\nC'est elle que vos clients voient avant d'appeler : photos, avis, horaires.\n\nDans les 3 premiers, ou plus bas ? Répondez ici.\n\n#FicheGoogle #Plombier",
     "facebook": "Test de 30 secondes : tapez « plombier » et votre ville sur Google. Où sort votre fiche Google ?\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « plombier » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nFaites-le en navigation privée, depuis votre téléphone, comme un client qui a une fuite sous l'évier.\n\nDans les 3 premiers résultats, vous êtes dans la course. Plus bas, la plupart des clients ne vous verront jamais.\n\nRegardez aussi ce qui s'affiche à côté de votre nom : la dernière photo, le dernier avis, la dernière réponse.\n\nAlors, vous êtes sorti à quelle place ?\n\n#FicheGoogle #Plombier #ReferencementLocal #GoogleBusinessProfile #Artisans"
    },
-   "media": {}
+   "media": {
+    "type": "image",
+    "fichiers": [
+     "medias/2026-11-02/image-test-position-plombier.png"
+    ],
+    "postiz": "https://media.glidy.uk/ui6KrPuhe9.png"
+   }
   },
   {
    "intention": "utile",
@@ -95,7 +101,23 @@
     "facebook": "Une coupe réussie mérite sa photo sur votre fiche Google. 3 réflexes pour qu'elle donne envie.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « coiffeur » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\n1. Photographiez la coupe à la lumière du jour, près de la vitrine, sans flash.\n2. Montrez le salon vide et rangé, avant l'ouverture : une nouvelle cliente veut savoir où elle va s'asseoir.\n3. Publiez une photo par semaine plutôt que 20 d'un coup : Google aime les fiches qui bougent.\n\nQuelle est la dernière photo publiée sur votre fiche Google ? Dites-le en commentaire.\n\n#FicheGoogle #Coiffeur #ReferencementLocal #GoogleBusinessProfile",
     "linkedin": "Votre fiche Google est souvent la première image que les clients ont de votre salon, bien avant votre vitrine.\nC'est ce qui s'affiche quand on cherche « coiffeur » sur Google ou Google Maps.\n\nUn constat revient chez les gérants de salon : les photos datent. Des coupes d'il y a plusieurs années, un salon avant travaux, parfois aucune image de l'équipe.\n\nPour une cliente qui hésite entre deux salons, ces photos font la différence. Elle compare, elle ne téléphone pas.\n\nTrois réflexes simples :\n• la lumière du jour plutôt que le flash ;\n• le salon rangé, avant l'ouverture ;\n• une photo par semaine plutôt qu'une série tous les ans.\n\nLa régularité compte autant que la qualité : une fiche Google qui bouge inspire confiance aux clients comme à Google.\n\nQui s'occupe des photos de la fiche Google dans votre entreprise ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Coiffure #TPE"
    },
-   "media": {}
+   "media": {
+    "type": "carrousel",
+    "fichiers": [
+     "medias/2026-11-02/carrousel-coiffeur-photos-qui-font-reserver/01.png",
+     "medias/2026-11-02/carrousel-coiffeur-photos-qui-font-reserver/02.png",
+     "medias/2026-11-02/carrousel-coiffeur-photos-qui-font-reserver/03.png",
+     "medias/2026-11-02/carrousel-coiffeur-photos-qui-font-reserver/04.png",
+     "medias/2026-11-02/carrousel-coiffeur-photos-qui-font-reserver/05.png"
+    ],
+    "carrousel": [
+     "https://media.glidy.uk/8MGWY3KNL8.png",
+     "https://media.glidy.uk/NmNFzGHAlQ.png",
+     "https://media.glidy.uk/WI4rwwPcEN.png",
+     "https://media.glidy.uk/Od6p3UQ8XX.png",
+     "https://media.glidy.uk/5rqZRsuqV7.png"
+    ]
+   }
   },
   {
    "intention": "utile",
@@ -121,7 +143,13 @@
     "youtube": "Votre client cherche « élagage » sur Google. Votre fiche Google ne parle que de tonte.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « paysagiste » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nVous élaguez, vous taillez, vous plantez. Mais si votre fiche Google ne parle que de tonte, le client qui cherche « élagage » appelle quelqu'un d'autre.\n\nLe réflexe : une photo de chaque type de chantier, et une publication quand la saison change.\n\nQuel service faites-vous que votre fiche Google ne montre pas encore ?\n\n#FicheGoogle #Paysagiste #Shorts",
     "facebook": "Votre client cherche « élagage » sur Google. Votre fiche Google ne parle que de tonte.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « paysagiste » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nVous élaguez, vous taillez, vous plantez. Mais si votre fiche Google ne parle que de tonte, le client qui cherche « élagage » appelle quelqu'un d'autre.\n\nLe réflexe : une photo de chaque type de chantier, et une publication quand la saison change.\n\nQuel service faites-vous que votre fiche Google ne montre pas encore ?"
    },
-   "media": {}
+   "media": {
+    "type": "video",
+    "fichiers": [
+     "medias/2026-11-02/video-paysagiste-elagage-invisible.mp4"
+    ],
+    "postiz_vertical": "https://media.glidy.uk/JxyOVxkZmc.mp4"
+   }
   },
   {
    "intention": "utile",
@@ -156,7 +184,13 @@
     "x": "Idée reçue : une fiche Google se remplit une fois pour toutes.\n\nEn réalité, Google met en avant celles qui bougent : une photo récente, une actualité, des avis qui ont une réponse.\n\nVous publiez sur la vôtre ?\n\n#FicheGoogle #Electricien",
     "facebook": "Idée reçue : une fiche Google se remplit une fois pour toutes. En réalité, Google préfère celles qui bougent.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « électricien » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nBeaucoup d'électriciens remplissent leur fiche Google le jour de l'installation, puis n'y touchent plus.\n\nSauf que Google regarde aussi la vie de la fiche : des photos récentes, des actualités, des réponses aux avis. Une fiche Google figée glisse doucement vers le bas.\n\nPas besoin d'y passer des heures : une photo de chantier par semaine change déjà la donne.\n\nEt vous, quand avez-vous publié pour la dernière fois sur votre fiche Google ?\n\n#FicheGoogle #Electricien #ReferencementLocal #GoogleBusinessProfile #Artisans"
    },
-   "media": {}
+   "media": {
+    "type": "image",
+    "fichiers": [
+     "medias/2026-11-03/image-electricien-fiche-qui-bouge.png"
+    ],
+    "postiz": "https://media.glidy.uk/lD7FlyToLH.png"
+   }
   },
   {
    "intention": "preuve",
@@ -217,7 +251,23 @@
     "facebook": "Avant / après : la fiche Google d'une boulangerie qui montre sa fournée chaque lundi.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « boulangerie » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nAvant : 2 photos floues, aucune actualité, des avis restés sans réponse.\nAprès : une photo de la fournée chaque lundi, un article chaque jeudi, une réponse à chaque avis.\n\nChez un de nos clients, ce changement a donné ×3 appels venus de Google en un semestre.\n\nVotre fiche Google ressemble plutôt à l'avant ou à l'après ? Essayez gratuitement si vous voulez voir la différence.\n\n#FicheGoogle #Boulangerie #ReferencementLocal #GoogleBusinessProfile",
     "linkedin": "Une fiche Google qui publie chaque semaine ne ressemble pas à une fiche Google figée. Et les clients font la différence.\nC'est ce qui s'affiche quand on cherche « boulangerie » sur Google Maps.\n\nAvant : deux photos floues, aucune actualité, des avis sans réponse.\nAprès : une photo de la fournée chaque lundi, un article chaque jeudi, une réponse à chaque avis.\n\nPour un de nos clients, le résultat a été net : ×3 appels venus de Google en un semestre.\n\nPourquoi ? Parce qu'un client qui compare deux commerces sur son téléphone choisit celui qui a l'air ouvert, vivant, attentif. La qualité du pain ne se voit pas sur un écran ; la régularité, si.\n\nC'est le travail de Proenligne : faire vivre la fiche Google pendant que vous faites tourner la boutique.\n\nEssayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Boulangerie #Commerce"
    },
-   "media": {}
+   "media": {
+    "type": "carrousel",
+    "fichiers": [
+     "medias/2026-11-03/carrousel-boulangerie-fournee-du-lundi/01.png",
+     "medias/2026-11-03/carrousel-boulangerie-fournee-du-lundi/02.png",
+     "medias/2026-11-03/carrousel-boulangerie-fournee-du-lundi/03.png",
+     "medias/2026-11-03/carrousel-boulangerie-fournee-du-lundi/04.png",
+     "medias/2026-11-03/carrousel-boulangerie-fournee-du-lundi/05.png"
+    ],
+    "carrousel": [
+     "https://media.glidy.uk/li6sI293UH.png",
+     "https://media.glidy.uk/0Nq8fU4Ie3.png",
+     "https://media.glidy.uk/pzXG42Me4T.png",
+     "https://media.glidy.uk/QtyPLEdPo0.png",
+     "https://media.glidy.uk/eHGYvizRZT.png"
+    ]
+   }
   },
   {
    "intention": "utile",
@@ -244,7 +294,13 @@
     "youtube": "Pendant que vous êtes sous une voiture, les avis de votre fiche Google attendent.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « garage » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nUn client vous laisse 5 étoiles. Vous lui répondez des semaines plus tard, un soir, fatigué. Entre-temps, d'autres clients ont lu cet avis… sans réponse.\n\nUne réponse courte et rapide vaut mieux qu'une belle réponse tardive : « Merci Paul, à la prochaine révision ! » suffit.\n\nCombien de temps mettez-vous à répondre à un avis ?\n\n#FicheGoogle #Garage #Shorts",
     "facebook": "Pendant que vous êtes sous une voiture, les avis de votre fiche Google attendent.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « garage » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nUn client vous laisse 5 étoiles. Vous lui répondez des semaines plus tard, un soir, fatigué. Entre-temps, d'autres clients ont lu cet avis… sans réponse.\n\nUne réponse courte et rapide vaut mieux qu'une belle réponse tardive : « Merci Paul, à la prochaine révision ! » suffit.\n\nCombien de temps mettez-vous à répondre à un avis ?"
    },
-   "media": {}
+   "media": {
+    "type": "video",
+    "fichiers": [
+     "medias/2026-11-03/video-garage-avis-tardifs-A.mp4"
+    ],
+    "postiz_vertical": "https://media.glidy.uk/dEttlLWKP4.mp4"
+   }
   },
   {
    "intention": "utile",
@@ -280,7 +336,13 @@
     "x": "« Vous pouvez venir maintenant ? » Avant d'appeler un serrurier, le client lit sa fiche Google : la note, les avis, et surtout vos réponses.\n\nPorte claquée, il ne compare pas longtemps. Vous répondez à vos avis ?\n\n#FicheGoogle #Serrurier",
     "facebook": "« Vous pouvez venir maintenant ? » Avant d'appeler un serrurier, le client lit sa fiche Google.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « serrurier » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nPorte claquée, clés à l'intérieur : le client ne compare pas longtemps. Il regarde la note, lit 2 avis, et appelle celui qui semble sérieux.\n\nUn avis sans réponse, surtout s'il est négatif, fait douter en quelques secondes. Une réponse calme, au contraire, rassure.\n\nVous répondez à tous vos avis, ou seulement aux bons ?\n\n#FicheGoogle #Serrurier #ReferencementLocal #GoogleBusinessProfile #Artisans"
    },
-   "media": {}
+   "media": {
+    "type": "image",
+    "fichiers": [
+     "medias/2026-11-04/image-serrurier-urgence-lit-avis.png"
+    ],
+    "postiz": "https://media.glidy.uk/E3zf2RqRnB.png"
+   }
   },
   {
    "intention": "utile",
@@ -335,7 +397,21 @@
     "facebook": "Quiz : qu'est-ce qu'une cliente regarde d'abord sur la fiche Google de votre institut ?\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « esthéticienne » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nA. Les photos de l'institut\nB. Les avis… et vos réponses\nC. Les horaires\n\nRéponse dans le carrousel. Indice : avant de réserver un soin, on veut savoir comment l'institut traite ses clientes.\n\nVous aviez trouvé ? Répondez A, B ou C en commentaire.\n\n#FicheGoogle #Estheticienne #ReferencementLocal #GoogleBusinessProfile",
     "linkedin": "Quand une cliente découvre votre institut sur sa fiche Google, que regarde-t-elle d'abord ?\nLa fiche Google, c'est ce qui s'affiche quand on cherche « esthéticienne » sur Google Maps.\n\nLes photos comptent. Les horaires aussi. Mais pour un soin, ce qui décide le plus souvent, ce sont les avis… et la façon dont l'institut y répond.\n\nUne réponse montre trois choses : que quelqu'un lit, que l'on prend soin des clientes, et que l'institut est actif.\n\nUn point souvent oublié : la fiche Google permet aussi aux clientes de poser des questions. Restées sans réponse, elles donnent l'impression d'un institut absent.\n\nPour un gérant, la question n'est pas de savoir s'il faut répondre, mais qui le fait, et quand. Dans un institut, entre deux soins, ce n'est jamais simple.\n\nChez vous, qui répond aux avis : la gérante, l'équipe, ou personne pour l'instant ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Esthetique #TPE"
    },
-   "media": {}
+   "media": {
+    "type": "carrousel",
+    "fichiers": [
+     "medias/2026-11-04/carrousel-estheticienne-quiz-regard/01.png",
+     "medias/2026-11-04/carrousel-estheticienne-quiz-regard/02.png",
+     "medias/2026-11-04/carrousel-estheticienne-quiz-regard/03.png",
+     "medias/2026-11-04/carrousel-estheticienne-quiz-regard/04.png"
+    ],
+    "carrousel": [
+     "https://media.glidy.uk/31gdrjnzqY.png",
+     "https://media.glidy.uk/l0W3PMbJxZ.png",
+     "https://media.glidy.uk/1D5akiG3QX.png",
+     "https://media.glidy.uk/k5zTSSyKcn.png"
+    ]
+   }
   },
   {
    "intention": "utile",
@@ -361,7 +437,13 @@
     "youtube": "Le meilleur gâteau du quartier ? Introuvable : votre fiche Google n'en montre aucun.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « boulangerie » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nVos gâteaux sur commande sont délicieux. Mais quand un client cherche « gâteau anniversaire » sur Google Maps, ce sont les boulangeries qui en montrent en photo qui sortent en premier.\n\nUne photo de vos gâteaux, une ligne qui dit « sur commande » : c'est souvent tout ce qui manque.\n\nQue vendez-vous que votre fiche Google ne montre pas encore ?\n\n#FicheGoogle #Boulangerie #Shorts",
     "facebook": "Le meilleur gâteau du quartier ? Introuvable : votre fiche Google n'en montre aucun.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « boulangerie » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nVos gâteaux sur commande sont délicieux. Mais quand un client cherche « gâteau anniversaire » sur Google Maps, ce sont les boulangeries qui en montrent en photo qui sortent en premier.\n\nUne photo de vos gâteaux, une ligne qui dit « sur commande » : c'est souvent tout ce qui manque.\n\nQue vendez-vous que votre fiche Google ne montre pas encore ?"
    },
-   "media": {}
+   "media": {
+    "type": "video",
+    "fichiers": [
+     "medias/2026-11-04/video-boulangerie-gateaux-invisibles.mp4"
+    ],
+    "postiz_vertical": "https://media.glidy.uk/lT4IQKW0qW.mp4"
+   }
   },
   {
    "intention": "utile",
@@ -396,7 +478,13 @@
     "x": "Les premières pannes de chaudière arrivent : votre fiche Google est-elle prête pour l'hiver ?\n\nAvant le rush : horaires d'intervention vérifiés, photo du camion, zones desservies.\n\nC'est fait chez vous ?\n\n#FicheGoogle #Chauffagiste",
     "facebook": "Les premières pannes de chaudière arrivent : votre fiche Google est-elle prête pour l'hiver ?\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « chauffagiste » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nQuand le froid arrive, les clients cherchent vite et appellent le premier résultat qui inspire confiance.\n\nAvant le rush, 3 vérifications :\n• vos horaires d'intervention, samedi compris ;\n• une photo récente de votre camion, pour qu'on sache qui va sonner ;\n• les communes où vous intervenez, écrites noir sur blanc.\n\nLequel de ces 3 points manque sur votre fiche Google ?\n\n#FicheGoogle #Chauffagiste #ReferencementLocal #GoogleBusinessProfile #Artisans"
    },
-   "media": {}
+   "media": {
+    "type": "image",
+    "fichiers": [
+     "medias/2026-11-05/image-chauffagiste-pret-hiver.png"
+    ],
+    "postiz": "https://media.glidy.uk/DkxmpqXDtA.png"
+   }
   },
   {
    "intention": "utile",
@@ -419,7 +507,13 @@
    "textes": {
     "tiktok": "5 étoiles sur votre fiche Google. Votre merci arrive des semaines plus tard.\n\nUn avis sans réponse, le client suivant croit que personne ne lit.\n\n#FicheGoogle #Garage #Artisan"
    },
-   "media": {}
+   "media": {
+    "type": "video",
+    "fichiers": [
+     "medias/2026-11-05/video-garage-avis-tardifs-B.mp4"
+    ],
+    "postiz_vertical": "https://media.glidy.uk/u1APF49eNQ.mp4"
+   }
   },
   {
    "intention": "offre",
@@ -475,11 +569,27 @@
    "creneau": "visuel",
    "offre": "essai",
    "textes": {
-    "instagram": "« Vous avez des photos de vos chantiers ? » Sur votre fiche Google, Proenligne s'en charge.\n\nVos chantiers parlent pour vous, encore faut-il qu'ils se voient. Le soir, après le chantier, la fiche Google passe toujours après le reste.\n\nProenligne la fait vivre à votre place :\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « maçon » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\n✅ Une photo publiée chaque lundi\n✅ Un article publié chaque jeudi\n✅ Une réponse à chaque avis (les négatifs validés par vous)\n\nEssayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #Macon #ReferencementLocal #GoogleBusinessProfile #Artisans #PetitesEntreprises",
+    "instagram": "« Vous avez des photos de vos chantiers ? » Sur votre fiche Google, Proenligne s'en charge.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « maçon » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nVos chantiers parlent pour vous, encore faut-il qu'ils se voient. Le soir, après le chantier, la fiche Google passe toujours après le reste.\n\nProenligne la fait vivre à votre place :\n\n✅ Une photo publiée chaque lundi\n✅ Un article publié chaque jeudi\n✅ Une réponse à chaque avis (les négatifs validés par vous)\n\nEssayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #Macon #ReferencementLocal #GoogleBusinessProfile #Artisans #PetitesEntreprises",
     "facebook": "« Vous avez des photos de vos chantiers ? » Sur votre fiche Google, Proenligne s'en charge.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « maçon » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nVos chantiers parlent pour vous, encore faut-il qu'ils se voient. Le soir, après le chantier, la fiche Google passe toujours après le reste.\n\nProenligne la fait vivre à votre place :\n\n✅ Une photo publiée chaque lundi\n✅ Un article publié chaque jeudi\n✅ Une réponse à chaque avis (les négatifs validés par vous)\n\nEssayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #Macon #ReferencementLocal #GoogleBusinessProfile",
     "linkedin": "Dirigeants du bâtiment : votre fiche Google montre-t-elle vos chantiers, ou seulement votre adresse ?\nC'est ce que vos futurs clients voient en cherchant « maçon » sur Google Maps.\n\nUn particulier qui prépare une extension ou un mur de clôture veut voir des réalisations avant de demander un devis. Sans photos récentes, il passe au suivant.\n\nLe problème est connu : le soir, après le chantier, la fiche Google passe après les devis, la compta, les fournisseurs.\n\nProenligne s'en occupe pour vous :\n✅ une photo de chantier publiée chaque lundi ;\n✅ un article publié chaque jeudi ;\n✅ une réponse à chaque avis, les avis négatifs étant validés par vous avant envoi.\n\nVous restez sur le chantier ; votre fiche Google, elle, travaille pour l'entreprise.\n\nEssayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Batiment #Artisanat"
    },
-   "media": {}
+   "media": {
+    "type": "carrousel",
+    "fichiers": [
+     "medias/2026-11-05/carrousel-macon-chantiers-en-photo/01.png",
+     "medias/2026-11-05/carrousel-macon-chantiers-en-photo/02.png",
+     "medias/2026-11-05/carrousel-macon-chantiers-en-photo/03.png",
+     "medias/2026-11-05/carrousel-macon-chantiers-en-photo/04.png",
+     "medias/2026-11-05/carrousel-macon-chantiers-en-photo/05.png"
+    ],
+    "carrousel": [
+     "https://media.glidy.uk/t4nLlY0Pw6.png",
+     "https://media.glidy.uk/fnrGkauQn1.png",
+     "https://media.glidy.uk/a7rkLCliOk.png",
+     "https://media.glidy.uk/rOWx3Gu86f.png",
+     "https://media.glidy.uk/ATXCYS0Uar.png"
+    ]
+   }
   },
   {
    "intention": "utile",
@@ -506,7 +616,13 @@
     "youtube": "Il est 22 h. Votre nouveau service n'est toujours pas sur votre fiche Google.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « plombier » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nVous avez investi dans du matériel, appris une nouvelle technique, ouvert un créneau. Mais rien sur votre fiche Google : les clients qui cherchent ce service ne vous trouvent pas.\n\nUne photo et 3 lignes suffisent pour l'annoncer. Le plus dur, c'est de trouver le moment.\n\nQuelle nouveauté n'avez-vous jamais annoncée sur votre fiche Google ?\n\n#FicheGoogle #Plombier #Shorts",
     "facebook": "Il est 22 h. Votre nouveau service n'est toujours pas sur votre fiche Google.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « plombier » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nVous avez investi dans du matériel, appris une nouvelle technique, ouvert un créneau. Mais rien sur votre fiche Google : les clients qui cherchent ce service ne vous trouvent pas.\n\nUne photo et 3 lignes suffisent pour l'annoncer. Le plus dur, c'est de trouver le moment.\n\nQuelle nouveauté n'avez-vous jamais annoncée sur votre fiche Google ?"
    },
-   "media": {}
+   "media": {
+    "type": "video",
+    "fichiers": [
+     "medias/2026-11-05/video-plombier-nouveau-service-A.mp4"
+    ],
+    "postiz_vertical": "https://media.glidy.uk/EofkVXzmap.mp4"
+   }
   },
   {
    "intention": "preuve",
@@ -541,7 +657,13 @@
     "x": "100 appels venus de Google en un semestre : la fiche Google d'un de nos clients, avant et après.\n\nAvant : rien de publié. Après : une photo le lundi, un article le jeudi, une réponse à chaque avis.\n\nEssayez gratuitement.\n\n#FicheGoogle #AutoEcole",
     "facebook": "100 appels venus de Google en un semestre : la fiche Google d'un de nos clients, avant et après.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « auto-école » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nAvant : une fiche Google sans actualité, des avis d'élèves sans réponse, des photos de voitures qui n'existent plus.\n\nAprès : une photo chaque lundi, un article chaque jeudi (code, examen, conseils), une réponse à chaque avis.\n\nRésultat pour un de nos clients : 100 appels venus de Google en un semestre.\n\nVous savez combien d'appels vous viennent de Google ? Essayez Proenligne gratuitement pour le voir.\n\n#FicheGoogle #AutoEcole #ReferencementLocal #GoogleBusinessProfile #Artisans"
    },
-   "media": {}
+   "media": {
+    "type": "image",
+    "fichiers": [
+     "medias/2026-11-06/image-autoecole-100-appels.png"
+    ],
+    "postiz": "https://media.glidy.uk/9JOkRTB30p.png"
+   }
   },
   {
    "intention": "utile",
@@ -602,7 +724,23 @@
     "facebook": "Un avis 2 étoiles sur votre fiche Google : vous répondez, ou vous laissez courir ?\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « électricien » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nLaisser courir, c'est laisser cet avis parler seul à tous ceux qui vous découvrent.\n\nLa bonne réponse tient en 3 temps :\n1. Remercier, sans ironie.\n2. Expliquer en une phrase, sans entrer dans le détail.\n3. Proposer d'en parler de vive voix.\n\nVotre réponse est lue par les prochains clients, bien plus que par l'auteur de l'avis.\n\nVous répondez à vos avis négatifs, ou vous préférez ne rien dire ?\n\n#FicheGoogle #Electricien #ReferencementLocal #GoogleBusinessProfile",
     "linkedin": "Un avis 2 étoiles sur la fiche Google de votre entreprise : faut-il répondre ?\nLa fiche Google, c'est ce que voient vos prospects en cherchant « électricien » sur Google Maps.\n\nBeaucoup de dirigeants préfèrent ne rien dire, pour ne pas envenimer. C'est compréhensible, mais l'avis reste alors seul, visible de tous les prospects.\n\nUne réponse bien construite tient en trois temps :\n• remercier, sans ironie ;\n• expliquer en une phrase, sans détail technique ;\n• proposer d'en parler directement.\n\nLe point clé : la réponse ne s'adresse pas vraiment à l'auteur de l'avis. Elle s'adresse aux clients suivants, qui jugeront votre sérieux sur ce ton.\n\nC'est pourquoi chez Proenligne, chaque réponse à un avis négatif est soumise au dirigeant avant publication.\n\nDans votre entreprise, qui valide les réponses aux avis négatifs ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Electricien #TPE"
    },
-   "media": {}
+   "media": {
+    "type": "carrousel",
+    "fichiers": [
+     "medias/2026-11-06/carrousel-electricien-repondre-avis-negatif/01.png",
+     "medias/2026-11-06/carrousel-electricien-repondre-avis-negatif/02.png",
+     "medias/2026-11-06/carrousel-electricien-repondre-avis-negatif/03.png",
+     "medias/2026-11-06/carrousel-electricien-repondre-avis-negatif/04.png",
+     "medias/2026-11-06/carrousel-electricien-repondre-avis-negatif/05.png"
+    ],
+    "carrousel": [
+     "https://media.glidy.uk/st0gVldJcA.png",
+     "https://media.glidy.uk/TUmRsVTzin.png",
+     "https://media.glidy.uk/GcDRs9DQ3s.png",
+     "https://media.glidy.uk/w4odSZjJxk.png",
+     "https://media.glidy.uk/f5bu14tqbX.png"
+    ]
+   }
   },
   {
    "intention": "preuve",
@@ -628,7 +766,13 @@
     "youtube": "Elle compare deux salons sur Google Maps. Votre fiche Google ne montre aucune coupe.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « coiffeur » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nUne cliente qui n'ose pas téléphoner compare tout avant de réserver. Face à un salon qui montre ses coupes chaque semaine, une fiche Google muette perd la comparaison.\n\nUn de nos clients a triplé ses appels venus de Google en un semestre, simplement en publiant chaque semaine.\n\nEt votre salon, il montre quoi sur Google ? Essayez Proenligne gratuitement.\n\n#FicheGoogle #Coiffeur #Shorts",
     "facebook": "Elle compare deux salons sur Google Maps. Votre fiche Google ne montre aucune coupe.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « coiffeur » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nUne cliente qui n'ose pas téléphoner compare tout avant de réserver. Face à un salon qui montre ses coupes chaque semaine, une fiche Google muette perd la comparaison.\n\nUn de nos clients a triplé ses appels venus de Google en un semestre, simplement en publiant chaque semaine.\n\nEt votre salon, il montre quoi sur Google ? Essayez Proenligne gratuitement."
    },
-   "media": {}
+   "media": {
+    "type": "video",
+    "fichiers": [
+     "medias/2026-11-06/video-coiffeur-deux-salons.mp4"
+    ],
+    "postiz_vertical": "https://media.glidy.uk/trUiCnJytI.mp4"
+   }
   },
   {
    "intention": "utile",
@@ -664,7 +808,13 @@
     "x": "Ouvrez la fiche Google de votre garage comme un client pressé : que voyez-vous en 5 secondes ?\n\nLa note, la première photo, le bouton « Appeler ». C'est tout ce qu'il regarde.\n\nEt chez vous, la première photo montre quoi ?\n\n#FicheGoogle #Garage",
     "facebook": "Ouvrez la fiche Google de votre garage comme un client pressé : que voyez-vous en 5 secondes ?\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « garage » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nUn client en panne ne lit pas tout. En 5 secondes, il voit :\n• votre note et le nombre d'avis ;\n• la première photo ;\n• le bouton « Appeler ».\n\nSi la première photo est un parking vide ou un logo flou, il passe au suivant.\n\nQue montre la première photo de votre fiche Google ? Dites-le en commentaire.\n\n#FicheGoogle #Garage #ReferencementLocal #GoogleBusinessProfile #Artisans"
    },
-   "media": {}
+   "media": {
+    "type": "image",
+    "fichiers": [
+     "medias/2026-11-07/image-garage-test-5-secondes.png"
+    ],
+    "postiz": "https://media.glidy.uk/FKxpfxeGFU.png"
+   }
   },
   {
    "intention": "utile",
@@ -687,7 +837,13 @@
    "textes": {
     "tiktok": "Vous trouvez les fuites sans casser. Votre fiche Google ne le dit à personne.\n\nUn nouveau service qu'on n'annonce pas ne trouve pas ses clients.\n\n#FicheGoogle #Plombier #Artisan"
    },
-   "media": {}
+   "media": {
+    "type": "video",
+    "fichiers": [
+     "medias/2026-11-07/video-plombier-nouveau-service-B.mp4"
+    ],
+    "postiz_vertical": "https://media.glidy.uk/mdvNkP43EK.mp4"
+   }
   },
   {
    "intention": "utile",
@@ -747,7 +903,23 @@
     "instagram": "En hiver, les jardins dorment. Votre fiche Google, elle, n'a aucune raison de s'endormir.\n\nNovembre, les tontes s'arrêtent… et beaucoup de fiches Google de paysagistes se figent jusqu'en avril.\n\nPourtant, c'est maintenant que les clients préparent le printemps. Quoi publier ?\n• vos chantiers de taille et d'élagage, de saison ;\n• un plan ou un croquis de projet ;\n• une photo avant / après d'un jardin nettoyé.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « paysagiste » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nQu'est-ce que vous publiez sur votre fiche Google quand le jardin dort ?\n\n#FicheGoogle #Paysagiste #ReferencementLocal #GoogleBusinessProfile #Artisans #PetitesEntreprises",
     "facebook": "En hiver, les jardins dorment. Votre fiche Google, elle, n'a aucune raison de s'endormir.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « paysagiste » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nNovembre, les tontes s'arrêtent… et beaucoup de fiches Google de paysagistes se figent jusqu'en avril.\n\nPourtant, c'est maintenant que les clients préparent le printemps. Quoi publier ?\n• vos chantiers de taille et d'élagage, de saison ;\n• un plan ou un croquis de projet ;\n• une photo avant / après d'un jardin nettoyé.\n\nQu'est-ce que vous publiez sur votre fiche Google quand le jardin dort ?\n\n#FicheGoogle #Paysagiste #ReferencementLocal #GoogleBusinessProfile"
    },
-   "media": {}
+   "media": {
+    "type": "carrousel",
+    "fichiers": [
+     "medias/2026-11-07/carrousel-paysagiste-publier-en-hiver/01.png",
+     "medias/2026-11-07/carrousel-paysagiste-publier-en-hiver/02.png",
+     "medias/2026-11-07/carrousel-paysagiste-publier-en-hiver/03.png",
+     "medias/2026-11-07/carrousel-paysagiste-publier-en-hiver/04.png",
+     "medias/2026-11-07/carrousel-paysagiste-publier-en-hiver/05.png"
+    ],
+    "carrousel": [
+     "https://media.glidy.uk/QEVfL1kgD4.png",
+     "https://media.glidy.uk/fkoCbfFcxE.png",
+     "https://media.glidy.uk/2wtwdRCtfE.png",
+     "https://media.glidy.uk/EYZ6e2fFUf.png",
+     "https://media.glidy.uk/V2bSF8qdri.png"
+    ]
+   }
   },
   {
    "intention": "offre",
@@ -769,11 +941,17 @@
    "offre": "essai",
    "textes": {
     "tiktok": "Vous travaillez le samedi. Votre fiche Google affirme le contraire.\n\nDes horaires faux sur votre fiche Google envoient vos clients chez le voisin. Essayez Proenligne gratuitement.\n\n#FicheGoogle #Serrurier #Artisan",
-    "instagram": "Vous travaillez le samedi. Votre fiche Google affirme le contraire.\n\nUn samedi, porte claquée : le client lit « fermé » sur votre fiche Google et appelle un autre serrurier. Vous, vous étiez disponible.\n\nProenligne tient votre fiche Google vivante :\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « serrurier » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\n✅ Une photo publiée chaque lundi\n✅ Un article publié chaque jeudi\n✅ Une réponse à chaque avis (les négatifs validés par vous)\n\nEssayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #Serrurier #ReferencementLocal #GoogleBusinessProfile #Artisans #Reels",
+    "instagram": "Vous travaillez le samedi. Votre fiche Google affirme le contraire.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « serrurier » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nUn samedi, porte claquée : le client lit « fermé » sur votre fiche Google et appelle un autre serrurier. Vous, vous étiez disponible.\n\nProenligne tient votre fiche Google vivante :\n\n✅ Une photo publiée chaque lundi\n✅ Un article publié chaque jeudi\n✅ Une réponse à chaque avis (les négatifs validés par vous)\n\nEssayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #Serrurier #ReferencementLocal #GoogleBusinessProfile #Artisans #Reels",
     "youtube": "Vous travaillez le samedi. Votre fiche Google affirme le contraire.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « serrurier » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nUn samedi, porte claquée : le client lit « fermé » sur votre fiche Google et appelle un autre serrurier. Vous, vous étiez disponible.\n\nProenligne tient votre fiche Google vivante :\n\n✅ Une photo publiée chaque lundi\n✅ Un article publié chaque jeudi\n✅ Une réponse à chaque avis (les négatifs validés par vous)\n\nEssayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #Serrurier #Shorts",
     "facebook": "Vous travaillez le samedi. Votre fiche Google affirme le contraire.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « serrurier » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nUn samedi, porte claquée : le client lit « fermé » sur votre fiche Google et appelle un autre serrurier. Vous, vous étiez disponible.\n\nProenligne tient votre fiche Google vivante :\n\n✅ Une photo publiée chaque lundi\n✅ Un article publié chaque jeudi\n✅ Une réponse à chaque avis (les négatifs validés par vous)\n\nEssayez Proenligne gratuitement, sans engagement."
    },
-   "media": {}
+   "media": {
+    "type": "video",
+    "fichiers": [
+     "medias/2026-11-07/video-serrurier-samedi-ferme.mp4"
+    ],
+    "postiz_vertical": "https://media.glidy.uk/Flp9QkVnDI.mp4"
+   }
   },
   {
    "intention": "utile",
@@ -808,7 +986,13 @@
     "x": "Pendant que vous comptez sur le bouche-à-oreille, vos futures clientes lisent votre fiche Google.\n\nIdée reçue : « mes clientes me recommandent, ça suffit ». Une amie recommande, puis on vérifie sur Google.\n\nVous y pensiez ?\n\n#FicheGoogle #Estheticienne",
     "facebook": "Pendant que vous comptez sur le bouche-à-oreille, vos futures clientes lisent votre fiche Google.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « esthéticienne » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nIdée reçue : « mes clientes me recommandent, ça suffit ».\n\nEn réalité, le bouche-à-oreille passe aujourd'hui par Google : une amie donne votre nom, et la future cliente va vérifier votre fiche Google avant de réserver. Photos, avis, réponses : c'est là qu'elle se décide.\n\nVos nouvelles clientes vous ont trouvée comment : une amie, Google, ou les deux ?\n\n#FicheGoogle #Estheticienne #ReferencementLocal #GoogleBusinessProfile #Artisans"
    },
-   "media": {}
+   "media": {
+    "type": "image",
+    "fichiers": [
+     "medias/2026-11-08/image-estheticienne-bouche-a-oreille.png"
+    ],
+    "postiz": "https://media.glidy.uk/InHNKMgL56.png"
+   }
   },
   {
    "intention": "preuve",
@@ -862,7 +1046,21 @@
     "instagram": "Même plombier, même métier. Seule sa fiche Google a changé : ×3 appels.\n\nAvant : aucune actualité depuis 2021, des photos de chantier introuvables, des avis sans réponse.\nAprès : une photo chaque lundi, un article chaque jeudi, une réponse à chaque avis.\n\nRésultat : ×3 appels venus de Google en un semestre. Sans qu'il y passe ses soirées.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « plombier » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nVotre fiche Google ressemble plutôt à l'avant ou à l'après ?\n\n#FicheGoogle #Plombier #ReferencementLocal #GoogleBusinessProfile #Artisans #PetitesEntreprises",
     "facebook": "Même plombier, même métier. Seule sa fiche Google a changé : ×3 appels.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « plombier » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nAvant : aucune actualité depuis 2021, des photos de chantier introuvables, des avis sans réponse.\nAprès : une photo chaque lundi, un article chaque jeudi, une réponse à chaque avis.\n\nRésultat : ×3 appels venus de Google en un semestre. Sans qu'il y passe ses soirées.\n\nVotre fiche Google ressemble plutôt à l'avant ou à l'après ?\n\n#FicheGoogle #Plombier #ReferencementLocal #GoogleBusinessProfile"
    },
-   "media": {}
+   "media": {
+    "type": "carrousel",
+    "fichiers": [
+     "medias/2026-11-08/carrousel-plombier-avant-apres-x3/01.png",
+     "medias/2026-11-08/carrousel-plombier-avant-apres-x3/02.png",
+     "medias/2026-11-08/carrousel-plombier-avant-apres-x3/03.png",
+     "medias/2026-11-08/carrousel-plombier-avant-apres-x3/04.png"
+    ],
+    "carrousel": [
+     "https://media.glidy.uk/MilpTJoxA8.png",
+     "https://media.glidy.uk/81sUffp8QL.png",
+     "https://media.glidy.uk/7iY8pcaY0R.png",
+     "https://media.glidy.uk/oiIgUjqZnk.png"
+    ]
+   }
   },
   {
    "intention": "utile",
@@ -888,7 +1086,13 @@
     "youtube": "« Ils ne répondent jamais ? » Un futur élève lit les avis de votre fiche Google.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « auto-école » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nAvant de s'inscrire, un futur élève (ou ses parents) lit les avis. Un avis négatif sans réponse pèse lourd. Une réponse qui arrive des semaines plus tard, aussi.\n\nUne réponse rapide, calme, qui propose une solution : c'est souvent ce qui rassure le plus.\n\nVous répondez à vos avis en combien de temps ?\n\n#FicheGoogle #AutoEcole #Shorts",
     "facebook": "« Ils ne répondent jamais ? » Un futur élève lit les avis de votre fiche Google.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « auto-école » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nAvant de s'inscrire, un futur élève (ou ses parents) lit les avis. Un avis négatif sans réponse pèse lourd. Une réponse qui arrive des semaines plus tard, aussi.\n\nUne réponse rapide, calme, qui propose une solution : c'est souvent ce qui rassure le plus.\n\nVous répondez à vos avis en combien de temps ?"
    },
-   "media": {}
+   "media": {
+    "type": "video",
+    "fichiers": [
+     "medias/2026-11-08/video-autoecole-reponse-tardive.mp4"
+    ],
+    "postiz_vertical": "https://media.glidy.uk/D3UWvQX3ny.mp4"
+   }
   }
  ]
 }
