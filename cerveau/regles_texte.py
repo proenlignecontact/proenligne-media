@@ -6,6 +6,9 @@ Importé par cerveau/verifier.py, cerveau/relecture.py et par la copie adaptée 
   textes_du_plan(plan)  → [(ref, champ, texte)] : tous les éléments textuels d'un plan (textes, accroche, titres, 1er commentaire, visuel)
   textes_du_brief(b)    → [(champ, texte)] : tous les textes d'un brief vidéo (accroches, suite, réveil, corps, notifs, scène)
 
+RÈGLE N°5 — aucun deux-points « : » dans un texte publié (texte, accroche, titre, commentaire, visuel, vidéo) : ça ne fait pas naturel.
+On écrit une phrase complète à la place (« Avant, deux photos floues. Après, une photo chaque lundi. »).
+
 RÈGLE N°3 — aucune statistique ni résultat chiffré venant de nos clients : jamais « ×3 appels », « 100 appels »,
 « en un semestre », « un de nos clients a triplé… », aucun pourcentage, aucun « résultat : … ». La preuve se fait par
 une démonstration (avant / après descriptif, scène vécue, fonctionnement public de Google), jamais par un chiffre.
@@ -42,6 +45,8 @@ def problemes(texte, ou=''):
     if m: pb.append(f'{pre}statistique ou résultat client (« {m.group(0)} ») — règle n°3, interdit')
     if re.search(r"\b(la|votre|sa|cette|une|ma) fiche\b(?! google)", t, re.I) and 'fiche google' not in t.lower():
         pb.append(f'{pre}« la fiche » sans « fiche Google » — règle n°1')
+    if ':' in t or '：' in t:
+        pb.append(f'{pre}deux-points « : » interdit (règle n°5), écrire une phrase à la place')
     return pb
 
 

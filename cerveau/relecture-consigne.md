@@ -21,9 +21,10 @@ Un verdict pour **chaque** id, sans exception. `refuse` dès qu'un seul critère
 4. **Règle n°1** : « fiche Google » est nommée et expliquée en quelques mots dès le début du post ; jamais « la fiche » seule.
 5. **Règle n°2** : aucun prix, aucun montant, « mois », « centime », abonnement.
 6. **Règle n°3** : **aucune statistique ni résultat chiffré venant de nos clients** (« ×3 appels », « 100 appels », « en un semestre », « un de nos clients a triplé… », pourcentages, « résultat : … »). La preuve se fait par une démonstration, jamais par un chiffre.
-7. **Ton** : on parle à un artisan, pas à un marketeur ; pas de condescendance, pas de culpabilisation (« vous négligez », « honte »), pas de peur gratuite ; une question honnête plutôt qu'une injonction.
-8. **Cohérence du personnage** : noms fictifs seulement (Weber, Martin, Durand, Bernard, Petit), jamais le même nom fictif dans deux posts d'un même jour ; les prénoms d'avis sont inventés.
-9. **Français** : accords, ponctuation, typographie (« », espace avant ? ! : ;), pas d'anglicisme inutile.
-10. **Question finale** d'un contenu utile : elle est concrète, on peut y répondre en une ligne.
+7. **Règle n°5** : aucun deux-points « : » nulle part (ni « Avant : », ni « Le réflexe : », ni « Résultat : »). La proposition de réécriture n'en contient pas non plus.
+8. **Ton** : on parle à un artisan, pas à un marketeur ; pas de condescendance, pas de culpabilisation (« vous négligez », « honte »), pas de peur gratuite ; une question honnête plutôt qu'une injonction.
+9. **Cohérence du personnage** : noms fictifs seulement (Weber, Martin, Durand, Bernard, Petit), jamais le même nom fictif dans deux posts d'un même jour ; les prénoms d'avis sont inventés.
+10. **Français** : accords, ponctuation, typographie (« », espace avant ? ! : ;), pas d'anglicisme inutile.
+11. **Question finale** d'un contenu utile : elle est concrète, on peut y répondre en une ligne.
 
 Refuse en cas de doute : un texte refusé est réécrit, un texte publié ne se rattrape pas.

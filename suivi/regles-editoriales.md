@@ -10,17 +10,16 @@ Le public (artisans, commerçants) ne sait pas ce qu'est « la fiche ». Il faut
 - L'accroche (première ligne, titre du visuel, accroche de la vidéo, titre YouTube) contient **« Google »**. Sur X, la mention doit tenir dans les 280 caractères.
 - Apporter le contexte, au moins une fois par contenu : c'est **ce qui s'affiche quand un client cherche votre métier sur Google ou Google Maps** (nom, photos, avis, horaires, téléphone). Exemples de tournures :
   - « Votre fiche Google, c'est ce que vos clients voient en premier quand ils cherchent “plombier” sur Google Maps. »
-  - « Quand on tape “coiffeur près de moi”, Google affiche des fiches : photos, avis, horaires. La vôtre en fait partie. »
 - Vidéos : l'accroche ou la scène Contraste doit nommer la fiche Google (le téléphone montre une recherche ou une fiche ; le texte à l'écran doit dire « fiche Google »).
 - Visuels : `outils/visuel.py` refuse un brief dont le surtitre et le titre ne contiennent pas « Google ».
 - Ne jamais reproduire le logo ni l'interface de Google : le mot suffit.
 - **Varier la phrase d'explication** : elle ne doit pas être copiée telle quelle dans tous les posts (le vérificateur refuse plus de 4 copies identiques par semaine). Tournures à alterner :
-  - « Votre fiche Google, c'est ce qui s'affiche quand un client cherche “plombier” sur Google ou Google Maps : nom, photos, avis, horaires. »
-  - « Quand on tape “coiffeur près de moi”, Google affiche des fiches : photos, avis, horaires. La vôtre en fait partie. »
-  - « Sur Google Maps, chaque garage a sa fiche Google : la note, les photos, le bouton Appeler. C'est elle qu'on regarde avant de vous appeler. »
-  - « La fiche Google, c'est la carte de visite que Google montre à votre place : photos, avis, horaires, téléphone. »
-  - « Cherchez “boulangerie” dans votre ville : les encadrés avec note et photos sont des fiches Google. »
-  - « Avant d'appeler un serrurier, le client ouvre sa fiche Google sur Google Maps : avis, horaires, et vos réponses. »
+  - « Votre fiche Google, c'est ce qui s'affiche quand un client cherche “plombier” sur Google ou Google Maps, avec vos photos, vos avis et vos horaires. »
+  - « Quand on tape “coiffeur près de moi”, Google affiche des fiches avec photos, avis et horaires. La vôtre en fait partie. »
+  - « Sur Google Maps, chaque garage a sa fiche Google, avec la note, les photos et le bouton Appeler. C'est elle qu'on regarde avant de vous appeler. »
+  - « La fiche Google, c'est la carte de visite que Google montre à votre place, avec vos photos, vos avis, vos horaires et votre téléphone. »
+  - « Cherchez “boulangerie” dans votre ville. Les encadrés avec une note et des photos sont des fiches Google. »
+  - « Avant d'appeler un serrurier, le client ouvre sa fiche Google sur Google Maps et lit les avis, les horaires et vos réponses. »
 
 ## Règle n°2 : l'essai est gratuit, aucun prix nulle part
 
@@ -33,6 +32,10 @@ Appel à l'action : « Essayez gratuitement » / « Essayez Proenligne gratuitem
 - La **preuve** se fait par une **démonstration** : un avant / après descriptif (ce qu'il y avait, ce qu'il y a maintenant), une scène vécue, le fonctionnement public de Google (une fiche complète et active rassure, un avis sans réponse fait douter), jamais par un chiffre de résultat.
 - Les seuls chiffres autorisés décrivent une situation ou une action, pas un résultat : « 3 avis sans réponse », « une photo par semaine », « 5 secondes », « depuis 2021 ».
 - Contrôle mécanique : `cerveau/regles_texte.py` (regex STATS) appliqué par `cerveau/verifier.py`, `outils/visuel.py` et le `brief.py valider` du skill vidéo adapté. L'angle `preuve` du skill vidéo est retiré ; le format texte « Preuve » devient « Démonstration ».
+
+## Règle n°5 : aucun « : » dans les textes
+
+Le deux-points ne fait pas naturel à la lecture. Il est interdit dans tout ce qui est publié (textes par canal, accroches, titres, premiers commentaires, textes des visuels, textes à l'écran des vidéos, notifications). On écrit des phrases à la place. « Avant : 2 photos floues » devient « Avant, il y avait deux photos floues. » ; « Le réflexe : une photo par chantier » devient « Le bon réflexe, c'est une photo par chantier. » ; « Test de 30 secondes : tapez… » devient « Un test de 30 secondes. Tapez… ». Contrôle mécanique dans `cerveau/regles_texte.py`.
 
 ## Règle n°4 : chaque élément textuel est relu comme par un humain avant programmation
 
@@ -73,7 +76,7 @@ Les algorithmes distribuent peu les publicités. Chaque créneau porte une **int
 | `preuve` | 2 à 5 créneaux | Une **démonstration** : avant / après descriptif d'une fiche Google (ce qu'il y avait, ce qu'il y a maintenant), scène où le client compare deux fiches, ce que Google affiche et pourquoi ça rassure. **Jamais un chiffre de résultat** (règle n°3). | Question ou « Essayez gratuitement », discret, en fin de texte. |
 | `offre` | **3 créneaux au plus** | Ce que fait Proenligne (photo le lundi, publication le jeudi, réponse aux avis) et l'essai gratuit. | « Essayez Proenligne gratuitement, sans engagement. » Les 3 ✅ ne sont autorisés **que** dans ces posts. |
 
-Règles transverses : jamais plus de 3 ✅ ; la règle n°1 « fiche Google » s'applique à toutes les intentions ; aucun prix nulle part (règle n°2) ; aucune statistique client (règle n°3) ; relecture de chaque élément (règle n°4) ; un contenu utile se termine par une question, pas par une promesse.
+Règles transverses : jamais plus de 3 ✅ ; la règle n°1 « fiche Google » s'applique à toutes les intentions ; aucun prix nulle part (règle n°2) ; aucune statistique client (règle n°3) ; relecture de chaque élément (règle n°4) ; aucun « : » (règle n°5) ; un contenu utile se termine par une question, pas par une promesse.
 
 ## A/B et amplification
 

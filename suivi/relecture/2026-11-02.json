@@ -1,0 +1,1859 @@
+{
+ "empreinte": "85b013399b5c66c3",
+ "verdicts": [
+  {
+   "id": "e001",
+   "verdict": "ok"
+  },
+  {
+   "id": "e002",
+   "verdict": "refuse",
+   "motif": "Lier la place dans Google à la date de la dernière photo est une affirmation invérifiable sur le classement.",
+   "proposition": "Vous êtes sorti à quelle place ? Si vous n'êtes pas dans les 3 premiers, regardez aussi la date de votre dernière photo : c'est elle que le client voit en premier."
+  },
+  {
+   "id": "e003",
+   "verdict": "ok"
+  },
+  {
+   "id": "e004",
+   "verdict": "refuse",
+   "motif": "« La plupart des clients ne vous verront jamais » est une affirmation chiffrée invérifiable qui joue sur la peur.",
+   "proposition": "Test de 30 secondes : tapez « plombier » et votre ville sur Google. Où sort votre fiche Google ?\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « plombier » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nFaites-le en navigation privée, depuis votre téléphone, comme un client qui a une fuite sous l'évier.\n\nDans les 3 premiers résultats, vous êtes dans la course. Plus bas, beaucoup de clients s'arrêtent avant d'arriver jusqu'à vous.\n\nRegardez aussi ce qui s'affiche à côté de votre nom : la dernière photo, le dernier avis, la dernière réponse.\n\nAlors, vous êtes sorti à quelle place ?\n\n#FicheGoogle #Plombier #ReferencementLocal #GoogleBusinessProfile #Artisans"
+  },
+  {
+   "id": "e005",
+   "verdict": "ok"
+  },
+  {
+   "id": "e006",
+   "verdict": "ok"
+  },
+  {
+   "id": "e007",
+   "verdict": "refuse",
+   "motif": "« Et vous, quelle place ? » est télégraphique, sans verbe.",
+   "proposition": "Tapez « plombier » et votre ville : à quelle place sortez-vous ?"
+  },
+  {
+   "id": "e008",
+   "verdict": "ok"
+  },
+  {
+   "id": "e009",
+   "verdict": "ok"
+  },
+  {
+   "id": "e010",
+   "verdict": "ok"
+  },
+  {
+   "id": "e011",
+   "verdict": "ok"
+  },
+  {
+   "id": "e012",
+   "verdict": "ok"
+  },
+  {
+   "id": "e013",
+   "verdict": "refuse",
+   "motif": "« Google aime les fiches qui bougent » prête à Google une préférence invérifiable.",
+   "proposition": "Une coupe réussie mérite sa photo sur votre fiche Google. 3 réflexes pour qu'elle donne envie.\n\n1. Photographiez la coupe à la lumière du jour, près de la vitrine, sans flash.\n2. Montrez le salon vide et rangé, avant l'ouverture : une nouvelle cliente veut savoir où elle va s'asseoir.\n3. Publiez une photo par semaine plutôt que 20 d'un coup : une fiche Google qui bouge rassure la cliente qui compare.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « coiffeur » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nQuelle est la dernière photo publiée sur votre fiche Google ? Dites-le en commentaire.\n\n#FicheGoogle #Coiffeur #ReferencementLocal #GoogleBusinessProfile #Artisans #PetitesEntreprises"
+  },
+  {
+   "id": "e014",
+   "verdict": "refuse",
+   "motif": "« Google aime les fiches qui bougent » prête à Google une préférence invérifiable.",
+   "proposition": "Une coupe réussie mérite sa photo sur votre fiche Google. 3 réflexes pour qu'elle donne envie.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « coiffeur » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\n1. Photographiez la coupe à la lumière du jour, près de la vitrine, sans flash.\n2. Montrez le salon vide et rangé, avant l'ouverture : une nouvelle cliente veut savoir où elle va s'asseoir.\n3. Publiez une photo par semaine plutôt que 20 d'un coup : une fiche Google qui bouge rassure la cliente qui compare.\n\nQuelle est la dernière photo publiée sur votre fiche Google ? Dites-le en commentaire.\n\n#FicheGoogle #Coiffeur #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "id": "e015",
+   "verdict": "refuse",
+   "motif": "« Inspire confiance … à Google » est une affirmation invérifiable sur le fonctionnement de Google.",
+   "proposition": "Votre fiche Google est souvent la première image que les clients ont de votre salon, bien avant votre vitrine.\nC'est ce qui s'affiche quand on cherche « coiffeur » sur Google ou Google Maps.\n\nUn constat revient chez les gérants de salon : les photos datent. Des coupes d'il y a plusieurs années, un salon avant travaux, parfois aucune image de l'équipe.\n\nPour une cliente qui hésite entre deux salons, ces photos font la différence. Elle compare, elle ne téléphone pas.\n\nTrois réflexes simples :\n• la lumière du jour plutôt que le flash ;\n• le salon rangé, avant l'ouverture ;\n• une photo par semaine plutôt qu'une série tous les ans.\n\nLa régularité compte autant que la qualité : une fiche Google qui bouge inspire confiance à la cliente qui compare.\n\nQui s'occupe des photos de la fiche Google dans votre entreprise ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Coiffure #TPE"
+  },
+  {
+   "id": "e016",
+   "verdict": "ok"
+  },
+  {
+   "id": "e017",
+   "verdict": "refuse",
+   "motif": "Le titre annonce « 3 photos » alors que le contenu donne 3 réflexes (contradiction avec l'accroche).",
+   "proposition": "3 réflexes qui font réserver"
+  },
+  {
+   "id": "e018",
+   "verdict": "ok"
+  },
+  {
+   "id": "e019",
+   "verdict": "ok"
+  },
+  {
+   "id": "e020",
+   "verdict": "ok"
+  },
+  {
+   "id": "e021",
+   "verdict": "ok"
+  },
+  {
+   "id": "e022",
+   "verdict": "ok"
+  },
+  {
+   "id": "e023",
+   "verdict": "ok"
+  },
+  {
+   "id": "e024",
+   "verdict": "ok"
+  },
+  {
+   "id": "e025",
+   "verdict": "ok"
+  },
+  {
+   "id": "e026",
+   "verdict": "refuse",
+   "motif": "« Google préfère » est une affirmation invérifiable sur le classement.",
+   "proposition": "Une fiche Google qui bouge chaque semaine rassure plus que 20 photos postées le même jour."
+  },
+  {
+   "id": "e027",
+   "verdict": "ok"
+  },
+  {
+   "id": "e028",
+   "verdict": "ok"
+  },
+  {
+   "id": "e029",
+   "verdict": "ok"
+  },
+  {
+   "id": "e030",
+   "verdict": "ok"
+  },
+  {
+   "id": "e031",
+   "verdict": "ok"
+  },
+  {
+   "id": "e032",
+   "verdict": "ok"
+  },
+  {
+   "id": "e033",
+   "verdict": "refuse",
+   "motif": "« Un service que personne ne trouve » est absolu et invérifiable.",
+   "proposition": "Votre client cherche « élagage » sur Google. Votre fiche Google ne parle que de tonte.\n\nUn service absent de votre fiche Google, c'est un service que vos clients ne voient pas.\n\n#FicheGoogle #Paysagiste #Artisan"
+  },
+  {
+   "id": "e034",
+   "verdict": "ok"
+  },
+  {
+   "id": "e035",
+   "verdict": "ok"
+  },
+  {
+   "id": "e036",
+   "verdict": "ok"
+  },
+  {
+   "id": "e037",
+   "verdict": "refuse",
+   "motif": "« Google préfère celles qui bougent » est une affirmation invérifiable sur le classement.",
+   "proposition": "Idée reçue : une fiche Google se remplit une fois pour toutes. En réalité, c'est une fiche Google qui bouge qui rassure le client."
+  },
+  {
+   "id": "e038",
+   "verdict": "ok"
+  },
+  {
+   "id": "e039",
+   "verdict": "refuse",
+   "motif": "« Google met en avant celles qui bougent » est une affirmation invérifiable sur le classement.",
+   "proposition": "Idée reçue : une fiche Google se remplit une fois pour toutes.\n\nEn réalité, c'est une fiche qui bouge qui rassure : une photo récente, une actualité, des avis qui ont une réponse.\n\nVous publiez sur la vôtre ?\n\n#FicheGoogle #Electricien"
+  },
+  {
+   "id": "e040",
+   "verdict": "refuse",
+   "motif": "« Google préfère », « Google regarde la vie de la fiche » et « glisse vers le bas » sont des affirmations invérifiables sur le classement.",
+   "proposition": "Idée reçue : une fiche Google se remplit une fois pour toutes. En réalité, c'est une fiche Google qui bouge qui rassure le client.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « électricien » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nBeaucoup d'électriciens remplissent leur fiche Google le jour de l'installation, puis n'y touchent plus.\n\nSauf que le client, lui, regarde la vie de la fiche : des photos récentes, des actualités, des réponses aux avis. Une fiche Google figée fait douter.\n\nPas besoin d'y passer des heures : une photo de chantier par semaine change déjà la donne.\n\nEt vous, quand avez-vous publié pour la dernière fois sur votre fiche Google ?\n\n#FicheGoogle #Electricien #ReferencementLocal #GoogleBusinessProfile #Artisans"
+  },
+  {
+   "id": "e041",
+   "verdict": "ok"
+  },
+  {
+   "id": "e042",
+   "verdict": "ok"
+  },
+  {
+   "id": "e043",
+   "verdict": "ok"
+  },
+  {
+   "id": "e044",
+   "verdict": "ok"
+  },
+  {
+   "id": "e045",
+   "verdict": "ok"
+  },
+  {
+   "id": "e046",
+   "verdict": "ok"
+  },
+  {
+   "id": "e047",
+   "verdict": "ok"
+  },
+  {
+   "id": "e048",
+   "verdict": "ok"
+  },
+  {
+   "id": "e049",
+   "verdict": "refuse",
+   "motif": "« Chez un de nos clients … ×3 appels … en un semestre » est un résultat chiffré de client (règle n°3).",
+   "proposition": "Avant / après : la fiche Google d'une boulangerie qui montre sa fournée chaque lundi.\n\nAvant : 2 photos floues, aucune actualité, des avis restés sans réponse.\nAprès : une photo de la fournée chaque lundi, un article chaque jeudi, une réponse à chaque avis.\n\nCe que voit le client maintenant : une boulangerie ouverte, vivante, attentive. Il n'a plus besoin de pousser la porte pour le savoir.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « boulangerie » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nVotre fiche Google ressemble plutôt à l'avant ou à l'après ? Essayez gratuitement si vous voulez voir la différence.\n\n#FicheGoogle #Boulangerie #ReferencementLocal #GoogleBusinessProfile #Artisans #PetitesEntreprises"
+  },
+  {
+   "id": "e050",
+   "verdict": "refuse",
+   "motif": "« Chez un de nos clients … ×3 appels … en un semestre » est un résultat chiffré de client (règle n°3).",
+   "proposition": "Avant / après : la fiche Google d'une boulangerie qui montre sa fournée chaque lundi.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « boulangerie » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nAvant : 2 photos floues, aucune actualité, des avis restés sans réponse.\nAprès : une photo de la fournée chaque lundi, un article chaque jeudi, une réponse à chaque avis.\n\nCe que voit le client maintenant : une boulangerie ouverte, vivante, attentive. Il n'a plus besoin de pousser la porte pour le savoir.\n\nVotre fiche Google ressemble plutôt à l'avant ou à l'après ? Essayez gratuitement si vous voulez voir la différence.\n\n#FicheGoogle #Boulangerie #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "id": "e051",
+   "verdict": "refuse",
+   "motif": "« Pour un de nos clients … ×3 appels … en un semestre » est un résultat chiffré de client (règle n°3).",
+   "proposition": "Une fiche Google qui publie chaque semaine ne ressemble pas à une fiche Google figée. Et les clients font la différence.\nC'est ce qui s'affiche quand on cherche « boulangerie » sur Google Maps.\n\nAvant : deux photos floues, aucune actualité, des avis sans réponse.\nAprès : une photo de la fournée chaque lundi, un article chaque jeudi, une réponse à chaque avis.\n\nCe que voit désormais le client : une boulangerie ouverte, vivante, attentive.\n\nPourquoi est-ce décisif ? Parce qu'un client qui compare deux commerces sur son téléphone choisit celui qui a l'air ouvert, vivant, attentif. La qualité du pain ne se voit pas sur un écran ; la régularité, si.\n\nC'est le travail de Proenligne : faire vivre la fiche Google pendant que vous faites tourner la boutique.\n\nEssayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Boulangerie #Commerce"
+  },
+  {
+   "id": "e052",
+   "verdict": "ok"
+  },
+  {
+   "id": "e053",
+   "verdict": "ok"
+  },
+  {
+   "id": "e054",
+   "verdict": "ok"
+  },
+  {
+   "id": "e055",
+   "verdict": "ok"
+  },
+  {
+   "id": "e056",
+   "verdict": "ok"
+  },
+  {
+   "id": "e057",
+   "verdict": "ok"
+  },
+  {
+   "id": "e058",
+   "verdict": "ok"
+  },
+  {
+   "id": "e059",
+   "verdict": "ok"
+  },
+  {
+   "id": "e060",
+   "verdict": "ok"
+  },
+  {
+   "id": "e061",
+   "verdict": "ok"
+  },
+  {
+   "id": "e062",
+   "verdict": "refuse",
+   "motif": "Le titre « Le résultat » annonce une slide de résultat chiffré de client (règle n°3).",
+   "proposition": "Ce que voit le client"
+  },
+  {
+   "id": "e063",
+   "verdict": "refuse",
+   "motif": "« Un de nos clients : ×3 appels … en un semestre » est un résultat chiffré de client (règle n°3).",
+   "proposition": "Une boulangerie ouverte, vivante, attentive : le client le voit avant de pousser la porte."
+  },
+  {
+   "id": "e064",
+   "verdict": "ok"
+  },
+  {
+   "id": "e065",
+   "verdict": "ok"
+  },
+  {
+   "id": "e066",
+   "verdict": "ok"
+  },
+  {
+   "id": "e067",
+   "verdict": "ok"
+  },
+  {
+   "id": "e068",
+   "verdict": "ok"
+  },
+  {
+   "id": "e069",
+   "verdict": "ok"
+  },
+  {
+   "id": "e070",
+   "verdict": "refuse",
+   "motif": "« Un avis sans réponse, le client suivant croit… » est télégraphique : deux propositions juxtaposées sans lien.",
+   "proposition": "Pendant que vous êtes sous une voiture, les avis de votre fiche Google attendent.\n\nQuand un avis reste sans réponse, le client suivant croit que personne ne le lit.\n\n#FicheGoogle #Garage #Artisan"
+  },
+  {
+   "id": "e071",
+   "verdict": "ok"
+  },
+  {
+   "id": "e072",
+   "verdict": "ok"
+  },
+  {
+   "id": "e073",
+   "verdict": "ok"
+  },
+  {
+   "id": "e074",
+   "verdict": "ok"
+  },
+  {
+   "id": "e075",
+   "verdict": "ok"
+  },
+  {
+   "id": "e076",
+   "verdict": "ok"
+  },
+  {
+   "id": "e077",
+   "verdict": "ok"
+  },
+  {
+   "id": "e078",
+   "verdict": "ok"
+  },
+  {
+   "id": "e079",
+   "verdict": "ok"
+  },
+  {
+   "id": "e080",
+   "verdict": "refuse",
+   "motif": "La question du visuel (« Vous répondez à tous vos avis ? ») ne correspond pas aux 3 réponses proposées, qui répondent au titre.",
+   "proposition": "D'après vous, il regarde quoi en premier ?"
+  },
+  {
+   "id": "e081",
+   "verdict": "ok"
+  },
+  {
+   "id": "e082",
+   "verdict": "ok"
+  },
+  {
+   "id": "e083",
+   "verdict": "ok"
+  },
+  {
+   "id": "e084",
+   "verdict": "ok"
+  },
+  {
+   "id": "e085",
+   "verdict": "ok"
+  },
+  {
+   "id": "e086",
+   "verdict": "ok"
+  },
+  {
+   "id": "e087",
+   "verdict": "ok"
+  },
+  {
+   "id": "e088",
+   "verdict": "ok"
+  },
+  {
+   "id": "e089",
+   "verdict": "ok"
+  },
+  {
+   "id": "e090",
+   "verdict": "refuse",
+   "motif": "Lu seul sur le visuel, « elle » est ambigu (la cliente ou la fiche Google ?) et le titre n'est pas une question.",
+   "proposition": "Que regarde une cliente d'abord ?"
+  },
+  {
+   "id": "e091",
+   "verdict": "ok"
+  },
+  {
+   "id": "e092",
+   "verdict": "ok"
+  },
+  {
+   "id": "e093",
+   "verdict": "ok"
+  },
+  {
+   "id": "e094",
+   "verdict": "ok"
+  },
+  {
+   "id": "e095",
+   "verdict": "ok"
+  },
+  {
+   "id": "e096",
+   "verdict": "ok"
+  },
+  {
+   "id": "e097",
+   "verdict": "refuse",
+   "motif": "« Sans réponse, elles réservent ailleurs » est une certitude invérifiable sur le comportement des clientes.",
+   "proposition": "Sur votre fiche Google, les clientes posent des questions. Sans réponse, elles hésitent et réservent souvent ailleurs."
+  },
+  {
+   "id": "e098",
+   "verdict": "ok"
+  },
+  {
+   "id": "e099",
+   "verdict": "ok"
+  },
+  {
+   "id": "e100",
+   "verdict": "ok"
+  },
+  {
+   "id": "e101",
+   "verdict": "ok"
+  },
+  {
+   "id": "e102",
+   "verdict": "ok"
+  },
+  {
+   "id": "e103",
+   "verdict": "ok"
+  },
+  {
+   "id": "e104",
+   "verdict": "refuse",
+   "motif": "« Ne sort pas dans les recherches » présente le fonctionnement de Google comme certain.",
+   "proposition": "Le meilleur gâteau du quartier ? Introuvable : votre fiche Google n'en montre aucun.\n\nCe que votre fiche Google ne montre pas, un client ne peut pas le voir.\n\n#FicheGoogle #Boulangerie #Artisan"
+  },
+  {
+   "id": "e105",
+   "verdict": "refuse",
+   "motif": "« Sortent en premier » est une affirmation invérifiable sur le classement Google.",
+   "proposition": "Le meilleur gâteau du quartier ? Introuvable : votre fiche Google n'en montre aucun.\n\nVos gâteaux sur commande sont délicieux. Mais quand un client cherche « gâteau anniversaire » sur Google Maps, il choisit parmi les boulangeries qui en montrent en photo.\n\nUne photo de vos gâteaux, une ligne qui dit « sur commande » : c'est souvent tout ce qui manque.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « boulangerie » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nQue vendez-vous que votre fiche Google ne montre pas encore ?\n\n#FicheGoogle #Boulangerie #ReferencementLocal #GoogleBusinessProfile #Artisans #Reels"
+  },
+  {
+   "id": "e106",
+   "verdict": "refuse",
+   "motif": "« Sortent en premier » est une affirmation invérifiable sur le classement Google.",
+   "proposition": "Le meilleur gâteau du quartier ? Introuvable : votre fiche Google n'en montre aucun.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « boulangerie » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nVos gâteaux sur commande sont délicieux. Mais quand un client cherche « gâteau anniversaire » sur Google Maps, il choisit parmi les boulangeries qui en montrent en photo.\n\nUne photo de vos gâteaux, une ligne qui dit « sur commande » : c'est souvent tout ce qui manque.\n\nQue vendez-vous que votre fiche Google ne montre pas encore ?\n\n#FicheGoogle #Boulangerie #Shorts"
+  },
+  {
+   "id": "e107",
+   "verdict": "refuse",
+   "motif": "« Sortent en premier » est une affirmation invérifiable sur le classement Google.",
+   "proposition": "Le meilleur gâteau du quartier ? Introuvable : votre fiche Google n'en montre aucun.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « boulangerie » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nVos gâteaux sur commande sont délicieux. Mais quand un client cherche « gâteau anniversaire » sur Google Maps, il choisit parmi les boulangeries qui en montrent en photo.\n\nUne photo de vos gâteaux, une ligne qui dit « sur commande » : c'est souvent tout ce qui manque.\n\nQue vendez-vous que votre fiche Google ne montre pas encore ?"
+  },
+  {
+   "id": "e108",
+   "verdict": "ok"
+  },
+  {
+   "id": "e109",
+   "verdict": "ok"
+  },
+  {
+   "id": "e110",
+   "verdict": "refuse",
+   "motif": "« Avant le rush : horaires … vérifiés, photo du camion, zones desservies » est télégraphique, sans verbe, avec un anglicisme.",
+   "proposition": "Les premières pannes de chaudière arrivent : votre fiche Google est-elle prête pour l'hiver ?\n\nAvant les grands froids, vérifiez 3 choses : vos horaires, une photo du camion, vos communes.\n\nC'est fait chez vous ?\n\n#FicheGoogle #Chauffagiste"
+  },
+  {
+   "id": "e111",
+   "verdict": "refuse",
+   "motif": "« Rush » est un anglicisme inutile et « le premier résultat » présente l'ordre d'affichage comme décisif.",
+   "proposition": "Les premières pannes de chaudière arrivent : votre fiche Google est-elle prête pour l'hiver ?\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « chauffagiste » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nQuand le froid arrive, les clients cherchent vite et appellent le premier qui inspire confiance.\n\nAvant les grands froids, 3 vérifications :\n• vos horaires d'intervention, samedi compris ;\n• une photo récente de votre camion, pour qu'on sache qui va sonner ;\n• les communes où vous intervenez, écrites noir sur blanc.\n\nLequel de ces 3 points manque sur votre fiche Google ?\n\n#FicheGoogle #Chauffagiste #ReferencementLocal #GoogleBusinessProfile #Artisans"
+  },
+  {
+   "id": "e112",
+   "verdict": "ok"
+  },
+  {
+   "id": "e113",
+   "verdict": "refuse",
+   "motif": "« Prêt pour les pannes d'hiver ? » n'a pas de sujet : on ne sait pas qui doit être prêt.",
+   "proposition": "Votre fiche Google est-elle prête pour l'hiver ?"
+  },
+  {
+   "id": "e114",
+   "verdict": "ok"
+  },
+  {
+   "id": "e115",
+   "verdict": "ok"
+  },
+  {
+   "id": "e116",
+   "verdict": "ok"
+  },
+  {
+   "id": "e117",
+   "verdict": "ok"
+  },
+  {
+   "id": "e118",
+   "verdict": "ok"
+  },
+  {
+   "id": "e119",
+   "verdict": "ok"
+  },
+  {
+   "id": "e120",
+   "verdict": "ok"
+  },
+  {
+   "id": "e121",
+   "verdict": "refuse",
+   "motif": "« Un avis sans réponse, le client suivant croit… » est télégraphique : deux propositions juxtaposées sans lien.",
+   "proposition": "5 étoiles sur votre fiche Google. Votre merci arrive des semaines plus tard.\n\nQuand un avis reste sans réponse, le client suivant croit que personne ne le lit.\n\n#FicheGoogle #Garage #Artisan"
+  },
+  {
+   "id": "e122",
+   "verdict": "ok"
+  },
+  {
+   "id": "e123",
+   "verdict": "ok"
+  },
+  {
+   "id": "e124",
+   "verdict": "ok"
+  },
+  {
+   "id": "e125",
+   "verdict": "ok"
+  },
+  {
+   "id": "e126",
+   "verdict": "ok"
+  },
+  {
+   "id": "e127",
+   "verdict": "ok"
+  },
+  {
+   "id": "e128",
+   "verdict": "ok"
+  },
+  {
+   "id": "e129",
+   "verdict": "ok"
+  },
+  {
+   "id": "e130",
+   "verdict": "ok"
+  },
+  {
+   "id": "e131",
+   "verdict": "ok"
+  },
+  {
+   "id": "e132",
+   "verdict": "ok"
+  },
+  {
+   "id": "e133",
+   "verdict": "ok"
+  },
+  {
+   "id": "e134",
+   "verdict": "ok"
+  },
+  {
+   "id": "e135",
+   "verdict": "refuse",
+   "motif": "« Pour que Google voie une fiche vivante » prête à Google une perception invérifiable.",
+   "proposition": "Une actualité de votre entreprise, pour que le client voie une fiche Google vivante."
+  },
+  {
+   "id": "e136",
+   "verdict": "ok"
+  },
+  {
+   "id": "e137",
+   "verdict": "ok"
+  },
+  {
+   "id": "e138",
+   "verdict": "ok"
+  },
+  {
+   "id": "e139",
+   "verdict": "ok"
+  },
+  {
+   "id": "e140",
+   "verdict": "ok"
+  },
+  {
+   "id": "e141",
+   "verdict": "ok"
+  },
+  {
+   "id": "e142",
+   "verdict": "ok"
+  },
+  {
+   "id": "e143",
+   "verdict": "ok"
+  },
+  {
+   "id": "e144",
+   "verdict": "ok"
+  },
+  {
+   "id": "e145",
+   "verdict": "ok"
+  },
+  {
+   "id": "e146",
+   "verdict": "ok"
+  },
+  {
+   "id": "e147",
+   "verdict": "ok"
+  },
+  {
+   "id": "e148",
+   "verdict": "refuse",
+   "motif": "« 100 appels venus de Google en un semestre … un de nos clients » est un résultat chiffré de client (règle n°3).",
+   "proposition": "Avant / après : la fiche Google d'une auto-école qui publie chaque semaine."
+  },
+  {
+   "id": "e149",
+   "verdict": "refuse",
+   "motif": "« Ce chiffre » renvoie à un résultat chiffré de client supprimé ; la phrase ne se comprend plus seule.",
+   "proposition": "Pour savoir combien d'appels vous viennent de Google : ouvrez votre fiche Google, rubrique « Performances », ligne « Appels ». Vous en êtes à combien ?"
+  },
+  {
+   "id": "e150",
+   "verdict": "refuse",
+   "motif": "« 100 appels venus de Google en un semestre … un de nos clients » est un résultat chiffré de client (règle n°3).",
+   "proposition": "Avant / après : la fiche Google d'une auto-école qui publie chaque semaine.\n\nAvant : rien de publié depuis des mois. Après : une photo le lundi, un article le jeudi, une réponse à chaque avis.\n\nEssayez gratuitement.\n\n#FicheGoogle #AutoEcole"
+  },
+  {
+   "id": "e151",
+   "verdict": "refuse",
+   "motif": "« 100 appels … en un semestre » et « Résultat pour un de nos clients » sont des résultats chiffrés de client (règle n°3).",
+   "proposition": "Avant / après : la fiche Google d'une auto-école qui publie chaque semaine.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « auto-école » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nAvant : une fiche Google sans actualité, des avis d'élèves sans réponse, des photos de voitures qui n'existent plus.\n\nAprès : une photo chaque lundi, un article chaque jeudi (code, examen, conseils), une réponse à chaque avis.\n\nCe que voit un futur élève maintenant : une auto-école en activité, des conseils utiles, des avis qui ont une réponse.\n\nVous savez combien d'appels vous viennent de Google ? Votre fiche Google vous le dit, rubrique « Performances ». Et si vous voulez qu'elle vive chaque semaine, essayez Proenligne gratuitement.\n\n#FicheGoogle #AutoEcole #ReferencementLocal #GoogleBusinessProfile #Artisans"
+  },
+  {
+   "id": "e152",
+   "verdict": "ok"
+  },
+  {
+   "id": "e153",
+   "verdict": "refuse",
+   "motif": "« 100 appels venus de Google » est un résultat chiffré de client (règle n°3).",
+   "proposition": "Avant / après sur la fiche Google"
+  },
+  {
+   "id": "e154",
+   "verdict": "refuse",
+   "motif": "« Et vous, combien d'appels par Google ? » est télégraphique et fait écho à un chiffre de résultat.",
+   "proposition": "Et vous, combien d'appels vous viennent de Google ?"
+  },
+  {
+   "id": "e155",
+   "verdict": "ok"
+  },
+  {
+   "id": "e156",
+   "verdict": "ok"
+  },
+  {
+   "id": "e157",
+   "verdict": "ok"
+  },
+  {
+   "id": "e158",
+   "verdict": "ok"
+  },
+  {
+   "id": "e159",
+   "verdict": "ok"
+  },
+  {
+   "id": "e160",
+   "verdict": "ok"
+  },
+  {
+   "id": "e161",
+   "verdict": "ok"
+  },
+  {
+   "id": "e162",
+   "verdict": "ok"
+  },
+  {
+   "id": "e163",
+   "verdict": "ok"
+  },
+  {
+   "id": "e164",
+   "verdict": "ok"
+  },
+  {
+   "id": "e165",
+   "verdict": "ok"
+  },
+  {
+   "id": "e166",
+   "verdict": "ok"
+  },
+  {
+   "id": "e167",
+   "verdict": "ok"
+  },
+  {
+   "id": "e168",
+   "verdict": "ok"
+  },
+  {
+   "id": "e169",
+   "verdict": "ok"
+  },
+  {
+   "id": "e170",
+   "verdict": "ok"
+  },
+  {
+   "id": "e171",
+   "verdict": "ok"
+  },
+  {
+   "id": "e172",
+   "verdict": "ok"
+  },
+  {
+   "id": "e173",
+   "verdict": "ok"
+  },
+  {
+   "id": "e174",
+   "verdict": "ok"
+  },
+  {
+   "id": "e175",
+   "verdict": "ok"
+  },
+  {
+   "id": "e176",
+   "verdict": "ok"
+  },
+  {
+   "id": "e177",
+   "verdict": "ok"
+  },
+  {
+   "id": "e178",
+   "verdict": "refuse",
+   "motif": "« C'est ce qui a fait la différence pour un de nos clients » est un résultat de client présenté comme preuve (règle n°3).",
+   "proposition": "Une photo par semaine, un article le jeudi, une réponse à chaque avis : c'est ce que voit la cliente qui compare. Vous en faites combien ?"
+  },
+  {
+   "id": "e179",
+   "verdict": "refuse",
+   "motif": "« ×3 appels » est un résultat chiffré de client (règle n°3).",
+   "proposition": "Coiffeurs : elle compare deux salons sur Google Maps, lequel choisit-elle ?"
+  },
+  {
+   "id": "e180",
+   "verdict": "refuse",
+   "motif": "« Lequel elle choisit ? » est incorrect : l'interrogation directe demande l'inversion.",
+   "proposition": "Deux salons sur Google Maps : lequel choisit-elle ?"
+  },
+  {
+   "id": "e181",
+   "verdict": "refuse",
+   "motif": "« Un de nos clients : ×3 appels » est un résultat chiffré de client (règle n°3).",
+   "proposition": "Elle compare deux salons sur Google Maps. Votre fiche Google ne montre aucune coupe.\n\nFace à un salon qui montre ses coupes chaque semaine, une fiche Google muette perd la comparaison.\n\n#FicheGoogle #Coiffeur #Artisan"
+  },
+  {
+   "id": "e182",
+   "verdict": "refuse",
+   "motif": "« Un de nos clients a triplé ses appels … en un semestre » est un résultat chiffré de client (règle n°3).",
+   "proposition": "Elle compare deux salons sur Google Maps. Votre fiche Google ne montre aucune coupe.\n\nUne cliente qui n'ose pas téléphoner compare tout avant de réserver. Face à un salon qui montre ses coupes chaque semaine, une fiche Google muette perd la comparaison.\n\nCe qui fait la différence, c'est la régularité : une photo chaque lundi, un article chaque jeudi, une réponse à chaque avis.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « coiffeur » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nEt votre salon, il montre quoi sur Google ? Essayez Proenligne gratuitement.\n\n#FicheGoogle #Coiffeur #ReferencementLocal #GoogleBusinessProfile #Artisans #Reels"
+  },
+  {
+   "id": "e183",
+   "verdict": "refuse",
+   "motif": "« Un de nos clients a triplé ses appels … en un semestre » est un résultat chiffré de client (règle n°3).",
+   "proposition": "Elle compare deux salons sur Google Maps. Votre fiche Google ne montre aucune coupe.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « coiffeur » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nUne cliente qui n'ose pas téléphoner compare tout avant de réserver. Face à un salon qui montre ses coupes chaque semaine, une fiche Google muette perd la comparaison.\n\nCe qui fait la différence, c'est la régularité : une photo chaque lundi, un article chaque jeudi, une réponse à chaque avis.\n\nEt votre salon, il montre quoi sur Google ? Essayez Proenligne gratuitement.\n\n#FicheGoogle #Coiffeur #Shorts"
+  },
+  {
+   "id": "e184",
+   "verdict": "refuse",
+   "motif": "« Un de nos clients a triplé ses appels … en un semestre » est un résultat chiffré de client (règle n°3).",
+   "proposition": "Elle compare deux salons sur Google Maps. Votre fiche Google ne montre aucune coupe.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « coiffeur » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nUne cliente qui n'ose pas téléphoner compare tout avant de réserver. Face à un salon qui montre ses coupes chaque semaine, une fiche Google muette perd la comparaison.\n\nCe qui fait la différence, c'est la régularité : une photo chaque lundi, un article chaque jeudi, une réponse à chaque avis.\n\nEt votre salon, il montre quoi sur Google ? Essayez Proenligne gratuitement."
+  },
+  {
+   "id": "e185",
+   "verdict": "ok"
+  },
+  {
+   "id": "e186",
+   "verdict": "ok"
+  },
+  {
+   "id": "e187",
+   "verdict": "ok"
+  },
+  {
+   "id": "e188",
+   "verdict": "ok"
+  },
+  {
+   "id": "e189",
+   "verdict": "ok"
+  },
+  {
+   "id": "e190",
+   "verdict": "ok"
+  },
+  {
+   "id": "e191",
+   "verdict": "refuse",
+   "motif": "La question (« la première photo montre quoi ? ») ne correspond pas aux 3 réponses proposées sur le visuel (note, photo, bouton).",
+   "proposition": "Et vous, lequel des 3 regardez-vous en premier ?"
+  },
+  {
+   "id": "e192",
+   "verdict": "ok"
+  },
+  {
+   "id": "e193",
+   "verdict": "ok"
+  },
+  {
+   "id": "e194",
+   "verdict": "ok"
+  },
+  {
+   "id": "e195",
+   "verdict": "refuse",
+   "motif": "« Les fuites sans casser » est un jargon de métier non expliqué en accroche (exemple refusé par la consigne).",
+   "proposition": "Vous savez trouver une fuite sans casser les murs. Votre fiche Google ne le dit à personne."
+  },
+  {
+   "id": "e196",
+   "verdict": "ok"
+  },
+  {
+   "id": "e197",
+   "verdict": "ok"
+  },
+  {
+   "id": "e198",
+   "verdict": "refuse",
+   "motif": "« Les fuites sans casser » est un jargon de métier non expliqué en accroche.",
+   "proposition": "Vous savez trouver une fuite sans casser les murs. Votre fiche Google ne le dit à personne.\n\nUn nouveau service qu'on n'annonce pas ne trouve pas ses clients.\n\n#FicheGoogle #Plombier #Artisan"
+  },
+  {
+   "id": "e199",
+   "verdict": "ok"
+  },
+  {
+   "id": "e200",
+   "verdict": "ok"
+  },
+  {
+   "id": "e201",
+   "verdict": "ok"
+  },
+  {
+   "id": "e202",
+   "verdict": "ok"
+  },
+  {
+   "id": "e203",
+   "verdict": "ok"
+  },
+  {
+   "id": "e204",
+   "verdict": "ok"
+  },
+  {
+   "id": "e205",
+   "verdict": "ok"
+  },
+  {
+   "id": "e206",
+   "verdict": "ok"
+  },
+  {
+   "id": "e207",
+   "verdict": "ok"
+  },
+  {
+   "id": "e208",
+   "verdict": "ok"
+  },
+  {
+   "id": "e209",
+   "verdict": "ok"
+  },
+  {
+   "id": "e210",
+   "verdict": "ok"
+  },
+  {
+   "id": "e211",
+   "verdict": "ok"
+  },
+  {
+   "id": "e212",
+   "verdict": "ok"
+  },
+  {
+   "id": "e213",
+   "verdict": "ok"
+  },
+  {
+   "id": "e214",
+   "verdict": "ok"
+  },
+  {
+   "id": "e215",
+   "verdict": "ok"
+  },
+  {
+   "id": "e216",
+   "verdict": "ok"
+  },
+  {
+   "id": "e217",
+   "verdict": "ok"
+  },
+  {
+   "id": "e218",
+   "verdict": "ok"
+  },
+  {
+   "id": "e219",
+   "verdict": "ok"
+  },
+  {
+   "id": "e220",
+   "verdict": "ok"
+  },
+  {
+   "id": "e221",
+   "verdict": "ok"
+  },
+  {
+   "id": "e222",
+   "verdict": "ok"
+  },
+  {
+   "id": "e223",
+   "verdict": "ok"
+  },
+  {
+   "id": "e224",
+   "verdict": "ok"
+  },
+  {
+   "id": "e225",
+   "verdict": "refuse",
+   "motif": "« La plupart disent oui » est une affirmation chiffrée invérifiable.",
+   "proposition": "Petite astuce : après un soin réussi, demandez simplement « vous accepteriez de laisser un avis sur Google ? ». Beaucoup de clientes acceptent volontiers. Vous le faites déjà ?"
+  },
+  {
+   "id": "e226",
+   "verdict": "ok"
+  },
+  {
+   "id": "e227",
+   "verdict": "ok"
+  },
+  {
+   "id": "e228",
+   "verdict": "ok"
+  },
+  {
+   "id": "e229",
+   "verdict": "ok"
+  },
+  {
+   "id": "e230",
+   "verdict": "ok"
+  },
+  {
+   "id": "e231",
+   "verdict": "ok"
+  },
+  {
+   "id": "e232",
+   "verdict": "ok"
+  },
+  {
+   "id": "e233",
+   "verdict": "ok"
+  },
+  {
+   "id": "e234",
+   "verdict": "refuse",
+   "motif": "« ×3 appels » est un résultat chiffré de client (règle n°3).",
+   "proposition": "Même plombier, même métier : seule sa fiche Google a changé. Avant / après."
+  },
+  {
+   "id": "e235",
+   "verdict": "ok"
+  },
+  {
+   "id": "e236",
+   "verdict": "refuse",
+   "motif": "« Résultat : ×3 appels … en un semestre » est un résultat chiffré de client (règle n°3).",
+   "proposition": "Même plombier, même métier : seule sa fiche Google a changé. Avant / après.\n\nAvant : aucune actualité depuis 2021, des photos de chantier introuvables, des avis sans réponse.\nAprès : une photo chaque lundi, un article chaque jeudi, une réponse à chaque avis.\n\nCe que voit le client maintenant : un plombier en activité, des chantiers récents, des avis qui ont une réponse. Sans qu'il y passe ses soirées.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « plombier » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nVotre fiche Google ressemble plutôt à l'avant ou à l'après ?\n\n#FicheGoogle #Plombier #ReferencementLocal #GoogleBusinessProfile #Artisans #PetitesEntreprises"
+  },
+  {
+   "id": "e237",
+   "verdict": "refuse",
+   "motif": "« Résultat : ×3 appels … en un semestre » est un résultat chiffré de client (règle n°3).",
+   "proposition": "Même plombier, même métier : seule sa fiche Google a changé. Avant / après.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « plombier » sur Google ou Google Maps : nom, photos, avis, horaires, téléphone.\n\nAvant : aucune actualité depuis 2021, des photos de chantier introuvables, des avis sans réponse.\nAprès : une photo chaque lundi, un article chaque jeudi, une réponse à chaque avis.\n\nCe que voit le client maintenant : un plombier en activité, des chantiers récents, des avis qui ont une réponse. Sans qu'il y passe ses soirées.\n\nVotre fiche Google ressemble plutôt à l'avant ou à l'après ?\n\n#FicheGoogle #Plombier #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "id": "e238",
+   "verdict": "ok"
+  },
+  {
+   "id": "e239",
+   "verdict": "refuse",
+   "motif": "« ×3 appels en un semestre » est un résultat chiffré de client (règle n°3).",
+   "proposition": "Avant / après sur sa fiche Google"
+  },
+  {
+   "id": "e240",
+   "verdict": "ok"
+  },
+  {
+   "id": "e241",
+   "verdict": "ok"
+  },
+  {
+   "id": "e242",
+   "verdict": "ok"
+  },
+  {
+   "id": "e243",
+   "verdict": "ok"
+  },
+  {
+   "id": "e244",
+   "verdict": "ok"
+  },
+  {
+   "id": "e245",
+   "verdict": "ok"
+  },
+  {
+   "id": "e246",
+   "verdict": "refuse",
+   "motif": "Le titre « Ce que ça a donné » annonce une slide de résultat chiffré de client (règle n°3).",
+   "proposition": "Ce que voit le client"
+  },
+  {
+   "id": "e247",
+   "verdict": "refuse",
+   "motif": "« ×3 appels … pour un de nos clients » est un résultat chiffré de client (règle n°3).",
+   "proposition": "Un plombier en activité, des chantiers récents, des avis qui ont une réponse."
+  },
+  {
+   "id": "e248",
+   "verdict": "ok"
+  },
+  {
+   "id": "e249",
+   "verdict": "ok"
+  },
+  {
+   "id": "e250",
+   "verdict": "ok"
+  },
+  {
+   "id": "e251",
+   "verdict": "ok"
+  },
+  {
+   "id": "e252",
+   "verdict": "refuse",
+   "motif": "« Font fuir les élèves » est une certitude invérifiable qui joue sur la peur.",
+   "proposition": "Auto-écoles : vos avis sans réponse sur votre fiche Google font hésiter les élèves"
+  },
+  {
+   "id": "e253",
+   "verdict": "ok"
+  },
+  {
+   "id": "e254",
+   "verdict": "ok"
+  },
+  {
+   "id": "e255",
+   "verdict": "ok"
+  },
+  {
+   "id": "e256",
+   "verdict": "ok"
+  },
+  {
+   "id": "e257",
+   "verdict": "ok"
+  },
+  {
+   "id": "e258",
+   "verdict": "refuse",
+   "motif": "« Weber » est déjà l'enseigne fictive du post de 13:00 le même jour (Plomberie Weber) et Weber dépasse 3 vidéos dans la semaine.",
+   "proposition": "Juste après un avis négatif, un futur élève qui n'ose pas appeler lit les avis de la fiche Google de l'Auto-école Bernard : la réponse n'arrive que des semaines plus tard, il s'inscrit ailleurs."
+  },
+  {
+   "id": "e259",
+   "verdict": "ok"
+  },
+  {
+   "id": "e260",
+   "verdict": "ok"
+  },
+  {
+   "id": "e261",
+   "verdict": "refuse",
+   "motif": "« Réponse tardive sur votre fiche Google, élève perdu » est télégraphique, sans verbe.",
+   "proposition": "Votre réponse arrive trop tard sur votre fiche Google : l'élève s'est inscrit ailleurs."
+  },
+  {
+   "id": "e262",
+   "verdict": "ok"
+  },
+  {
+   "id": "e263",
+   "verdict": "ok"
+  },
+  {
+   "id": "e264",
+   "verdict": "ok"
+  },
+  {
+   "id": "e265",
+   "verdict": "ok"
+  },
+  {
+   "id": "e266",
+   "verdict": "ok"
+  },
+  {
+   "id": "e267",
+   "verdict": "ok"
+  },
+  {
+   "id": "e268",
+   "verdict": "ok"
+  },
+  {
+   "id": "e269",
+   "verdict": "ok"
+  },
+  {
+   "id": "e270",
+   "verdict": "ok"
+  },
+  {
+   "id": "e271",
+   "verdict": "ok"
+  },
+  {
+   "id": "e272",
+   "verdict": "ok"
+  },
+  {
+   "id": "e273",
+   "verdict": "ok"
+  },
+  {
+   "id": "e274",
+   "verdict": "ok"
+  },
+  {
+   "id": "e275",
+   "verdict": "ok"
+  },
+  {
+   "id": "e276",
+   "verdict": "ok"
+  },
+  {
+   "id": "e277",
+   "verdict": "ok"
+  },
+  {
+   "id": "e278",
+   "verdict": "ok"
+  },
+  {
+   "id": "e279",
+   "verdict": "ok"
+  },
+  {
+   "id": "e280",
+   "verdict": "ok"
+  },
+  {
+   "id": "e281",
+   "verdict": "ok"
+  },
+  {
+   "id": "e282",
+   "verdict": "ok"
+  },
+  {
+   "id": "e283",
+   "verdict": "refuse",
+   "motif": "« Sort au rang 4, derrière celles qui en publient » présente le classement Google comme certain et causal.",
+   "proposition": "Un client fidèle cherche « gâteau anniversaire » sur Google Maps : la fiche Google de la Boulangerie Weber ne montre aucun gâteau, alors il choisit une boulangerie qui en publie."
+  },
+  {
+   "id": "e284",
+   "verdict": "ok"
+  },
+  {
+   "id": "e285",
+   "verdict": "ok"
+  },
+  {
+   "id": "e286",
+   "verdict": "refuse",
+   "motif": "« Rien sur votre fiche Google, rien dans les résultats » est télégraphique et affirme le classement comme certain.",
+   "proposition": "Votre fiche Google ne montre aucun gâteau : le client choisit une boulangerie qui en montre."
+  },
+  {
+   "id": "e287",
+   "verdict": "ok"
+  },
+  {
+   "id": "e288",
+   "verdict": "ok"
+  },
+  {
+   "id": "e289",
+   "verdict": "refuse",
+   "motif": "« Ne sort pas dans les recherches » présente le fonctionnement de Google comme certain.",
+   "proposition": "Ce que votre fiche Google ne montre pas, un client ne peut pas le voir. Proenligne publie une photo chaque lundi et un article chaque jeudi pour que vos spécialités se voient."
+  },
+  {
+   "id": "e290",
+   "verdict": "ok"
+  },
+  {
+   "id": "e291",
+   "verdict": "ok"
+  },
+  {
+   "id": "e292",
+   "verdict": "ok"
+  },
+  {
+   "id": "e293",
+   "verdict": "ok"
+  },
+  {
+   "id": "e294",
+   "verdict": "refuse",
+   "motif": "« Sort au rang 4 » présente le classement Google comme certain.",
+   "proposition": "Recherche « gâteau anniversaire » : la boulangerie n'a aucune photo à montrer"
+  },
+  {
+   "id": "e295",
+   "verdict": "ok"
+  },
+  {
+   "id": "e296",
+   "verdict": "refuse",
+   "motif": "« Elle remonte » présente un gain de classement Google comme certain.",
+   "proposition": "Photo et article publiés, ses gâteaux se voient enfin"
+  },
+  {
+   "id": "e297",
+   "verdict": "ok"
+  },
+  {
+   "id": "e298",
+   "verdict": "ok"
+  },
+  {
+   "id": "e299",
+   "verdict": "ok"
+  },
+  {
+   "id": "e300",
+   "verdict": "ok"
+  },
+  {
+   "id": "e301",
+   "verdict": "ok"
+  },
+  {
+   "id": "e302",
+   "verdict": "ok"
+  },
+  {
+   "id": "e303",
+   "verdict": "ok"
+  },
+  {
+   "id": "e304",
+   "verdict": "ok"
+  },
+  {
+   "id": "e305",
+   "verdict": "refuse",
+   "motif": "« Multiplié ses appels par 3 en 6 mois » est un résultat chiffré de client (règle n°3) ; et « Weber » est déjà l'enseigne du post de 13:00 le même jour (Électricité Weber).",
+   "proposition": "Une cliente qui n'ose pas appeler compare deux salons sur Google Maps : la fiche Google de Coiffure Durand n'a ni photo de coupe ni nouveauté, celle de Coiffure Martin en montre chaque semaine ; la cliente réserve chez Martin."
+  },
+  {
+   "id": "e306",
+   "verdict": "ok"
+  },
+  {
+   "id": "e307",
+   "verdict": "ok"
+  },
+  {
+   "id": "e308",
+   "verdict": "refuse",
+   "motif": "« Un de nos clients : ×3 appels » est un résultat chiffré de client (règle n°3).",
+   "proposition": "Face à un salon qui montre ses coupes, votre fiche Google muette perd la comparaison."
+  },
+  {
+   "id": "e309",
+   "verdict": "ok"
+  },
+  {
+   "id": "e310",
+   "verdict": "refuse",
+   "motif": "« ×3 appels en 6 mois chez un client » est un résultat chiffré de client (règle n°3).",
+   "proposition": "Une photo le lundi, un article le jeudi, une réponse à chaque avis. Que montre votre salon sur Google ?"
+  },
+  {
+   "id": "e311",
+   "verdict": "refuse",
+   "motif": "« Un de nos clients a triplé ses appels en 6 mois » est un résultat chiffré de client (règle n°3).",
+   "proposition": "Face à une fiche Google qui publie chaque semaine, une fiche Google muette perd la comparaison. Proenligne publie pour vous : une photo le lundi, un article le jeudi, une réponse à chaque avis."
+  },
+  {
+   "id": "e312",
+   "verdict": "ok"
+  },
+  {
+   "id": "e313",
+   "verdict": "ok"
+  },
+  {
+   "id": "e314",
+   "verdict": "ok"
+  },
+  {
+   "id": "e315",
+   "verdict": "ok"
+  },
+  {
+   "id": "e316",
+   "verdict": "ok"
+  },
+  {
+   "id": "e317",
+   "verdict": "ok"
+  },
+  {
+   "id": "e318",
+   "verdict": "refuse",
+   "motif": "« Le salon remonte » présente un gain de classement Google comme certain.",
+   "proposition": "Photo et article publiés, le salon se montre enfin"
+  },
+  {
+   "id": "e319",
+   "verdict": "ok"
+  },
+  {
+   "id": "e320",
+   "verdict": "ok"
+  },
+  {
+   "id": "e321",
+   "verdict": "ok"
+  },
+  {
+   "id": "e322",
+   "verdict": "ok"
+  },
+  {
+   "id": "e323",
+   "verdict": "ok"
+  },
+  {
+   "id": "e324",
+   "verdict": "ok"
+  },
+  {
+   "id": "e325",
+   "verdict": "ok"
+  },
+  {
+   "id": "e326",
+   "verdict": "ok"
+  },
+  {
+   "id": "e327",
+   "verdict": "refuse",
+   "motif": "« Weber » est déjà l'enseigne fictive du post de 13:00 le même jour (Boulangerie Weber) et Weber dépasse 3 vidéos dans la semaine.",
+   "proposition": "Un client fidèle laisse 5 étoiles sur la fiche Google du Garage Bernard ; le garagiste, les mains dans un moteur, ne répond que des semaines plus tard, un soir, épuisé, et le client suivant croit que personne ne lit."
+  },
+  {
+   "id": "e328",
+   "verdict": "ok"
+  },
+  {
+   "id": "e329",
+   "verdict": "ok"
+  },
+  {
+   "id": "e330",
+   "verdict": "refuse",
+   "motif": "« Des semaines sans merci sur votre fiche Google » est télégraphique, sans verbe.",
+   "proposition": "Sur votre fiche Google, votre merci attend depuis des semaines."
+  },
+  {
+   "id": "e331",
+   "verdict": "ok"
+  },
+  {
+   "id": "e332",
+   "verdict": "ok"
+  },
+  {
+   "id": "e333",
+   "verdict": "ok"
+  },
+  {
+   "id": "e334",
+   "verdict": "ok"
+  },
+  {
+   "id": "e335",
+   "verdict": "ok"
+  },
+  {
+   "id": "e336",
+   "verdict": "ok"
+  },
+  {
+   "id": "e337",
+   "verdict": "ok"
+  },
+  {
+   "id": "e338",
+   "verdict": "ok"
+  },
+  {
+   "id": "e339",
+   "verdict": "ok"
+  },
+  {
+   "id": "e340",
+   "verdict": "ok"
+  },
+  {
+   "id": "e341",
+   "verdict": "ok"
+  },
+  {
+   "id": "e342",
+   "verdict": "ok"
+  },
+  {
+   "id": "e343",
+   "verdict": "ok"
+  },
+  {
+   "id": "e344",
+   "verdict": "ok"
+  },
+  {
+   "id": "e345",
+   "verdict": "ok"
+  },
+  {
+   "id": "e346",
+   "verdict": "ok"
+  },
+  {
+   "id": "e347",
+   "verdict": "ok"
+  },
+  {
+   "id": "e348",
+   "verdict": "ok"
+  },
+  {
+   "id": "e349",
+   "verdict": "ok"
+  },
+  {
+   "id": "e350",
+   "verdict": "ok"
+  },
+  {
+   "id": "e351",
+   "verdict": "ok"
+  },
+  {
+   "id": "e352",
+   "verdict": "ok"
+  },
+  {
+   "id": "e353",
+   "verdict": "ok"
+  },
+  {
+   "id": "e354",
+   "verdict": "ok"
+  },
+  {
+   "id": "e355",
+   "verdict": "refuse",
+   "motif": "« Un service absent de votre fiche Google n'existe pas » est faux pris au pied de la lettre et fait buter à la lecture.",
+   "proposition": "Un service absent de votre fiche Google, vos clients ne le voient pas."
+  },
+  {
+   "id": "e356",
+   "verdict": "ok"
+  },
+  {
+   "id": "e357",
+   "verdict": "ok"
+  },
+  {
+   "id": "e358",
+   "verdict": "refuse",
+   "motif": "« Ne sort pas quand un client le cherche » et « pour que Google sache » présentent le fonctionnement de Google comme certain.",
+   "proposition": "Un service qui n'apparaît pas sur votre fiche Google, le client ne peut pas le voir quand il cherche. Chaque semaine, Proenligne publie vos chantiers pour montrer tout ce que vous faites."
+  },
+  {
+   "id": "e359",
+   "verdict": "ok"
+  },
+  {
+   "id": "e360",
+   "verdict": "ok"
+  },
+  {
+   "id": "e361",
+   "verdict": "ok"
+  },
+  {
+   "id": "e362",
+   "verdict": "ok"
+  },
+  {
+   "id": "e363",
+   "verdict": "ok"
+  },
+  {
+   "id": "e364",
+   "verdict": "ok"
+  },
+  {
+   "id": "e365",
+   "verdict": "ok"
+  },
+  {
+   "id": "e366",
+   "verdict": "ok"
+  },
+  {
+   "id": "e367",
+   "verdict": "ok"
+  },
+  {
+   "id": "e368",
+   "verdict": "ok"
+  },
+  {
+   "id": "e369",
+   "verdict": "ok"
+  },
+  {
+   "id": "e370",
+   "verdict": "ok"
+  },
+  {
+   "id": "e371",
+   "verdict": "ok"
+  },
+  {
+   "id": "e372",
+   "verdict": "ok"
+  },
+  {
+   "id": "e373",
+   "verdict": "ok"
+  },
+  {
+   "id": "e374",
+   "verdict": "ok"
+  },
+  {
+   "id": "e375",
+   "verdict": "ok"
+  },
+  {
+   "id": "e376",
+   "verdict": "ok"
+  },
+  {
+   "id": "e377",
+   "verdict": "refuse",
+   "motif": "« Weber » est utilisé dans 7 vidéos de la semaine, au-delà des 3 autorisées : changer l'enseigne.",
+   "proposition": "Le plombier Petit propose depuis peu la recherche de fuite sans casse, mais ses journées de chantier ne lui laissent jamais le temps de l'annoncer sur sa fiche Google : un client fidèle appelle un autre plombier pour ça."
+  },
+  {
+   "id": "e378",
+   "verdict": "ok"
+  },
+  {
+   "id": "e379",
+   "verdict": "refuse",
+   "motif": "« Les fuites sans casser » est un jargon de métier non expliqué en accroche (exemple refusé par la consigne).",
+   "proposition": "Vous savez trouver une fuite sans casser les murs. Votre fiche Google ne le dit à personne."
+  },
+  {
+   "id": "e380",
+   "verdict": "refuse",
+   "motif": "« Nouveauté tue sur votre fiche Google, clients partis » est télégraphique et incompréhensible seul (exemple refusé par la consigne).",
+   "proposition": "Votre nouveauté reste muette sur votre fiche Google : les clients partent ailleurs."
+  },
+  {
+   "id": "e381",
+   "verdict": "ok"
+  },
+  {
+   "id": "e382",
+   "verdict": "ok"
+  },
+  {
+   "id": "e383",
+   "verdict": "ok"
+  },
+  {
+   "id": "e384",
+   "verdict": "ok"
+  },
+  {
+   "id": "e385",
+   "verdict": "refuse",
+   "motif": "« Fuite sans casse » est un jargon non expliqué.",
+   "proposition": "Article publié : recherche de fuite sans casse"
+  },
+  {
+   "id": "e386",
+   "verdict": "ok"
+  },
+  {
+   "id": "e387",
+   "verdict": "ok"
+  },
+  {
+   "id": "e388",
+   "verdict": "ok"
+  },
+  {
+   "id": "e389",
+   "verdict": "ok"
+  },
+  {
+   "id": "e390",
+   "verdict": "ok"
+  },
+  {
+   "id": "e391",
+   "verdict": "ok"
+  },
+  {
+   "id": "e392",
+   "verdict": "ok"
+  },
+  {
+   "id": "e393",
+   "verdict": "ok"
+  },
+  {
+   "id": "e394",
+   "verdict": "ok"
+  },
+  {
+   "id": "e395",
+   "verdict": "ok"
+  },
+  {
+   "id": "e396",
+   "verdict": "ok"
+  },
+  {
+   "id": "e397",
+   "verdict": "ok"
+  },
+  {
+   "id": "e398",
+   "verdict": "ok"
+  },
+  {
+   "id": "e399",
+   "verdict": "ok"
+  },
+  {
+   "id": "e400",
+   "verdict": "ok"
+  },
+  {
+   "id": "e401",
+   "verdict": "ok"
+  },
+  {
+   "id": "e402",
+   "verdict": "ok"
+  },
+  {
+   "id": "e403",
+   "verdict": "ok"
+  },
+  {
+   "id": "e404",
+   "verdict": "ok"
+  },
+  {
+   "id": "e405",
+   "verdict": "ok"
+  },
+  {
+   "id": "e406",
+   "verdict": "ok"
+  },
+  {
+   "id": "e407",
+   "verdict": "refuse",
+   "motif": "« Rappelle vos horaires et vos urgences » : « vos urgences » ne se comprend pas seul.",
+   "proposition": "Un article chaque jeudi rappelle vos horaires et vos interventions d'urgence. Essayez gratuitement, sans engagement."
+  },
+  {
+   "id": "e408",
+   "verdict": "ok"
+  },
+  {
+   "id": "e409",
+   "verdict": "ok"
+  },
+  {
+   "id": "e410",
+   "verdict": "ok"
+  },
+  {
+   "id": "e411",
+   "verdict": "ok"
+  },
+  {
+   "id": "e412",
+   "verdict": "ok"
+  },
+  {
+   "id": "e413",
+   "verdict": "ok"
+  },
+  {
+   "id": "e414",
+   "verdict": "ok"
+  },
+  {
+   "id": "e415",
+   "verdict": "ok"
+  },
+  {
+   "id": "e416",
+   "verdict": "ok"
+  },
+  {
+   "id": "e417",
+   "verdict": "ok"
+  },
+  {
+   "id": "e418",
+   "verdict": "ok"
+  },
+  {
+   "id": "e419",
+   "verdict": "ok"
+  },
+  {
+   "id": "e420",
+   "verdict": "ok"
+  },
+  {
+   "id": "e421",
+   "verdict": "ok"
+  },
+  {
+   "id": "e422",
+   "verdict": "ok"
+  },
+  {
+   "id": "e423",
+   "verdict": "ok"
+  },
+  {
+   "id": "e424",
+   "verdict": "ok"
+  },
+  {
+   "id": "e425",
+   "verdict": "ok"
+  },
+  {
+   "id": "e426",
+   "verdict": "ok"
+  }
+ ]
+}

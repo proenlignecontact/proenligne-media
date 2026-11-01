@@ -16,6 +16,7 @@ Gabarit question    : "reponses": 2 à 3 propositions (≤ 40 car.) — un test 
                       Aucune réponse n'est cochée ("bonne" est refusé) : un sondage n'a pas de bonne réponse, et un quiz
                       la révèle sur une slide suivante (type "point", numero = la lettre de la réponse), jamais sur la 1re.
   Règle n°3 : aucune statistique ni résultat chiffré de nos clients (×3, 100 appels, semestre…) nulle part.
+  Règle n°5 : aucun « : » dans un texte affiché.
 
 Carrousel ("slides", 3 à 5) : la 1re slide = le brief ci-dessus (accroche), les suivantes :
   {"type": "point", "numero": "1", "titre": ≤ 40, "texte": ≤ 120}   une idée par slide
