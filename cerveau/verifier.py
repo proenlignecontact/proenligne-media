@@ -18,7 +18,8 @@ Format du plan : {"creneaux": [ {
    "ab": "A"|"B" (facultatif, TikTok)
 } ] }
 
-Mix éditorial sur la semaine (21 créneaux) : utile ≥ 13 (≈ 70 %), preuve 3 à 5, offre ≤ 3.
+Mix éditorial sur la semaine (21 créneaux) : utile ≥ 13 (≈ 70 %), preuve 2 à 5, offre ≤ 3.
+Variante B (A/B TikTok) : entrée distincte avec "ab": "B", même slug que sa vidéo A, creneau_nominal "12:30", textes {"tiktok": …} seulement.
 """
 import datetime as dt, glob, itertools, json, os, re, sys, unicodedata
 from collections import Counter
@@ -74,10 +75,13 @@ def verifier(plan):
         ref = f"{c.get('date')} {nominal}"
         if typ not in CANAUX:
             pb.append(f'{ref} : creneau inconnu « {typ} »'); continue
-        if nominal != HEURES[typ]:
-            pb.append(f'{ref} : creneau_nominal {nominal} au lieu de {HEURES[typ]} pour un créneau {typ}')
+        variante_b = c.get('ab') == 'B'
+        attendu_h = '12:30' if variante_b else HEURES[typ]
+        if variante_b and typ != 'video': pb.append(f'{ref} : une variante B est forcément une vidéo')
+        if nominal != attendu_h:
+            pb.append(f'{ref} : creneau_nominal {nominal} au lieu de {attendu_h} pour {"une variante B" if variante_b else "un créneau " + typ}')
         try:
-            if abs(minutes(c.get('heure', nominal)) - minutes(HEURES[typ])) > TOLERANCE_MIN:
+            if abs(minutes(c.get('heure', nominal)) - minutes(attendu_h)) > TOLERANCE_MIN:
                 pb.append(f'{ref} : heure réelle {c.get("heure")} à plus de {TOLERANCE_MIN} min du créneau')
         except Exception:
             pb.append(f'{ref} : heure illisible « {c.get("heure")} »')
@@ -95,7 +99,7 @@ def verifier(plan):
         elif len(pc) > 300: pb.append(f'{ref} : premier_commentaire > 300 caractères')
         elif PRIX.search(pc): pb.append(f'{ref} : prix dans le premier commentaire')
         textes = c.get('textes', {})
-        attendus = canaux_attendus(typ, c['date'])
+        attendus = {'tiktok'} if variante_b else canaux_attendus(typ, c['date'])
         if set(textes) != attendus:
             pb.append(f'{ref} : canaux {sorted(textes)} au lieu de {sorted(attendus)}')
         for canal, t in textes.items():
@@ -120,7 +124,7 @@ def verifier(plan):
                 pb.append(f'{ref} {canal} : « lien en bio » n\'a pas de sens sur ce canal')
         if typ == 'video':
             yt, tt = c.get('youtube_title', ''), c.get('tiktok_title', '')
-            if not (2 <= len(yt) <= 100) or 'google' not in yt.lower(): pb.append(f'{ref} : youtube_title manquant, > 100 caractères ou sans « Google »')
+            if not variante_b and (not (2 <= len(yt) <= 100) or 'google' not in yt.lower()): pb.append(f'{ref} : youtube_title manquant, > 100 caractères ou sans « Google »')
             if not tt or len(tt) > 90: pb.append(f'{ref} : tiktok_title manquant ou > 90 caractères')
             if PRIX.search(yt + tt): pb.append(f'{ref} : prix dans un titre')
         m = c.get('media') or {}
@@ -137,6 +141,8 @@ def verifier(plan):
                 pb.append(f'{ref} : accroche trop proche ({r:.0%}) de la fiche {f["id"]}')
     # ressemblance et structures à l'intérieur du plan
     for a, b in itertools.combinations(cr, 2):
+        if a.get('slug') == b.get('slug') and {a.get('ab'), b.get('ab')} == {'A', 'B'}:
+            continue
         ra, rb = f"{a['date']} {a.get('creneau_nominal', a.get('heure'))}", f"{b['date']} {b.get('creneau_nominal', b.get('heure'))}"
         r = ressemblance(a.get('accroche', ''), b.get('accroche', ''))
         if r >= SEUIL_RESSEMBLANCE: pb.append(f'{ra} et {rb} : accroches trop proches ({r:.0%})')
@@ -146,7 +152,7 @@ def verifier(plan):
             if debut(a['textes'][canal] or '', 6) == debut(b['textes'][canal] or '', 6):
                 pb.append(f'{ra} et {rb} ({canal}) : même début de texte')
     # rotation
-    seq = sorted(cr, key=lambda c: (c.get('date', ''), c.get('creneau_nominal', c.get('heure', ''))))
+    seq = sorted([c for c in cr if c.get('ab') != 'B'], key=lambda c: (c.get('date', ''), c.get('creneau_nominal', c.get('heure', ''))))
     for a, b in zip(seq, seq[1:]):
         if a.get('metier') == b.get('metier') and a['metier'] != 'general':
             pb.append(f'{a["date"]} → {b["date"]} : même métier deux créneaux de suite ({a["metier"]})')
@@ -158,7 +164,9 @@ def verifier(plan):
     visuels = [c for c in seq if c.get('creneau') == 'visuel']
     for a, b in zip(visuels, visuels[1:]):
         if a.get('format') == b.get('format'): pb.append(f'{a["date"]} et {b["date"]} 13:00 : même gabarit visuel deux jours de suite')
-    if len(cr) >= 15:
+    grille = [c for c in cr if c.get('ab') != 'B']
+    if len(grille) >= 15:
+        cr = grille
         nb_metiers = len({c['metier'] for c in cr if c.get('metier') != 'general'})
         if nb_metiers < 6: pb.append(f'seulement {nb_metiers} métiers différents sur la semaine (minimum 6)')
         it = Counter(c.get('intention') for c in cr)

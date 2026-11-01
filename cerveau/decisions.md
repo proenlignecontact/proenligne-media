@@ -48,4 +48,16 @@ Chaque lot hebdomadaire ajoute ici ses décisions, avec le chiffre qui les justi
 - **Pourquoi ce créneau** : la mi-journée en semaine est l'une des meilleures plages LinkedIn ; l'engagement chute après 17h et le week-end (sources : guides 2026 AdCreate, Publer). 5 posts par semaine est la fréquence optimale indiquée pour une page de PME (minimum 3, maximum utile 1 par jour). 06:30 et 19:00 écartés.
 - **Contenu** : même visuel que Instagram/Facebook, texte réécrit pour des gérants d'entreprise (ton pro, accroche « fiche Google » dans les ~200 premiers caractères visibles avant « voir plus », 700–1 300 caractères, ≤ 5 hashtags, pas de lien externe, ≤ 3 ✅). Contrôlé par `cerveau/verifier.py`.
 - **Semaine du 2/11** : 5 posts LinkedIn ajoutés à la main sur les créneaux de 13:00 du lundi au vendredi (visuels existants), fiches complétées.
-- **Stats** : la page LinkedIn n'apparaît pas encore dans le relevé de l'API de stats (relevé du 01/11). À vérifier au prochain relevé ; `convertir_stats.py` reconnaît déjà `linkedin-page`.
+- **Stats** : la page LinkedIn est dans le relevé de l'API depuis le 01/11 16h30 (compte : vues de page, clics, partages, engagement, commentaires, abonnés). Stats par post attendues dès les premières publications.
+
+## 2026-11-01 — Contenu à engagement (mise en place « viralité »)
+
+- **Mix éditorial 70 / 20 / 10** (utile / preuve / offre) : au moins 13 créneaux utiles sur 21, au plus 3 posts offre ; les 3 ✅ et « Essayez Proenligne gratuitement » réservés aux posts offre. Motif : tous les posts de la semaine du 2/11 étaient des posts d'offre (21/21), ce qui limite partages et commentaires.
+- **Grille portée à 61 posts** : Facebook reçoit la vidéo verticale à 19:00 (Reels), le créneau 13:00 devient un carrousel (3–5 slides, `outils/visuel.py --carrousel`), LinkedIn page du lundi au vendredi.
+- **Premier commentaire** systématique (question ou précision, ≤ 300 caractères) ; **heures variées** ± 45 min par `outils/heure_utc.py --varier` ; **A/B TikTok** : 2 vidéos par semaine (mardi, jeudi) avec variante B en TikTok seul à 12:30 deux jours plus tard, dimension `ab` dans l'analyse.
+- **Engagement pondéré** dans `cerveau/analyse.py` : likes × 1, enregistrements × 1,5, commentaires × 2, partages × 3 ; nouvelles dimensions `intention`, `jour_semaine`, `heure_paris`, `ab`.
+- **Amplification** : `cerveau/amplifier.py` (tâche quotidienne 08:23) inscrit dans `suivi/amplifier.json` toute publication ≥ 2 × la médiane de son canal (≥ 5 posts mesurés sur 14 jours) ; la tâche hebdo doit reprendre ces sujets.
+- **3 ambiances sonores** (`PUB_AMBIANCE=0|1|2`) en alternance, jamais la même deux jours de suite.
+- **Vérificateur étendu** : mix, premier commentaire, rotation des formats texte et des gabarits visuels, ton ≤ 5 par semaine, ressemblance des accroches contre toutes les fiches, entrées A/B acceptées.
+- **Semaine du 2/11 corrigée** : 7 posts YouTube recréés en vertical (Shorts) avec premier commentaire ; 7 Reels Facebook ajoutés à 19:00.
+- **Non retenu** (choix de Maxime) : séries récurrentes avec un personnage fictif ; LinkedIn depuis un profil personnel. **Impossible via Postiz** : réponse aux commentaires, sons tendance TikTok (compte Business requis).
