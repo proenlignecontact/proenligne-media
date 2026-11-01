@@ -148,12 +148,12 @@ def page(b):
     return doc(entete(b) + corps(b))
 
 
-def page_slide(s, i, n):
+def page_slide(s, i, n, offre=False):
     cls = 'fin' if s['type'] == 'fin' else ''
     num = f'<div class="big">{html.escape(str(s.get("numero", i - 1)))}</div>' if s['type'] == 'point' else ''
     return doc(f'''<div class="wrap {cls}"><div class="marque"><img src="data:image/svg+xml;base64,{b64('logo.svg')}">Proenligne</div>
 <div class="slidenum">{i} / {n}</div>{num}<h2>{html.escape(s['titre'])}</h2><p class="texte">{html.escape(s['texte'])}</p></div>
-<div class="suivez">{'Votre fiche Google, animée chaque semaine · Essayez gratuitement' if s['type'] == 'fin' else 'Proenligne · fiche Google'}</div>''')
+<div class="suivez">{('Votre fiche Google, animée chaque semaine · Essayez gratuitement' if offre else 'Votre fiche Google, animée chaque semaine') if s['type'] == 'fin' else 'Proenligne · fiche Google'}</div>''')
 
 
 def capture(htmls, sorties):
@@ -183,7 +183,7 @@ if __name__ == '__main__':
         d = sys.argv[2]; os.makedirs(d, exist_ok=True)
         slides = b.get('slides') or []
         n = 1 + len(slides)
-        htmls = [page(b)] + [page_slide(s, i, n) for i, s in enumerate(slides, 2)]
+        htmls = [page(b)] + [page_slide(s, i, n, b.get('cta') == 'offre') for i, s in enumerate(slides, 2)]
         outs = [os.path.join(d, f'{i:02d}.png') for i in range(1, n + 1)]
     else:
         os.makedirs(os.path.dirname(os.path.abspath(sys.argv[2])) or '.', exist_ok=True)
