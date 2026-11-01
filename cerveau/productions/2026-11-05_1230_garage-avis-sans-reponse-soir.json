@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-05_1230_garage-avis-sans-reponse-soir",
+ "date_paris": "2026-11-05",
+ "heure_paris": "12:30",
+ "creneau_nominal": "12:30",
+ "intention": "utile",
+ "ab": "B",
+ "premier_commentaire": "Garagistes, quel avis client vous a fait le plus plaisir cette année sur votre fiche Google ?",
+ "jour_semaine": "jeudi",
+ "creneau": "video",
+ "metier": "garage",
+ "angle": "gain-de-temps",
+ "format": "avis",
+ "ton": "constat",
+ "symptome": "avis-sans-reponse",
+ "offre": "essai",
+ "accroche": "Quand chaque avis de votre fiche Google reçoit un merci, vos clients le remarquent.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#Garage",
+  "#Garagiste"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/tsJ3Uvqd6N.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmvybibnp0081kb7zhd1ii5y3",
+   "caracteres": 284,
+   "texte": "Quand chaque avis de votre fiche Google reçoit un merci, vos clients le remarquent.\nVotre fiche Google, c'est l'encadré de votre garage sur Google Maps, avec la note et les avis. Une phrase et le prénom du client suffisent pour montrer que vous lisez.\n\n#FicheGoogle #Garage #Garagiste"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

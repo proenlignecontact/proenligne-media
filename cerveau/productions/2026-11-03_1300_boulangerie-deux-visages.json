@@ -1,0 +1,59 @@
+{
+ "id": "2026-11-03_1300_boulangerie-deux-visages",
+ "date_paris": "2026-11-03",
+ "heure_paris": "12:45",
+ "creneau_nominal": "13:00",
+ "intention": "preuve",
+ "ab": null,
+ "premier_commentaire": "Boulangers, quelle photo fait le plus réagir vos clients sur votre fiche Google ? Le pain, les gâteaux ou l'équipe ?",
+ "jour_semaine": "mardi",
+ "creneau": "visuel",
+ "metier": "boulangerie",
+ "angle": "peur-de-perdre",
+ "format": "avant-apres",
+ "ton": "avant-apres",
+ "symptome": "photos-anciennes",
+ "offre": "essai",
+ "accroche": "La même boulangerie peut avoir deux visages sur sa fiche Google. Lequel donne faim ?",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Boulanger",
+  "#Boulangerie",
+  "#Commerce",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "image",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/zb23MXrwpJ.png",
+   "https://media.glidy.uk/NvPPALXt5L.png",
+   "https://media.glidy.uk/0C5OYBUC5D.png",
+   "https://media.glidy.uk/HOrFuUci8l.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "instagram",
+   "postiz_id": "cmvybfkx20071kb7z95e8z4m3",
+   "caracteres": 750,
+   "texte": "La même boulangerie peut avoir deux visages sur sa fiche Google. Lequel donne faim ?\n\nLa fiche Google, c'est l'encadré qui s'affiche quand on cherche « boulangerie » sur Google Maps, avec la note, les photos et les horaires.\n\nPrenons une boulangerie imaginaire, la boulangerie Durand.\n\nAvant, sa fiche Google n'avait qu'une photo, une vitrine vide prise un soir après la fermeture.\n\nAprès, une photo de la fournée du matin arrive chaque lundi. On voit les baguettes, les viennoiseries et l'équipe derrière le comptoir.\n\nLe pain est le même et la note aussi. Ce qui change, c'est ce que le client voit avant de choisir où s'arrêter.\n\nVous, vous entreriez dans laquelle ?\n\n#FicheGoogle #Boulangerie #Boulanger #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvybfky30073kb7ziqtgmmsj",
+   "caracteres": 732,
+   "texte": "La même boulangerie peut avoir deux visages sur sa fiche Google. Lequel donne faim ?\n\nCherchez « boulangerie » dans votre ville. Les encadrés avec une note et des photos sont des fiches Google. C'est souvent là que se joue le choix du croissant du dimanche.\n\nVoici une boulangerie imaginaire, la boulangerie Durand, en deux versions.\nAvant, sa fiche Google n'avait qu'une photo, une vitrine vide prise un soir après la fermeture.\nAprès, une photo de la fournée du matin est publiée chaque lundi, avec les baguettes, les viennoiseries et l'équipe.\n\nLe pain est le même, la note aussi. Seules les photos de la fiche Google ont changé.\n\nLaquelle vous donnerait envie d'entrer ?\n\n#FicheGoogle #Boulangerie #Boulanger #ReferencementLocal"
+  },
+  {
+   "canal": "linkedin",
+   "postiz_id": "cmvybfkz60075kb7zddwqarz5",
+   "caracteres": 940,
+   "texte": "Deux versions de la même fiche Google de boulangerie, et une seule donne vraiment envie d'entrer.\nLa fiche Google, c'est l'encadré que Google affiche quand un client cherche « boulangerie » près de chez lui.\n\nPrenons une boulangerie imaginaire.\n\nDans la première version, sa fiche Google ne montre qu'une photo, une vitrine vide prise un soir après la fermeture. Rien n'indique ce qu'on y trouve ni qui sert au comptoir.\n\nDans la seconde, une photo de la fournée du matin est publiée chaque lundi. On voit le pain, les viennoiseries, l'équipe.\n\nLe produit est identique, la note aussi. Ce qui change, c'est ce que le client voit avant de pousser la porte.\n\nC'est ce travail régulier que Proenligne prend en charge pour les commerçants, une photo le lundi et un article le jeudi.\n\nQuelle image de votre commerce aimeriez-vous que vos clients voient en premier ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Boulangerie #Commerce"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

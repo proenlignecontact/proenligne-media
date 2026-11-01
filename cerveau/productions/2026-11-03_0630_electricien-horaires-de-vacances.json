@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-03_0630_electricien-horaires-de-vacances",
+ "date_paris": "2026-11-03",
+ "heure_paris": "06:45",
+ "creneau_nominal": "06:30",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Une astuce. Google permet d'enregistrer à l'avance des horaires exceptionnels pour les jours fériés. Vous l'avez déjà fait pour Noël ?",
+ "jour_semaine": "mardi",
+ "creneau": "texte",
+ "metier": "electricien",
+ "angle": "peur-de-perdre",
+ "format": "constat",
+ "ton": "pendant-que",
+ "symptome": "horaires-faux",
+ "offre": "essai",
+ "accroche": "Pendant que vous êtes sur un chantier, votre fiche Google affiche peut-être encore vos horaires de vacances.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Electricien",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "aucun",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/gV3fN4MlJB.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "x",
+   "postiz_id": "cmvybfkuv006xkb7zwg9wqzk9",
+   "caracteres": 279,
+   "texte": "Pendant que vous êtes sur un chantier, votre fiche Google affiche peut-être encore vos horaires de vacances.\n\nC'est l'encadré que Google montre quand on cherche un électricien. Si on y lit « Fermé », on appelle ailleurs.\n\nVos horaires sont-ils à jour ?\n\n#FicheGoogle #Electricien"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvybfkw0006zkb7zi1x7480b",
+   "caracteres": 906,
+   "texte": "Pendant que vous êtes sur un chantier, votre fiche Google affiche peut-être encore vos horaires de vacances.\n\nVotre fiche Google, c'est ce que Google montre quand quelqu'un cherche « électricien » près de chez lui, avec votre note, vos photos, vos horaires et votre numéro.\n\nUn client en panne regarde souvent d'abord si vous êtes ouvert. S'il lit « Fermé », il ne prend pas le risque d'appeler. Il passe à l'électricien suivant.\n\nSi vous avez modifié vos horaires habituels pour les vacances, ils restent affichés tant que vous ne les remettez pas. Après la Toussaint, c'est le bon moment pour vérifier.\nOuvrez votre fiche Google depuis votre téléphone.\nVérifiez la ligne des horaires, jour par jour.\nAjoutez dès maintenant les jours fériés de fin d'année en horaires exceptionnels.\n\nVos horaires affichés sont-ils justes aujourd'hui ?\n\n#FicheGoogle #Electricien #ReferencementLocal #GoogleBusinessProfile"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

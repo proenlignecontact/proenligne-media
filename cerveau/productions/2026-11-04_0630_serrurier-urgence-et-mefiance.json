@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-04_0630_serrurier-urgence-et-mefiance",
+ "date_paris": "2026-11-04",
+ "heure_paris": "06:45",
+ "creneau_nominal": "06:30",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Serruriers, quelle question vos clients vous posent-ils le plus souvent au téléphone avant de vous faire venir ?",
+ "jour_semaine": "mercredi",
+ "creneau": "texte",
+ "metier": "serrurier",
+ "angle": "peur-de-perdre",
+ "format": "idee-recue",
+ "ton": "contre-intuitif",
+ "symptome": null,
+ "offre": "essai",
+ "accroche": "On pense qu'en urgence, personne ne regarde votre fiche Google. C'est souvent l'inverse.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal",
+  "#Serrurier"
+ ],
+ "media": {
+  "type": "aucun",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/ywP0a3MIWW.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "x",
+   "postiz_id": "cmvybgwif007fkb7z0xbu1vtc",
+   "caracteres": 260,
+   "texte": "On pense qu'en urgence, personne ne regarde votre fiche Google. C'est souvent l'inverse.\n\nBloqué dehors, le client ouvre les fiches Google des serruriers sur Google Maps et lit leurs avis.\n\nÀ sa place, que regarderiez-vous en premier ?\n\n#FicheGoogle #Serrurier"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvybgwk7007hkb7z7ao228ea",
+   "caracteres": 706,
+   "texte": "On pense qu'en urgence, personne ne regarde votre fiche Google. C'est souvent l'inverse.\n\nImaginez quelqu'un bloqué devant sa porte un dimanche soir. Il a entendu des histoires de dépannages qui tournent mal. Alors avant d'appeler, il ouvre Google Maps et regarde les fiches Google des serruriers du coin, avec leur note, leurs avis et leurs photos.\n\nIl cherche des signes rassurants, comme un nom et une camionnette en photo, des avis récents et des réponses polies.\n\nL'urgence ne fait pas disparaître la méfiance. Elle la rend plus forte.\n\nSi vous étiez bloqué dehors, qu'est-ce qui vous ferait appeler un serrurier plutôt qu'un autre ?\n\n#FicheGoogle #Serrurier #ReferencementLocal #GoogleBusinessProfile"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

@@ -1,0 +1,59 @@
+{
+ "id": "2026-11-02_1300_coiffeur-coupes-dans-le-telephone",
+ "date_paris": "2026-11-02",
+ "heure_paris": "13:15",
+ "creneau_nominal": "13:00",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Un petit test pour ce soir. Ouvrez votre fiche Google et regardez la date de la dernière photo. Elle remonte à quand ?",
+ "jour_semaine": "lundi",
+ "creneau": "visuel",
+ "metier": "coiffeur",
+ "angle": "gain-de-temps",
+ "format": "conseil",
+ "ton": "constat",
+ "symptome": "photos-anciennes",
+ "offre": "essai",
+ "accroche": "Vos plus belles coupes dorment dans votre téléphone au lieu d'être sur votre fiche Google.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Coiffeur",
+  "#Coiffure",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "image",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/jG7mjjD52p.png",
+   "https://media.glidy.uk/8iNZ5EHQRa.png",
+   "https://media.glidy.uk/O0mCa3uVFt.png",
+   "https://media.glidy.uk/zqRW8hAa7l.png",
+   "https://media.glidy.uk/KhyczHeaQr.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "instagram",
+   "postiz_id": "cmvybe45b006jkb7z4fshdqcy",
+   "caracteres": 738,
+   "texte": "Vos plus belles coupes dorment dans votre téléphone au lieu d'être sur votre fiche Google.\n\nQuand quelqu'un tape « coiffeur près de moi », Google affiche des fiches avec des photos, des avis et des horaires. La vôtre en fait partie, et ce sont souvent les photos qu'on regarde en premier.\n\nVoici 3 réflexes qui prennent deux minutes.\n1. Photographiez la coupe près de la vitrine, à la lumière du jour, sans flash.\n2. Demandez l'accord de la cliente. Beaucoup sont flattées qu'on leur pose la question.\n3. Publiez la photo sur votre fiche Google le soir même, pendant que vous y pensez.\n\nAu salon, qui prend les photos des coupes, vous ou quelqu'un de l'équipe ?\n\n#FicheGoogle #Coiffeur #Coiffure #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvybe47b006lkb7zjxsy83sq",
+   "caracteres": 698,
+   "texte": "Vos plus belles coupes dorment dans votre téléphone au lieu d'être sur votre fiche Google.\n\nVotre fiche Google, c'est ce que voit une future cliente quand elle cherche « coiffeur » sur Google Maps. Avant de réserver, elle fait souvent défiler les photos.\n\nTrois réflexes suffisent pour que vos coupes arrivent sur votre fiche Google.\n1. Photographiez la coupe près de la vitrine, à la lumière du jour, sans flash.\n2. Demandez l'accord de la cliente. Une simple question, et beaucoup sont flattées.\n3. Publiez la photo sur votre fiche Google le soir même, avant qu'elle se perde dans la galerie.\n\nEt chez vous, qui s'occupe des photos au salon ?\n\n#FicheGoogle #Coiffeur #Coiffure #ReferencementLocal"
+  },
+  {
+   "canal": "linkedin",
+   "postiz_id": "cmvybe48l006nkb7zxgqac8v9",
+   "caracteres": 1038,
+   "texte": "Dans un salon de coiffure, les plus belles réalisations finissent souvent dans le téléphone du coiffeur, rarement sur la fiche Google du salon.\n\nLa fiche Google, c'est ce qu'une future cliente voit quand elle cherche « coiffeur » sur Google ou Google Maps. Avant de réserver, elle regarde les photos, la note et les horaires.\n\nLe constat revient dans beaucoup de salons. Les photos existent, mais personne n'a le réflexe de les publier. La fiche Google montre alors des coupes anciennes, ou aucune coupe.\n\nTrois habitudes changent la donne sans prendre de temps.\nPhotographier à la lumière du jour, près de la vitrine.\nDemander l'accord de la cliente, ce qui crée souvent un bon moment d'échange.\nPublier le soir même, plutôt que de garder les photos pour plus tard.\n\nProenligne publie une photo chaque lundi sur la fiche Google des salons qui lui confient la tâche, mais le réflexe de photographier reste celui de l'équipe.\n\nDans votre salon, qui est chargé des photos ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Coiffure"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

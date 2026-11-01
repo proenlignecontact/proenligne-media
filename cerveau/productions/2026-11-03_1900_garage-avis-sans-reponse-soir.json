@@ -1,0 +1,62 @@
+{
+ "id": "2026-11-03_1900_garage-avis-sans-reponse-soir",
+ "date_paris": "2026-11-03",
+ "heure_paris": "18:30",
+ "creneau_nominal": "19:00",
+ "intention": "utile",
+ "ab": "A",
+ "premier_commentaire": "Garagistes, combien d'avis attendent une réponse sur votre fiche Google en ce moment ? Aucun, quelques-uns ou beaucoup ?",
+ "jour_semaine": "mardi",
+ "creneau": "video",
+ "metier": "garage",
+ "angle": "gain-de-temps",
+ "format": "avis",
+ "ton": "replique",
+ "symptome": "avis-sans-reponse",
+ "offre": "essai",
+ "accroche": "« Ils ne lisent pas leurs avis ? » se demande un client devant votre fiche Google.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#Garage",
+  "#Garagiste",
+  "#GoogleBusinessProfile",
+  "#Mecanique",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/jsc4umFlbl.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmvybfl160077kb7z6wfyaq0l",
+   "caracteres": 293,
+   "texte": "« Ils ne lisent pas leurs avis ? » C'est ce que se demande un client devant votre fiche Google quand trois bons avis restent sans réponse.\nVotre fiche Google, c'est l'encadré que Google affiche avec votre note et vos avis quand on cherche un garage.\n\n#FicheGoogle #Garage #Garagiste #Mecanique"
+  },
+  {
+   "canal": "instagram",
+   "postiz_id": "cmvybfl3e0079kb7zriij96ax",
+   "caracteres": 607,
+   "texte": "« Ils ne lisent pas leurs avis ? » se demande un client devant votre fiche Google.\n\nSur Google Maps, chaque garage a sa fiche Google, avec la note, les avis et le bouton Appeler. Avant d'appeler, beaucoup de clients lisent les avis, et souvent les réponses aussi.\n\nTrois bons avis sans un mot en dessous, et le nouveau client se demande si quelqu'un lit ce qu'écrivent les clients.\n\nRépondre prend une phrase. « Merci Karim, ravis d'avoir pu vous dépanner ce samedi. »\n\nCombien d'avis attendent une réponse sur votre fiche Google ?\n\n#FicheGoogle #Garage #Garagiste #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "canal": "youtube",
+   "postiz_id": "cmvybfl4z007bkb7z190jwst5",
+   "caracteres": 453,
+   "texte": "« Ils ne lisent pas leurs avis ? » C'est la question d'un client devant une fiche Google où trois bons avis restent sans réponse.\n\nVotre fiche Google, c'est ce que vos clients voient en premier quand ils cherchent « garage » sur Google Maps. Les réponses aux avis montrent qu'une vraie personne écoute.\n\nProenligne répond à chaque avis, publie une photo le lundi et un article le jeudi.\n\nVous répondez à vos avis, vous ?\n\n#FicheGoogle #Garage #Garagiste"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvybfl63007dkb7zni4sgwl3",
+   "caracteres": 576,
+   "texte": "« Ils ne lisent pas leurs avis ? » se demande un client devant votre fiche Google.\n\nIl cherche un garage pour sa révision. Sur votre fiche Google, l'encadré que Google lui montre avec votre note et vos avis, il lit trois bons avis. Aucun n'a de réponse.\n\nCe n'est pas grave en soi, mais ça laisse un doute. Est-ce que quelqu'un lit vraiment ce qu'écrivent les clients ?\n\nUne phrase suffit sous chaque avis, avec un merci, un prénom et un détail.\n\nVous répondez à vos avis le jour même, ou plutôt quand vous avez un moment ?\n\n#FicheGoogle #Garage #Garagiste #ReferencementLocal"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

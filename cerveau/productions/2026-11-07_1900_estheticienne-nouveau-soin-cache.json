@@ -1,0 +1,61 @@
+{
+ "id": "2026-11-07_1900_estheticienne-nouveau-soin-cache",
+ "date_paris": "2026-11-07",
+ "heure_paris": "18:45",
+ "creneau_nominal": "19:00",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Esthéticiennes, quel est le dernier soin que vous avez ajouté à votre carte ? Il est annoncé sur votre fiche Google ?",
+ "jour_semaine": "samedi",
+ "creneau": "video",
+ "metier": "estheticienne",
+ "angle": "peur-de-perdre",
+ "format": "journee",
+ "ton": "scene",
+ "symptome": "pas-de-nouveaute",
+ "offre": "essai",
+ "accroche": "Il est 22 h. La cabine est rangée, mais votre nouveau soin manque sur votre fiche Google.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Estheticienne",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#InstitutDeBeaute",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/DxG720Babo.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmvybkzkd0099kb7zq5mq101z",
+   "caracteres": 294,
+   "texte": "Il est 22 h. La cabine est rangée, mais votre nouveau soin manque sur votre fiche Google.\nC'est pourtant elle que voient les clientes qui cherchent un institut sur Google Maps. Elles ne peuvent pas réserver un soin dont elles ignorent l'existence.\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute"
+  },
+  {
+   "canal": "instagram",
+   "postiz_id": "cmvybkzlz009bkb7zrr3u5rcn",
+   "caracteres": 589,
+   "texte": "Il est 22 h. La cabine est rangée, mais votre nouveau soin manque sur votre fiche Google.\n\nQuand une cliente cherche « institut de beauté » sur Google, elle voit des fiches avec des photos, des avis et des publications. La vôtre en fait partie.\n\nVous proposez depuis peu un rehaussement de cils. Mais après une journée pleine en cabine, l'annonce attend encore. Une cliente fidèle le fera peut-être ailleurs, sans savoir que vous le proposez.\n\nQuel soin aimeriez-vous mettre en avant cette semaine ?\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "canal": "youtube",
+   "postiz_id": "cmvybkzmy009dkb7zei183g09",
+   "caracteres": 412,
+   "texte": "Il est 22 h. La cabine est rangée, mais votre nouveau soin manque sur votre fiche Google.\n\nLa fiche Google, c'est ce que Google affiche quand une cliente cherche un institut près de chez elle. Une nouveauté qui n'y figure pas reste invisible.\n\nProenligne publie un article le jeudi, une photo le lundi, et répond à chaque avis.\n\nQuel est votre dernier soin ajouté ?\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvybkzox009fkb7za69cpixp",
+   "caracteres": 566,
+   "texte": "Il est 22 h. La cabine est rangée, mais votre nouveau soin manque sur votre fiche Google.\n\nVotre fiche Google, c'est la vitrine que voient les clientes sur Google Maps avant de réserver. Ce qui n'y est pas, elles ne le savent pas.\n\nLa journée a été pleine, entre les soins du visage et les manucures. L'annonce du rehaussement de cils attendra encore un soir.\n\nPendant ce temps, une cliente fidèle cherche ce soin et le trouve ailleurs.\n\nQuel est le dernier soin que vous avez ajouté à votre carte ?\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #ReferencementLocal"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

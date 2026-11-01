@@ -1,0 +1,61 @@
+{
+ "id": "2026-11-04_1300_estheticienne-sondage-reservation",
+ "date_paris": "2026-11-04",
+ "heure_paris": "13:45",
+ "creneau_nominal": "13:00",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Votez avec une seule lettre, A, B ou C. Et si vous avez une autre idée, dites-la aussi.",
+ "jour_semaine": "mercredi",
+ "creneau": "visuel",
+ "metier": "estheticienne",
+ "angle": "gain-de-temps",
+ "format": "question",
+ "ton": "question",
+ "symptome": "note-sans-contexte",
+ "offre": "essai",
+ "accroche": "Deux instituts ont la même note sur leur fiche Google. Qu'est-ce qui fait choisir l'un plutôt que l'autre ?",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Estheticienne",
+  "#Esthetique",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#InstitutDeBeaute",
+  "#ReferencementLocal",
+  "#TPE"
+ ],
+ "media": {
+  "type": "image",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/JtDbFe4c36.png",
+   "https://media.glidy.uk/uKlNMZp3Pd.png",
+   "https://media.glidy.uk/xmldxinBfU.png",
+   "https://media.glidy.uk/JwRpdi8F3c.png",
+   "https://media.glidy.uk/9lihreUPfA.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "instagram",
+   "postiz_id": "cmvybgwm5007jkb7z6xc2qt7f",
+   "caracteres": 598,
+   "texte": "Deux instituts ont la même note sur leur fiche Google. Qu'est-ce qui fait choisir l'un plutôt que l'autre ?\n\nSur Google Maps, chaque institut a sa fiche Google, avec la note, les photos, les avis et les horaires. Quand les notes se valent, la cliente regarde le reste.\n\nVoici trois pistes, détaillées dans le carrousel.\nA. Des photos récentes des soins\nB. Des réponses aux avis\nC. Des horaires faciles à lire\n\nIl n'y a pas de bonne réponse, on veut votre avis de professionnelle. Pour vous, c'est A, B ou C ?\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvybgwnx007lkb7zf2xrl16u",
+   "caracteres": 532,
+   "texte": "Deux instituts ont la même note sur leur fiche Google. Qu'est-ce qui fait choisir l'un plutôt que l'autre ?\n\nLa fiche Google, c'est ce qui apparaît quand une cliente cherche « institut de beauté » près de chez elle, avec les photos, les avis et les horaires.\n\nOn vous propose un petit sondage.\nA. Des photos récentes des soins\nB. Des réponses aux avis\nC. Des horaires faciles à lire\n\nChaque piste est expliquée dans les images. Vous, vous votez pour quelle lettre ?\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #ReferencementLocal"
+  },
+  {
+   "canal": "linkedin",
+   "postiz_id": "cmvybgwpf007nkb7zinxcfl0f",
+   "caracteres": 1020,
+   "texte": "Quand deux instituts affichent la même note sur leur fiche Google, qu'est-ce qui fait pencher la cliente ?\nLa fiche Google, c'est la présentation que Google affiche quand on cherche « institut de beauté » à proximité.\n\nLa note attire l'œil, mais quand deux adresses voisines ont la même, la cliente fait défiler le reste.\n\nTrois éléments peuvent faire la différence.\nA. Des photos récentes des soins et de la cabine, qui montrent une activité réelle.\nB. Des réponses aux avis, qui montrent qu'une personne lit et prend soin de sa clientèle.\nC. Des horaires lisibles, avec la pause du midi et le samedi bien indiqués.\n\nAucun de ces éléments ne demande de budget. Ils demandent de la régularité, et c'est souvent là que le temps manque. Pour les instituts qui le souhaitent, Proenligne publie une photo chaque lundi, un article chaque jeudi et répond à chaque avis.\n\nSelon vous, lequel pèse le plus dans le choix d'une nouvelle cliente, A, B ou C ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Esthetique #TPE"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

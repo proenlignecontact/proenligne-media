@@ -1,0 +1,53 @@
+{
+ "id": "2026-11-07_1300_offre-fiche-google-sans-soiree",
+ "date_paris": "2026-11-07",
+ "heure_paris": "13:30",
+ "creneau_nominal": "13:00",
+ "intention": "offre",
+ "ab": null,
+ "premier_commentaire": "Une question sur le fonctionnement de Proenligne ? Posez-la ici, on vous répond. L'essai est gratuit et sans engagement.",
+ "jour_semaine": "samedi",
+ "creneau": "visuel",
+ "metier": "general",
+ "angle": "gain-de-temps",
+ "format": "conseil",
+ "ton": "contre-intuitif",
+ "symptome": null,
+ "offre": "essai",
+ "accroche": "Votre fiche Google peut rester active sans vous prendre vos soirées. C'est le principe de Proenligne.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Artisans",
+  "#Commercants",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "image",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/8ggWYXGz3Z.png",
+   "https://media.glidy.uk/pHBkQIY4oJ.png",
+   "https://media.glidy.uk/WGdcZBVXQe.png",
+   "https://media.glidy.uk/23SC0HTg9P.png",
+   "https://media.glidy.uk/rnyo6thEW3.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "instagram",
+   "postiz_id": "cmvybkzg70095kb7zsunacjbw",
+   "caracteres": 591,
+   "texte": "Votre fiche Google peut rester active sans vous prendre vos soirées. C'est le principe de Proenligne.\n\nLa fiche Google, c'est ce que vos clients voient en premier quand ils cherchent votre métier sur Google ou Google Maps. Elle rassure quand elle montre une activité récente.\n\nProenligne s'en occupe chaque semaine.\n✅ Une photo de votre travail publiée le lundi\n✅ Un article publié le jeudi\n✅ Une réponse à chaque avis, et vous validez celles aux avis négatifs\n\nEssayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Artisans #Commercants"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvybkziq0097kb7zfzwrhh8u",
+   "caracteres": 603,
+   "texte": "Votre fiche Google peut rester active sans vous prendre vos soirées. C'est le principe de Proenligne.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche votre métier sur Google ou Google Maps, avec vos photos, vos avis et vos horaires. Une activité récente y rassure.\n\nChaque semaine, Proenligne s'en occupe à votre place.\n✅ Une photo de votre travail publiée le lundi\n✅ Un article publié le jeudi\n✅ Une réponse à chaque avis, validée par vous quand l'avis est négatif\n\nEssayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Artisans"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

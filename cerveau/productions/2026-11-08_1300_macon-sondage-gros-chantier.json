@@ -1,0 +1,53 @@
+{
+ "id": "2026-11-08_1300_macon-sondage-gros-chantier",
+ "date_paris": "2026-11-08",
+ "heure_paris": "12:30",
+ "creneau_nominal": "13:00",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Votez avec une lettre. Et si un client vous a déjà dit pourquoi il vous avait choisi, racontez-le.",
+ "jour_semaine": "dimanche",
+ "creneau": "visuel",
+ "metier": "macon",
+ "angle": "peur-de-perdre",
+ "format": "question",
+ "ton": "pendant-que",
+ "symptome": null,
+ "offre": "essai",
+ "accroche": "Pendant que vous préparez son devis, le client compare encore les fiches Google des maçons du coin.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#Macon",
+  "#Maconnerie",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "image",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/YJPjT5T2JQ.png",
+   "https://media.glidy.uk/IuPgNHI2PA.png",
+   "https://media.glidy.uk/EZc1rlcsPG.png",
+   "https://media.glidy.uk/r3ph5LA4x5.png",
+   "https://media.glidy.uk/Gf23vOQc77.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "instagram",
+   "postiz_id": "cmvybm80y009lkb7zg3iam3ah",
+   "caracteres": 558,
+   "texte": "Pendant que vous préparez son devis, le client compare encore les fiches Google des maçons du coin.\n\nUne fiche Google, c'est ce que Google montre quand on cherche « maçon » près de chez soi, avec les photos, la note et les avis. Avant un gros chantier, on la lit de près.\n\nPetit sondage entre professionnels. Qu'est-ce qui rassure le plus ?\nA. Des photos de chantiers finis\nB. Des avis sur le respect des délais\nC. Une réponse sous chaque avis\n\nVotez en commentaire avec une lettre.\n\n#FicheGoogle #Macon #Maconnerie #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvybm82n009nkb7zlct6lyxv",
+   "caracteres": 599,
+   "texte": "Pendant que vous préparez son devis, le client compare encore les fiches Google des maçons du coin.\n\nPour un mur, une terrasse ou une extension, il ne choisit pas au hasard. Il ouvre les fiches Google, ces encadrés avec photos, note et avis que Google affiche pour chaque entreprise. Votre fiche Google en fait partie.\n\nSelon vous, qu'est-ce qui le rassure le plus ?\nA. Des photos de chantiers finis\nB. Des avis sur le respect des délais\nC. Une réponse sous chaque avis\n\nChaque piste est détaillée dans les images. Vous votez pour quelle lettre ?\n\n#FicheGoogle #Macon #Maconnerie #ReferencementLocal"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

@@ -1,0 +1,49 @@
+{
+ "id": "2026-11-07_0630_garage-test-des-3-dates",
+ "date_paris": "2026-11-07",
+ "heure_paris": "06:15",
+ "creneau_nominal": "06:30",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Chez vous, quelle date est la plus ancienne, celle de la dernière photo, de la dernière réponse à un avis ou de la dernière publication ?",
+ "jour_semaine": "samedi",
+ "creneau": "texte",
+ "metier": "garage",
+ "angle": "peur-de-perdre",
+ "format": "test",
+ "ton": "replique",
+ "symptome": "note-sans-contexte",
+ "offre": "essai",
+ "accroche": "« Ce garage existe toujours ? » Votre fiche Google répond à votre place, en 3 dates.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#Garage",
+  "#Garagiste",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "aucun",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/Hu4ExP5kj3.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "x",
+   "postiz_id": "cmvybkzbw008zkb7zfl57gd1f",
+   "caracteres": 258,
+   "texte": "« Ce garage existe toujours ? » Votre fiche Google répond à votre place, en 3 dates.\n\nSur cet encadré de Google Maps, regardez la dernière photo, la dernière réponse à un avis et la dernière publication.\n\nLaquelle est la plus ancienne ?\n\n#FicheGoogle #Garage"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvybkzde0091kb7zp7ki33zs",
+   "caracteres": 721,
+   "texte": "« Ce garage existe toujours ? » Votre fiche Google répond à votre place, en 3 dates.\n\nSur Google Maps, chaque garage a sa fiche Google, avec la note, les photos et le bouton Appeler. Un automobiliste qui ne vous connaît pas la parcourt en quelques secondes.\n\nFaites le test ce week-end, depuis votre téléphone.\nRegardez la date de votre dernière photo.\nRegardez la date de votre dernière réponse à un avis.\nRegardez la date de votre dernière publication.\n\nSi les trois datent de cette saison, le client voit un garage en activité. Si l'une remonte à 2021, il peut se poser la question.\n\nChez vous, laquelle des trois dates est la plus ancienne ?\n\n#FicheGoogle #Garage #Garagiste #ReferencementLocal #GoogleBusinessProfile"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

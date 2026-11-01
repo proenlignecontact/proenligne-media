@@ -1,0 +1,49 @@
+{
+ "id": "2026-11-06_0630_coiffeur-salon-qui-repond",
+ "date_paris": "2026-11-06",
+ "heure_paris": "06:30",
+ "creneau_nominal": "06:30",
+ "intention": "preuve",
+ "ab": null,
+ "premier_commentaire": "Coiffeurs, vous répondez aux avis le jour même, dans la semaine, ou quand vous y pensez ?",
+ "jour_semaine": "vendredi",
+ "creneau": "texte",
+ "metier": "coiffeur",
+ "angle": "gain-de-temps",
+ "format": "preuve",
+ "ton": "avant-apres",
+ "symptome": "avis-sans-reponse",
+ "offre": "essai",
+ "accroche": "Avant, trois avis attendaient une réponse sur la fiche Google d'un salon de coiffure. Après, chacun a la sienne.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Coiffeur",
+  "#Coiffure",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "aucun",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/H4UYX5ZT3C.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "x",
+   "postiz_id": "cmvybjre6008hkb7zmrin1un7",
+   "caracteres": 277,
+   "texte": "Avant, trois avis attendaient une réponse sur la fiche Google d'un salon de coiffure. Après, chacun a la sienne.\n\nLa fiche Google, c'est l'encadré avec la note et les avis qu'on voit en cherchant « coiffeur » sur Google Maps.\n\nVous répondez à vos avis ?\n\n#FicheGoogle #Coiffeur"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvybjrfo008jkb7zmchha4r1",
+   "caracteres": 981,
+   "texte": "Avant, trois avis attendaient une réponse sur la fiche Google d'un salon de coiffure. Après, chacun a la sienne.\n\nPrenons un salon imaginaire, le salon Martin. Sa fiche Google, c'est ce que voit une future cliente quand elle cherche « coiffeur » dans son quartier, avec la note, les photos et les avis.\n\nAvant, on y lisait trois avis de Julie, Karim et Nadia. « Super coupe. » « Bon accueil. » « Un peu d'attente, mais ça valait le coup. » Aucune réponse en dessous. Impossible de savoir si le salon les avait lus.\n\nAprès, chaque avis a sa réponse. « Merci Julie, ravis que votre coupe vous plaise, à bientôt ! » « Merci Karim, toute l'équipe est contente de vous avoir bien accueilli. » « Merci Nadia pour votre patience, nous avons revu l'organisation du samedi. »\n\nLa note n'a pas bougé. La future cliente, elle, voit un salon qui écoute.\n\nLaquelle des deux versions vous donnerait envie de réserver ?\n\n#FicheGoogle #Coiffeur #Coiffure #ReferencementLocal #GoogleBusinessProfile"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

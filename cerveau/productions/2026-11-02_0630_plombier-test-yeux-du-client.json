@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-02_0630_plombier-test-yeux-du-client",
+ "date_paris": "2026-11-02",
+ "heure_paris": "06:00",
+ "creneau_nominal": "06:30",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Faites le test et dites-nous ce que vous avez remarqué en premier sur votre fiche Google. La photo, les horaires ou le dernier avis ?",
+ "jour_semaine": "lundi",
+ "creneau": "texte",
+ "metier": "plombier",
+ "angle": "peur-de-perdre",
+ "format": "test",
+ "ton": "question",
+ "symptome": null,
+ "offre": "essai",
+ "accroche": "Avez-vous déjà regardé votre fiche Google avec les yeux d'un client qui a une fuite ?",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#Plombier",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "aucun",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/KBOJCAvnmt.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "x",
+   "postiz_id": "cmvybe41y006fkb7z54mz4v0q",
+   "caracteres": 273,
+   "texte": "Avez-vous déjà regardé votre fiche Google avec les yeux d'un client qui a une fuite ?\n\nTapez « plombier » et votre ville sur Google Maps. Votre fiche Google, c'est l'encadré avec votre nom, vos photos et vos avis.\n\nQu'avez-vous remarqué en premier ?\n\n#FicheGoogle #Plombier"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvybe43u006hkb7z8cn2cmc0",
+   "caracteres": 706,
+   "texte": "Avez-vous déjà regardé votre fiche Google avec les yeux d'un client qui a une fuite ?\n\nLe test prend 30 secondes. Sur votre téléphone, ouvrez Google Maps en navigation privée et tapez « plombier » suivi du nom de votre ville.\n\nLes encadrés qui s'affichent, avec une note, des photos et un bouton Appeler, ce sont des fiches Google. La vôtre est dedans, quelque part.\n\nRegardez-la comme quelqu'un qui a de l'eau sous l'évier et pas le temps de comparer longtemps.\nLa dernière photo montre-t-elle votre travail ?\nLes horaires sont-ils justes ?\nLe dernier avis a-t-il une réponse ?\n\nQu'avez-vous remarqué en premier ? Dites-le en commentaire.\n\n#FicheGoogle #Plombier #ReferencementLocal #GoogleBusinessProfile"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

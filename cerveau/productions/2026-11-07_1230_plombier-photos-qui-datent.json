@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-07_1230_plombier-photos-qui-datent",
+ "date_paris": "2026-11-07",
+ "heure_paris": "12:30",
+ "creneau_nominal": "12:30",
+ "intention": "utile",
+ "ab": "B",
+ "premier_commentaire": "Plombiers, quelle photo de chantier mettriez-vous en premier sur votre fiche Google ?",
+ "jour_semaine": "samedi",
+ "creneau": "video",
+ "metier": "plombier",
+ "angle": "peur-de-perdre",
+ "format": "fiche",
+ "ton": "question",
+ "symptome": "photos-anciennes",
+ "offre": "essai",
+ "accroche": "Sur votre fiche Google, vos photos montrent-elles encore votre travail d'aujourd'hui ?",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#Plomberie",
+  "#Plombier"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/rzqp8Ot7CW.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmvybkzep0093kb7zkgwae9sl",
+   "caracteres": 275,
+   "texte": "Sur votre fiche Google, vos photos montrent-elles encore votre travail d'aujourd'hui ?\nC'est l'encadré que voit un client qui cherche « plombier » sur Google Maps. S'il ne voit que des photos de 2021, il se demande si vous êtes toujours là.\n\n#FicheGoogle #Plombier #Plomberie"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

@@ -1,0 +1,49 @@
+{
+ "id": "2026-11-08_0630_paysagiste-photo-d-avant",
+ "date_paris": "2026-11-08",
+ "heure_paris": "06:15",
+ "creneau_nominal": "06:30",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Paysagistes, quel est le chantier dont vous regrettez de ne pas avoir la photo d'avant ?",
+ "jour_semaine": "dimanche",
+ "creneau": "texte",
+ "metier": "paysagiste",
+ "angle": "gain-de-temps",
+ "format": "constat",
+ "ton": "question",
+ "symptome": "photos-anciennes",
+ "offre": "essai",
+ "accroche": "Pourquoi les plus belles transformations se voient-elles si rarement sur la fiche Google des paysagistes ?",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#Jardin",
+  "#Paysagiste",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "aucun",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/ySD6zN2JXt.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "x",
+   "postiz_id": "cmvybm7xv009hkb7zip8nvwa4",
+   "caracteres": 276,
+   "texte": "Pourquoi les plus belles transformations se voient-elles si rarement sur la fiche Google des paysagistes ?\n\nLa fiche Google est l'encadré avec photos et avis que Google montre aux clients. La photo d'avant y manque souvent. Vous pensez à la prendre ?\n\n#FicheGoogle #Paysagiste"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmvybm7zc009jkb7znfyedmhh",
+   "caracteres": 904,
+   "texte": "Pourquoi les plus belles transformations se voient-elles si rarement sur la fiche Google des paysagistes ?\n\nCherchez « paysagiste » dans votre ville. Les encadrés avec une note et des photos sont des fiches Google. Regardez les photos. On y voit souvent des pelouses, rarement des transformations.\n\nLa raison est simple. Le jour où l'on arrive sur un terrain en friche, on pense au travail, pas à la photo. Et sans la photo d'avant, celle d'après impressionne beaucoup moins.\n\nLe réflexe tient en une photo. En arrivant, avant de sortir le matériel, photographiez le terrain depuis l'endroit où vous prendrez la photo finale.\n\nAvec la photo d'avant et celle d'après publiées sur votre fiche Google, un client comprend tout de suite ce que vous savez faire.\n\nVous pensez à prendre la photo d'avant, ou c'est toujours trop tard ?\n\n#FicheGoogle #Paysagiste #Jardin #ReferencementLocal #GoogleBusinessProfile"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}
