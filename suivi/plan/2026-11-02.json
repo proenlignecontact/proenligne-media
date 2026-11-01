@@ -296,7 +296,7 @@
     "gabarit": "question",
     "surtitre": "Un sondage sur la fiche Google",
     "titre": "À note égale, qu'est-ce qui fait choisir un institut ?",
-    "mot": "réserver",
+    "mot": "choisir",
     "reponses": [
      "A. Des photos récentes des soins",
      "B. Des réponses aux avis",
@@ -579,7 +579,7 @@
       "type": "point",
       "numero": "1",
       "titre": "Avant",
-      "texte": "La fiche Google d'Électricité Bernard indique seulement « électricien ». Rien ne parle des bornes de recharge installées."
+      "texte": "La fiche Google d'Électricité Bernard indique « électricien ». Rien ne parle des bornes de recharge installées."
      },
      {
       "type": "point",

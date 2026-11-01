@@ -1,6 +1,6 @@
 {
  "lundi": "2026-11-02",
- "empreinte": "8a27aab43123a6d1",
+ "empreinte": "043e8353c8821bec",
  "nb": 18,
  "nb_a_relire": 1,
  "consigne": "Un verdict pour chaque élément a_relire=true (les autres sont du contexte déjà validé : verdict facultatif, mais à refuser s'ils contredisent un élément relu).",
@@ -113,7 +113,7 @@
    "cle": "2026-11-06 13:00|plan|visuel carte avant",
    "h": "a938f0376a13",
    "id": "e4e9468",
-   "a_relire": true
+   "a_relire": false
   },
   {
    "ref": "2026-11-06 13:00",
@@ -139,11 +139,11 @@
    "ref": "2026-11-06 13:00",
    "source": "plan",
    "champ": "visuel slide 2 texte",
-   "texte": "La fiche Google d'Électricité Bernard indique seulement « électricien ». Rien ne parle des bornes de recharge installées.",
+   "texte": "La fiche Google d'Électricité Bernard indique « électricien ». Rien ne parle des bornes de recharge installées.",
    "cle": "2026-11-06 13:00|plan|visuel slide 2 texte",
-   "h": "e967d329c138",
+   "h": "ebd566b8b9de",
    "id": "e185094",
-   "a_relire": false
+   "a_relire": true
   },
   {
    "ref": "2026-11-06 13:00",
