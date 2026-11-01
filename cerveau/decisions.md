@@ -106,3 +106,10 @@ Chaque lot hebdomadaire ajoute ici ses décisions, avec le chiffre qui les justi
 - **A/B TikTok** : garage (A mardi « « Ils ne lisent pas leurs avis ? » », réplique / B jeudi 12:30, constat) et plombier (A jeudi « Pendant que vous réparez une fuite… » / B samedi 12:30, question).
 - **Historique des pubs** : les 7 entrées du 01/11 issues de l'essai 1 (vidéos jamais publiées) sont gardées dans `historique-pubs.json` par prudence ; elles bloquent des formulations proches.
 - **Relecture** : 4 passes (82, 26, 21 puis 3 refus). Relecteurs neufs en parallèle par tranche de jours ; à partir de la passe 3, les verdicts « ok » des créneaux sans changement ni refus sont repris (fichier `part0`). Arrêt à la règle des 4 passes avec 3 éléments encore refusés (corrigés depuis dans les sources) : rien n'a été rendu ni programmé.
+
+## 2026-11-01 (dimanche soir, exécution de secours) — Semaine du 2/11 rendue et programmée
+
+- **Reprise à l'étape 7** : la tâche du matin avait laissé plan, briefs et relecture validés (433/433) mais rien de rendu ni programmé ; Postiz était vide pour la semaine. L'exécution de secours a rendu les 9 vidéos, 7 images et 7 carrousels, puis programmé les **63 posts** (tous en QUEUE), sans toucher au plan ni aux briefs validés (2 corrections de forme dans les briefs visuels, 1 élément relu à nouveau, 0 refus).
+- **Exploration 50 / 50 maintenue, aucune décision chiffrée** : relevé du 01/11 (16 h 51 UTC), 1 publication mesurée sur 3 fiches, 8 trop récentes ; seuils (30 au total, 5 par valeur) non atteints. Rien dans `suivi/amplifier.json`.
+- **Mix** : 15 utiles / 4 preuves / 2 offres ; A/B TikTok garage (mardi → jeudi 12:30) et plombier (jeudi → samedi 12:30) ; ambiances 0/1/2 en alternance.
+- **À surveiller au prochain relevé** : les 9 TikTok en DIRECT_POST et les 5 premiers posts LinkedIn page (stats par post attendues) ; Facebook texte de 06:30 toujours sans stat par post.
