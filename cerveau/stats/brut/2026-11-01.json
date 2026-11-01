@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-01T11:53:39.559Z",
+    "generatedAt": "2026-11-01T15:31:27.978Z",
     "days": 60,
     "channels": [
         {
@@ -37,8 +37,8 @@
                     },
                     {
                         "metric": "Views",
-                        "latest": 861,
-                        "sum": 861,
+                        "latest": 863,
+                        "sum": 863,
                         "percentageChange": 0
                     },
                     {
@@ -91,6 +91,60 @@
                     },
                     {
                         "metric": "Page followers",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 5
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "name": "Proenligne",
+            "platform": "linkedin-page",
+            "profile": "proenligne",
+            "disabled": false,
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Page Views",
+                        "latest": 5,
+                        "sum": 5,
+                        "percentageChange": 5
+                    },
+                    {
+                        "metric": "Clicks",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 5
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 5
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 5
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 5
+                    },
+                    {
+                        "metric": "Organic Followers",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 5
+                    },
+                    {
+                        "metric": "Paid Followers",
                         "latest": 0,
                         "sum": 0,
                         "percentageChange": 5
@@ -196,8 +250,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 774,
-                        "sum": 774,
+                        "latest": 776,
+                        "sum": 776,
                         "percentageChange": 0
                     },
                     {
@@ -329,14 +383,14 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 2,
-                        "sum": 2,
+                        "latest": 5,
+                        "sum": 5,
                         "percentageChange": 0
                     },
                     {
                         "metric": "Reach",
-                        "latest": 2,
-                        "sum": 2,
+                        "latest": 4,
+                        "sum": 4,
                         "percentageChange": 0
                     },
                     {
@@ -405,8 +459,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 1,
-                        "sum": 1,
+                        "latest": 2,
+                        "sum": 2,
                         "percentageChange": 0
                     },
                     {
