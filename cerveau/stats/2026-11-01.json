@@ -1,15 +1,7 @@
 {
- "releve_le": "2026-11-01T15:59:27.328Z",
+ "releve_le": "2026-11-01T16:22:12.913Z",
  "source": "2026-11-01.json",
  "posts": [
-  {
-   "postiz_id": "cmvwmarjg0009kb7z3a3a0qpg",
-   "canal": "tiktok",
-   "vues": 776,
-   "likes": 1,
-   "commentaires": 0,
-   "partages": 0
-  },
   {
    "postiz_id": "cmvwm8ppv0006kb7zqwx8v1rh",
    "canal": "facebook",
@@ -53,6 +45,11 @@
    "raison": "Postiz ne connaît pas l'ID du post sur la plateforme"
   },
   {
+   "postiz_id": "cmvwmarjg0009kb7z3a3a0qpg",
+   "canal": "tiktok",
+   "raison": "Aucune statistique renvoyée par la plateforme"
+  },
+  {
    "postiz_id": "cmvscsk1w0000o77z1vrubvpf",
    "canal": "facebook",
    "raison": "Aucune statistique renvoyée par la plateforme"
@@ -69,16 +66,7 @@
   }
  ],
  "comptes": {
-  "tiktok": {
-   "Followers": 0,
-   "Following": 6,
-   "Total Likes": 1,
-   "Videos": 2,
-   "Views": 863,
-   "Recent Likes": 1,
-   "Recent Comments": 0,
-   "Recent Shares": 0
-  },
+  "tiktok": {},
   "facebook": {
    "Page Impressions": 5,
    "Media views": 40,

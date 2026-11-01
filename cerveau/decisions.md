@@ -77,3 +77,8 @@ Chaque lot hebdomadaire ajoute ici ses décisions, avec le chiffre qui les justi
 - **A/B TikTok** : garage (A mardi 19:00 « Pendant que vous êtes sous une voiture… » / B jeudi 12:30 « 5 étoiles sur votre fiche Google… ») et plombier (A jeudi « Il est 22 h… » / B samedi 12:30 « Vous trouvez les fuites sans casser… ») : ouverture « pendant que » / « scène » contre ouverture « constat chiffré ».
 - **TikTok surveillé en priorité** : la vidéo du 31/10 en DIRECT_POST a fait 774 vues en < 24 h contre 0 à 2 ailleurs (non encore « mesurée »). Les 9 TikTok de la semaine sont en DIRECT_POST pour confirmer.
 - **Outil** : `outils/visuel.py` n'affiche plus « Essayez gratuitement » en pied de la dernière slide d'un carrousel sauf si `cta = offre` (règle : jamais d'offre dans le visuel d'un contenu utile).
+
+## 2026-11-01 17 h 30 (Paris) — 2e exécution (lancée à la main) : semaine du 2/11 déjà pleine
+
+- **Aucune programmation, aucun média** : les 63 posts (61 de la grille + 2 variantes B) programmés une demi-heure plus tôt par l'exécution précédente sont tous en file dans Postiz et correspondent exactement à `suivi/plan/2026-11-02-ids.json`. Rien supprimé ni modifié.
+- **Stats** : relevé frais reçu (action « success »). Toujours 1 publication mesurée → exploration 50 / 50, aucune décision chiffrée. À noter : la vidéo TikTok du 31/10 (774 vues la veille) renvoie désormais « Aucune statistique renvoyée par la plateforme » ; à surveiller au prochain relevé.
