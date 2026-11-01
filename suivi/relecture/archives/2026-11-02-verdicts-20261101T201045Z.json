@@ -1,0 +1,15 @@
+{
+ "empreinte": "678b660ebcfa62dc",
+ "verdicts": [
+  {
+   "id": "e4e9468",
+   "verdict": "refuse",
+   "motif": "Critère 1 (compréhensible seul) : « Elle » n'a aucun antécédent sur la carte, qui n'affiche que l'enseigne « Électricité Bernard » et le métier ; on peut même lire que c'est l'entreprise qui « dit électricien », alors qu'il s'agit de sa fiche Google.",
+   "proposition": "Sa fiche Google dit électricien."
+  },
+  {
+   "id": "ec855f8",
+   "verdict": "ok"
+  }
+ ]
+}

@@ -4,6 +4,8 @@ usage : python3 cerveau/verifier.py suivi/plan/<lundi>.json [--briefs <dossier d
 sortie : « plan OK » (code 0) ou la liste des problèmes (code 1).
   --briefs     : contrôle aussi les textes des briefs vidéo (règles n°1-2-3, phrases complètes)
   --relecture  : exige une relecture validée et à jour (cerveau/relecture.py controler) — obligatoire avant programmation
+  --sans-medias : ne vérifie pas la présence des médias (étape « avant rendu » : les URL Postiz n'existent pas encore).
+                  Sans cette option, un créneau sans média est refusé — c'est l'état exigé juste avant programmation.
 
 Règles mécaniques appliquées à CHAQUE élément textuel (textes, accroche, titres, premier commentaire, briefs visuels et vidéo) :
   n°1 « fiche Google » · n°2 aucun prix · n°3 aucune statistique ni résultat client (cerveau/regles_texte.py).
@@ -74,7 +76,7 @@ def minutes(h):
     a, b = h.split(':'); return int(a) * 60 + int(b)
 
 
-def verifier(plan):
+def verifier(plan, medias=True):
     cr = plan['creneaux'] if isinstance(plan, dict) else plan
     pb = []
     fiches = [json.load(open(f, encoding='utf-8')) for f in glob.glob(os.path.join(ICI, 'productions', '*.json'))]
@@ -148,8 +150,8 @@ def verifier(plan):
             if not tt or len(tt) > 90: pb.append(f'{ref} : tiktok_title manquant ou > 90 caractères')
             if PRIX.search(yt + tt): pb.append(f'{ref} : prix dans un titre')
         m = c.get('media') or {}
-        if typ == 'video' and not (m.get('postiz_vertical') or m.get('vertical')): pb.append(f'{ref} : vidéo verticale manquante')
-        if typ == 'visuel':
+        if medias and typ == 'video' and not (m.get('postiz_vertical') or m.get('vertical')): pb.append(f'{ref} : vidéo verticale manquante')
+        if medias and typ == 'visuel':
             car = m.get('carrousel')
             if car is not None and not 3 <= len(car) <= 5: pb.append(f'{ref} : carrousel de {len(car)} images (3 à 5 attendues)')
             if not car and not m.get('postiz'): pb.append(f'{ref} : média manquant (carrousel ou image)')
@@ -238,7 +240,7 @@ if __name__ == '__main__':
     if len(sys.argv) < 2:
         raise SystemExit(__doc__)
     plan = json.load(open(sys.argv[1], encoding='utf-8'))
-    pb = verifier(plan)
+    pb = verifier(plan, medias='--sans-medias' not in sys.argv)
     briefs = sys.argv[sys.argv.index('--briefs') + 1] if '--briefs' in sys.argv else None
     if briefs:
         pb += verifier_briefs(briefs)
@@ -249,4 +251,4 @@ if __name__ == '__main__':
         pb += ['relecture — ' + x for x in relecture.controler(lundi, briefs)]
     if pb:
         print('\n'.join('ATTENTION : ' + p for p in pb)); sys.exit(1)
-    print('plan OK' + (' (briefs vidéo contrôlés)' if briefs else '') + (' + relecture validée' if '--relecture' in sys.argv else ''))
+    print('plan OK' + (' (briefs vidéo contrôlés)' if briefs else '') + (' + relecture validée' if '--relecture' in sys.argv else '') + (' — médias non vérifiés' if '--sans-medias' in sys.argv else ''))

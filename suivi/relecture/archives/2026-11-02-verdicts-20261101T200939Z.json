@@ -1,0 +1,341 @@
+{
+ "empreinte": "e47e8742c173ee58",
+ "verdicts": [
+  {
+   "id": "e13e2e9",
+   "verdict": "ok"
+  },
+  {
+   "id": "edb8357",
+   "verdict": "ok"
+  },
+  {
+   "id": "ed5ccde",
+   "verdict": "ok"
+  },
+  {
+   "id": "efbc761",
+   "verdict": "ok"
+  },
+  {
+   "id": "ec390bd",
+   "verdict": "ok"
+  },
+  {
+   "id": "eaa1791",
+   "verdict": "ok"
+  },
+  {
+   "id": "e40f636",
+   "verdict": "ok"
+  },
+  {
+   "id": "e140c04",
+   "verdict": "ok"
+  },
+  {
+   "id": "ed84a12",
+   "verdict": "ok"
+  },
+  {
+   "id": "ecd3859",
+   "verdict": "ok"
+  },
+  {
+   "id": "eab7bb2",
+   "verdict": "ok"
+  },
+  {
+   "id": "ef0d5e4",
+   "verdict": "ok"
+  },
+  {
+   "id": "e2e744d",
+   "verdict": "ok"
+  },
+  {
+   "id": "e8f1231",
+   "verdict": "ok"
+  },
+  {
+   "id": "e3d3acc",
+   "verdict": "ok"
+  },
+  {
+   "id": "e46df22",
+   "verdict": "ok"
+  },
+  {
+   "id": "e8f4a33",
+   "verdict": "ok"
+  },
+  {
+   "id": "e8eb221",
+   "verdict": "ok"
+  },
+  {
+   "id": "e4e9468",
+   "verdict": "refuse",
+   "motif": "Critère 1 (compréhensible seul) : « Juste « électricien » » est un télégramme sans sujet ni verbe, qui ne se comprend pas lu froidement en dehors de la case « Avant ».",
+   "proposition": "La fiche Google dit seulement « électricien »."
+  },
+  {
+   "id": "ec855f8",
+   "verdict": "refuse",
+   "motif": "Critère 1 (compréhensible seul) : « Bornes de recharge en photo » est un enchaînement de noms sans verbe, incompréhensible hors de la case « Après ».",
+   "proposition": "Une photo montre une borne de recharge installée."
+  },
+  {
+   "id": "e0ad87e",
+   "verdict": "ok"
+  },
+  {
+   "id": "e185094",
+   "verdict": "ok"
+  },
+  {
+   "id": "e5139bf",
+   "verdict": "ok"
+  },
+  {
+   "id": "e939183",
+   "verdict": "ok"
+  },
+  {
+   "id": "e1c0920",
+   "verdict": "ok"
+  },
+  {
+   "id": "e74c4c3",
+   "verdict": "ok"
+  },
+  {
+   "id": "ee2b3a4",
+   "verdict": "ok"
+  },
+  {
+   "id": "ef1d477",
+   "verdict": "ok"
+  },
+  {
+   "id": "ee72106",
+   "verdict": "ok"
+  },
+  {
+   "id": "e39b585",
+   "verdict": "ok"
+  },
+  {
+   "id": "e93569a",
+   "verdict": "ok"
+  },
+  {
+   "id": "e455537",
+   "verdict": "ok"
+  },
+  {
+   "id": "ee3a23b",
+   "verdict": "ok"
+  },
+  {
+   "id": "e2496d0",
+   "verdict": "ok"
+  },
+  {
+   "id": "e55fa67",
+   "verdict": "ok"
+  },
+  {
+   "id": "eb7df03",
+   "verdict": "ok"
+  },
+  {
+   "id": "e3f39ad",
+   "verdict": "ok"
+  },
+  {
+   "id": "e3d3725",
+   "verdict": "ok"
+  },
+  {
+   "id": "e5caa8c",
+   "verdict": "ok"
+  },
+  {
+   "id": "e8b58f4",
+   "verdict": "ok"
+  },
+  {
+   "id": "e2bc300",
+   "verdict": "ok"
+  },
+  {
+   "id": "e62ab5a",
+   "verdict": "ok"
+  },
+  {
+   "id": "e39d024",
+   "verdict": "ok"
+  },
+  {
+   "id": "e97a78b",
+   "verdict": "ok"
+  },
+  {
+   "id": "e8f5873",
+   "verdict": "ok"
+  },
+  {
+   "id": "ef655e5",
+   "verdict": "ok"
+  },
+  {
+   "id": "e1e4d2d",
+   "verdict": "ok"
+  },
+  {
+   "id": "ec39f29",
+   "verdict": "ok"
+  },
+  {
+   "id": "e24bf16",
+   "verdict": "ok"
+  },
+  {
+   "id": "ecb6ca4",
+   "verdict": "ok"
+  },
+  {
+   "id": "e5961a3",
+   "verdict": "ok"
+  },
+  {
+   "id": "e5958c4",
+   "verdict": "ok"
+  },
+  {
+   "id": "e61a89a",
+   "verdict": "ok"
+  },
+  {
+   "id": "e6430f0",
+   "verdict": "ok"
+  },
+  {
+   "id": "e6414a1",
+   "verdict": "ok"
+  },
+  {
+   "id": "e90ccd0",
+   "verdict": "ok"
+  },
+  {
+   "id": "eb189ae",
+   "verdict": "ok"
+  },
+  {
+   "id": "e1273fa",
+   "verdict": "ok"
+  },
+  {
+   "id": "e692704",
+   "verdict": "ok"
+  },
+  {
+   "id": "e5fec35",
+   "verdict": "ok"
+  },
+  {
+   "id": "eb48306",
+   "verdict": "ok"
+  },
+  {
+   "id": "ea88d6f",
+   "verdict": "ok"
+  },
+  {
+   "id": "ecb39ec",
+   "verdict": "ok"
+  },
+  {
+   "id": "ef4434e",
+   "verdict": "ok"
+  },
+  {
+   "id": "ebea101",
+   "verdict": "ok"
+  },
+  {
+   "id": "e267d7d",
+   "verdict": "ok"
+  },
+  {
+   "id": "eea3926",
+   "verdict": "ok"
+  },
+  {
+   "id": "e50305a",
+   "verdict": "ok"
+  },
+  {
+   "id": "e32a7fe",
+   "verdict": "ok"
+  },
+  {
+   "id": "e2b32a9",
+   "verdict": "ok"
+  },
+  {
+   "id": "e7720f5",
+   "verdict": "ok"
+  },
+  {
+   "id": "e4eab79",
+   "verdict": "ok"
+  },
+  {
+   "id": "e163186",
+   "verdict": "ok"
+  },
+  {
+   "id": "eb534f3",
+   "verdict": "ok"
+  },
+  {
+   "id": "ed5c967",
+   "verdict": "ok"
+  },
+  {
+   "id": "ee6ad40",
+   "verdict": "ok"
+  },
+  {
+   "id": "ec7f590",
+   "verdict": "ok"
+  },
+  {
+   "id": "e563a8e",
+   "verdict": "ok"
+  },
+  {
+   "id": "e6fdee2",
+   "verdict": "ok"
+  },
+  {
+   "id": "e4722ee",
+   "verdict": "ok"
+  },
+  {
+   "id": "ecc8e27",
+   "verdict": "ok"
+  },
+  {
+   "id": "e80f431",
+   "verdict": "ok"
+  },
+  {
+   "id": "e4c75a1",
+   "verdict": "ok"
+  }
+ ]
+}

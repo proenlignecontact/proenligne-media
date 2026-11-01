@@ -569,8 +569,8 @@
     "carte": {
      "enseigne": "Électricité Bernard",
      "metier": "Électricien",
-     "avant": "Juste « électricien »",
-     "apres": "Bornes de recharge en photo"
+     "avant": "Sa fiche Google dit électricien.",
+     "apres": "Une photo montre une borne posée."
     },
     "cta": "question",
     "question": "Quel service faites-vous sans qu'il apparaisse sur Google ?",
