@@ -92,3 +92,7 @@ Chaque lot hebdomadaire ajoute ici ses décisions, avec le chiffre qui les justi
 - **Visuels** : plus de réponse pré-cochée, typographie française (pas de « ? » orphelin), blocs plus grands pour moins de vide.
 - **Règle n°5 (Maxime, 1/11 18 h)** : aucun « : » dans un texte publié, ça ne fait pas naturel. 147 occurrences dans la semaine générée. Contrôle mécanique dans `regles_texte.problemes`, critère n°7 de la relecture, prompts mis à jour.
 - **Relecture test sur la semaine du 2/11** : 426 éléments, 75 refus (stats clients, classement Google affirmé, télégraphique, contradictions texte/visuel, Weber ×7). Verdicts conservés dans `suivi/relecture/2026-11-02.json`.
+
+## 2026-11-01 18 h 15 — Semaine du 2/11 remise à zéro une 2e fois, relance avec les 5 règles et la relecture
+
+- Les 63 posts du 1er essai supprimés de Postiz ; fiches, plan, médias, briefs et rapport retirés. Les verdicts de la relecture test sont archivés dans `suivi/relecture/archives/2026-11-02-essai1*.json` (75 refus sur 426) pour comparaison avec le 2e essai.
