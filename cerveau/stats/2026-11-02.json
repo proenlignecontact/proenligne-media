@@ -1,0 +1,143 @@
+{
+ "releve_le": "2026-11-02T13:37:37.852Z",
+ "source": "2026-11-02.json",
+ "posts": [
+  {
+   "postiz_id": "cmvwmarjg0009kb7z3a3a0qpg",
+   "canal": "tiktok",
+   "vues": 778,
+   "likes": 2,
+   "commentaires": 0,
+   "partages": 0
+  },
+  {
+   "postiz_id": "cmvwm8ppv0006kb7zqwx8v1rh",
+   "canal": "facebook",
+   "vues": 2,
+   "likes": 0,
+   "engagement_total": 0
+  },
+  {
+   "postiz_id": "cmvybe43u006hkb7z8cn2cmc0",
+   "canal": "facebook",
+   "vues": 0,
+   "likes": 0,
+   "clics": 0
+  },
+  {
+   "postiz_id": "cmvybe47b006lkb7zjxsy83sq",
+   "canal": "facebook",
+   "vues": 0,
+   "likes": 0,
+   "clics": 0
+  },
+  {
+   "postiz_id": "cmvybe48l006nkb7zxgqac8v9",
+   "canal": "linkedin",
+   "likes": 0,
+   "commentaires": 1
+  },
+  {
+   "postiz_id": "cmvscsk3y0001o77z79evxv7h",
+   "canal": "instagram",
+   "vues": 0,
+   "portee": 0,
+   "enregistrements": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "partages": 0
+  },
+  {
+   "postiz_id": "cmvwm8pog0005kb7z54kpm83z",
+   "canal": "instagram",
+   "vues": 5,
+   "portee": 4,
+   "enregistrements": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "partages": 0
+  },
+  {
+   "postiz_id": "cmvybe45b006jkb7z4fshdqcy",
+   "canal": "instagram",
+   "vues": 0,
+   "portee": 0,
+   "enregistrements": 0,
+   "likes": 0,
+   "commentaires": 1,
+   "partages": 0
+  },
+  {
+   "postiz_id": "cmvwm8prg0007kb7z6jff27hx",
+   "canal": "youtube",
+   "vues": 3,
+   "likes": 0,
+   "commentaires": 0,
+   "enregistrements": 0
+  }
+ ],
+ "indisponibles": [
+  {
+   "postiz_id": "cmvsd5nrv000co77z6pi0gl8u",
+   "canal": "tiktok",
+   "raison": "Postiz ne connaît pas l'ID du post sur la plateforme"
+  },
+  {
+   "postiz_id": "cmvscsk1w0000o77z1vrubvpf",
+   "canal": "facebook",
+   "raison": "Aucune statistique renvoyée par la plateforme"
+  },
+  {
+   "postiz_id": "cmvse6ufu000eo77zjtho46xq",
+   "canal": "x",
+   "raison": "Aucune statistique renvoyée par la plateforme"
+  },
+  {
+   "postiz_id": "cmvwmari50008kb7z04egfpim",
+   "canal": "x",
+   "raison": "Aucune statistique renvoyée par la plateforme"
+  },
+  {
+   "postiz_id": "cmvybe41y006fkb7z54mz4v0q",
+   "canal": "x",
+   "raison": "Aucune statistique renvoyée par la plateforme"
+  }
+ ],
+ "comptes": {
+  "tiktok": {
+   "Followers": 0,
+   "Following": 6,
+   "Total Likes": 3,
+   "Videos": 2,
+   "Views": 865,
+   "Recent Likes": 3,
+   "Recent Comments": 0,
+   "Recent Shares": 0
+  },
+  "facebook": {
+   "Page Impressions": 6,
+   "Media views": 42,
+   "Posts Engagement": 5,
+   "Page followers": 0
+  },
+  "linkedin": {
+   "Page Views": 5,
+   "Clicks": 0,
+   "Shares": 0,
+   "Engagement": 0,
+   "Comments": 0,
+   "Organic Followers": 0,
+   "Paid Followers": 0
+  },
+  "instagram": {},
+  "x": {},
+  "youtube": {
+   "Estimated Minutes Watched": 1,
+   "Average View Duration": 42,
+   "Average View Percentage": 126.19,
+   "Subscribers Gained": 0,
+   "Subscribers Lost": 0,
+   "Likes": 1
+  }
+ }
+}
