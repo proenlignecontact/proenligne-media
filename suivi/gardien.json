@@ -1,1 +1,13 @@
-{"recrees": [], "echecs": []}
+{
+ "recrees": [],
+ "echecs": [
+  {
+   "date": "2026-11-03",
+   "postiz_id": "cmvybe4a1006pkb7zuua09yzk",
+   "canal": "tiktok",
+   "publie_prevu": "2026-11-02T19:29:00Z",
+   "erreur": "App not approved for public posting, contact support",
+   "note": "Non recréé : réglage content_posting_method UPLOAD et refus TikTok lié à l'application (recréer à l'identique échouerait pareil). À traiter manuellement."
+  }
+ ]
+}
