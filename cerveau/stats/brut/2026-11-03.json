@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-03T08:55:11.859Z",
+    "generatedAt": "2026-11-03T12:51:57.357Z",
     "days": 60,
     "channels": [
         {
@@ -37,8 +37,8 @@
                     },
                     {
                         "metric": "Views",
-                        "latest": 1366,
-                        "sum": 1366,
+                        "latest": 1617,
+                        "sum": 1617,
                         "percentageChange": 0
                     },
                     {
@@ -85,8 +85,8 @@
                     },
                     {
                         "metric": "Posts Engagement",
-                        "latest": 0,
-                        "sum": 7,
+                        "latest": 1,
+                        "sum": 8,
                         "percentageChange": 5
                     },
                     {
@@ -498,6 +498,50 @@
             }
         },
         {
+            "id": "cmvybfky30073kb7ziqtgmmsj",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-03T11:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/122101312257531668/posts/122102582511531668",
+            "content": "La m\u00eame boulangerie peut avoir deux visages sur sa fiche Google. Lequel donne faim ?\n\nCherchez \u00ab boulangerie \u00bb dans votre ville. Les encadr\u00e9s avec une note et des photos sont des fiches Google. C'est souvent l\u00e0 que se joue le choix du croissant du dimanche.\n\nVoici une boulangerie imaginaire, la boulangerie Durand, en deux versions.\nAvant, sa fiche Google n'avait qu'une photo, une vitrine vide prise un soir apr\u00e8s la fermeture.\nApr\u00e8s, une photo de la fourn\u00e9e du matin est publi\u00e9e chaque lundi, avec les baguettes, les viennoiseries et l'\u00e9quipe.\n\nLe pain est le m\u00eame, la note aussi. Seules les photos de la fiche Google ont chang\u00e9.\n\nLaquelle vous donnerait envie d'entrer ?\n\n#FicheGoogle #Boulangerie #Boulanger #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks by Type",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
             "id": "cmvybe48l006nkb7zxgqac8v9",
             "platform": "linkedin-page",
             "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
@@ -505,6 +549,32 @@
             "state": "PUBLISHED",
             "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7522994853601808384",
             "content": "Dans un salon de coiffure, les plus belles r\u00e9alisations finissent souvent dans le t\u00e9l\u00e9phone du coiffeur, rarement sur la fiche Google du salon.\n\nLa fiche Google, c'est ce qu'une future cliente voit quand elle cherche \u00ab coiffeur \u00bb sur Google ou Google Maps. Avant de r\u00e9server, elle regarde les photos, la note et les horaires.\n\nLe constat revient dans beaucoup de salons. Les photos existent, mais personne n'a le r\u00e9flexe de les publier. La fiche Google montre alors des coupes anciennes, ou aucune coupe.\n\nTrois habitudes changent la donne sans prendre de temps.\nPhotographier \u00e0 la lumi\u00e8re du jour, pr\u00e8s de la vitrine.\nDemander l'accord de la cliente, ce qui cr\u00e9e souvent un bon moment d'\u00e9change.\nPublier le soir m\u00eame, plut\u00f4t que de garder les photos pour plus tard.\n\nProenligne publie une photo chaque lundi sur la fiche Google des salons qui lui confient la t\u00e2che, mais le r\u00e9flexe de photographier reste celui de l'\u00e9quipe.\n\nDans votre salon, qui est charg\u00e9 des photos ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Coiffure",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybfkz60075kb7zddwqarz5",
+            "platform": "linkedin-page",
+            "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "publishDate": "2026-11-03T11:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7523349688343773184",
+            "content": "Deux versions de la m\u00eame fiche Google de boulangerie, et une seule donne vraiment envie d'entrer.\nLa fiche Google, c'est l'encadr\u00e9 que Google affiche quand un client cherche \u00ab boulangerie \u00bb pr\u00e8s de chez lui.\n\nPrenons une boulangerie imaginaire.\n\nDans la premi\u00e8re version, sa fiche Google ne montre qu'une photo, une vitrine vide prise un soir apr\u00e8s la fermeture. Rien n'indique ce qu'on y trouve ni qui sert au comptoir.\n\nDans la seconde, une photo de la fourn\u00e9e du matin est publi\u00e9e chaque lundi. On voit le pain, les viennoiseries, l'\u00e9quipe.\n\nLe produit est identique, la note aussi. Ce qui change, c'est ce que le client voit avant de pousser la porte.\n\nC'est ce travail r\u00e9gulier que Proenligne prend en charge pour les commer\u00e7ants, une photo le lundi et un article le jeudi.\n\nQuelle image de votre commerce aimeriez-vous que vos clients voient en premier ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Boulangerie #Commerce",
             "stats": {
                 "available": true,
                 "metrics": [
@@ -694,6 +764,56 @@
                         "metric": "Reach",
                         "latest": 6,
                         "sum": 6,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybfkx20071kb7z95e8z4m3",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-03T11:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/p/DfRzkBniE8X/",
+            "content": "La m\u00eame boulangerie peut avoir deux visages sur sa fiche Google. Lequel donne faim ?\n\nLa fiche Google, c'est l'encadr\u00e9 qui s'affiche quand on cherche \u00ab boulangerie \u00bb sur Google Maps, avec la note, les photos et les horaires.\n\nPrenons une boulangerie imaginaire, la boulangerie Durand.\n\nAvant, sa fiche Google n'avait qu'une photo, une vitrine vide prise un soir apr\u00e8s la fermeture.\n\nApr\u00e8s, une photo de la fourn\u00e9e du matin arrive chaque lundi. On voit les baguettes, les viennoiseries et l'\u00e9quipe derri\u00e8re le comptoir.\n\nLe pain est le m\u00eame et la note aussi. Ce qui change, c'est ce que le client voit avant de choisir o\u00f9 s'arr\u00eater.\n\nVous, vous entreriez dans laquelle ?\n\n#FicheGoogle #Boulangerie #Boulanger #ReferencementLocal #GoogleBusinessProfile",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 0,
+                        "sum": 0,
                         "percentageChange": 0
                     },
                     {
