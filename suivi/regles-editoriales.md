@@ -171,8 +171,11 @@ Ne pas utiliser deux fois le même format le même jour, ni le même format deux
 - Nettoyage : supprimer (`git rm`) les dossiers `medias/` de plus de 14 jours, une fois les posts publiés.
 
 ## Vidéos 19:00 (depuis le 4 novembre 2026)
-- Les vidéos sont produites avec les skills « pub-cinetique-proenligne » (typographie cinétique sur aplats) et « pub-plan-sequence-proenligne » (une caméra parcourt un décor), rendues en MP4 par `outils/pub-video.py` (installer, tirage, valider, rendre). Le skill pub-motion-proenligne n'est plus utilisé.
-- Rotation : les deux moteurs alternent d'un jour à l'autre, les 4 angles (Plus de clients, Face au concurrent, Du temps libre, Plus d'appels) tournent sans se suivre, la ville et l'ambiance sonore changent chaque jour (`tirage`, villes dans `suivi/villes-pubs.json`).
+- SEULS trois skills produisent de la vidéo : « pub-swipe-proenligne » (fiches Google qu'on swipe), « pub-cinetique-proenligne » (typographie cinétique) et « pub-plan-sequence-proenligne » (une caméra parcourt un décor). Jamais pub-motion-proenligne ni un autre outil vidéo.
+- Rendu MP4 par `outils/pub-video.py` (installer, tirage, valider, lignes, noter, telecharger, caler, rendre). Rotation : les 3 moteurs tournent d'un jour à l'autre, les 4 angles (Plus de clients, Face au concurrent, Du temps libre, Plus d'appels) ne se suivent jamais, ville et ambiance changent chaque jour (villes dans `suivi/villes-pubs.json`).
+- Son : voix off ElevenLabs (voix Nico, modèle eleven_multilingual_v2, une prise par ligne) + bruitages de la banque `outils/assets/sfx/`. La voix commande la durée : 15 à 18 s, plafond 20 s. Musique de banque (`outils/assets/musique/`) seulement si le brief a "musique": true ; par défaut, voix + bruitages.
+- Script de voix : vouvoiement, ≤ 9 mots par ligne (≤ 10 en Bascule), « Pro en ligne » en trois mots, « fiche Google » en entier, aucun prix (jamais « 14,99 euros »), aucun résultat chiffré, aucun « : ». La dernière ligne invite à essayer gratuitement, sans engagement.
+- Les fichiers ElevenLabs passent par l'action GitHub « Téléchargement audio » (le terminal des sessions ne joint pas ElevenLabs).
 - La scène Offre affiche « Essai gratuit, sans engagement » (aucun prix) ; la preuve client est toujours coupée.
 
 ## « fiche Google » dans les visuels (depuis le 4 novembre 2026)

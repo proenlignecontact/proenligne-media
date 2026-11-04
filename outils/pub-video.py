@@ -404,11 +404,11 @@ def telecharger(fichiers, attente=420):
 
 # ---------------------------------------------------------------- mixage
 def mixer(plan, b, sortie_m4a, musique):
-    entrees, filtres, voix, sfx = [], [], [], []
+    entrees, filtres, voix, sfx, nb = [], [], [], [], [0]
     total = plan['total']
 
     def entree(f, at, gain, lab):
-        k = len(entrees); entrees.extend(['-i', f]); ms = int(round(at * 1000))
+        k = nb[0]; nb[0] += 1; entrees.extend(['-i', f]); ms = int(round(at * 1000))
         filtres.append(f'[{k}:a]aresample=48000,aformat=channel_layouts=stereo,adelay={ms}|{ms},volume={gain}[{lab}{k}]')
         return f'[{lab}{k}]'
     for v in plan['voix']:
@@ -419,7 +419,7 @@ def mixer(plan, b, sortie_m4a, musique):
     filtres.append(f'{"".join(sfx)}amix=inputs={len(sfx)}:normalize=0,apad,atrim=0:{total}[sfx]')
     bus = ['[voxa]', '[sfx]']
     if musique:
-        k = len(entrees); entrees.extend(['-stream_loop', '-1', '-i', musique])
+        k = nb[0]; nb[0] += 1; entrees.extend(['-stream_loop', '-1', '-i', musique])
         filtres.append('[vox]asplit=2[voxa][voxk]')
         filtres.append(f'[{k}:a]aresample=48000,aformat=channel_layouts=stereo,atrim=0:{total},afade=t=out:st={max(0, total - 0.8)}:d=0.8,volume={GAINS["musique"]}[mus]')
         filtres.append('[mus][voxk]sidechaincompress=threshold=0.03:ratio=8:attack=20:release=350[musd]')
