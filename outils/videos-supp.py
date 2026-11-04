@@ -76,6 +76,21 @@ def verifier(plan_f, briefs=None):
         if 'briefs OK' not in r.stdout: pb += r.stdout.strip().splitlines()
         slugs = {os.path.basename(f)[:-5] for f in glob.glob(os.path.join(briefs, '*.json'))}
         pb += [f'{p["slug"]} : brief absent de {briefs}' for p in P if p['slug'] not in slugs]
+        # variété : jamais le même moteur + angle à moins de 3 jours, vidéos de 19:00 comprises (audit du 4/11/2026)
+        lundi = re.search(r'(\d{4}-\d{2}-\d{2})', os.path.basename(plan_f))
+        vids = []
+        for p in P:
+            f = os.path.join(briefs, p['slug'] + '.json')
+            if os.path.exists(f):
+                b = json.load(open(f, encoding='utf-8'))
+                vids.append((p['utc'][:10], b.get('moteur'), b.get('angle'), p['slug']))
+        hebdo = os.path.join(REPO, 'suivi', 'plan', f'{lundi.group(1)}-videos.json') if lundi else ''
+        if hebdo and os.path.exists(hebdo):
+            vids += [(e['date'][:10], e.get('moteur'), e.get('angle'), e.get('metier', '') + ' (19:00)') for e in json.load(open(hebdo, encoding='utf-8'))]
+        for i, (d1, m1, a1, s1) in enumerate(vids):
+            for d2, m2, a2, s2 in vids[i + 1:]:
+                if m1 == m2 and a1 == a2 and abs((dt.date.fromisoformat(d1) - dt.date.fromisoformat(d2)).days) <= 2:
+                    pb.append(f'{s1} et {s2} : même moteur ({m1}) et même angle (« {a1} ») à moins de 3 jours')
     print('\n'.join(pb) if pb else 'plan supp OK')
     return 1 if pb else 0
 
