@@ -1,0 +1,19 @@
+{
+ "empreinte": "54a713bf0b05d078",
+ "verdicts": [
+  {
+   "id": "e547cdd",
+   "verdict": "ok"
+  },
+  {
+   "id": "ec824b9",
+   "verdict": "ok"
+  },
+  {
+   "id": "e3ad8bc",
+   "verdict": "refuse",
+   "motif": "Critère 1, « la fiche Google se fait le soir » est une ellipse obscure, car on ne « fait » pas une fiche Google chaque soir et un artisan qui découvre la vidéo ne comprend pas qu'il s'agit de s'en occuper (photos, réponses aux avis).",
+   "proposition": "Chauffagiste à Toulouse, on gère sa *fiche Google* le soir ?"
+  }
+ ]
+}
