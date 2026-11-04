@@ -1,0 +1,23 @@
+{
+ "empreinte": "b241a3c887340cb8",
+ "verdicts": [
+  {
+   "id": "e547cdd",
+   "verdict": "refuse",
+   "motif": "Critère 1 : « à valider » n'a ni sujet ni objet clair ; placé juste après « chaque avis », il se lit comme « valider l'avis négatif » (ce qui serait d'ailleurs faux), alors que c'est vous qui validez la réponse.",
+   "proposition": "Comptez sur une réponse par avis, validée par vous s'il est négatif"
+  },
+  {
+   "id": "ec824b9",
+   "verdict": "refuse",
+   "motif": "Critère 1 : « à valider » n'a ni sujet ni objet clair ; placé juste après « chaque avis », il se lit comme « valider l'avis négatif » (ce qui serait d'ailleurs faux), alors que c'est vous qui validez la réponse.",
+   "proposition": "Comptez sur une réponse par avis, validée par vous s'il est négatif"
+  },
+  {
+   "id": "e3ad8bc",
+   "verdict": "refuse",
+   "motif": "Critère 1 : « la fiche Google vous attend ? » est une ellipse, on ne sait pas ce qui attend ni pourquoi ; affichée seule sous l'horloge à la 1re image, la phrase ne dit pas que le travail sur la fiche Google mange les soirées.",
+   "proposition": "Chauffagiste à Toulouse, la *fiche Google* se fait le soir ?"
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 {
  "lundi": "2026-11-09",
- "empreinte": "b241a3c887340cb8",
+ "empreinte": "54a713bf0b05d078",
  "nb": 49,
  "nb_a_relire": 3,
  "consigne": "Un verdict pour chaque élément a_relire=true (les autres sont du contexte déjà validé : verdict facultatif, mais à refuser s'ils contredisent un élément relu).",
@@ -99,9 +99,9 @@
    "ref": "2026-11-11 13:00",
    "source": "plan",
    "champ": "visuel point 3",
-   "texte": "Comptez sur une réponse à chaque avis, à valider si l'avis est négatif",
+   "texte": "Comptez sur une réponse par avis, validée par vous s'il est négatif",
    "cle": "2026-11-11 13:00|plan|visuel point 3",
-   "h": "5ccc0fb7fcae",
+   "h": "fbcb6d5ebaf4",
    "id": "e547cdd",
    "a_relire": true
   },
@@ -269,9 +269,9 @@
    "ref": "2026-11-14 13:00",
    "source": "plan",
    "champ": "visuel point 3",
-   "texte": "Comptez sur une réponse à chaque avis, à valider si l'avis est négatif",
+   "texte": "Comptez sur une réponse par avis, validée par vous s'il est négatif",
    "cle": "2026-11-14 13:00|plan|visuel point 3",
-   "h": "5ccc0fb7fcae",
+   "h": "fbcb6d5ebaf4",
    "id": "ec824b9",
    "a_relire": true
   },
@@ -449,9 +449,9 @@
    "ref": "2026-11-15 19:00",
    "source": "brief:chauffagiste-semaine-toulouse",
    "champ": "accroche B",
-   "texte": "Chauffagiste à Toulouse, la *fiche Google* vous attend ?",
+   "texte": "Chauffagiste à Toulouse, la *fiche Google* se fait le soir ?",
    "cle": "2026-11-15 19:00|brief:chauffagiste-semaine-toulouse|accroche B",
-   "h": "bf7c63f120e2",
+   "h": "820e2471b370",
    "id": "e3ad8bc",
    "a_relire": true
   },
