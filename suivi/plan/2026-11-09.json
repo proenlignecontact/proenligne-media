@@ -271,7 +271,7 @@
      "enseigne": "Garage Martin",
      "metier": "Garage",
      "avant": "Un atelier vide, photo de 2021",
-     "apres": "Chaque lundi, on voit l'équipe au travail"
+     "apres": "On voit l'équipe chaque lundi"
     },
     "cta": "question",
     "question": "À quel garage confieriez-vous votre voiture ?"
@@ -451,7 +451,7 @@
      "enseigne": "Auto-école Durand",
      "metier": "Auto-école",
      "avant": "Rien de publié depuis la rentrée",
-     "apres": "L'école publie le lundi et le jeudi"
+     "apres": "Elle publie le lundi et le jeudi"
     },
     "cta": "question",
     "question": "Laquelle choisiriez-vous pour votre enfant ?",
@@ -460,7 +460,7 @@
       "type": "point",
       "numero": "1",
       "titre": "Avant",
-      "texte": "La fiche Google affiche une bonne note, mais rien n'a été publié depuis la rentrée. On se demande si l'école prend des élèves."
+      "texte": "La note est bonne, mais rien n'a été publié depuis la rentrée. L'école prend-elle encore des élèves ?"
      },
      {
       "type": "point",

@@ -422,6 +422,11 @@ T('2026-11-15', '19:00', 'textes.youtube', "Chauffagiste à Toulouse, vos soiré
 T('2026-11-11', '13:00', 'visuel.points.2', "Comptez sur une réponse par avis, validée par vous s'il est négatif")  # e547cdd
 T('2026-11-14', '13:00', 'visuel.points.2', "Comptez sur une réponse par avis, validée par vous s'il est négatif")  # ec824b9
 
+# ───────── Ajustements de longueur imposés par outils/visuel.py (relus à nouveau) ─────────
+T('2026-11-11', '06:30', 'visuel.carte.apres', "On voit l'équipe chaque lundi")
+T('2026-11-12', '13:00', 'visuel.carte.apres', "Elle publie le lundi et le jeudi")
+T('2026-11-12', '13:00', 'visuel.slides.0.texte', "La note est bonne, mais rien n'a été publié depuis la rentrée. L'école prend-elle encore des élèves ?")
+
 C.sort(key=lambda c: (c['date'], c['creneau_nominal']))
 p = os.path.join(ICI, f'{LUNDI}.json')
 ancien = {}

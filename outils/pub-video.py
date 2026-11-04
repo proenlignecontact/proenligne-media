@@ -136,6 +136,8 @@ REMPLACEMENTS = [
     ("sub={'4,8 · '", "sub={'4,2 · '"),                                # le concurrent a la même note : la note n'est pas l'argument
     ('text={line} size={132}', 'text={window.PUB_OFFRE_LIGNE || line} size={132}'),  # phrase de l'Offre variable par vidéo
     ('Dernière photo : il y a 2 ans', 'Dernière photo il y a 2 ans'),
+    ('Après dix heures de chantier.', 'Après une longue journée de travail.'),   # cinétique « Du temps libre » : vaut pour tous les métiers (salon, boutique…)
+    ("Vos appels aujourd'hui : {calls}", "Appels aujourd'hui · {calls}"),   # règle n°5 (swipe « Plus d'appels »)
     ('Nouvelle photo : lundi', 'Nouvelle photo lundi'),
     ('Publication : jeudi', 'Publication jeudi'),
     ('dernière photo : 2021', 'dernière photo en 2021'),

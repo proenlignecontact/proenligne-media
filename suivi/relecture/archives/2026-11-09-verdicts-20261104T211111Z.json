@@ -1,0 +1,19 @@
+{
+ "empreinte": "92e5f12eb1af4e2a",
+ "verdicts": [
+  {
+   "id": "ec607df",
+   "verdict": "ok"
+  },
+  {
+   "id": "e232f89",
+   "verdict": "refuse",
+   "motif": "Critère 10 (et 2), sans article, « publie lundi et jeudi » désigne ce lundi et ce jeudi-ci, une seule fois, alors que les slides et les textes décrivent un rythme régulier, « le lundi » et « le jeudi ».",
+   "proposition": "Elle publie le lundi et le jeudi"
+  },
+  {
+   "id": "ec61c63",
+   "verdict": "ok"
+  }
+ ]
+}
