@@ -8,21 +8,23 @@ dépôt (n°1 « fiche Google », n°2 aucun prix, n°3 aucune statistique clien
 sans engagement », preuve client coupée, heures « 21h00 », chaque « fiche » → « fiche Google ». Au rendu, tout le texte
 réellement affiché est relevé image par image et passé dans cerveau/regles_texte.py : un seul problème = rendu refusé.
 
-AUDIO (comme le décrit references/audio-elevenlabs.md des skills) : la voix commande le tempo. Chaque ligne de voix est
-générée à part (connecteur ElevenLabs, voix Nico MAZdzkb78f8SA7DNBT41, modèle eleven_multilingual_v2, 1 prise) ; chaque
-scène dure le temps de ses phrases, arrondi au temps (120 BPM), avec `nat` = durée d'auteur, et la chorégraphie s'étire.
-Bruitages : banque fixe outils/assets/sfx/*.mp3 (générée une fois), placés sur les gestes de chaque pub. Musique : banque
-outils/assets/musique/ambiance-<0|1|2>.mp3, seulement si le brief a "musique": true (par défaut : voix + bruitages seuls).
-Le terminal ne peut pas joindre ElevenLabs : les fichiers passent par l'action GitHub « Téléchargement audio » (commande
-`telecharger`).
+AUDIO (comme le décrit references/audio-elevenlabs.md des skills) : la voix commande le tempo. Le script entier est dit
+D'UNE TRAITE (bien plus naturel que phrase par phrase) : connecteur ElevenLabs, voix « Marcel - French touch »
+kENkNtk0xyzG09WW40xE, modèle eleven_v4, 1 prise, avec des balises de jeu ([warmly], [pause], [excited]…). La prise est
+redécoupée aux pauses entre les phrases ; chaque scène dure le temps de ses phrases, arrondi au temps (120 BPM), avec
+`nat` = durée d'auteur, et la chorégraphie s'étire. Bruitages : banque fixe outils/assets/sfx/*.mp3, placés sur les gestes.
+Musique : banque outils/assets/musique/ambiance-<0|1|2>.mp3, en fond très bas (≈ 17 LU sous la voix, baissée encore
+pendant qu'elle parle) ; "musique": false la retire. Le terminal ne peut pas joindre ElevenLabs : les fichiers passent
+par l'action GitHub « Téléchargement audio » (commande `telecharger`).
 
 usage :
   installer                                   prépare /home/claude/pub-video-work (une fois par session)
   tirage <lundi> --metiers m1,…,m7            moteur / angle / ville / ambiance des 7 vidéos 19:00, en rotation
                                               (écrit suivi/plan/<lundi>-videos.json)
   valider <brief.json> …                      contrôle les briefs → « briefs OK »
-  lignes <brief.json> [--variante A|B]        liste les lignes de voix à générer, avec leur id (vo-accroche-A, vo-1…)
-  noter <brief.json> <id> <url> <duree>       enregistre une ligne générée (url signée + duration_secs d'ElevenLabs)
+  prise <brief.json> [--variante A|B]         donne l'id (prise-A / prise-B), la voix, le modèle et le TEXTE EXACT à envoyer
+                                              à mcp__ElevenLabs__creative_generate_speech (une prise par variante)
+  noter <brief.json> <id> <url> <duree>       enregistre la prise générée (content_url signée + duration_secs)
   telecharger <brief.json> …                  fait télécharger par l'action GitHub tous les fichiers notés et absents
                                               (medias/audio/<slug>/<id>.mp3), attend, tire le dépôt, vérifie
   caler <brief.json> [--variante A|B]         affiche le calage (durées des scènes, départs des voix, total)
@@ -45,12 +47,14 @@ Brief vidéo (suivi/briefs/<lundi>/<slug>.json ; slug = celui du créneau 19:00 
       {"scene": "Bascule",  "texte": "Pro en ligne la fait vivre chaque semaine."},
       {"scene": "Bascule",  "texte": "Et cette fois, on vous appelle.", "ancre": 3.0},
       {"scene": "Offre",    "texte": "Essayez Pro en ligne gratuitement, sans engagement."}
-    ],
-    "musique": false,            (true = ajoute la musique de banque de l'ambiance)
+    ],                           (champ facultatif "ton" par ligne : balise de jeu en anglais, ex. "curious", "softly",
+                                  "excited", "warmly", "pause" ; défauts warmly / pause / excited / warmly ; "ton_accroche")
+    "musique": true,             (musique de banque de l'ambiance en fond très bas ; false = voix + bruitages seuls)
     "ambiance": 0 | 1 | 2,
     "audio_src": {}              (rempli par `noter`)
   }
-Voix : vouvoiement, phrases courtes (≈ 6-7 mots, ≤ 10 en Bascule), « Pro en ligne » en trois mots, « fiche Google » en entier,
+Voix : écrite pour l'oreille (français parlé, « on » plutôt que « les clients », phrases qui s'enchaînent), vouvoiement,
+phrases courtes (≈ 6-7 mots, ≤ 10 en Bascule), « Pro en ligne » en trois mots, « fiche Google » en entier,
 aucun prix, aucun résultat chiffré, aucun « : ». Durée totale visée 15-18 s, plafond 20 s.
 """
 import glob, json, math, os, re, shutil, subprocess, sys, time
@@ -76,12 +80,14 @@ RACINES = ['/mnt/skills/organization', '/mnt/skills/user', '/mnt/skills/private'
 ANGLES = ['Plus de clients', 'Face au concurrent', 'Du temps libre', "Plus d'appels"]
 NAT = [('Accroche', 3.0), ('Probleme', 4.0), ('Bascule', 5.0), ('Offre', 3.0)]
 SANS_SOIREES = {'boulangerie', 'boulanger', 'restaurant'}
-VOIX_ID, VOIX_MODELE = 'MAZdzkb78f8SA7DNBT41', 'eleven_multilingual_v2'
+VOIX_ID, VOIX_NOM, VOIX_MODELE = 'kENkNtk0xyzG09WW40xE', 'Marcel - French touch', 'eleven_v4'
+TONS = {'Accroche': 'warmly', 'Probleme': 'pause', 'Bascule': 'excited', 'Offre': 'warmly'}  # balises de jeu par défaut (eleven_v4)
 BPM = 120
 BEAT = 60 / BPM
 LEAD, GAP, TAIL = 0.15, 0.25, 0.35
 PLAFOND = 20.0
-GAINS = {'voix': 1.0, 'sfx': 0.5, 'musique': 0.28}
+GAINS = {'voix': 1.0, 'sfx': 0.5}
+MUSIQUE_LUFS, VOIX_LUFS = -33, -16   # musique de fond très basse : ~17 LU sous la voix, et encore baissée pendant qu'elle parle
 SFX_DIR = os.path.join(ICI, 'assets', 'sfx')
 MUSIQUE_DIR = os.path.join(ICI, 'assets', 'musique')
 
@@ -241,12 +247,71 @@ def tirage(lundi, metiers):
 
 # ---------------------------------------------------------------- validation
 def lignes_voix(b, variante='A'):
-    """[(id, scene, texte, ancre)] : l'accroche de la variante, puis les lignes de "voix"."""
+    """[(id, scene, texte, ancre, ton)] : l'accroche de la variante, puis les lignes de "voix"."""
     acc = b.get('accroches') or ['']
     i = 1 if variante == 'B' and len(acc) > 1 else 0
-    out = [(f'vo-accroche-{"AB"[i]}', 'Accroche', acc[i].replace('*', ''), 0.0)]
+    out = [(f'vo-accroche-{"AB"[i]}', 'Accroche', acc[i].replace('*', ''), 0.0, b.get('ton_accroche') or TONS['Accroche'])]
+    vu = set()
     for k, l in enumerate(b.get('voix') or [], 1):
-        out.append((f'vo-{k}', l.get('scene'), l.get('texte', ''), float(l.get('ancre', 0) or 0)))
+        sc = l.get('scene')
+        ton = l.get('ton') or (TONS.get(sc) if sc not in vu else '')
+        vu.add(sc)
+        out.append((f'vo-{k}', sc, l.get('texte', ''), float(l.get('ancre', 0) or 0), ton))
+    return out
+
+
+def id_prise(variante='A'):
+    return f'prise-{variante}'
+
+
+def texte_prise(b, variante='A'):
+    """Le script complet, dit d'une traite (plus naturel que ligne par ligne), avec les balises de jeu eleven_v4."""
+    return ' '.join((f'[{ton}] ' if ton else '') + t.strip() for _, _, t, _, ton in lignes_voix(b, variante))
+
+
+def silences(f):
+    r = subprocess.run(['ffmpeg', '-hide_banner', '-i', f, '-af', 'silencedetect=noise=-35dB:d=0.18', '-f', 'null', '-'],
+                       capture_output=True, text=True).stderr
+    st = [float(x) for x in re.findall(r'silence_start: ([0-9.]+)', r)]
+    en = [float(x) for x in re.findall(r'silence_end: ([0-9.]+)', r)]
+    return list(zip(st, en + [duree_fichier(f)] * (len(st) - len(en))))
+
+
+def decouper(b, variante='A'):
+    """Redécoupe la prise unique en phrases, aux silences les plus proches des fins de phrase attendues.
+    Renvoie [(id, scene, texte, ancre, debut_dans_fichier, duree)]."""
+    f = os.path.join(dossier_audio(b), id_prise(variante) + '.mp3')
+    if not os.path.exists(f):
+        raise SystemExit(f'{os.path.relpath(f, REPO)} absent : générer la prise, `noter`, puis `telecharger`')
+    lignes = lignes_voix(b, variante)
+    total = duree_fichier(f)
+    sil = silences(f)
+    debut = sil[0][1] if sil and sil[0][0] < 0.05 else 0.0
+    fin = sil[-1][0] if sil and sil[-1][1] >= total - 0.05 else total
+    internes = [s for s in sil if s[0] > debut + 0.2 and s[1] < fin - 0.2]
+    poids = [max(1, len(re.sub(r'\W', '', l[2]))) for l in lignes]
+    cumul, attendus = 0, []
+    for w in poids[:-1]:
+        cumul += w; attendus.append(debut + (fin - debut) * cumul / sum(poids))
+    n = len(attendus)
+    if len(internes) < n:
+        raise SystemExit(f'{b["slug"]} {id_prise(variante)} : {len(internes)} pauses pour {n + 1} phrases — prise inexploitable, la régénérer')
+    # choix monotone : pour chaque fin de phrase, la pause la plus proche (les longues pauses sont favorisées)
+    choix, j0 = [], 0
+    for i, t in enumerate(attendus):
+        reste = n - i - 1
+        cands = range(j0, len(internes) - reste)
+        j = min(cands, key=lambda j: abs((internes[j][0] + internes[j][1]) / 2 - t) - 0.6 * (internes[j][1] - internes[j][0]))
+        choix.append(internes[j]); j0 = j + 1
+    bornes = [debut] + [x for s in choix for x in s] + [fin]
+    out = []
+    for k, l in enumerate(lignes):
+        a, z = max(0.0, bornes[2 * k] - 0.04), min(total, bornes[2 * k + 1] + 0.08)
+        out.append(l[:4] + (round(a, 3), round(z - a, 3)))
+    for (id_, sc, t, *_), (*_, d) in zip(lignes, out):
+        att = len(re.findall(r"[\w'’]+", t)) / 2.6
+        if not (0.35 * att <= d <= 2.6 * att + 0.6):
+            raise SystemExit(f'{b["slug"]} : découpage douteux de « {t} » ({d:.2f} s pour ~{att:.1f} s attendues) — régénérer la prise')
     return out
 
 
@@ -330,19 +395,20 @@ def duree_ligne(b, id_):
 
 def caler(b, variante='A'):
     """Durées des scènes (dur / nat), départ de chaque voix et de chaque bruitage, en temps de lecture."""
-    lignes = lignes_voix(b, variante)
-    par_scene = {s: [l for l in lignes if l[1] == s] for s, _ in NAT}
+    segs = decouper(b, variante)
+    src = os.path.join(dossier_audio(b), id_prise(variante) + '.mp3')
+    par_scene = {s: [l for l in segs if l[1] == s] for s, _ in NAT}
     scenes, start, voix = [], 0.0, []
     for s, nat in NAT:
         ls = par_scene[s]
-        d = [duree_ligne(b, l[0]) for l in ls]
+        d = [l[5] for l in ls]
         besoin = LEAD + sum(d) + GAP * max(0, len(d) - 1) + TAIL
         dur = math.ceil(max(besoin, 0.85 * nat) / BEAT - 1e-9) * BEAT
         # ancres : une ligne ne démarre pas avant son ancre convertie
         t = start + LEAD
-        for (id_, _, texte, ancre), di in zip(ls, d):
+        for (id_, _, texte, ancre, ss, _), di in zip(ls, d):
             t = max(t, start + ancre * dur / nat)
-            voix.append({'id': id_, 'texte': texte, 'at': round(t, 3), 'fin': round(t + di, 3), 'scene': s})
+            voix.append({'id': id_, 'texte': texte, 'at': round(t, 3), 'fin': round(t + di, 3), 'scene': s, 'src': src, 'ss': ss, 'dur': di})
             t += di + GAP
         fin_voix = max([v['fin'] for v in voix if v['scene'] == s] or [start])
         while fin_voix > start + dur - 0.3:
@@ -407,22 +473,25 @@ def mixer(plan, b, sortie_m4a, musique):
     entrees, filtres, voix, sfx, nb = [], [], [], [], [0]
     total = plan['total']
 
-    def entree(f, at, gain, lab):
-        k = nb[0]; nb[0] += 1; entrees.extend(['-i', f]); ms = int(round(at * 1000))
-        filtres.append(f'[{k}:a]aresample=48000,aformat=channel_layouts=stereo,adelay={ms}|{ms},volume={gain}[{lab}{k}]')
+    def entree(f, at, gain, lab, ss=None, dur=None):
+        k = nb[0]; nb[0] += 1; ms = int(round(at * 1000))
+        entrees.extend((['-ss', str(ss), '-t', str(dur)] if ss is not None else []) + ['-i', f])
+        fondu = f',afade=t=in:d=0.02,afade=t=out:st={max(0, dur - 0.06):.3f}:d=0.06' if ss is not None else ''
+        filtres.append(f'[{k}:a]aresample=48000,aformat=channel_layouts=stereo{fondu},adelay={ms}|{ms},volume={gain}[{lab}{k}]')
         return f'[{lab}{k}]'
     for v in plan['voix']:
-        voix.append(entree(os.path.join(dossier_audio(b), v['id'] + '.mp3'), v['at'], GAINS['voix'], 'v'))
+        voix.append(entree(v['src'], v['at'], GAINS['voix'], 'v', v['ss'], v['dur']))
     for s in plan['sfx']:
         sfx.append(entree(os.path.join(SFX_DIR, s['id'] + '.mp3'), s['at'], GAINS['sfx'] * (0.8 if s['id'] in ('tic', 'blip') else 1), 's'))
-    filtres.append(f'{"".join(voix)}amix=inputs={len(voix)}:normalize=0,apad,atrim=0:{total}[vox]')
+    filtres.append(f'{"".join(voix)}amix=inputs={len(voix)}:normalize=0,apad,atrim=0:{total},loudnorm=I={VOIX_LUFS}:TP=-3:LRA=11,aresample=48000[vox]')
     filtres.append(f'{"".join(sfx)}amix=inputs={len(sfx)}:normalize=0,apad,atrim=0:{total}[sfx]')
     bus = ['[voxa]', '[sfx]']
     if musique:
         k = nb[0]; nb[0] += 1; entrees.extend(['-stream_loop', '-1', '-i', musique])
         filtres.append('[vox]asplit=2[voxa][voxk]')
-        filtres.append(f'[{k}:a]aresample=48000,aformat=channel_layouts=stereo,atrim=0:{total},afade=t=out:st={max(0, total - 0.8)}:d=0.8,volume={GAINS["musique"]}[mus]')
-        filtres.append('[mus][voxk]sidechaincompress=threshold=0.03:ratio=8:attack=20:release=350[musd]')
+        filtres.append(f'[{k}:a]aresample=48000,aformat=channel_layouts=stereo,atrim=0:{total},loudnorm=I={MUSIQUE_LUFS}:TP=-9:LRA=7,aresample=48000,'
+                       f'afade=t=in:d=0.3,afade=t=out:st={max(0, total - 1.0)}:d=1.0[mus]')
+        filtres.append('[mus][voxk]sidechaincompress=threshold=0.02:ratio=6:attack=30:release=500:makeup=1[musd]')
         bus.append('[musd]')
     else:
         filtres.append('[vox]anull[voxa]')
@@ -483,9 +552,6 @@ def rendre(brief_f, sortie, variante='A', muet=False, fps=30):
     if muet:
         plan = {'scenes': [{'name': s, 'dur': n, 'nat': n, 'start': sum(x for _, x in NAT[:i])} for i, (s, n) in enumerate(NAT)], 'total': 15.0, 'voix': [], 'sfx': []}
     else:
-        for id_, *_ in lignes_voix(b, variante):
-            if not os.path.exists(os.path.join(dossier_audio(b), id_ + '.mp3')):
-                raise SystemExit(f'{id_}.mp3 absent de {os.path.relpath(dossier_audio(b), REPO)} : générer, `noter`, puis `telecharger`')
         plan = caler(b, variante)
     if plan['total'] > PLAFOND + 0.01:
         raise SystemExit(f'durée {plan["total"]} s > {PLAFOND} s : raccourcir la ligne de voix la plus longue et la régénérer')
@@ -557,7 +623,7 @@ def rendre(brief_f, sortie, variante='A', muet=False, fps=30):
         os.replace(video, sortie)
     else:
         musique = None
-        if b.get('musique'):
+        if b.get('musique', True):
             musique = os.path.join(MUSIQUE_DIR, f'ambiance-{b.get("ambiance", 0)}.mp3')
             if not os.path.exists(musique):
                 pb.append(f'musique de banque absente ({os.path.relpath(musique, REPO)}) : rendu sans musique'); musique = None
@@ -575,7 +641,7 @@ def rendre(brief_f, sortie, variante='A', muet=False, fps=30):
     if pb:
         print('RENDU REFUSÉ (vidéo à ne pas publier) :\n' + '\n'.join(pb))
         return 1
-    print(f'vidéo OK : {sortie} ({total:.1f} s, ' + ('muette' if muet else 'voix + bruitages' + (' + musique' if b.get('musique') else '')) + ')')
+    print(f'vidéo OK : {sortie} ({total:.1f} s, ' + ('muette' if muet else 'voix + bruitages' + (' + musique de fond' if b.get('musique', True) else '')) + ')')
     print(f'planche à regarder : {pl_f}\n{len(textes)} textes affichés contrôlés (règles n°1-2-3-5)')
     return 0
 
@@ -592,12 +658,11 @@ if __name__ == '__main__':
         tirage(a[1], [x.strip() for x in opt('--metiers', '').split(',') if x.strip()])
     elif c == 'valider':
         sys.exit(valider([x for x in a[1:] if x.endswith('.json')]))
-    elif c == 'lignes':
-        b = json.load(open(a[1], encoding='utf-8'))
-        print(f'voix {VOIX_ID} (Nico), modèle {VOIX_MODELE}, une prise par ligne :')
-        for id_, s, t, _ in lignes_voix(b, opt('--variante', 'A')):
-            fait = ' (téléchargée)' if os.path.exists(os.path.join(dossier_audio(b), id_ + '.mp3')) else (' (notée)' if id_ in (b.get('audio_src') or {}) else '')
-            print(f'  {id_:<14} {s:<9} {t}{fait}')
+    elif c in ('prise', 'lignes'):
+        b = json.load(open(a[1], encoding='utf-8')); v = opt('--variante', 'A'); id_ = id_prise(v)
+        etat = 'déjà téléchargée' if os.path.exists(os.path.join(dossier_audio(b), id_ + '.mp3')) else ('déjà notée' if id_ in (b.get('audio_src') or {}) else 'à générer')
+        print(f'id : {id_} ({etat})\nvoice_id : {VOIX_ID} ({VOIX_NOM})\nmodel_id : {VOIX_MODELE}\ngenerations_count : 1\nprompt :')
+        print(texte_prise(b, v))
     elif c == 'noter':
         noter(a[1], a[2], a[3], a[4])
     elif c == 'telecharger':
