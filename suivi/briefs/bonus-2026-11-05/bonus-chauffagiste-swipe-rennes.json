@@ -1,0 +1,33 @@
+{
+ "slug": "bonus-chauffagiste-swipe-rennes",
+ "moteur": "swipe",
+ "angle": "Plus de clients",
+ "metier": "chauffagiste",
+ "ville": "Rennes",
+ "entreprise": "",
+ "ambiance": 0,
+ "accroches": [
+  "Un client a froid, il cherche un chauffagiste sur Google.",
+  "Votre fiche Google se joue en deux secondes. Regardez."
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Une fiche Google sans photo récente, il la passe."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne la fait vivre, chaque semaine."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et cette fois, c'est chez vous que ça sonne.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Essayez gratuitement, sans engagement."
+  }
+ ],
+ "musique": true
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "date": "2026-11-05",
+  "moteur": "swipe",
+  "angle": "Plus de clients",
+  "metier": "chauffagiste",
+  "ville": "Rennes",
+  "ambiance": 0
+ },
+ {
+  "date": "2026-11-06",
+  "moteur": "cinetique",
+  "angle": "Face au concurrent",
+  "metier": "coiffeuse",
+  "ville": "Nantes",
+  "ambiance": 1
+ },
+ {
+  "date": "2026-11-07",
+  "moteur": "plan-sequence",
+  "angle": "Plus d'appels",
+  "metier": "boulangerie",
+  "ville": "Lorient",
+  "ambiance": 2
+ },
+ {
+  "date": "2026-11-08",
+  "moteur": "swipe",
+  "angle": "Du temps libre",
+  "metier": "paysagiste",
+  "ville": "Vannes",
+  "ambiance": 0
+ },
+ {
+  "date": "2026-11-09",
+  "moteur": "cinetique",
+  "angle": "Plus de clients",
+  "metier": "couvreur",
+  "ville": "Brest",
+  "ambiance": 1
+ },
+ {
+  "date": "2026-11-10",
+  "moteur": "plan-sequence",
+  "angle": "Face au concurrent",
+  "metier": "garage",
+  "ville": "Quimper",
+  "ambiance": 2
+ },
+ {
+  "date": "2026-11-11",
+  "moteur": "swipe",
+  "angle": "Du temps libre",
+  "metier": "fleuriste",
+  "ville": "Saint-Brieuc",
+  "ambiance": 0
+ },
+ {
+  "date": "2026-11-12",
+  "moteur": "cinetique",
+  "angle": "Plus d'appels",
+  "metier": "électricien",
+  "ville": "Angers",
+  "ambiance": 1
+ }
+]

@@ -42,6 +42,8 @@ Brief vidéo (suivi/briefs/<lundi>/<slug>.json ; slug = celui du créneau 19:00 
     "lieu": "",                  (plan-séquence, angle temps)
     "accroches": ["A", "B"],     (cinétique / plan-séquence : affichée ET dite à la 1re image ; swipe : dite seulement,
                                   le titre à l'écran est fixe. *mots* = mis en avant à l'écran)
+    "accroches_dites": ["…"],    (facultatif : ce que la voix dit à la place de l'accroche affichée, quand celle-ci ne se dit
+                                  pas seule, ex. cinétique « Plus de clients » où la valeur jaune « 23 » précède la phrase)
     "voix": [                    (les autres lignes de voix, dans l'ordre ; l'accroche est la 1re ligne, automatiquement)
       {"scene": "Probleme", "texte": "Une fiche Google qui dort, on la passe sans réfléchir."},
       {"scene": "Bascule",  "texte": "Pro en ligne la fait vivre chaque semaine."},
@@ -250,7 +252,9 @@ def lignes_voix(b, variante='A'):
     """[(id, scene, texte, ancre, ton)] : l'accroche de la variante, puis les lignes de "voix"."""
     acc = b.get('accroches') or ['']
     i = 1 if variante == 'B' and len(acc) > 1 else 0
-    out = [(f'vo-accroche-{"AB"[i]}', 'Accroche', acc[i].replace('*', ''), 0.0, b.get('ton_accroche') or TONS['Accroche'])]
+    dites = b.get('accroches_dites') or []
+    dite = dites[i] if i < len(dites) and dites[i] else acc[i].replace('*', '')
+    out = [(f'vo-accroche-{"AB"[i]}', 'Accroche', dite, 0.0, b.get('ton_accroche') or TONS['Accroche'])]
     vu = set()
     for k, l in enumerate(b.get('voix') or [], 1):
         sc = l.get('scene')
@@ -352,6 +356,11 @@ def probs_brief(b, nom=''):
     if scenes != sorted(scenes, key=lambda s: ['Probleme', 'Bascule', 'Offre'].index(s) if s in ('Probleme', 'Bascule', 'Offre') else 9):
         pb.append(f'{ou} voix : lignes dans le désordre des scènes')
     if scenes.count('Bascule') > 2: pb.append(f'{ou} voix : au plus 2 lignes en Bascule')
+    for i, d in enumerate(b.get('accroches_dites') or []):
+        if d:
+            lab = f'{ou} accroche dite {"ABC"[i] if i < 3 else i}'
+            pb += regles_texte.problemes(d, lab) + regles_texte.fiche_seule(d, lab)
+            if 'google' not in d.lower(): pb.append(f'{lab} : sans « Google »')
     mots = 0
     for k, l in enumerate(voix, 1):
         t, lab = l.get('texte', ''), f'{ou} voix {k}'

@@ -1,0 +1,38 @@
+{
+ "slug": "bonus-couvreur-clients-brest",
+ "moteur": "cinetique",
+ "angle": "Plus de clients",
+ "metier": "couvreur",
+ "ville": "Brest",
+ "valeur": "23",
+ "ambiance": 1,
+ "accroches": [
+  "personnes cherchent un couvreur sur *Google* ce matin.",
+  "personnes regardent les *fiches Google* des couvreurs."
+ ],
+ "accroches_dites": [
+  "Ce matin, vingt-trois personnes cherchent un couvreur sur Google.",
+  "Vingt-trois personnes regardent les fiches Google des couvreurs."
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Et la plupart appellent le voisin.",
+   "ton": "pause"
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne fait vivre votre fiche Google, chaque semaine."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Les clients du coin vous trouvent, vous.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Essayez gratuitement, sans engagement."
+  }
+ ],
+ "musique": true
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "bonus-fleuriste-swipe-saint-brieuc",
+ "moteur": "swipe",
+ "angle": "Du temps libre",
+ "metier": "fleuriste",
+ "ville": "Saint-Brieuc",
+ "entreprise": "",
+ "ambiance": 0,
+ "accroches": [
+  "Les bouquets sont prêts. Votre fiche Google, elle, attend.",
+  "Le soir, entre deux commandes, qui s'occupe de votre fiche Google ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Répondre aux avis, poster des photos… encore ce soir.",
+   "ton": "tired"
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne s'en occupe, chaque semaine."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Il vous reste trois minutes pour jeter un œil.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Essayez gratuitement, sans engagement."
+  }
+ ],
+ "musique": true
+}

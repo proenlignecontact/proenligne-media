@@ -1,0 +1,33 @@
+{
+ "slug": "bonus-electricien-appels-angers",
+ "moteur": "cinetique",
+ "angle": "Plus d'appels",
+ "metier": "électricien",
+ "ville": "Angers",
+ "valeur": "0",
+ "ambiance": 1,
+ "accroches": [
+  "Le téléphone est calme ? Regardez votre *fiche Google*.",
+  "Une *fiche Google* endormie, c'est un téléphone qui dort."
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Vos photos datent, vos avis attendent une réponse."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne la réveille, chaque semaine."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et le téléphone recommence à sonner.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Essayez Pro en ligne gratuitement, sans engagement."
+  }
+ ],
+ "musique": true
+}

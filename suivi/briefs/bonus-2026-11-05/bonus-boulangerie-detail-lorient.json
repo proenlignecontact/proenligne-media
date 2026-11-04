@@ -1,0 +1,34 @@
+{
+ "slug": "bonus-boulangerie-detail-lorient",
+ "moteur": "plan-sequence",
+ "angle": "Plus d'appels",
+ "metier": "boulangerie",
+ "ville": "Lorient",
+ "entreprise": "",
+ "lieu": "",
+ "ambiance": 2,
+ "accroches": [
+  "Ce petit détail de votre *fiche Google* coûte des appels.",
+  "Votre *fiche Google* montre encore une photo de 2021 ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Le client hésite… et il appelle à côté."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne remet votre fiche Google à jour."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et votre téléphone se remet à sonner.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Essayez gratuitement, sans engagement."
+  }
+ ],
+ "musique": true
+}

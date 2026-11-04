@@ -100,6 +100,7 @@ def textes_du_brief(b):
     for k in ('suite', 'reveil', 'reveil_sous', 'corps', 'label', 'valeur', 'entreprise', 'lieu'):
         if b.get(k): out.append((k, b[k]))
     for i, n in enumerate(b.get('notifs') or [], 1): out.append((f'notif {i}', n))
+    for i, d in enumerate(b.get('accroches_dites') or []): out.append((f'accroche dite {"ABC"[i] if i < 3 else i}', d))
     for i, l in enumerate(b.get('voix') or [], 1): out.append((f'voix {i} ({l.get("scene", "")}, dite)', l.get('texte', '')))
     for k, v in (b.get('desc') or {}).items(): out.append((f'desc {k}', v))
     sc = b.get('scene') or {}
