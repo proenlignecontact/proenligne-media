@@ -113,3 +113,8 @@ Chaque lot hebdomadaire ajoute ici ses décisions, avec le chiffre qui les justi
 - **Exploration 50 / 50 maintenue, aucune décision chiffrée** : relevé du 01/11 (16 h 51 UTC), 1 publication mesurée sur 3 fiches, 8 trop récentes ; seuils (30 au total, 5 par valeur) non atteints. Rien dans `suivi/amplifier.json`.
 - **Mix** : 15 utiles / 4 preuves / 2 offres ; A/B TikTok garage (mardi → jeudi 12:30) et plombier (jeudi → samedi 12:30) ; ambiances 0/1/2 en alternance.
 - **À surveiller au prochain relevé** : les 9 TikTok en DIRECT_POST et les 5 premiers posts LinkedIn page (stats par post attendues) ; Facebook texte de 06:30 toujours sans stat par post.
+
+## 2026-11-04 — TikTok en UPLOAD (provisoire)
+
+- L'application TikTok n'est pas validée : la publication directe est refusée (« App not approved for public posting », post du 2/11 19:29). Tous les posts TikTok passent en `content_posting_method: UPLOAD` (téléversement dans la boîte de réception TikTok, publication finalisée à la main) jusqu'à la validation de l'application.
+- Conséquence pour l'analyse : un TikTok en UPLOAD n'a pas d'identifiant tant qu'il n'est pas publié à la main ; ne pas le compter comme « publié sans audience ».

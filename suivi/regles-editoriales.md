@@ -107,7 +107,7 @@ Toujours le connecteur personnalisé « postiz » (outils `mcp__postiz__*`, en m
 | X | **280 caractères**, espaces, emojis et hashtags compris ; l'image de 06:30 en pièce jointe | `post_type: post`, `who_can_reply_post: everyone` |
 | Facebook | pratiquement illimitée | `post_type: post` ; à 06:30 avec l'image, à 13:00 avec le carrousel (plusieurs images), à 19:00 avec la vidéo verticale (Reel) |
 | Instagram | 2 200 caractères, au moins 1 média | `post_type: post` |
-| TikTok | 2 000 caractères, 1 vidéo obligatoire | `content_posting_method: DIRECT_POST` (UPLOAD ne publie pas !), `privacy_level: PUBLIC_TO_EVERYONE`, `duet: false`, `stitch: false`, `comment: true`, `autoAddMusic: no`, `brand_content_toggle: false`, `brand_organic_toggle: false`, `video_made_with_ai: false`, `title` ≤ 90 |
+| TikTok | 2 000 caractères, 1 vidéo obligatoire | `content_posting_method: UPLOAD` (**provisoire, depuis le 04/11/2026** : la vidéo est téléversée dans la boîte de réception TikTok sans être publiée, à finaliser à la main dans l'appli ; l'application TikTok n'est pas encore validée et refuse la publication directe. Repasser en `DIRECT_POST` dès sa validation), `privacy_level: PUBLIC_TO_EVERYONE`, `duet: false`, `stitch: false`, `comment: true`, `autoAddMusic: no`, `brand_content_toggle: false`, `brand_organic_toggle: false`, `video_made_with_ai: false`, `title` ≤ 90 |
 | YouTube | titre ≤ 100, description ≤ 5 000, 1 vidéo obligatoire, **verticale 9:16 et ≤ 60 s → publiée en Short** | `title`, `type: public`, `selfDeclaredMadeForKids: no` |
 | LinkedIn (page) | **3 000 caractères** ; carrousel de 3 à 5 images | `post_as_images_carousel: true`, `carousel_name` = l'accroche (≤ 60 car.) |
 
