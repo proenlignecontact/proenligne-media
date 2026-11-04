@@ -1,14 +1,20 @@
 {
- "demande": "2026-11-04T19:21:23Z",
+ "demande": "2026-11-04T20:53:53Z",
  "telecharges": [
-  "medias/audio/bonus-boulangerie-detail-lorient/prise-A.mp3",
-  "medias/audio/bonus-chauffagiste-swipe-rennes/prise-A.mp3",
-  "medias/audio/bonus-coiffeuse-duel-nantes/prise-A.mp3",
-  "medias/audio/bonus-couvreur-clients-brest/prise-A.mp3",
-  "medias/audio/bonus-electricien-appels-angers/prise-A.mp3",
-  "medias/audio/bonus-fleuriste-swipe-saint-brieuc/prise-A.mp3",
-  "medias/audio/bonus-garage-duel-quimper/prise-A.mp3",
-  "medias/audio/bonus-paysagiste-swipe-vannes/prise-A.mp3"
+  "medias/audio/supp-carreleur-appels-rennes/prise-A.mp3",
+  "medias/audio/supp-carrossier-semaine-toulouse/prise-A.mp3",
+  "medias/audio/supp-charpentier-classement-brest/prise-A.mp3",
+  "medias/audio/supp-couvreur-semaine-angers/prise-A.mp3",
+  "medias/audio/supp-demenageur-swipe-quimper/prise-A.mp3",
+  "medias/audio/supp-fleuriste-swipe-tours/prise-A.mp3",
+  "medias/audio/supp-fromager-cinetique-lille/prise-A.mp3",
+  "medias/audio/supp-menuisier-cinetique-caen/prise-A.mp3",
+  "medias/audio/supp-peintre-swipe-lyon/prise-A.mp3",
+  "medias/audio/supp-plaquiste-appels-vannes/prise-A.mp3",
+  "medias/audio/supp-pressing-duel-nantes/prise-A.mp3",
+  "medias/audio/supp-ramoneur-swipe-lorient/prise-A.mp3",
+  "medias/audio/supp-toiletteur-classement-bordeaux/prise-A.mp3",
+  "medias/audio/supp-vitrier-swipe-montpellier/prise-A.mp3"
  ],
  "echecs": []
 }
