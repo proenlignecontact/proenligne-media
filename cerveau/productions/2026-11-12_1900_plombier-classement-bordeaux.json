@@ -1,0 +1,67 @@
+{
+ "id": "2026-11-12_1900_plombier-classement-bordeaux",
+ "date_paris": "2026-11-12",
+ "heure_paris": "19:45",
+ "creneau_nominal": "19:00",
+ "intention": "utile",
+ "ab": "A",
+ "premier_commentaire": "Plombiers, quand vous cherchez votre métier et votre ville sur Google, votre fiche Google apparaît-elle tout de suite ?",
+ "jour_semaine": "jeudi",
+ "creneau": "video",
+ "metier": "plombier",
+ "angle": "peur-de-perdre",
+ "format": "recherche",
+ "ton": "pendant-que",
+ "symptome": null,
+ "offre": "essai",
+ "accroche": "Vous êtes sous un évier, et un client tape « plombier Bordeaux » sur Google.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Bordeaux",
+  "#FicheGoogle",
+  "#Plomberie",
+  "#Plombier",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/ZuPoIxGRXJ.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmw2mc1z500ijkb7ztz7pqssb",
+   "caracteres": 249,
+   "texte": "Vous êtes sous un évier, et un client tape « plombier Bordeaux » sur Google.\nIl voit une liste de fiches Google et il appelle souvent l'une des premières. On voit votre fiche Google ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Plombier #Bordeaux"
+  },
+  {
+   "canal": "instagram",
+   "postiz_id": "cmw2mc20a00ilkb7zoy4wm5a1",
+   "caracteres": 563,
+   "texte": "Vous êtes sous un évier, et un client tape « plombier Bordeaux » sur Google.\n\nIl a une fuite, il n'a pas le temps. Google lui montre des fiches Google avec la note, les photos et le bouton Appeler. Il en compare deux ou trois, et il appelle.\n\nVous, vous êtes occupé, et c'est normal. Votre fiche Google, elle, peut travailler pendant ce temps, avec des photos récentes et des réponses aux avis.\n\nQuand vous faites la recherche dans votre ville, où apparaissez-vous ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Plombier #Plomberie #Bordeaux #ReferencementLocal"
+  },
+  {
+   "canal": "youtube",
+   "postiz_id": "cmw2mc21z00inkb7zyw2n0iq8",
+   "caracteres": 483,
+   "texte": "Vous êtes sous un évier, et un client tape « plombier Bordeaux » sur Google.\n\nLa fiche Google, c'est ce que Google affiche pour chaque plombier, avec les photos, les avis, les horaires et le numéro. Le client compare quelques fiches Google et il appelle.\n\nProenligne publie une photo le lundi, un article le jeudi, et répond à chaque avis, pendant que vous êtes sur le chantier.\n\nOù apparaissez-vous quand vous faites la recherche dans votre ville ?\n\n#FicheGoogle #Plombier #Bordeaux"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmw2mc24000ipkb7z6iovc35e",
+   "caracteres": 513,
+   "texte": "Vous êtes sous un évier, et un client tape « plombier Bordeaux » sur Google.\n\nLa scène se répète chaque jour. Une fuite, un téléphone, une recherche. Google montre des fiches Google, ces encadrés avec la note, les photos et le bouton Appeler.\n\nLe client ne lit pas tout. Il regarde votre fiche Google et deux ou trois autres, les photos récentes, les réponses aux avis, et il choisit.\n\nVous avez déjà fait cette recherche dans votre ville ? Qu'avez-vous vu ?\n\n#FicheGoogle #Plombier #Plomberie #ReferencementLocal"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "",
+ "moteur": "plan-sequence",
+ "angle_video": "Plus de clients",
+ "ville_video": "Bordeaux",
+ "duree_video": 15.5,
+ "voix": "Marcel - French touch",
+ "musique": true
+}

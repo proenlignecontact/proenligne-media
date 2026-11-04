@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-13_0630_chauffagiste-test-du-froid",
+ "date_paris": "2026-11-13",
+ "heure_paris": "06:00",
+ "creneau_nominal": "06:30",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Chauffagistes, vous avez fait le test ? Votre fiche Google arrive avant ou après celles de vos voisins ?",
+ "jour_semaine": "vendredi",
+ "creneau": "texte",
+ "metier": "chauffagiste",
+ "angle": "peur-de-perdre",
+ "format": "test",
+ "ton": "question",
+ "symptome": null,
+ "offre": "essai",
+ "accroche": "Le froid arrive. Tapez « chauffagiste » et votre ville sur Google Maps. Où est votre fiche Google ?",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Chauffage",
+  "#Chauffagiste",
+  "#FicheGoogle",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "aucun",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/QI87dXNe1Z.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "x",
+   "postiz_id": "cmw2md2un00j3kb7z7k61angv",
+   "caracteres": 251,
+   "texte": "Le froid arrive. Tapez « chauffagiste » et votre ville sur Google Maps. Où est votre fiche Google ?\n\nC'est l'encadré avec votre note, vos photos et votre numéro. Un client en panne de chauffage appelle vite.\n\nVous êtes où ?\n\n#FicheGoogle #Chauffagiste"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmw2md2vx00j5kb7zymxz29a1",
+   "caracteres": 564,
+   "texte": "Le froid arrive. Tapez « chauffagiste » et votre ville sur Google Maps. Où est votre fiche Google ?\n\nLes encadrés avec une note, des photos et un bouton Appeler sont des fiches Google. Quand une chaudière tombe en panne un matin de novembre, c'est là que le client cherche.\n\nIl ne compare pas longtemps. Il regarde les premières fiches Google, les photos et les avis, et il appelle.\n\nFaites le test sur votre téléphone, en navigation privée. Vous apparaissez dans les premières, plus bas, ou pas du tout ?\n\n#FicheGoogle #Chauffagiste #Chauffage #ReferencementLocal"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

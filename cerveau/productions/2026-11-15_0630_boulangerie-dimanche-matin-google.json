@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-15_0630_boulangerie-dimanche-matin-google",
+ "date_paris": "2026-11-15",
+ "heure_paris": "06:00",
+ "creneau_nominal": "06:30",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Boulangers, vos horaires du dimanche sont-ils justes sur votre fiche Google ? Vérifiez, ça prend un instant.",
+ "jour_semaine": "dimanche",
+ "creneau": "texte",
+ "metier": "boulangerie",
+ "angle": "peur-de-perdre",
+ "format": "idee-recue",
+ "ton": "contre-intuitif",
+ "symptome": "horaires-faux",
+ "offre": "essai",
+ "accroche": "On pense qu'on ne cherche pas sa boulangerie sur Google. Le dimanche matin, on cherche celle qui est ouverte.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Boulanger",
+  "#Boulangerie",
+  "#FicheGoogle",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "aucun",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/ULC3K3iHpt.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "x",
+   "postiz_id": "cmw2mexqo00l3kb7z80yrj5ne",
+   "caracteres": 222,
+   "texte": "On pense qu'on ne cherche pas sa boulangerie sur Google. Le dimanche matin, on cherche celle qui est ouverte.\n\nLa fiche Google affiche vos horaires sur Google Maps. Ceux du dimanche sont justes ?\n\n#FicheGoogle #Boulangerie"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmw2mexst00l5kb7zhxilf2nc",
+   "caracteres": 549,
+   "texte": "On pense qu'on ne cherche pas sa boulangerie sur Google. Le dimanche matin, on cherche celle qui est ouverte.\n\nUne famille en vacances, un voisin qui vient d'emménager, quelqu'un qui a oublié le pain. Ils tapent « boulangerie ouverte » sur leur téléphone. Google leur montre des fiches Google avec les horaires, la note et l'itinéraire.\n\nSi vos horaires du dimanche sont faux, ils vont ailleurs, ou ils trouvent porte close.\n\nVos horaires du dimanche sont-ils justes sur votre fiche Google ?\n\n#FicheGoogle #Boulangerie #Boulanger #ReferencementLocal"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

@@ -1,0 +1,67 @@
+{
+ "id": "2026-11-11_1900_coiffeuse-soiree-avis-caen",
+ "date_paris": "2026-11-11",
+ "heure_paris": "19:30",
+ "creneau_nominal": "19:00",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Coiffeuses, à quel moment de la journée répondez-vous aux avis de votre fiche Google ? Le soir, le midi, jamais ?",
+ "jour_semaine": "mercredi",
+ "creneau": "video",
+ "metier": "coiffeur",
+ "angle": "gain-de-temps",
+ "format": "journee",
+ "ton": "question",
+ "symptome": "avis-sans-reponse",
+ "offre": "essai",
+ "accroche": "Coiffeuse à Caen, encore vos avis Google à cette heure-ci ?",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Caen",
+  "#Coiffeuse",
+  "#Coiffure",
+  "#FicheGoogle",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/rOj7Rdw5mY.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmw2maw4w00hbkb7zzbspg653",
+   "caracteres": 254,
+   "texte": "Coiffeuse à Caen, encore vos avis Google à cette heure-ci ?\nLe salon est fermé, et votre fiche Google, celle que voient les clientes sur Google Maps, attend encore ses photos et ses réponses.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Coiffeuse #Caen"
+  },
+  {
+   "canal": "instagram",
+   "postiz_id": "cmw2maw6000hdkb7z2m4nzqcr",
+   "caracteres": 581,
+   "texte": "Coiffeuse à Caen, encore vos avis Google à cette heure-ci ?\n\nLe salon est fermé, le sol est balayé. Et sur le canapé, il reste votre fiche Google, l'encadré que voient les clientes quand elles cherchent « coiffeur » sur Google Maps.\n\nUne photo à publier, trois clientes à remercier pour leur avis, une réponse à trouver pour le client qui râle. Il y en a un peu tous les soirs.\n\nProenligne s'en charge en journée, pendant que vous coiffez.\n\nÀ quelle heure répondez-vous à vos avis, vous ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Coiffeuse #Coiffure #Caen #ReferencementLocal"
+  },
+  {
+   "canal": "youtube",
+   "postiz_id": "cmw2maw7f00hfkb7zuyb64wi9",
+   "caracteres": 446,
+   "texte": "Coiffeuse à Caen, encore vos avis Google à cette heure-ci ?\n\nVotre fiche Google, c'est ce que voient vos futures clientes quand elles cherchent un salon sur Google Maps. Elle demande des photos et des réponses aux avis, souvent le soir, une fois le salon fermé.\n\nProenligne publie une photo le lundi, un article le jeudi, et répond à chaque avis, en journée.\n\nÀ quel moment vous occupez-vous de votre fiche Google ?\n\n#FicheGoogle #Coiffeuse #Caen"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmw2maw8i00hhkb7zzgcuzd1k",
+   "caracteres": 459,
+   "texte": "Coiffeuse à Caen, encore vos avis Google à cette heure-ci ?\n\nLe salon est fermé depuis longtemps. Sur votre téléphone, votre fiche Google, celle que voient les clientes sur Google Maps avec vos photos et vos avis, attend encore une réponse.\n\nCe n'est pas grand-chose, un soir. Mais tous les soirs, ça finit par compter.\n\nEt vous, vous répondez à vos avis plutôt le soir, le midi, ou quand vous y pensez ?\n\n#FicheGoogle #Coiffeuse #Coiffure #ReferencementLocal"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "",
+ "moteur": "cinetique",
+ "angle_video": "Du temps libre",
+ "ville_video": "Caen",
+ "duree_video": 16.0,
+ "voix": "Marcel - French touch",
+ "musique": true
+}

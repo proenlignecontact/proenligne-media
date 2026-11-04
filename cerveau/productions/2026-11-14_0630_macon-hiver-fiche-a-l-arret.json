@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-14_0630_macon-hiver-fiche-a-l-arret",
+ "date_paris": "2026-11-14",
+ "heure_paris": "06:00",
+ "creneau_nominal": "06:30",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Maçons, que montrez-vous sur votre fiche Google entre deux gros chantiers ? Un petit travail, une rénovation, rien ?",
+ "jour_semaine": "samedi",
+ "creneau": "texte",
+ "metier": "macon",
+ "angle": "peur-de-perdre",
+ "format": "constat",
+ "ton": "constat",
+ "symptome": "aucune-publication",
+ "offre": "essai",
+ "accroche": "En hiver, les chantiers ralentissent, et la fiche Google d'un maçon s'arrête souvent avec eux.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#Macon",
+  "#Maconnerie",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "aucun",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/X6jDjhSeSo.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "x",
+   "postiz_id": "cmw2me1dl00k9kb7zey2gb8et",
+   "caracteres": 255,
+   "texte": "En hiver, les chantiers ralentissent, et la fiche Google d'un maçon s'arrête souvent avec eux.\n\nC'est pourtant l'encadré que les clients regardent sur Google Maps pour préparer leurs travaux du printemps.\n\nVous publiez quoi en hiver ?\n\n#FicheGoogle #Macon"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmw2me1f000kbkb7zatxc7jf9",
+   "caracteres": 656,
+   "texte": "En hiver, les chantiers ralentissent, et la fiche Google d'un maçon s'arrête souvent avec eux.\n\nPourtant, c'est l'hiver que beaucoup de clients préparent leurs travaux du printemps. Ils cherchent « maçon » sur Google Maps et regardent les fiches Google, avec les photos, les avis et le numéro.\n\nUne fiche Google sans rien de nouveau depuis l'été laisse un doute. Est-ce que l'entreprise prend encore des chantiers ?\n\nUn muret réparé, une ouverture dans un mur, un chantier en cours sous la bâche. Ça suffit à montrer que vous êtes là.\n\nQue montrez-vous sur votre fiche Google entre deux gros chantiers ?\n\n#FicheGoogle #Macon #Maconnerie #ReferencementLocal"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

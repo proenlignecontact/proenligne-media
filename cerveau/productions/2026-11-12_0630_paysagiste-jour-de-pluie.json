@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-12_0630_paysagiste-jour-de-pluie",
+ "date_paris": "2026-11-12",
+ "heure_paris": "06:15",
+ "creneau_nominal": "06:30",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Paysagistes, que faites-vous d'un jour de pluie ? Devis, entretien du matériel, ou un peu de Google ?",
+ "jour_semaine": "jeudi",
+ "creneau": "texte",
+ "metier": "paysagiste",
+ "angle": "gain-de-temps",
+ "format": "conseil",
+ "ton": "scene",
+ "symptome": "aucune-publication",
+ "offre": "essai",
+ "accroche": "Il pleut, le chantier est arrêté. C'est le bon moment pour soigner votre fiche Google.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#Jardin",
+  "#Paysagiste",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "aucun",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/78qgMctJjv.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "x",
+   "postiz_id": "cmw2mc1qr00i7kb7z7lce9p7c",
+   "caracteres": 279,
+   "texte": "Il pleut, le chantier est arrêté. C'est le bon moment pour soigner votre fiche Google.\n\nLa fiche Google, c'est l'encadré de Google Maps avec vos photos et vos avis. Publiez une photo, répondez aux avis, vérifiez vos horaires d'hiver.\n\nVous en profitez ?\n\n#FicheGoogle #Paysagiste"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmw2mc1rw00i9kb7z5uim6t1k",
+   "caracteres": 634,
+   "texte": "Il pleut, le chantier est arrêté. C'est le bon moment pour soigner votre fiche Google.\n\nVotre fiche Google, c'est ce que vos clients voient en premier quand ils cherchent « paysagiste » sur Google Maps. En hiver, elle reste souvent figée sur une pelouse d'été.\n\nTrois gestes pour une matinée de pluie.\nPubliez une photo du dernier chantier terminé, même une haie taillée.\nRépondez aux avis reçus ces dernières semaines.\nVérifiez vos horaires d'hiver.\n\nUn quart d'heure suffit, et vos clients voient que vous travaillez toute l'année.\n\nEt vous, que faites-vous d'un jour de pluie ?\n\n#FicheGoogle #Paysagiste #Jardin #ReferencementLocal"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

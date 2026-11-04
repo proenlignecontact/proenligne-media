@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-09_0630_serrurier-choisiriez-vous-votre-fiche",
+ "date_paris": "2026-11-09",
+ "heure_paris": "06:00",
+ "creneau_nominal": "06:30",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Faites le test sur Google Maps et dites-nous franchement. Vous vous seriez appelé, ou vous auriez pris le suivant ?",
+ "jour_semaine": "lundi",
+ "creneau": "texte",
+ "metier": "serrurier",
+ "angle": "peur-de-perdre",
+ "format": "test",
+ "ton": "question",
+ "symptome": null,
+ "offre": "essai",
+ "accroche": "Si vous étiez enfermé dehors ce soir, choisiriez-vous votre propre fiche Google ?",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#ReferencementLocal",
+  "#Serrurerie",
+  "#Serrurier"
+ ],
+ "media": {
+  "type": "aucun",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/96kaTBQtK0.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "x",
+   "postiz_id": "cmw2m8os700f1kb7zt6lcli5e",
+   "caracteres": 261,
+   "texte": "Si vous étiez enfermé dehors ce soir, choisiriez-vous votre propre fiche Google ?\n\nTapez « serrurier » et votre ville sur Google Maps. Votre fiche Google, c'est l'encadré avec votre note, vos photos et vos avis.\n\nVous vous appelleriez ?\n\n#FicheGoogle #Serrurier"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmw2m8otc00f3kb7zcyy1y0c3",
+   "caracteres": 700,
+   "texte": "Si vous étiez enfermé dehors ce soir, choisiriez-vous votre propre fiche Google ?\n\nLe test prend une minute. Prenez votre téléphone, ouvrez Google Maps et tapez « serrurier » suivi du nom de votre ville.\n\nAvant d'appeler un serrurier, le client ouvre sa fiche Google et lit les avis, les horaires et les réponses. Il a froid, il est pressé, et il ne connaît personne.\n\nMettez-vous à sa place une minute.\nLa dernière photo montre-t-elle votre camionnette ou votre travail ?\nLes horaires disent-ils que vous intervenez le soir ?\nLe dernier avis a-t-il une réponse de votre part ?\n\nAlors, vous vous seriez appelé, ou vous auriez pris le suivant ?\n\n#FicheGoogle #Serrurier #Serrurerie #ReferencementLocal"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

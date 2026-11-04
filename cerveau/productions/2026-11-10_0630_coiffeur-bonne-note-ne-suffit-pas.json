@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-10_0630_coiffeur-bonne-note-ne-suffit-pas",
+ "date_paris": "2026-11-10",
+ "heure_paris": "07:15",
+ "creneau_nominal": "06:30",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Petit test. Ouvrez votre fiche Google et regardez la date de votre dernier avis. Il date de quand ?",
+ "jour_semaine": "mardi",
+ "creneau": "texte",
+ "metier": "coiffeur",
+ "angle": "peur-de-perdre",
+ "format": "idee-recue",
+ "ton": "contre-intuitif",
+ "symptome": "avis-sans-reponse",
+ "offre": "essai",
+ "accroche": "On croit qu'une bonne note suffit sur sa fiche Google. Les clientes lisent aussi les dates des avis.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Coiffeur",
+  "#Coiffure",
+  "#FicheGoogle",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "aucun",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/kmZ4t6YZyd.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "x",
+   "postiz_id": "cmw2m9sd700fvkb7z548xj7b8",
+   "caracteres": 246,
+   "texte": "On croit qu'une bonne note suffit sur sa fiche Google. Les clientes lisent aussi les dates des avis.\n\nLa fiche Google d'un salon, c'est l'encadré avec la note et les avis sur Google Maps. Votre dernier avis date de quand ?\n\n#FicheGoogle #Coiffeur"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmw2m9sem00fxkb7zi7rx446j",
+   "caracteres": 677,
+   "texte": "On croit qu'une bonne note suffit sur sa fiche Google. Les clientes lisent aussi les dates des avis.\n\nQuand on tape « coiffeur près de moi », Google affiche des fiches avec la note, les photos et les avis. La vôtre en fait partie.\n\nUne note de 4,8 rassure, c'est vrai. Mais si le dernier avis date de l'an dernier, la future cliente se demande si le salon tourne encore comme avant.\n\nTrois gestes simples.\nRegardez la date de votre dernier avis.\nDemandez un avis aux clientes contentes de leur coupe, au moment de payer.\nRépondez à chaque avis avec le prénom de la cliente.\n\nEt chez vous, votre dernier avis date de quand ?\n\n#FicheGoogle #Coiffeur #Coiffure #ReferencementLocal"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

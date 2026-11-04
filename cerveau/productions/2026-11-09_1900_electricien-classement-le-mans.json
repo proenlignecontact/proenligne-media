@@ -1,0 +1,67 @@
+{
+ "id": "2026-11-09_1900_electricien-classement-le-mans",
+ "date_paris": "2026-11-09",
+ "heure_paris": "19:45",
+ "creneau_nominal": "19:00",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Électriciens, faites le test dans votre ville. Votre fiche Google apparaît-elle dans le premier écran du téléphone ?",
+ "jour_semaine": "lundi",
+ "creneau": "video",
+ "metier": "electricien",
+ "angle": "peur-de-perdre",
+ "format": "recherche",
+ "ton": "scene",
+ "symptome": null,
+ "offre": "essai",
+ "accroche": "Tapez « électricien Le Mans » sur Google. Où apparaît votre fiche Google ?",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Electricien",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#LeMans",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/HU3w4kF3WX.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmw2m8p0100fbkb7zb2vezwtb",
+   "caracteres": 272,
+   "texte": "Tapez « électricien Le Mans » sur Google. Où apparaît votre fiche Google ?\nLe client voit d'abord une liste de fiches Google, avec des photos et des avis. Il appelle souvent l'une des premières qu'il voit.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Electricien #LeMans"
+  },
+  {
+   "canal": "instagram",
+   "postiz_id": "cmw2m8p1000fdkb7z1ajics8b",
+   "caracteres": 633,
+   "texte": "Tapez « électricien Le Mans » sur Google. Où apparaît votre fiche Google ?\n\nC'est la scène de tous les jours. Un disjoncteur saute, le client prend son téléphone et cherche un électricien. Google lui montre une liste de fiches Google avec la note, les photos et le bouton Appeler.\n\nIl fait rarement défiler longtemps. Il compare deux ou trois fiches Google et il appelle.\n\nUne fiche Google qui montre des chantiers récents et des réponses aux avis donne envie de s'arrêter dessus.\n\nVous avez fait le test dans votre ville ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Electricien #LeMans #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "canal": "youtube",
+   "postiz_id": "cmw2m8p1t00ffkb7z9fy78cx8",
+   "caracteres": 445,
+   "texte": "Tapez « électricien Le Mans » sur Google et regardez où apparaît votre fiche Google.\n\nLa fiche Google, c'est l'encadré qui présente votre entreprise sur Google et Google Maps, avec vos photos, vos avis et votre numéro. Le client compare quelques fiches Google, puis il appelle.\n\nProenligne publie une photo le lundi, un article le jeudi, et répond à chaque avis.\n\nAvez-vous déjà fait le test dans votre ville ?\n\n#FicheGoogle #Electricien #LeMans"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmw2m8p3100fhkb7zu1r098is",
+   "caracteres": 535,
+   "texte": "Tapez « électricien Le Mans » sur Google. Où apparaît votre fiche Google ?\n\nUn soir, la lumière saute dans une cuisine. Le client cherche un électricien sur son téléphone. Google lui montre plusieurs fiches Google, ces encadrés avec la note, les photos et le bouton Appeler.\n\nIl en regarde deux ou trois, rarement plus. Les photos récentes et les réponses aux avis l'aident à choisir.\n\nFaites le test dans votre ville ce soir. Votre fiche Google apparaît-elle sans faire défiler ?\n\n#FicheGoogle #Electricien #LeMans #ReferencementLocal"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "",
+ "moteur": "plan-sequence",
+ "angle_video": "Plus de clients",
+ "ville_video": "Le Mans",
+ "duree_video": 17.0,
+ "voix": "Marcel - French touch",
+ "musique": true
+}

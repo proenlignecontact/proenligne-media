@@ -1,0 +1,67 @@
+{
+ "id": "2026-11-15_1900_chauffagiste-semaine-toulouse",
+ "date_paris": "2026-11-15",
+ "heure_paris": "18:45",
+ "creneau_nominal": "19:00",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Chauffagistes, en plein hiver, quand trouvez-vous le temps de répondre aux avis de votre fiche Google ?",
+ "jour_semaine": "dimanche",
+ "creneau": "video",
+ "metier": "chauffagiste",
+ "angle": "gain-de-temps",
+ "format": "journee",
+ "ton": "pendant-que",
+ "symptome": "avis-sans-reponse",
+ "offre": "essai",
+ "accroche": "Chauffagiste à Toulouse, vos soirées partent sur votre fiche Google ?",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Chauffage",
+  "#Chauffagiste",
+  "#FicheGoogle",
+  "#ReferencementLocal",
+  "#Toulouse"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/yt6lsVy680.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmw2mexzp00lbkb7zo6cmioi5",
+   "caracteres": 360,
+   "texte": "Chauffagiste à Toulouse, vos soirées partent sur votre fiche Google ?\nVotre fiche Google, c'est l'encadré qu'un client ouvre sur Google Maps quand sa chaudière s'arrête. Pendant que les dépannages s'enchaînent, vos photos et vos réponses aux avis attendent le soir, après le dernier client.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Chauffagiste #Toulouse"
+  },
+  {
+   "canal": "instagram",
+   "postiz_id": "cmw2mey1o00ldkb7ze3qugff0",
+   "caracteres": 701,
+   "texte": "Chauffagiste à Toulouse, vos soirées partent sur votre fiche Google ?\n\nPendant que les dépannages s'enchaînent, votre fiche Google attend. C'est l'encadré qu'un client ouvre sur Google Maps quand sa chaudière s'arrête, avec vos photos, vos avis et votre numéro.\n\nLe soir, après le dernier client, il reste une photo à publier et des clients à remercier pour leurs avis. Un peu chaque soir, tout l'hiver.\n\nProenligne s'en charge à votre place, avec une photo le lundi, une publication le jeudi et une réponse à chaque avis. Votre soirée reste la vôtre.\n\nQuand répondez-vous à vos avis en plein hiver ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Chauffagiste #Chauffage #Toulouse #ReferencementLocal"
+  },
+  {
+   "canal": "youtube",
+   "postiz_id": "cmw2mey6700lfkb7zttnss76i",
+   "caracteres": 473,
+   "texte": "Chauffagiste à Toulouse, vos soirées partent-elles sur votre fiche Google ?\n\nLa fiche Google, c'est ce qu'un client voit sur Google Maps quand il cherche un chauffagiste, avec les photos, les avis et le numéro. En plein hiver, on s'en occupe souvent le soir, après le dernier dépannage.\n\nProenligne publie une photo le lundi, un article le jeudi, et répond à chaque avis à votre place.\n\nQuand trouvez-vous le temps de vous en occuper ?\n\n#FicheGoogle #Chauffagiste #Toulouse"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmw2mey8q00lhkb7zy1ozg5s6",
+   "caracteres": 454,
+   "texte": "Chauffagiste à Toulouse, vos soirées partent sur votre fiche Google ?\n\nPendant que les dépannages s'enchaînent, votre fiche Google, l'encadré que les clients ouvrent sur Google Maps, attend ses photos et ses réponses aux avis.\n\nAlors ça se fait le soir, après le dernier client. Un moment par-ci, un moment par-là, tout l'hiver.\n\nEt vous, en plein hiver, à quel moment répondez-vous à vos avis ?\n\n#FicheGoogle #Chauffagiste #Chauffage #ReferencementLocal"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "",
+ "moteur": "plan-sequence",
+ "angle_video": "Du temps libre",
+ "ville_video": "Toulouse",
+ "duree_video": 16.0,
+ "voix": "Marcel - French touch",
+ "musique": true
+}

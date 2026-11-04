@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-11_0630_garage-atelier-vide-atelier-vivant",
+ "date_paris": "2026-11-11",
+ "heure_paris": "06:30",
+ "creneau_nominal": "06:30",
+ "intention": "preuve",
+ "ab": null,
+ "premier_commentaire": "Garagistes, quelle photo de votre atelier montreriez-vous en premier sur votre fiche Google ?",
+ "jour_semaine": "mercredi",
+ "creneau": "texte",
+ "metier": "garage",
+ "angle": "peur-de-perdre",
+ "format": "preuve",
+ "ton": "avant-apres",
+ "symptome": "photos-anciennes",
+ "offre": "essai",
+ "accroche": "Avant, la fiche Google du garage montrait un atelier vide. Après, on y voit l'équipe au travail.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#Garage",
+  "#Garagiste",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "aucun",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/6goQBDCviA.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "x",
+   "postiz_id": "cmw2mavy300h1kb7z8xghrtm8",
+   "caracteres": 269,
+   "texte": "Avant, la fiche Google du garage montrait un atelier vide. Après, on y voit l'équipe au travail.\n\nCe garage est imaginaire. Sa fiche Google, c'est ce que montre Google Maps quand on cherche un garage.\n\nÀ quel garage confieriez-vous votre voiture ?\n\n#FicheGoogle #Garage"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmw2mavza00h3kb7zqjun3u8e",
+   "caracteres": 663,
+   "texte": "Avant, la fiche Google du garage montrait un atelier vide. Après, on y voit l'équipe au travail.\n\nPrenons un garage imaginaire, le garage Martin. Sur Google Maps, chaque garage a sa fiche Google, avec la note, les photos et le bouton Appeler. C'est elle qu'on regarde avant de confier sa voiture.\n\nAvant, la seule photo datait de 2021. Un atelier vide, les ponts au repos, personne.\nAprès, une photo arrive chaque lundi. Un pneu changé, une voiture sur le pont, un mécanicien qui sourit.\n\nLa note est la même. Ce qui change, c'est qu'on voit un garage qui tourne.\n\nÀ quel garage confieriez-vous votre voiture ?\n\n#FicheGoogle #Garage #Garagiste #ReferencementLocal"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

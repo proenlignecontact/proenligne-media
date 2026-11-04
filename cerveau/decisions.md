@@ -118,3 +118,14 @@ Chaque lot hebdomadaire ajoute ici ses décisions, avec le chiffre qui les justi
 
 - L'application TikTok n'est pas validée : la publication directe est refusée (« App not approved for public posting », post du 2/11 19:29). Tous les posts TikTok passent en `content_posting_method: UPLOAD` (téléversement dans la boîte de réception TikTok, publication finalisée à la main) jusqu'à la validation de l'application.
 - Conséquence pour l'analyse : un TikTok en UPLOAD n'a pas d'identifiant tant qu'il n'est pas publié à la main ; ne pas le compter comme « publié sans audience ».
+
+## 2026-11-04 (mercredi soir) — Semaine du 9/11, tâche hebdomadaire
+
+- **Exploration 50 / 50 maintenue, aucune décision chiffrée** : relevé frais du 04/11 (action « success »), 11 publications mesurées sur 26 fiches (seuil de 30 non atteint) ; aucune valeur à 5 publications mesurées hors « video » (8, indice 1,12) et « utile » (6, indice 1,17), tous deux « dans la moyenne ». Le créneau vidéo concentre l'audience (TikTok 778 vues sur 1 post mesuré, 2 138 vues cumulées sur le compte) : rien ne justifie encore de déplacer la grille.
+- **Amplification** : `suivi/amplifier.json` vide, rien à reprendre.
+- **Moteurs vidéo** : aucune vidéo swipe / cinétique / plan-séquence encore mesurée (les premières partent le 5/11) ; rotation du tirage suivie telle quelle.
+- **Mix** : 16 utiles, 3 preuves (garage, auto-école, serrurier, démonstrations sans chiffre), 2 offres (institut mercredi, garage samedi). 11 métiers, chaque ton 3 fois.
+- **Actualité** : le jour férié du mercredi 11 novembre sert de sujet utile (boulangerie, horaires exceptionnels, lundi 13:00).
+- **A/B TikTok** : maçon swipe (A mardi, B jeudi 12:30) et plombier plan-séquence (A jeudi, B samedi 12:30).
+- **Outil** : `outils/pub-video.py` cherche aussi les skills dans `~/.claude/skills/**` (emplacement des skills synchronisés) ; deux textes fixes adaptés : « Vos appels aujourd'hui : N » (deux-points, swipe « Plus d'appels ») → « Appels aujourd'hui · N », et « Après dix heures de chantier. » (cinétique « Du temps libre », faux pour une coiffeuse) → « Après une longue journée de travail. ».
+- **À surveiller** : le décor plan-séquence « Plus de clients » montre la carte « Votre entreprise » remonter au N° 1 avec « Les clients du coin vous trouvent, vous. » (texte fixe du skill), proche d'une promesse de classement ; deux vidéos de la semaine l'utilisent (lundi, jeudi). À arbitrer par Maxime (texte fixe à adapter ou combinaison à écarter).

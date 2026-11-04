@@ -1,0 +1,53 @@
+{
+ "id": "2026-11-14_1300_garage-pas-plus-de-pub",
+ "date_paris": "2026-11-14",
+ "heure_paris": "13:15",
+ "creneau_nominal": "13:00",
+ "intention": "offre",
+ "ab": null,
+ "premier_commentaire": "Garagistes, qui s'occupe aujourd'hui des photos et des avis de votre fiche Google ? Vous, un proche, personne ?",
+ "jour_semaine": "samedi",
+ "creneau": "visuel",
+ "metier": "garage",
+ "angle": "gain-de-temps",
+ "format": "conseil",
+ "ton": "contre-intuitif",
+ "symptome": null,
+ "offre": "essai",
+ "accroche": "Votre garage n'a pas besoin de plus de publicité. Sa fiche Google a surtout besoin de vivre.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#Garage",
+  "#Garagiste",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "image",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/kC58gX7xZ5.png",
+   "https://media.glidy.uk/DMJTvzv5IH.png",
+   "https://media.glidy.uk/g6sQDQmNG3.png",
+   "https://media.glidy.uk/GTCGjQXHD7.png",
+   "https://media.glidy.uk/tAggWWlVf2.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "instagram",
+   "postiz_id": "cmw2me1iz00kfkb7z98b4h2gv",
+   "caracteres": 548,
+   "texte": "Votre garage n'a pas besoin de plus de publicité. Sa fiche Google a surtout besoin de vivre.\n\nSur Google Maps, chaque garage a sa fiche Google, avec la note, les photos et le bouton Appeler. Une fiche Google active montre un atelier qui tourne.\n\n✅ Une photo de l'atelier chaque lundi\n✅ Une publication chaque jeudi\n✅ Une réponse à chaque avis, validée par vous pour les avis négatifs\n\nEssayez Proenligne gratuitement, 30 jours offerts, sans engagement. Le lien est en bio.\n\n#FicheGoogle #Garage #Garagiste #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmw2me1ko00khkb7zggh1t76c",
+   "caracteres": 524,
+   "texte": "Votre garage n'a pas besoin de plus de publicité. Sa fiche Google a surtout besoin de vivre.\n\nAvant de confier sa voiture, le client ouvre votre fiche Google sur Google Maps. Il regarde la note, les photos et vos réponses aux avis. C'est elle qui parle pour vous.\n\n✅ Une photo de l'atelier chaque lundi\n✅ Une publication chaque jeudi\n✅ Une réponse à chaque avis, validée par vous pour les avis négatifs\n\nEssayez Proenligne gratuitement, 30 jours offerts, sans engagement.\n\n#FicheGoogle #Garage #Garagiste #ReferencementLocal"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

@@ -1,0 +1,53 @@
+{
+ "id": "2026-11-15_1300_serrurier-avis-negatif-repondu",
+ "date_paris": "2026-11-15",
+ "heure_paris": "13:15",
+ "creneau_nominal": "13:00",
+ "intention": "preuve",
+ "ab": null,
+ "premier_commentaire": "Serruriers, comment répondez-vous à un client mécontent sur votre fiche Google ? Vous répondez, ou vous laissez passer ?",
+ "jour_semaine": "dimanche",
+ "creneau": "visuel",
+ "metier": "serrurier",
+ "angle": "peur-de-perdre",
+ "format": "avant-apres",
+ "ton": "avant-apres",
+ "symptome": "avis-sans-reponse",
+ "offre": "essai",
+ "accroche": "Avant, l'avis à une étoile restait sans réponse sur la fiche Google du serrurier. Après, une réponse calme change tout.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal",
+  "#Serrurerie",
+  "#Serrurier"
+ ],
+ "media": {
+  "type": "image",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/vOpBVwBE1j.png",
+   "https://media.glidy.uk/4OnWlOFTgk.png",
+   "https://media.glidy.uk/9s1IJO17ed.png",
+   "https://media.glidy.uk/RLR0WniAh1.png",
+   "https://media.glidy.uk/XPuq61T7fp.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "instagram",
+   "postiz_id": "cmw2mexuv00l7kb7z3qg1vr36",
+   "caracteres": 666,
+   "texte": "Avant, l'avis à une étoile restait sans réponse sur la fiche Google du serrurier. Après, une réponse calme change tout.\n\nPrenons une serrurerie imaginaire, la serrurerie Petit. Sa fiche Google, c'est l'encadré qu'un client ouvre sur Google Maps avant d'appeler en urgence.\n\nAvant, un avis à une étoile parlait d'un retard, sans aucune réponse.\nAprès, on lit en dessous « Bonjour Marc, désolés pour l'attente ce soir-là. Appelez-nous, nous voulons en parler. »\n\nL'avis est toujours là. Mais le client qui lit voit maintenant une entreprise qui écoute.\n\nLequel des deux appelleriez-vous ?\n\n#FicheGoogle #Serrurier #Serrurerie #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmw2mexxm00l9kb7z0vfrl46l",
+   "caracteres": 672,
+   "texte": "Avant, l'avis à une étoile restait sans réponse sur la fiche Google du serrurier. Après, une réponse calme change tout.\n\nAvant d'appeler un serrurier, le client ouvre sa fiche Google sur Google Maps et lit les avis, les horaires et vos réponses.\n\nVoici une serrurerie imaginaire, la serrurerie Petit.\nAvant, un avis à une étoile sur un retard, et rien en dessous.\nAprès, une réponse calme. « Bonjour Marc, désolés pour l'attente ce soir-là. Appelez-nous, nous voulons en parler. »\n\nLe reproche n'a pas disparu. Il est simplement accompagné d'une entreprise qui répond.\n\nLequel des deux appelleriez-vous en urgence ?\n\n#FicheGoogle #Serrurier #Serrurerie #ReferencementLocal"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

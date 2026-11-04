@@ -1,0 +1,67 @@
+{
+ "id": "2026-11-13_1900_estheticienne-swipe-appels-lyon",
+ "date_paris": "2026-11-13",
+ "heure_paris": "19:30",
+ "creneau_nominal": "19:00",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Esthéticiennes, quelle photo de votre institut montreriez-vous en premier sur votre fiche Google ?",
+ "jour_semaine": "vendredi",
+ "creneau": "video",
+ "metier": "estheticienne",
+ "angle": "peur-de-perdre",
+ "format": "fiche",
+ "ton": "scene",
+ "symptome": "photos-anciennes",
+ "offre": "essai",
+ "accroche": "Esthéticienne à Lyon, on passe votre fiche Google sans vous appeler ?",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Estheticienne",
+  "#FicheGoogle",
+  "#InstitutDeBeaute",
+  "#Lyon",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/OqF5s5ce8z.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmw2md31q00jdkb7zaj6azrby",
+   "caracteres": 243,
+   "texte": "Esthéticienne à Lyon, on passe votre fiche Google sans vous appeler ?\nUne cliente fait défiler les instituts sur Google Maps. Des photos anciennes, et elle passe à la suivante.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Estheticienne #Lyon"
+  },
+  {
+   "canal": "instagram",
+   "postiz_id": "cmw2md33200jfkb7zzbur80x3",
+   "caracteres": 553,
+   "texte": "Esthéticienne à Lyon, on passe votre fiche Google sans vous appeler ?\n\nUne cliente cherche un soin du visage pour samedi. Sur Google Maps, elle fait défiler les fiches Google des instituts, avec leurs photos et leurs avis, comme on fait défiler des stories.\n\nChez vous, la dernière photo date d'il y a deux ans. Elle passe à la suivante, sans savoir que votre cabine a été refaite.\n\nQuelle photo de votre institut mériterait d'être vue en premier ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #Lyon #ReferencementLocal"
+  },
+  {
+   "canal": "youtube",
+   "postiz_id": "cmw2md34600jhkb7z4we6cy2v",
+   "caracteres": 454,
+   "texte": "Esthéticienne à Lyon, on passe votre fiche Google sans vous appeler ?\n\nVotre fiche Google, c'est ce qu'une future cliente voit quand elle cherche un institut sur Google Maps, avec vos photos, vos avis et le bouton Appeler. Des photos anciennes, et elle passe à la suivante.\n\nProenligne publie une photo le lundi, un article le jeudi, et répond à chaque avis.\n\nQuelle photo de votre institut montreriez-vous en premier ?\n\n#FicheGoogle #Estheticienne #Lyon"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmw2md35i00jjkb7z0qybrgd8",
+   "caracteres": 517,
+   "texte": "Esthéticienne à Lyon, on passe votre fiche Google sans vous appeler ?\n\nUne cliente fait défiler les instituts sur son téléphone. Chaque fiche Google lui montre une note, des photos et un bouton Appeler. Elle s'arrête une seconde sur chacune.\n\nSi vos photos datent, elle continue. Si elle voit un soin de la semaine et une réponse sous chaque avis, elle s'arrête et elle appelle.\n\nQuelle photo de votre institut aimeriez-vous qu'elle voie en premier ?\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #ReferencementLocal"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "",
+ "moteur": "swipe",
+ "angle_video": "Plus d'appels",
+ "ville_video": "Lyon",
+ "duree_video": 16.0,
+ "voix": "Marcel - French touch",
+ "musique": true
+}

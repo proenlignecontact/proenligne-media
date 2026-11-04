@@ -1,0 +1,47 @@
+{
+ "id": "2026-11-12_1230_macon-swipe-concurrent-tours",
+ "date_paris": "2026-11-12",
+ "heure_paris": "12:30",
+ "creneau_nominal": "12:30",
+ "intention": "utile",
+ "ab": "B",
+ "premier_commentaire": "Maçons, vous avez déjà comparé votre fiche Google à celle d'un concurrent ? Qu'avez-vous remarqué ?",
+ "jour_semaine": "jeudi",
+ "creneau": "video",
+ "metier": "macon",
+ "angle": "peur-de-perdre",
+ "format": "fiche",
+ "ton": "question",
+ "symptome": "concurrent-plus-riche",
+ "offre": "essai",
+ "accroche": "Maçon à Tours, comparez votre fiche Google à celle d'en face.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#Macon",
+  "#Tours"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/2clc4XmSBR.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmw2mc1ti00ibkb7z34ak723d",
+   "caracteres": 287,
+   "texte": "Maçon à Tours, comparez votre fiche Google à celle d'en face.\nVotre fiche Google, c'est ce qu'on voit sur Google Maps en cherchant « maçon ». Votre concurrent a la même note que vous, mais il montre ses chantiers de la semaine.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Macon #Tours"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "",
+ "moteur": "swipe",
+ "angle_video": "Face au concurrent",
+ "ville_video": "Tours",
+ "duree_video": 17.5,
+ "voix": "Marcel - French touch",
+ "musique": true
+}

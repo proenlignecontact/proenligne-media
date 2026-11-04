@@ -1,0 +1,67 @@
+{
+ "id": "2026-11-10_1900_macon-swipe-concurrent-tours",
+ "date_paris": "2026-11-10",
+ "heure_paris": "18:30",
+ "creneau_nominal": "19:00",
+ "intention": "utile",
+ "ab": "A",
+ "premier_commentaire": "Maçons, quelle photo de chantier mettriez-vous en premier sur votre fiche Google ? Un mur, une dalle, une façade ?",
+ "jour_semaine": "mardi",
+ "creneau": "video",
+ "metier": "macon",
+ "angle": "peur-de-perdre",
+ "format": "fiche",
+ "ton": "constat",
+ "symptome": "concurrent-plus-riche",
+ "offre": "essai",
+ "accroche": "Maçon à Tours, même note Google que le voisin, et c'est lui qu'on appelle.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#Macon",
+  "#Maconnerie",
+  "#ReferencementLocal",
+  "#Tours"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/BYyWx2nrQq.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmw2m9sll00g5kb7zq68d9c24",
+   "caracteres": 291,
+   "texte": "Maçon à Tours, même note Google que le voisin, et c'est lui qu'on appelle.\nSa fiche Google, l'encadré que Google affiche avec la note et les photos, montre ses chantiers de la semaine. La vôtre montre une façade d'il y a longtemps.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Macon #Tours"
+  },
+  {
+   "canal": "instagram",
+   "postiz_id": "cmw2m9smz00g7kb7zg595vgi2",
+   "caracteres": 625,
+   "texte": "Maçon à Tours, même note Google que le voisin, et c'est lui qu'on appelle.\n\nSur Google Maps, chaque maçon a sa fiche Google, avec la note, les photos et le bouton Appeler. Le client en ouvre deux, et il compare.\n\nMême note de 4,2 des deux côtés. Mais chez le voisin, les photos montrent un muret monté cette semaine. Chez vous, une façade d'il y a longtemps.\n\nÀ travail égal, le client choisit souvent la fiche Google qui montre que l'entreprise travaille aujourd'hui.\n\nQuel chantier récent mériterait d'être sur votre fiche Google ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Macon #Maconnerie #Tours #ReferencementLocal"
+  },
+  {
+   "canal": "youtube",
+   "postiz_id": "cmw2m9sor00g9kb7zqzk0eu5n",
+   "caracteres": 478,
+   "texte": "Maçon à Tours, même note sur Google que le voisin, et c'est pourtant lui qu'on appelle.\n\nLa fiche Google, c'est la carte de visite que Google montre à votre place, avec vos photos, vos avis et votre téléphone. Quand deux fiches Google ont la même note, ce sont souvent les photos récentes qui font la différence.\n\nProenligne publie une photo le lundi, un article le jeudi, et répond à chaque avis.\n\nQuelle photo de chantier mettriez-vous en premier ?\n\n#FicheGoogle #Macon #Tours"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmw2m9sqd00gbkb7zsg8nw42o",
+   "caracteres": 546,
+   "texte": "Maçon à Tours, même note Google que le voisin, et c'est lui qu'on appelle.\n\nUn client cherche un maçon pour un muret. Il ouvre deux fiches Google, ces encadrés que Google affiche avec la note, les photos et le numéro. Les deux ont 4,2.\n\nChez le voisin, une photo du chantier de lundi. Chez vous, une façade qui date. Le client n'a aucun moyen de savoir que vous avez fini trois chantiers depuis, sauf si votre fiche Google le montre.\n\nQuel chantier récent aimeriez-vous qu'il voie en premier ?\n\n#FicheGoogle #Macon #Maconnerie #ReferencementLocal"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "",
+ "moteur": "swipe",
+ "angle_video": "Face au concurrent",
+ "ville_video": "Tours",
+ "duree_video": 17.0,
+ "voix": "Marcel - French touch",
+ "musique": true
+}

@@ -1,0 +1,60 @@
+{
+ "id": "2026-11-13_1300_electricien-ce-qui-rassure",
+ "date_paris": "2026-11-13",
+ "heure_paris": "13:30",
+ "creneau_nominal": "13:00",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Électriciens, quelle question vos clients posent-ils le plus souvent au téléphone ? On en fera peut-être un conseil.",
+ "jour_semaine": "vendredi",
+ "creneau": "visuel",
+ "metier": "electricien",
+ "angle": "peur-de-perdre",
+ "format": "question",
+ "ton": "replique",
+ "symptome": null,
+ "offre": "essai",
+ "accroche": "« Vous intervenez chez les particuliers ? » Votre fiche Google peut répondre avant même l'appel.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Artisanat",
+  "#Electricien",
+  "#Electricite",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "image",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/pKT1QyDWD2.png",
+   "https://media.glidy.uk/SBpm2eO5y8.png",
+   "https://media.glidy.uk/ASQJ6EGMOG.png",
+   "https://media.glidy.uk/JW4nPJoD2P.png",
+   "https://media.glidy.uk/Mt1ZsGayo3.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "instagram",
+   "postiz_id": "cmw2md2xh00j7kb7zz3d91l23",
+   "caracteres": 550,
+   "texte": "« Vous intervenez chez les particuliers ? » Votre fiche Google peut répondre avant même l'appel.\n\nLa fiche Google, c'est l'encadré que voit un client quand il cherche « électricien » sur Google Maps. Il y trouve vos photos, vos avis, vos services et votre numéro.\n\nTrois éléments rassurent souvent avant d'appeler.\nDes photos de chantiers récents.\nDes réponses polies sous les avis.\nLa liste claire de vos services.\n\nSelon vous, lequel compte le plus pour un client ?\n\n#FicheGoogle #Electricien #Electricite #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmw2md2yv00j9kb7zujc4z41e",
+   "caracteres": 648,
+   "texte": "« Vous intervenez chez les particuliers ? » Votre fiche Google peut répondre avant même l'appel.\n\nSur Google Maps, chaque électricien a sa fiche Google, avec la note, les photos et le bouton Appeler. C'est elle qu'on regarde avant de vous appeler, et elle peut déjà répondre aux questions les plus courantes.\n\nTrois éléments y rassurent souvent un client. Il y a les photos de chantiers récents, les réponses sous les avis et la liste de vos services, du dépannage à la borne de recharge.\n\nC'est le petit sondage du vendredi. Pour vous, lequel de ces trois éléments fait le plus appeler ?\n\n#FicheGoogle #Electricien #Electricite #ReferencementLocal"
+  },
+  {
+   "canal": "linkedin",
+   "postiz_id": "cmw2md30b00jbkb7zvoe52kxu",
+   "caracteres": 1016,
+   "texte": "« Vous intervenez chez les particuliers ? » Sur Google, la fiche Google de votre entreprise peut répondre à cette question.\nElle le fait avant même que le téléphone sonne.\n\nLa fiche Google, c'est l'encadré qui présente l'entreprise sur Google et Google Maps, avec la note, les photos, les services et le numéro.\n\nTrois éléments y rassurent particulièrement un client.\nDes photos de chantiers récents, qui montrent le travail réel.\nDes réponses aux avis, qui montrent une entreprise à l'écoute.\nUne liste de services précise, du dépannage à l'installation de bornes de recharge.\n\nUne fiche Google bien tenue filtre aussi les appels. Le client sait déjà ce que fait l'entreprise quand il appelle.\n\nProenligne s'occupe chaque semaine d'une partie de ce travail pour les artisans, avec une photo le lundi, une publication le jeudi et une réponse à chaque avis.\n\nDans votre entreprise, quelle question revient le plus souvent au téléphone ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Electricien #Artisanat"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

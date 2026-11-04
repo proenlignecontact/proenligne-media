@@ -1,0 +1,67 @@
+{
+ "id": "2026-11-14_1900_paysagiste-duel-lille",
+ "date_paris": "2026-11-14",
+ "heure_paris": "18:45",
+ "creneau_nominal": "19:00",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Paysagistes, quel jardin de cette année aimeriez-vous voir en photo sur votre fiche Google ?",
+ "jour_semaine": "samedi",
+ "creneau": "video",
+ "metier": "paysagiste",
+ "angle": "peur-de-perdre",
+ "format": "fiche",
+ "ton": "replique",
+ "symptome": "concurrent-plus-riche",
+ "offre": "essai",
+ "accroche": "Paysagiste à Lille, le voisin montre ses jardins sur Google, et vous ?",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#Jardin",
+  "#Lille",
+  "#Paysagiste",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/de9aovpSox.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmw2me1mm00kjkb7zms94e2rh",
+   "caracteres": 333,
+   "texte": "« Celui-là, au moins, on voit ses jardins. » Paysagiste à Lille, le voisin montre ses jardins sur Google, et vous ?\nSur Google Maps, la cliente compare votre fiche Google à celle du voisin, avec les photos et les avis. Celle du voisin vit chaque semaine. Et la vôtre ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Paysagiste #Lille"
+  },
+  {
+   "canal": "instagram",
+   "postiz_id": "cmw2me1oi00klkb7zl69od2sz",
+   "caracteres": 529,
+   "texte": "Paysagiste à Lille, le voisin montre ses jardins sur Google, et vous ?\n\n« Celui-là, au moins, on voit ses jardins. » C'est ce que se dit une cliente qui compare deux fiches Google sur Google Maps, avec leurs photos et leurs avis.\n\nLe voisin publie une haie taillée, une terrasse posée, un massif d'automne. Vous avez fait plus beau cette année, mais votre fiche Google n'en montre rien.\n\nQuel jardin de cette année mériterait d'y être ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Paysagiste #Jardin #Lille #ReferencementLocal"
+  },
+  {
+   "canal": "youtube",
+   "postiz_id": "cmw2me1pg00knkb7zc7pioy8g",
+   "caracteres": 445,
+   "texte": "Paysagiste à Lille, le voisin montre ses jardins sur Google, et vous ?\n\nLa fiche Google, c'est la vitrine que Google montre quand on cherche un paysagiste, avec les photos, les avis et le numéro. À travail égal, le client choisit souvent celle qui montre des jardins récents.\n\nProenligne publie une photo le lundi, un article le jeudi, et répond à chaque avis.\n\nQuel jardin de cette année aimeriez-vous montrer ?\n\n#FicheGoogle #Paysagiste #Lille"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmw2me1qe00kpkb7zvhep1r0e",
+   "caracteres": 515,
+   "texte": "Paysagiste à Lille, le voisin montre ses jardins sur Google, et vous ?\n\n« Celui-là, au moins, on voit ses jardins. » Une cliente compare votre fiche Google à celle du voisin, ces encadrés avec photos et avis qui s'ouvrent sur Google Maps.\n\nChez le voisin, une terrasse posée la semaine dernière. Chez vous, une pelouse de l'an dernier. Vous avez peut-être fait plus beau, mais elle ne peut pas le savoir.\n\nQuel jardin de cette année aimeriez-vous qu'elle voie ?\n\n#FicheGoogle #Paysagiste #Jardin #ReferencementLocal"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "",
+ "moteur": "cinetique",
+ "angle_video": "Face au concurrent",
+ "ville_video": "Lille",
+ "duree_video": 18.5,
+ "voix": "Marcel - French touch",
+ "musique": true
+}

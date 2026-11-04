@@ -1,0 +1,60 @@
+{
+ "id": "2026-11-09_1300_boulangerie-horaires-jour-ferie",
+ "date_paris": "2026-11-09",
+ "heure_paris": "13:15",
+ "creneau_nominal": "13:00",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Boulangers, vous ouvrez le matin du jour de l'Armistice ? Et votre fiche Google, elle le dit déjà ?",
+ "jour_semaine": "lundi",
+ "creneau": "visuel",
+ "metier": "boulangerie",
+ "angle": "peur-de-perdre",
+ "format": "conseil",
+ "ton": "constat",
+ "symptome": "horaires-faux",
+ "offre": "essai",
+ "accroche": "Mercredi est un jour férié, et votre fiche Google affiche peut-être encore vos horaires habituels.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Boulanger",
+  "#Boulangerie",
+  "#Commerce",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "image",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/qpmpvHQ3d5.png",
+   "https://media.glidy.uk/s5sI3MFjdA.png",
+   "https://media.glidy.uk/gV806GaR8N.png",
+   "https://media.glidy.uk/OFAxgmz0J5.png",
+   "https://media.glidy.uk/ymSv1vGvzW.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "instagram",
+   "postiz_id": "cmw2m8oun00f5kb7z4dizrtu0",
+   "caracteres": 654,
+   "texte": "Mercredi est un jour férié, et votre fiche Google affiche peut-être encore vos horaires habituels.\n\nQuand on cherche « boulangerie » dans sa ville, Google affiche des fiches Google avec la note, les photos et les horaires. La vôtre en fait partie, et un jour férié, ce sont souvent les horaires qu'on regarde en premier.\n\nTrois gestes avant mercredi.\n1. Ouvrez votre fiche Google depuis votre téléphone.\n2. Ajoutez des horaires exceptionnels pour le jour de l'Armistice.\n3. Publiez une photo de la vitrine avec l'affichette des horaires.\n\nVous ouvrez mercredi matin, vous ?\n\n#FicheGoogle #Boulangerie #Boulanger #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmw2m8ow500f7kb7zy9688ude",
+   "caracteres": 701,
+   "texte": "Mercredi est un jour férié, et votre fiche Google affiche peut-être encore vos horaires habituels.\n\nCherchez « boulangerie » dans votre ville. Les encadrés avec une note, des photos et des horaires sont des fiches Google. Un matin de jour férié, le client y vérifie si vous êtes ouvert avant de sortir.\n\nSi votre fiche Google dit « ouvert » alors que le rideau est baissé, il trouve porte close. Si elle dit « fermé » alors que vous êtes ouvert, il va ailleurs sans le savoir.\n\nGoogle prévoit une rubrique pour les horaires exceptionnels. Deux minutes suffisent pour annoncer mercredi.\n\nEt chez vous, la boutique ouvre le matin du jour férié ?\n\n#FicheGoogle #Boulangerie #Boulanger #ReferencementLocal"
+  },
+  {
+   "canal": "linkedin",
+   "postiz_id": "cmw2m8oyf00f9kb7ze28jw03n",
+   "caracteres": 1057,
+   "texte": "Mercredi est un jour férié. Pour un commerce de proximité, c'est la fiche Google qui annonce s'il ouvre ou non.\nLa fiche Google, c'est l'encadré que Google affiche avec la note, les photos et les horaires quand on cherche une boulangerie près de chez soi.\n\nUn matin de jour férié, une partie des clients vérifie les horaires sur son téléphone avant de sortir. Si les horaires affichés sont les horaires habituels, deux situations se présentent.\n\nLe client se déplace et trouve porte close. Il s'en souviendra.\nOu bien la boutique est ouverte, mais la fiche Google laisse un doute, et le client choisit une autre adresse.\n\nGoogle propose une rubrique d'horaires exceptionnels, prévue pour ces journées. La renseigner prend deux minutes et évite ces deux déceptions.\n\nProenligne s'occupe de la fiche Google des commerçants, avec une photo le lundi, une publication le jeudi et une réponse à chaque avis.\n\nVotre commerce ouvre-t-il ce mercredi, et vos clients le savent-ils déjà ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Boulangerie #Commerce"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

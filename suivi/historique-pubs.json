@@ -627,5 +627,152 @@
    "linkedin": "cmw2illdn00dxkb7zqfcez4wd"
   },
   "serie": "bonus 5-8 novembre"
+ },
+ {
+  "date": "2026-11-09",
+  "slug": "electricien-classement-le-mans",
+  "moteur": "plan-sequence",
+  "angle": "Plus de clients",
+  "metier": "électricien",
+  "ville": "Le Mans",
+  "valeur": "",
+  "accroches": [
+   "Google vous place *où ?*",
+   "Vous êtes où sur *Google ?*"
+  ],
+  "voix": [
+   "Le client appelle souvent les premiers de la liste.",
+   "Pro en ligne fait vivre votre fiche Google chaque semaine.",
+   "Et le client voit une fiche Google bien vivante.",
+   "Trente jours offerts, le lien est en bio."
+  ],
+  "ambiance": 2,
+  "duree": 17.0
+ },
+ {
+  "date": "2026-11-10",
+  "slug": "macon-swipe-concurrent-tours",
+  "moteur": "swipe",
+  "angle": "Face au concurrent",
+  "metier": "maçon",
+  "ville": "Tours",
+  "valeur": "",
+  "accroches": [
+   "Maçon à Tours, même note Google que le voisin. Pourquoi lui ?",
+   "Maçon à Tours, comparez votre fiche Google à celle d'en face."
+  ],
+  "voix": [
+   "Sa fiche Google montre ses chantiers récents.",
+   "Pro en ligne publie les vôtres chaque lundi.",
+   "Et votre fiche Google montre votre travail récent.",
+   "C'est trente jours offerts, lien en bio."
+  ],
+  "ambiance": 0,
+  "duree": 17.0
+ },
+ {
+  "date": "2026-11-11",
+  "slug": "coiffeuse-soiree-avis-caen",
+  "moteur": "cinetique",
+  "angle": "Du temps libre",
+  "metier": "coiffeuse",
+  "ville": "Caen",
+  "valeur": "22h47",
+  "accroches": [
+   "Coiffeuse à Caen, encore vos *avis Google* à cette heure-ci ?",
+   "Coiffeuse à Caen, *Google* vous prend vos soirées ?"
+  ],
+  "voix": [
+   "Le salon est fermé, votre fiche Google vous attend.",
+   "Pro en ligne s'en charge en journée.",
+   "Et le soir, vous rentrez vraiment chez vous.",
+   "Essayez trente jours offerts, lien en bio."
+  ],
+  "ambiance": 1,
+  "duree": 16.0
+ },
+ {
+  "date": "2026-11-12",
+  "slug": "plombier-classement-bordeaux",
+  "moteur": "plan-sequence",
+  "angle": "Plus de clients",
+  "metier": "plombier",
+  "ville": "Bordeaux",
+  "valeur": "",
+  "accroches": [
+   "On vous voit sur *Google ?*",
+   "Votre nom est sur *Google ?*"
+  ],
+  "voix": [
+   "Le client appelle souvent l'un des premiers qu'il voit.",
+   "Chaque semaine, Pro en ligne publie pour vous.",
+   "Et votre fiche Google se met à vivre.",
+   "Trente jours offerts, et le lien est en bio."
+  ],
+  "ambiance": 2,
+  "duree": 15.5
+ },
+ {
+  "date": "2026-11-13",
+  "slug": "estheticienne-swipe-appels-lyon",
+  "moteur": "swipe",
+  "angle": "Plus d'appels",
+  "metier": "esthéticienne",
+  "ville": "Lyon",
+  "valeur": "",
+  "accroches": [
+   "Esthéticienne à Lyon, on saute votre fiche Google ?",
+   "Esthéticienne à Lyon, avant de réserver, on lit votre fiche Google."
+  ],
+  "voix": [
+   "Des photos anciennes, et on appelle la suivante.",
+   "Pro en ligne montre vos soins chaque semaine.",
+   "Et cette fois, c'est chez vous qu'on appelle.",
+   "Le lien est en bio, trente jours offerts."
+  ],
+  "ambiance": 0,
+  "duree": 16.0
+ },
+ {
+  "date": "2026-11-14",
+  "slug": "paysagiste-duel-lille",
+  "moteur": "cinetique",
+  "angle": "Face au concurrent",
+  "metier": "paysagiste",
+  "ville": "Lille",
+  "valeur": "Le voisin",
+  "accroches": [
+   "Paysagiste à Lille, le voisin montre ses *jardins* sur Google.",
+   "Paysagiste à Lille, qui a la *fiche Google* la plus vivante ?"
+  ],
+  "voix": [
+   "Il montre ses jardins chaque semaine. Vous, rarement.",
+   "Pro en ligne montre enfin vos chantiers d'hiver.",
+   "À travail égal, on vous choisit, vous.",
+   "Trente jours offerts vous attendent, lien en bio."
+  ],
+  "ambiance": 1,
+  "duree": 18.5
+ },
+ {
+  "date": "2026-11-15",
+  "slug": "chauffagiste-semaine-toulouse",
+  "moteur": "plan-sequence",
+  "angle": "Du temps libre",
+  "metier": "chauffagiste",
+  "ville": "Toulouse",
+  "valeur": "",
+  "accroches": [
+   "Chauffagiste à Toulouse, la *fiche Google* prend vos soirées ?",
+   "Chauffagiste à Toulouse, on gère sa *fiche Google* le soir ?"
+  ],
+  "voix": [
+   "Après les dépannages, il reste les avis le soir.",
+   "Pro en ligne prend tout ça en charge.",
+   "Vos soirées redeviennent libres.",
+   "Testez trente jours offerts, le lien est en bio."
+  ],
+  "ambiance": 2,
+  "duree": 16.0
  }
 ]
