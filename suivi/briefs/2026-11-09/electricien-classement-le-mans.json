@@ -13,7 +13,7 @@
  ],
  "accroches_dites": [
   "Tapez électricien Le Mans. Google vous place où ?",
-  "Un client cherche électricien Le Mans. Vous êtes où sur Google ?"
+  "Un client tape électricien Le Mans. Vous êtes où sur Google ?"
  ],
  "voix": [
   {
@@ -26,7 +26,7 @@
   },
   {
    "scene": "Bascule",
-   "texte": "Et c'est votre fiche Google qu'on ouvre.",
+   "texte": "Et le client voit une fiche Google bien vivante.",
    "ancre": 3.0
   },
   {

@@ -18,11 +18,11 @@
  "voix": [
   {
    "scene": "Probleme",
-   "texte": "Il appelle souvent l'un des premiers noms."
+   "texte": "Le client appelle souvent l'un des premiers noms."
   },
   {
    "scene": "Bascule",
-   "texte": "Pro en ligne publie photos et nouvelles chaque semaine."
+   "texte": "Chaque semaine, Pro en ligne publie pour vous."
   },
   {
    "scene": "Bascule",
@@ -31,7 +31,7 @@
   },
   {
    "scene": "Offre",
-   "texte": "Trente jours offerts, cliquez le lien en bio."
+   "texte": "Trente jours offerts, et le lien est en bio."
   }
  ],
  "offre_ligne": "Une *fiche Google* qui travaille.",
