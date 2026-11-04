@@ -1,14 +1,9 @@
 {
- "demande": "2026-11-04T18:47:35Z",
+ "demande": "2026-11-04T18:56:21Z",
  "telecharges": [
-  "medias/audio/_test-plombier-swipe-lorient/vo-accroche-A.mp3",
-  "medias/audio/_test-plombier-swipe-lorient/vo-1.mp3",
-  "medias/audio/_test-plombier-swipe-lorient/vo-2.mp3",
-  "medias/audio/_test-plombier-swipe-lorient/vo-3.mp3",
-  "medias/audio/_test-plombier-swipe-lorient/vo-4.mp3",
-  "medias/audio/_banque-musique/ambiance-0.mp3",
-  "medias/audio/_banque-musique/ambiance-1.mp3",
-  "medias/audio/_banque-musique/ambiance-2.mp3"
+  "medias/audio/_essais-voix/1-v4-nico.mp3",
+  "medias/audio/_essais-voix/2-v3-nico.mp3",
+  "medias/audio/_essais-voix/3-v4-marcel.mp3"
  ],
  "echecs": []
 }
