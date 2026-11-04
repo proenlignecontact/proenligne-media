@@ -1,0 +1,199 @@
+{
+ "empreinte": "1fcd5cfa296349d6",
+ "verdicts": [
+  {
+   "id": "eb817e6",
+   "verdict": "refuse",
+   "motif": "Critère 4 : « Google affiche des fiches avec la note… » nomme la fiche sans « Google », alors que le mot doit toujours être « fiche Google ».",
+   "proposition": "Mercredi est un jour férié, et votre fiche Google affiche peut-être encore vos horaires habituels.\n\nQuand on cherche « boulangerie » dans sa ville, Google affiche des fiches Google avec la note, les photos et les horaires. La vôtre en fait partie, et un jour férié, ce sont souvent les horaires qu'on regarde en premier.\n\nTrois gestes avant mercredi.\n1. Ouvrez votre fiche Google depuis votre téléphone.\n2. Ajoutez des horaires exceptionnels pour le jour de l'Armistice.\n3. Publiez une photo de la vitrine avec l'affichette des horaires.\n\nVous ouvrez mercredi matin, vous ?\n\n#FicheGoogle #Boulangerie #Boulanger #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "id": "ec0c904",
+   "verdict": "ok"
+  },
+  {
+   "id": "e3bf0ea",
+   "verdict": "ok"
+  },
+  {
+   "id": "e775977",
+   "verdict": "ok"
+  },
+  {
+   "id": "e610318",
+   "verdict": "ok"
+  },
+  {
+   "id": "efd1ad9",
+   "verdict": "ok"
+  },
+  {
+   "id": "eb7e296",
+   "verdict": "ok"
+  },
+  {
+   "id": "e0228f5",
+   "verdict": "refuse",
+   "motif": "Critères 1 et 3 : « le garage » n'est jamais présenté (le texte X ne dit pas qu'il est imaginaire, contrairement au texte Facebook), si bien que l'avant / après se lit comme le cas d'un vrai client, et « La note reste, l'impression change » est une ellipse obscure.",
+   "proposition": "Avant, la fiche Google du garage montrait un atelier vide. Après, on y voit l'équipe au travail.\n\nCe garage est imaginaire. Sa fiche Google, c'est ce que montre Google Maps. La note n'a pas bougé.\n\nÀ quel garage confieriez-vous votre voiture ?\n\n#FicheGoogle #Garage"
+  },
+  {
+   "id": "ec607df",
+   "verdict": "ok"
+  },
+  {
+   "id": "e33184b",
+   "verdict": "ok"
+  },
+  {
+   "id": "e547cdd",
+   "verdict": "refuse",
+   "motif": "Critère 2 : le 3e point du visuel ne parle que de la validation par la gérante, alors que le 3e engagement du texte est « une réponse à chaque avis » ; le visuel omet la réponse aux avis et laisse croire que le travail revient à la cliente.",
+   "proposition": "Obtenez une réponse à chaque avis, et validez celles aux avis négatifs"
+  },
+  {
+   "id": "eb05203",
+   "verdict": "refuse",
+   "motif": "Critère 1 : « un conseil sur votre fiche Google » se lit d'abord comme un conseil à propos de la fiche Google, pas comme un conseil beauté publié dessus ; la phrase est ambiguë à la première lecture.",
+   "proposition": "Chaque jeudi, votre fiche Google présente un soin, une idée cadeau ou un conseil beauté."
+  },
+  {
+   "id": "ebbfc09",
+   "verdict": "ok"
+  },
+  {
+   "id": "e4116d5",
+   "verdict": "ok"
+  },
+  {
+   "id": "ee3ec2f",
+   "verdict": "ok"
+  },
+  {
+   "id": "e3ea409",
+   "verdict": "ok"
+  },
+  {
+   "id": "ec8ce1e",
+   "verdict": "ok"
+  },
+  {
+   "id": "e232f89",
+   "verdict": "ok"
+  },
+  {
+   "id": "e18fb77",
+   "verdict": "ok"
+  },
+  {
+   "id": "edf19c4",
+   "verdict": "ok"
+  },
+  {
+   "id": "e890823",
+   "verdict": "ok"
+  },
+  {
+   "id": "e2068a9",
+   "verdict": "ok"
+  },
+  {
+   "id": "e675d38",
+   "verdict": "ok"
+  },
+  {
+   "id": "e4b469d",
+   "verdict": "ok"
+  },
+  {
+   "id": "ec824b9",
+   "verdict": "refuse",
+   "motif": "Critère 2 : le 3e point du visuel ne parle que de la validation, alors que le 3e engagement du texte est « une réponse à chaque avis » ; le visuel omet la réponse aux avis et laisse croire que le travail revient au garagiste.",
+   "proposition": "Obtenez une réponse à chaque avis, et validez celles aux avis négatifs"
+  },
+  {
+   "id": "e7397d5",
+   "verdict": "refuse",
+   "motif": "Critère 1 : sans verbe et sans nommer Proenligne, « 30 jours offerts pour votre fiche Google » laisse croire que c'est la fiche Google elle-même qui est offerte (ou payante d'habitude) ; un lecteur qui ne connaît pas Proenligne ne comprend pas ce qui est offert.",
+   "proposition": "Proenligne vous offre 30 jours d'essai"
+  },
+  {
+   "id": "ee78b45",
+   "verdict": "ok"
+  },
+  {
+   "id": "e4e0b2a",
+   "verdict": "ok"
+  },
+  {
+   "id": "e979ec8",
+   "verdict": "refuse",
+   "motif": "Critère 10 (et 2) : « laquelle » n'a pas d'antécédent féminin (le surtitre parle du « même avis ») et diffère du « Lequel des deux » de la question du visuel ; l'accord est faux et le titre se lit mal.",
+   "proposition": "Avant ou après, quelle version de la fiche Google vous ferait appeler ?"
+  },
+  {
+   "id": "e16b7d5",
+   "verdict": "refuse",
+   "motif": "Critère 1 : « ses avis et ses photos » renvoie grammaticalement au client à la chaudière en panne, pas au chauffagiste ; la phrase se comprend de travers à la première lecture.",
+   "proposition": "Chauffagiste à Toulouse, vos soirées partent sur votre fiche Google ?\nVotre fiche Google, c'est l'encadré qu'un client ouvre sur Google Maps quand sa chaudière s'arrête. Pendant que les dépannages s'enchaînent, vos photos et vos réponses aux avis attendent le soir, après le dernier client.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Chauffagiste #Toulouse"
+  },
+  {
+   "id": "e05eb5c",
+   "verdict": "ok"
+  },
+  {
+   "id": "e98c7a9",
+   "verdict": "refuse",
+   "motif": "Critère 1 : « s'en occuper finit souvent le soir » est mal construit (on comprend « se termine le soir ») et fait buter à la lecture.",
+   "proposition": "Chauffagiste à Toulouse, vos soirées partent-elles sur votre fiche Google ?\n\nLa fiche Google, c'est ce qu'un client voit sur Google Maps quand il cherche un chauffagiste, avec les photos, les avis et le numéro. En plein hiver, on s'en occupe souvent le soir, après le dernier dépannage.\n\nProenligne publie une photo le lundi, un article le jeudi, et répond à chaque avis à votre place.\n\nQuand trouvez-vous le temps de vous en occuper ?\n\n#FicheGoogle #Chauffagiste #Toulouse"
+  },
+  {
+   "id": "ed9e4b2",
+   "verdict": "ok"
+  },
+  {
+   "id": "e6ee385",
+   "verdict": "ok"
+  },
+  {
+   "id": "e3ad8bc",
+   "verdict": "refuse",
+   "motif": "Critère 1 : affichée seule à la 1re image, « votre fiche Google vous attend ? » ne dit pas quand ni pourquoi ; sans l'idée du soir, l'accroche B ne se comprend pas d'emblée.",
+   "proposition": "Chauffagiste à Toulouse, votre *fiche Google* vous attend le soir ?"
+  },
+  {
+   "id": "ebcbddd",
+   "verdict": "ok"
+  },
+  {
+   "id": "e3721c7",
+   "verdict": "ok"
+  },
+  {
+   "id": "ec49431",
+   "verdict": "ok"
+  },
+  {
+   "id": "e6d44e4",
+   "verdict": "ok"
+  },
+  {
+   "id": "e19d56c",
+   "verdict": "ok"
+  },
+  {
+   "id": "ef7a976",
+   "verdict": "refuse",
+   "motif": "Critère 1 : à l'oral, « l'un des premiers noms » ne dit pas de quelle liste il s'agit et s'entend presque comme « prénoms » ; la phrase fait buter l'auditeur.",
+   "proposition": "Le client appelle souvent l'un des premiers qu'il voit."
+  },
+  {
+   "id": "e111d0e",
+   "verdict": "ok"
+  },
+  {
+   "id": "e65dd5a",
+   "verdict": "ok"
+  }
+ ]
+}

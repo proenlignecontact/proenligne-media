@@ -902,8 +902,8 @@
    "quand": "2026-11-04T20:44:54+00:00"
   },
   "2026-11-15 06:30|plan|premier_commentaire": {
-   "h": "02754683f0f9",
-   "quand": "2026-11-04T20:44:54+00:00"
+   "h": "47f707b9eca8",
+   "quand": "2026-11-04T20:49:25+00:00"
   },
   "2026-11-15 06:30|plan|texte x": {
    "h": "a31abc4f7f71",
@@ -1026,8 +1026,8 @@
    "quand": "2026-11-04T20:44:54+00:00"
   },
   "2026-11-15 19:00|plan|texte facebook": {
-   "h": "29f6736bcb97",
-   "quand": "2026-11-04T20:44:54+00:00"
+   "h": "e3fc2a7b41a0",
+   "quand": "2026-11-04T20:49:25+00:00"
   },
   "2026-11-15 19:00|brief:chauffagiste-semaine-toulouse|voix 1 (Probleme, dite)": {
    "h": "bee66b6e16d6",
@@ -1092,6 +1092,126 @@
   "2026-11-14 19:00|brief:paysagiste-duel-lille|voix 4 (Offre, dite)": {
    "h": "9aba4e9d45d8",
    "quand": "2026-11-04T20:44:54+00:00"
+  },
+  "2026-11-09 13:00|plan|texte linkedin": {
+   "h": "2f141360288b",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-10 13:00|plan|texte instagram": {
+   "h": "0adc9e2b44b2",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-10 13:00|plan|texte facebook": {
+   "h": "c6beeecb658e",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-10 13:00|plan|visuel slide 3 titre": {
+   "h": "a5f749855004",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-10 19:00|plan|youtube_title": {
+   "h": "d99b5d7cf37f",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-10 19:00|plan|texte tiktok": {
+   "h": "42e347a41b7f",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-11 06:30|plan|visuel carte apres": {
+   "h": "6c5df4b9fb7d",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-11 13:00|plan|visuel point 1": {
+   "h": "6c53d134e25d",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-11 13:00|plan|visuel slide 5 titre": {
+   "h": "2133c1cb987f",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-11 19:00|plan|texte tiktok": {
+   "h": "fe0176eae26c",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-11 19:00|plan|texte instagram": {
+   "h": "c0fc8f6deb66",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-12 06:30|plan|texte x": {
+   "h": "db9724be1a16",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-12 12:30|plan|texte tiktok": {
+   "h": "6024cbd1e192",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-12 13:00|plan|visuel carte apres": {
+   "h": "cca4cf5a84d1",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-12 19:00|plan|texte youtube": {
+   "h": "caf041dd7d94",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-13 13:00|plan|texte facebook": {
+   "h": "0e69eb0f825b",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-13 13:00|plan|texte linkedin": {
+   "h": "cb2dcb83aef5",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-13 19:00|plan|tiktok_title": {
+   "h": "4cb13e019b01",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-14 06:30|plan|visuel titre": {
+   "h": "b40080298421",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-14 13:00|plan|visuel point 1": {
+   "h": "83016896acf3",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-14 19:00|plan|texte tiktok": {
+   "h": "8ada567b453a",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-15 19:00|plan|texte instagram": {
+   "h": "5c144ac56b02",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-15 19:00|brief:chauffagiste-semaine-toulouse|accroche A": {
+   "h": "ddceddb05ca7",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-11 19:00|brief:coiffeuse-soiree-avis-caen|voix 1 (Probleme, dite)": {
+   "h": "e2c1bde23352",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-09 19:00|brief:electricien-classement-le-mans|accroche dite B": {
+   "h": "cff1cd31be03",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-09 19:00|brief:electricien-classement-le-mans|voix 3 (Bascule, dite)": {
+   "h": "9da3dbff7a9c",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-13 19:00|brief:estheticienne-swipe-appels-lyon|accroche A": {
+   "h": "223e6615c599",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-10 19:00|brief:macon-swipe-concurrent-tours|voix 3 (Bascule, dite)": {
+   "h": "2f5d7d41adde",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-12 19:00|brief:plombier-classement-bordeaux|voix 2 (Bascule, dite)": {
+   "h": "dc72daa3cab4",
+   "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-12 19:00|brief:plombier-classement-bordeaux|voix 4 (Offre, dite)": {
+   "h": "a4e08736c49f",
+   "quand": "2026-11-04T20:49:25+00:00"
   }
  }
 }

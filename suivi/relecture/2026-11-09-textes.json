@@ -1,8 +1,8 @@
 {
  "lundi": "2026-11-09",
- "empreinte": "1fcd5cfa296349d6",
- "nb": 280,
- "nb_a_relire": 43,
+ "empreinte": "83c96711deef730f",
+ "nb": 114,
+ "nb_a_relire": 11,
  "consigne": "Un verdict pour chaque élément a_relire=true (les autres sont du contexte déjà validé : verdict facultatif, mais à refuser s'ils contredisent un élément relu).",
  "elements": [
   {
@@ -29,9 +29,9 @@
    "ref": "2026-11-09 13:00",
    "source": "plan",
    "champ": "texte instagram",
-   "texte": "Mercredi est un jour férié, et votre fiche Google affiche peut-être encore vos horaires habituels.\n\nQuand on cherche « boulangerie » dans sa ville, Google affiche des fiches avec la note, les photos et les horaires. La vôtre en fait partie, et un jour férié, ce sont souvent les horaires qu'on regarde en premier.\n\nTrois gestes avant mercredi.\n1. Ouvrez votre fiche Google depuis votre téléphone.\n2. Ajoutez des horaires exceptionnels pour le jour de l'Armistice.\n3. Publiez une photo de la vitrine avec l'affichette des horaires.\n\nVous ouvrez mercredi matin, vous ?\n\n#FicheGoogle #Boulangerie #Boulanger #ReferencementLocal #GoogleBusinessProfile",
+   "texte": "Mercredi est un jour férié, et votre fiche Google affiche peut-être encore vos horaires habituels.\n\nQuand on cherche « boulangerie » dans sa ville, Google affiche des fiches Google avec la note, les photos et les horaires. La vôtre en fait partie, et un jour férié, ce sont souvent les horaires qu'on regarde en premier.\n\nTrois gestes avant mercredi.\n1. Ouvrez votre fiche Google depuis votre téléphone.\n2. Ajoutez des horaires exceptionnels pour le jour de l'Armistice.\n3. Publiez une photo de la vitrine avec l'affichette des horaires.\n\nVous ouvrez mercredi matin, vous ?\n\n#FicheGoogle #Boulangerie #Boulanger #ReferencementLocal #GoogleBusinessProfile",
    "cle": "2026-11-09 13:00|plan|texte instagram",
-   "h": "41ca06a4fa14",
+   "h": "86b678240c05",
    "id": "eb817e6",
    "a_relire": true
   },
@@ -53,7 +53,7 @@
    "cle": "2026-11-09 13:00|plan|texte linkedin",
    "h": "2f141360288b",
    "id": "ec0c904",
-   "a_relire": true
+   "a_relire": false
   },
   {
    "ref": "2026-11-09 13:00",
@@ -196,356 +196,6 @@
    "a_relire": false
   },
   {
-   "ref": "2026-11-09 19:00",
-   "source": "plan",
-   "champ": "accroche",
-   "texte": "Tapez « électricien Le Mans » sur Google. Où apparaît votre fiche Google ?",
-   "cle": "2026-11-09 19:00|plan|accroche",
-   "h": "68378cd05126",
-   "id": "e942b78",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 19:00",
-   "source": "plan",
-   "champ": "premier_commentaire",
-   "texte": "Électriciens, faites le test dans votre ville. Votre fiche Google apparaît-elle dans le premier écran du téléphone ?",
-   "cle": "2026-11-09 19:00|plan|premier_commentaire",
-   "h": "9dc4ebbd363b",
-   "id": "e0ef7f6",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 19:00",
-   "source": "plan",
-   "champ": "youtube_title",
-   "texte": "Électricien, où apparaît votre fiche Google quand un client cherche ?",
-   "cle": "2026-11-09 19:00|plan|youtube_title",
-   "h": "b6fc17a3225f",
-   "id": "edec563",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 19:00",
-   "source": "plan",
-   "champ": "tiktok_title",
-   "texte": "Électricien au Mans, où est votre fiche Google ?",
-   "cle": "2026-11-09 19:00|plan|tiktok_title",
-   "h": "fb4386198a09",
-   "id": "e762c27",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 19:00",
-   "source": "plan",
-   "champ": "texte tiktok",
-   "texte": "Tapez « électricien Le Mans » sur Google. Où apparaît votre fiche Google ?\nLe client voit d'abord une liste de fiches Google, avec des photos et des avis. Il appelle souvent l'une des premières qu'il voit.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Electricien #LeMans",
-   "cle": "2026-11-09 19:00|plan|texte tiktok",
-   "h": "c7d37d7f5f7f",
-   "id": "ed239c9",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 19:00",
-   "source": "plan",
-   "champ": "texte instagram",
-   "texte": "Tapez « électricien Le Mans » sur Google. Où apparaît votre fiche Google ?\n\nC'est la scène de tous les jours. Un disjoncteur saute, le client prend son téléphone et cherche un électricien. Google lui montre une liste de fiches Google avec la note, les photos et le bouton Appeler.\n\nIl fait rarement défiler longtemps. Il compare deux ou trois fiches Google et il appelle.\n\nUne fiche Google qui montre des chantiers récents et des réponses aux avis donne envie de s'arrêter dessus.\n\nVous avez fait le test dans votre ville ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Electricien #LeMans #ReferencementLocal #GoogleBusinessProfile",
-   "cle": "2026-11-09 19:00|plan|texte instagram",
-   "h": "a353d0bb9799",
-   "id": "e53c902",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 19:00",
-   "source": "plan",
-   "champ": "texte youtube",
-   "texte": "Tapez « électricien Le Mans » sur Google et regardez où apparaît votre fiche Google.\n\nLa fiche Google, c'est l'encadré qui présente votre entreprise sur Google et Google Maps, avec vos photos, vos avis et votre numéro. Le client compare quelques fiches Google, puis il appelle.\n\nProenligne publie une photo le lundi, un article le jeudi, et répond à chaque avis.\n\nAvez-vous déjà fait le test dans votre ville ?\n\n#FicheGoogle #Electricien #LeMans",
-   "cle": "2026-11-09 19:00|plan|texte youtube",
-   "h": "96112fc10c88",
-   "id": "e417a17",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 19:00",
-   "source": "plan",
-   "champ": "texte facebook",
-   "texte": "Tapez « électricien Le Mans » sur Google. Où apparaît votre fiche Google ?\n\nUn soir, la lumière saute dans une cuisine. Le client cherche un électricien sur son téléphone. Google lui montre plusieurs fiches Google, ces encadrés avec la note, les photos et le bouton Appeler.\n\nIl en regarde deux ou trois, rarement plus. Les photos récentes et les réponses aux avis l'aident à choisir.\n\nFaites le test dans votre ville ce soir. Votre fiche Google apparaît-elle sans faire défiler ?\n\n#FicheGoogle #Electricien #LeMans #ReferencementLocal",
-   "cle": "2026-11-09 19:00|plan|texte facebook",
-   "h": "867b262f2bc9",
-   "id": "e2d6e52",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 13:00",
-   "source": "plan",
-   "champ": "accroche",
-   "texte": "« Je vous ai trouvé sur Google. » Vous l'entendez souvent au téléphone, cette phrase ?",
-   "cle": "2026-11-10 13:00|plan|accroche",
-   "h": "8568ea4db64a",
-   "id": "e94bd66",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 13:00",
-   "source": "plan",
-   "champ": "premier_commentaire",
-   "texte": "Plombiers, quand un nouveau client appelle, vous lui demandez comment il vous a trouvé ? Racontez-nous.",
-   "cle": "2026-11-10 13:00|plan|premier_commentaire",
-   "h": "5ae517f8ae61",
-   "id": "e1c3210",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 13:00",
-   "source": "plan",
-   "champ": "texte instagram",
-   "texte": "« Je vous ai trouvé sur Google. » Vous l'entendez souvent au téléphone, cette phrase ?\n\nMême quand un voisin a donné votre nom, beaucoup de clients tapent ce nom sur Google avant d'appeler. Ils tombent sur votre fiche Google, l'encadré avec vos photos, vos avis et votre numéro.\n\nC'est là qu'ils se décident. Ils regardent les photos de chantiers récents, la note et les réponses aux avis.\n\nPrenez l'habitude de poser une question à chaque nouvel appel. « Comment nous avez-vous trouvés ? » La réponse vous apprend beaucoup.\n\nEt chez vous, d'où viennent les nouveaux clients ?\n\n#FicheGoogle #Plombier #Plomberie #ReferencementLocal #GoogleBusinessProfile",
-   "cle": "2026-11-10 13:00|plan|texte instagram",
-   "h": "0adc9e2b44b2",
-   "id": "e3bf0ea",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-10 13:00",
-   "source": "plan",
-   "champ": "texte facebook",
-   "texte": "« Je vous ai trouvé sur Google. » Vous l'entendez souvent au téléphone, cette phrase ?\n\nSur Google Maps, chaque plombier a sa fiche Google, avec la note, les photos et le bouton Appeler. Même recommandé par un voisin, le client y jette souvent un œil avant de composer votre numéro.\n\nPrenez un petit réflexe cette semaine. À chaque nouvel appel, demandez simplement « Comment nous avez-vous trouvés ? »\n\nLe client vous parlera peut-être du bouche-à-oreille, de votre fiche Google ou de votre camionnette garée dans la rue. Les réponses risquent de vous surprendre.\n\nVous posez déjà la question, vous ?\n\n#FicheGoogle #Plombier #Plomberie #ReferencementLocal",
-   "cle": "2026-11-10 13:00|plan|texte facebook",
-   "h": "c6beeecb658e",
-   "id": "e775977",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-10 13:00",
-   "source": "plan",
-   "champ": "texte linkedin",
-   "texte": "« Je vous ai trouvé sur Google. » Combien de fois cette phrase revient-elle dans les appels de votre entreprise ?\nPour beaucoup d'artisans, la fiche Google est devenue la vitrine que le client consulte avant d'appeler.\n\nLa fiche Google, c'est l'encadré qui présente l'entreprise sur Google et Google Maps, avec la note, les photos, les horaires et le numéro.\n\nLe bouche-à-oreille reste précieux. Mais un client recommandé tape souvent le nom de l'entreprise sur Google pour vérifier. Ce qu'il y trouve confirme la recommandation, ou la fragilise.\n\nUne habitude simple permet d'y voir clair. Demander à chaque nouveau client comment il a connu l'entreprise, et noter la réponse. Au bout de quelques semaines, on sait d'où viennent les appels.\n\nProenligne s'occupe de la partie Google pour les artisans, avec une photo le lundi, un article le jeudi et une réponse à chaque avis.\n\nDans votre entreprise, savez-vous d'où viennent vos nouveaux clients ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Plombier #Artisanat",
-   "cle": "2026-11-10 13:00|plan|texte linkedin",
-   "h": "3014d4c8a0eb",
-   "id": "e19ac18",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 13:00",
-   "source": "plan",
-   "champ": "visuel surtitre",
-   "texte": "Plombiers, un sondage sur Google",
-   "cle": "2026-11-10 13:00|plan|visuel surtitre",
-   "h": "7cdd283f348d",
-   "id": "eb8136f",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 13:00",
-   "source": "plan",
-   "champ": "visuel titre",
-   "texte": "Comment vos nouveaux clients vous trouvent-ils ?",
-   "cle": "2026-11-10 13:00|plan|visuel titre",
-   "h": "85d231b9c9d6",
-   "id": "ea3d05f",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 13:00",
-   "source": "plan",
-   "champ": "visuel question",
-   "texte": "Et vous, que répondent vos nouveaux clients ?",
-   "cle": "2026-11-10 13:00|plan|visuel question",
-   "h": "3bd1342c3ea9",
-   "id": "e3c2607",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 13:00",
-   "source": "plan",
-   "champ": "visuel réponse 1",
-   "texte": "Par le bouche-à-oreille",
-   "cle": "2026-11-10 13:00|plan|visuel réponse 1",
-   "h": "65cc363b1e5d",
-   "id": "e53308d",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 13:00",
-   "source": "plan",
-   "champ": "visuel réponse 2",
-   "texte": "Par ma fiche Google",
-   "cle": "2026-11-10 13:00|plan|visuel réponse 2",
-   "h": "d0761afed9f7",
-   "id": "e8b60e9",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 13:00",
-   "source": "plan",
-   "champ": "visuel réponse 3",
-   "texte": "Je ne leur demande pas",
-   "cle": "2026-11-10 13:00|plan|visuel réponse 3",
-   "h": "f2ae3cafca75",
-   "id": "ec2cdbb",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 13:00",
-   "source": "plan",
-   "champ": "visuel slide 2 titre",
-   "texte": "Le bouche-à-oreille compte",
-   "cle": "2026-11-10 13:00|plan|visuel slide 2 titre",
-   "h": "1c283c15d75d",
-   "id": "e6ef1dc",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 13:00",
-   "source": "plan",
-   "champ": "visuel slide 2 texte",
-   "texte": "Un voisin donne votre nom. Souvent, le client tape ensuite ce nom sur Google pour voir votre fiche Google.",
-   "cle": "2026-11-10 13:00|plan|visuel slide 2 texte",
-   "h": "1033b4f91433",
-   "id": "ec4ee36",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 13:00",
-   "source": "plan",
-   "champ": "visuel slide 3 titre",
-   "texte": "La fiche Google confirme le choix",
-   "cle": "2026-11-10 13:00|plan|visuel slide 3 titre",
-   "h": "a5f749855004",
-   "id": "e610318",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-10 13:00",
-   "source": "plan",
-   "champ": "visuel slide 3 texte",
-   "texte": "Avant d'appeler, il regarde les photos, la note et les réponses aux avis. C'est là qu'il se décide.",
-   "cle": "2026-11-10 13:00|plan|visuel slide 3 texte",
-   "h": "246279f5ccb5",
-   "id": "e0528ed",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 13:00",
-   "source": "plan",
-   "champ": "visuel slide 4 titre",
-   "texte": "Une question suffit",
-   "cle": "2026-11-10 13:00|plan|visuel slide 4 titre",
-   "h": "2b5f167a601b",
-   "id": "ec29850",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 13:00",
-   "source": "plan",
-   "champ": "visuel slide 4 texte",
-   "texte": "« Comment nous avez-vous trouvés ? » Posée à chaque appel, elle vous apprend d'où viennent vos clients.",
-   "cle": "2026-11-10 13:00|plan|visuel slide 4 texte",
-   "h": "c0d7bfcb3016",
-   "id": "ea7e949",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 13:00",
-   "source": "plan",
-   "champ": "visuel slide 5 titre",
-   "texte": "À vous de répondre",
-   "cle": "2026-11-10 13:00|plan|visuel slide 5 titre",
-   "h": "2d6aed026724",
-   "id": "e04294c",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 13:00",
-   "source": "plan",
-   "champ": "visuel slide 5 texte",
-   "texte": "Bouche-à-oreille, fiche Google ou autre chose, d'où viennent vos nouveaux clients ?",
-   "cle": "2026-11-10 13:00|plan|visuel slide 5 texte",
-   "h": "3b9c0e00dfc5",
-   "id": "e26e7c7",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 19:00",
-   "source": "plan",
-   "champ": "accroche",
-   "texte": "Maçon à Tours, même note Google que le voisin, et c'est lui qu'on appelle.",
-   "cle": "2026-11-10 19:00|plan|accroche",
-   "h": "e2bb8af09222",
-   "id": "e8d06b4",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 19:00",
-   "source": "plan",
-   "champ": "premier_commentaire",
-   "texte": "Maçons, quelle photo de chantier mettriez-vous en premier sur votre fiche Google ? Un mur, une dalle, une façade ?",
-   "cle": "2026-11-10 19:00|plan|premier_commentaire",
-   "h": "1210a01d73fc",
-   "id": "ef857a0",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 19:00",
-   "source": "plan",
-   "champ": "youtube_title",
-   "texte": "Maçon, même note Google que le voisin, mais sa fiche Google montre ses chantiers récents",
-   "cle": "2026-11-10 19:00|plan|youtube_title",
-   "h": "d99b5d7cf37f",
-   "id": "efd1ad9",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-10 19:00",
-   "source": "plan",
-   "champ": "tiktok_title",
-   "texte": "Maçon, pourquoi on appelle le voisin sur Google ?",
-   "cle": "2026-11-10 19:00|plan|tiktok_title",
-   "h": "837fcec2284b",
-   "id": "ed2d982",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 19:00",
-   "source": "plan",
-   "champ": "texte tiktok",
-   "texte": "Maçon à Tours, même note Google que le voisin, et c'est lui qu'on appelle.\nSa fiche Google, l'encadré que Google affiche avec la note et les photos, montre ses chantiers de la semaine. La vôtre montre une façade d'il y a longtemps.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Macon #Tours",
-   "cle": "2026-11-10 19:00|plan|texte tiktok",
-   "h": "42e347a41b7f",
-   "id": "eb7e296",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-10 19:00",
-   "source": "plan",
-   "champ": "texte instagram",
-   "texte": "Maçon à Tours, même note Google que le voisin, et c'est lui qu'on appelle.\n\nSur Google Maps, chaque maçon a sa fiche Google, avec la note, les photos et le bouton Appeler. Le client en ouvre deux, et il compare.\n\nMême note de 4,2 des deux côtés. Mais chez le voisin, les photos montrent un muret monté cette semaine. Chez vous, une façade d'il y a longtemps.\n\nÀ travail égal, le client choisit souvent la fiche Google qui montre que l'entreprise travaille aujourd'hui.\n\nQuel chantier récent mériterait d'être sur votre fiche Google ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Macon #Maconnerie #Tours #ReferencementLocal",
-   "cle": "2026-11-10 19:00|plan|texte instagram",
-   "h": "9a040b3c507c",
-   "id": "e1ee0eb",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 19:00",
-   "source": "plan",
-   "champ": "texte youtube",
-   "texte": "Maçon à Tours, même note sur Google que le voisin, et c'est pourtant lui qu'on appelle.\n\nLa fiche Google, c'est la carte de visite que Google montre à votre place, avec vos photos, vos avis et votre téléphone. Quand deux fiches Google ont la même note, ce sont souvent les photos récentes qui font la différence.\n\nProenligne publie une photo le lundi, un article le jeudi, et répond à chaque avis.\n\nQuelle photo de chantier mettriez-vous en premier ?\n\n#FicheGoogle #Macon #Tours",
-   "cle": "2026-11-10 19:00|plan|texte youtube",
-   "h": "e3e5eafb6881",
-   "id": "e304d33",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 19:00",
-   "source": "plan",
-   "champ": "texte facebook",
-   "texte": "Maçon à Tours, même note Google que le voisin, et c'est lui qu'on appelle.\n\nUn client cherche un maçon pour un muret. Il ouvre deux fiches Google, ces encadrés que Google affiche avec la note, les photos et le numéro. Les deux ont 4,2.\n\nChez le voisin, une photo du chantier de lundi. Chez vous, une façade qui date. Le client n'a aucun moyen de savoir que vous avez fini trois chantiers depuis, sauf si votre fiche Google le montre.\n\nQuel chantier récent aimeriez-vous qu'il voie en premier ?\n\n#FicheGoogle #Macon #Maconnerie #ReferencementLocal",
-   "cle": "2026-11-10 19:00|plan|texte facebook",
-   "h": "4f7bcfc612f9",
-   "id": "e749dc0",
-   "a_relire": false
-  },
-  {
    "ref": "2026-11-11 06:30",
    "source": "plan",
    "champ": "accroche",
@@ -569,9 +219,9 @@
    "ref": "2026-11-11 06:30",
    "source": "plan",
    "champ": "texte x",
-   "texte": "Avant, la fiche Google du garage montrait un atelier vide. Après, on y voit l'équipe au travail.\n\nLa fiche Google, c'est ce que Google Maps montre quand on cherche un garage. La note reste, l'impression change.\n\nÀ quel garage confieriez-vous votre voiture ?\n\n#FicheGoogle #Garage",
+   "texte": "Avant, la fiche Google du garage montrait un atelier vide. Après, on y voit l'équipe au travail.\n\nCe garage est imaginaire. Sa fiche Google, c'est ce que montre Google Maps quand on cherche un garage.\n\nÀ quel garage confieriez-vous votre voiture ?\n\n#FicheGoogle #Garage",
    "cle": "2026-11-11 06:30|plan|texte x",
-   "h": "75a37a0e3532",
+   "h": "6a50ab4106b0",
    "id": "e0228f5",
    "a_relire": true
   },
@@ -653,7 +303,7 @@
    "cle": "2026-11-11 06:30|plan|visuel carte apres",
    "h": "6c5df4b9fb7d",
    "id": "ec607df",
-   "a_relire": true
+   "a_relire": false
   },
   {
    "ref": "2026-11-11 13:00",
@@ -733,7 +383,7 @@
    "cle": "2026-11-11 13:00|plan|visuel point 1",
    "h": "6c53d134e25d",
    "id": "e33184b",
-   "a_relire": true
+   "a_relire": false
   },
   {
    "ref": "2026-11-11 13:00",
@@ -749,9 +399,9 @@
    "ref": "2026-11-11 13:00",
    "source": "plan",
    "champ": "visuel point 3",
-   "texte": "Validez vous-même les réponses aux avis négatifs",
+   "texte": "Obtenez une réponse à chaque avis, et validez celles aux avis négatifs",
    "cle": "2026-11-11 13:00|plan|visuel point 3",
-   "h": "faddebf5644d",
+   "h": "eabc6a0b5e25",
    "id": "e547cdd",
    "a_relire": true
   },
@@ -789,9 +439,9 @@
    "ref": "2026-11-11 13:00",
    "source": "plan",
    "champ": "visuel slide 3 texte",
-   "texte": "Chaque jeudi, une publication présente un nouveau soin, une idée cadeau ou un conseil sur votre fiche Google.",
+   "texte": "Chaque jeudi, votre fiche Google présente un soin, une idée cadeau ou un conseil beauté.",
    "cle": "2026-11-11 13:00|plan|visuel slide 3 texte",
-   "h": "ba97eef3f8f6",
+   "h": "d6e68fb899b5",
    "id": "eb05203",
    "a_relire": true
   },
@@ -823,7 +473,7 @@
    "cle": "2026-11-11 13:00|plan|visuel slide 5 titre",
    "h": "2133c1cb987f",
    "id": "ebbfc09",
-   "a_relire": true
+   "a_relire": false
   },
   {
    "ref": "2026-11-11 13:00",
@@ -833,426 +483,6 @@
    "cle": "2026-11-11 13:00|plan|visuel slide 5 texte",
    "h": "1dea8e751089",
    "id": "ea51f0c",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-11 19:00",
-   "source": "plan",
-   "champ": "accroche",
-   "texte": "Coiffeuse à Caen, encore vos avis Google à cette heure-ci ?",
-   "cle": "2026-11-11 19:00|plan|accroche",
-   "h": "39b0b83c34ef",
-   "id": "eeaa71b",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-11 19:00",
-   "source": "plan",
-   "champ": "premier_commentaire",
-   "texte": "Coiffeuses, à quel moment de la journée répondez-vous aux avis de votre fiche Google ? Le soir, le midi, jamais ?",
-   "cle": "2026-11-11 19:00|plan|premier_commentaire",
-   "h": "07bcf24dd2a3",
-   "id": "e2c7267",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-11 19:00",
-   "source": "plan",
-   "champ": "youtube_title",
-   "texte": "Coiffeuse, vos soirées passent-elles sur votre fiche Google ?",
-   "cle": "2026-11-11 19:00|plan|youtube_title",
-   "h": "6e7e59216e37",
-   "id": "ec2c9e4",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-11 19:00",
-   "source": "plan",
-   "champ": "tiktok_title",
-   "texte": "Coiffeuse, encore vos avis Google le soir ?",
-   "cle": "2026-11-11 19:00|plan|tiktok_title",
-   "h": "2f86fb7de517",
-   "id": "e901f0e",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-11 19:00",
-   "source": "plan",
-   "champ": "texte tiktok",
-   "texte": "Coiffeuse à Caen, encore vos avis Google à cette heure-ci ?\nLe salon est fermé, et votre fiche Google, celle que voient les clientes sur Google Maps, attend encore ses photos et ses réponses.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Coiffeuse #Caen",
-   "cle": "2026-11-11 19:00|plan|texte tiktok",
-   "h": "fe0176eae26c",
-   "id": "e4116d5",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-11 19:00",
-   "source": "plan",
-   "champ": "texte instagram",
-   "texte": "Coiffeuse à Caen, encore vos avis Google à cette heure-ci ?\n\nLe salon est fermé, le sol est balayé. Et sur le canapé, il reste votre fiche Google, l'encadré que voient les clientes quand elles cherchent « coiffeur » sur Google Maps.\n\nUne photo à publier, trois clientes à remercier pour leur avis, une réponse à trouver pour le client qui râle. Il y en a un peu tous les soirs.\n\nProenligne s'en charge en journée, pendant que vous coiffez.\n\nÀ quelle heure répondez-vous à vos avis, vous ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Coiffeuse #Coiffure #Caen #ReferencementLocal",
-   "cle": "2026-11-11 19:00|plan|texte instagram",
-   "h": "c0fc8f6deb66",
-   "id": "ee3ec2f",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-11 19:00",
-   "source": "plan",
-   "champ": "texte youtube",
-   "texte": "Coiffeuse à Caen, encore vos avis Google à cette heure-ci ?\n\nVotre fiche Google, c'est ce que voient vos futures clientes quand elles cherchent un salon sur Google Maps. Elle demande des photos et des réponses aux avis, souvent le soir, une fois le salon fermé.\n\nProenligne publie une photo le lundi, un article le jeudi, et répond à chaque avis, en journée.\n\nÀ quel moment vous occupez-vous de votre fiche Google ?\n\n#FicheGoogle #Coiffeuse #Caen",
-   "cle": "2026-11-11 19:00|plan|texte youtube",
-   "h": "1e77cf11d216",
-   "id": "e227adb",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-11 19:00",
-   "source": "plan",
-   "champ": "texte facebook",
-   "texte": "Coiffeuse à Caen, encore vos avis Google à cette heure-ci ?\n\nLe salon est fermé depuis longtemps. Sur votre téléphone, votre fiche Google, celle que voient les clientes sur Google Maps avec vos photos et vos avis, attend encore une réponse.\n\nCe n'est pas grand-chose, un soir. Mais tous les soirs, ça finit par compter.\n\nEt vous, vous répondez à vos avis plutôt le soir, le midi, ou quand vous y pensez ?\n\n#FicheGoogle #Coiffeuse #Coiffure #ReferencementLocal",
-   "cle": "2026-11-11 19:00|plan|texte facebook",
-   "h": "78d980281a2c",
-   "id": "ec7eab3",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 06:30",
-   "source": "plan",
-   "champ": "accroche",
-   "texte": "Il pleut, le chantier est arrêté. C'est le bon moment pour soigner votre fiche Google.",
-   "cle": "2026-11-12 06:30|plan|accroche",
-   "h": "be73e502fc22",
-   "id": "e5e975a",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 06:30",
-   "source": "plan",
-   "champ": "premier_commentaire",
-   "texte": "Paysagistes, que faites-vous d'un jour de pluie ? Devis, entretien du matériel, ou un peu de Google ?",
-   "cle": "2026-11-12 06:30|plan|premier_commentaire",
-   "h": "3b191bad88c4",
-   "id": "e0dadae",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 06:30",
-   "source": "plan",
-   "champ": "texte x",
-   "texte": "Il pleut, le chantier est arrêté. C'est le bon moment pour soigner votre fiche Google.\n\nLa fiche Google, c'est l'encadré de Google Maps avec vos photos et vos avis. Publiez une photo, répondez aux avis, vérifiez vos horaires d'hiver.\n\nVous en profitez ?\n\n#FicheGoogle #Paysagiste",
-   "cle": "2026-11-12 06:30|plan|texte x",
-   "h": "db9724be1a16",
-   "id": "e3ea409",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-12 06:30",
-   "source": "plan",
-   "champ": "texte facebook",
-   "texte": "Il pleut, le chantier est arrêté. C'est le bon moment pour soigner votre fiche Google.\n\nVotre fiche Google, c'est ce que vos clients voient en premier quand ils cherchent « paysagiste » sur Google Maps. En hiver, elle reste souvent figée sur une pelouse d'été.\n\nTrois gestes pour une matinée de pluie.\nPubliez une photo du dernier chantier terminé, même une haie taillée.\nRépondez aux avis reçus ces dernières semaines.\nVérifiez vos horaires d'hiver.\n\nUn quart d'heure suffit, et vos clients voient que vous travaillez toute l'année.\n\nEt vous, que faites-vous d'un jour de pluie ?\n\n#FicheGoogle #Paysagiste #Jardin #ReferencementLocal",
-   "cle": "2026-11-12 06:30|plan|texte facebook",
-   "h": "945a8965ca2f",
-   "id": "e9a561c",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 06:30",
-   "source": "plan",
-   "champ": "visuel surtitre",
-   "texte": "Paysagistes, un jour de pluie sur Google",
-   "cle": "2026-11-12 06:30|plan|visuel surtitre",
-   "h": "5c93b30a5637",
-   "id": "e0ca646",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 06:30",
-   "source": "plan",
-   "champ": "visuel titre",
-   "texte": "3 gestes pour votre fiche Google",
-   "cle": "2026-11-12 06:30|plan|visuel titre",
-   "h": "0651664a18ab",
-   "id": "ee1987f",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 06:30",
-   "source": "plan",
-   "champ": "visuel question",
-   "texte": "Et vous, que faites-vous d'un jour de pluie ?",
-   "cle": "2026-11-12 06:30|plan|visuel question",
-   "h": "b9b6e7c94bbf",
-   "id": "e2524be",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 06:30",
-   "source": "plan",
-   "champ": "visuel point 1",
-   "texte": "Publiez une photo du dernier chantier terminé",
-   "cle": "2026-11-12 06:30|plan|visuel point 1",
-   "h": "cecdb726a5fe",
-   "id": "e0b414a",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 06:30",
-   "source": "plan",
-   "champ": "visuel point 2",
-   "texte": "Répondez aux avis reçus ces dernières semaines",
-   "cle": "2026-11-12 06:30|plan|visuel point 2",
-   "h": "2396b21052aa",
-   "id": "ec9576f",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 06:30",
-   "source": "plan",
-   "champ": "visuel point 3",
-   "texte": "Vérifiez vos horaires d'hiver",
-   "cle": "2026-11-12 06:30|plan|visuel point 3",
-   "h": "6a056ed5fd43",
-   "id": "eb8a3fb",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 12:30",
-   "source": "plan",
-   "champ": "accroche",
-   "texte": "Maçon à Tours, comparez votre fiche Google à celle d'en face.",
-   "cle": "2026-11-12 12:30|plan|accroche",
-   "h": "db597bc1454a",
-   "id": "e6579f6",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 12:30",
-   "source": "plan",
-   "champ": "premier_commentaire",
-   "texte": "Maçons, vous avez déjà comparé votre fiche Google à celle d'un concurrent ? Qu'avez-vous remarqué ?",
-   "cle": "2026-11-12 12:30|plan|premier_commentaire",
-   "h": "ef7dff2ff2f9",
-   "id": "e8fc5c0",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 12:30",
-   "source": "plan",
-   "champ": "tiktok_title",
-   "texte": "Maçon, comparez votre fiche Google à celle d'en face",
-   "cle": "2026-11-12 12:30|plan|tiktok_title",
-   "h": "ec8065328a68",
-   "id": "e0abc70",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 12:30",
-   "source": "plan",
-   "champ": "texte tiktok",
-   "texte": "Maçon à Tours, comparez votre fiche Google à celle d'en face.\nVotre fiche Google, c'est ce qu'on voit sur Google Maps en cherchant « maçon ». Votre concurrent a la même note que vous, mais il montre ses chantiers de la semaine.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Macon #Tours",
-   "cle": "2026-11-12 12:30|plan|texte tiktok",
-   "h": "6024cbd1e192",
-   "id": "ec8ce1e",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-12 13:00",
-   "source": "plan",
-   "champ": "accroche",
-   "texte": "Avant, la fiche Google de l'auto-école n'avait rien publié depuis la rentrée. Après, les parents voient l'école vivre.",
-   "cle": "2026-11-12 13:00|plan|accroche",
-   "h": "21a8cc7c8b0f",
-   "id": "e1b8381",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 13:00",
-   "source": "plan",
-   "champ": "premier_commentaire",
-   "texte": "Moniteurs, qu'aimeriez-vous que les parents voient d'abord sur votre fiche Google ? La voiture, l'équipe, les réussites ?",
-   "cle": "2026-11-12 13:00|plan|premier_commentaire",
-   "h": "efa9c6c361b3",
-   "id": "e16bd3f",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 13:00",
-   "source": "plan",
-   "champ": "texte instagram",
-   "texte": "Avant, la fiche Google de l'auto-école n'avait rien publié depuis la rentrée. Après, les parents voient l'école vivre.\n\nPrenons une auto-école imaginaire, l'auto-école Durand. Sa fiche Google, c'est l'encadré que Google montre quand un parent cherche « auto-école » près de chez lui.\n\nAvant, une bonne note, et plus rien depuis septembre. On se demande si l'école prend encore des élèves.\nAprès, une photo de la voiture école le lundi, un mot sur le code le jeudi, une réponse sous chaque avis.\n\nMêmes moniteurs, même note. Cette fois, on voit l'école vivre.\n\nLaquelle choisiriez-vous pour votre enfant ?\n\n#FicheGoogle #AutoEcole #Permis #ReferencementLocal #GoogleBusinessProfile",
-   "cle": "2026-11-12 13:00|plan|texte instagram",
-   "h": "046012b23401",
-   "id": "e659e41",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 13:00",
-   "source": "plan",
-   "champ": "texte facebook",
-   "texte": "Avant, la fiche Google de l'auto-école n'avait rien publié depuis la rentrée. Après, les parents voient l'école vivre.\n\nUn parent cherche une auto-école pour son fils. Sur Google Maps, il ouvre les fiches Google des écoles du quartier, avec leur note, leurs photos et leurs avis.\n\nVoici une auto-école imaginaire, l'auto-école Durand, en deux versions.\nAvant, une bonne note et plus rien depuis septembre.\nAprès, une photo le lundi, un mot sur le code le jeudi, une réponse sous chaque avis.\n\nLaquelle des deux appelleriez-vous pour une inscription ?\n\n#FicheGoogle #AutoEcole #Permis #ReferencementLocal",
-   "cle": "2026-11-12 13:00|plan|texte facebook",
-   "h": "97b7b609b8c5",
-   "id": "ef13d20",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 13:00",
-   "source": "plan",
-   "champ": "texte linkedin",
-   "texte": "Deux versions de la même fiche Google d'auto-école, et une seule donne envie d'inscrire son enfant.\nLa fiche Google, c'est l'encadré que Google affiche avec la note, les photos et les avis quand un parent cherche une auto-école.\n\nPrenons une auto-école imaginaire.\n\nDans la première version, la note est bonne, mais rien n'a été publié depuis la rentrée. Le parent qui compare se demande si l'école accepte encore des élèves, ou si elle est débordée.\n\nDans la seconde, une photo de la voiture école est publiée le lundi, un mot sur le code le jeudi, et chaque avis reçoit une réponse.\n\nL'équipe est la même, la note aussi. Ce qui change, c'est l'impression d'une école active et joignable.\n\nC'est ce rythme que Proenligne assure pour les auto-écoles qui lui confient leur fiche Google.\n\nQu'aimeriez-vous que les parents voient d'abord de votre école ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #AutoEcole #TPE",
-   "cle": "2026-11-12 13:00|plan|texte linkedin",
-   "h": "0b6d5abf798e",
-   "id": "e38f9f6",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 13:00",
-   "source": "plan",
-   "champ": "visuel surtitre",
-   "texte": "La même fiche Google, avant et après",
-   "cle": "2026-11-12 13:00|plan|visuel surtitre",
-   "h": "48fca376ee99",
-   "id": "e307547",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 13:00",
-   "source": "plan",
-   "champ": "visuel titre",
-   "texte": "Laquelle rassure un parent sur Google ?",
-   "cle": "2026-11-12 13:00|plan|visuel titre",
-   "h": "759c0d2872f2",
-   "id": "e41e584",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 13:00",
-   "source": "plan",
-   "champ": "visuel question",
-   "texte": "Laquelle choisiriez-vous pour votre enfant ?",
-   "cle": "2026-11-12 13:00|plan|visuel question",
-   "h": "2257abc8b731",
-   "id": "e5a9f22",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 13:00",
-   "source": "plan",
-   "champ": "visuel carte enseigne",
-   "texte": "Auto-école Durand",
-   "cle": "2026-11-12 13:00|plan|visuel carte enseigne",
-   "h": "7d45b18eeda6",
-   "id": "e9551dc",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 13:00",
-   "source": "plan",
-   "champ": "visuel carte metier",
-   "texte": "Auto-école",
-   "cle": "2026-11-12 13:00|plan|visuel carte metier",
-   "h": "27ba80c600cf",
-   "id": "ebc01f2",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 13:00",
-   "source": "plan",
-   "champ": "visuel carte avant",
-   "texte": "Rien de publié depuis la rentrée",
-   "cle": "2026-11-12 13:00|plan|visuel carte avant",
-   "h": "82f8a53b40d3",
-   "id": "ef7b316",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 13:00",
-   "source": "plan",
-   "champ": "visuel carte apres",
-   "texte": "L'école publie le lundi et le jeudi",
-   "cle": "2026-11-12 13:00|plan|visuel carte apres",
-   "h": "cca4cf5a84d1",
-   "id": "e232f89",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-12 13:00",
-   "source": "plan",
-   "champ": "visuel slide 2 titre",
-   "texte": "Avant",
-   "cle": "2026-11-12 13:00|plan|visuel slide 2 titre",
-   "h": "a6594f80458a",
-   "id": "e59c708",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 13:00",
-   "source": "plan",
-   "champ": "visuel slide 2 texte",
-   "texte": "La fiche Google affiche une bonne note, mais rien n'a été publié depuis la rentrée. On se demande si l'école prend des élèves.",
-   "cle": "2026-11-12 13:00|plan|visuel slide 2 texte",
-   "h": "22756ecfd911",
-   "id": "ec61c63",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 13:00",
-   "source": "plan",
-   "champ": "visuel slide 3 titre",
-   "texte": "Après",
-   "cle": "2026-11-12 13:00|plan|visuel slide 3 titre",
-   "h": "6f0f4bbdb64a",
-   "id": "e4e0db4",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 13:00",
-   "source": "plan",
-   "champ": "visuel slide 3 texte",
-   "texte": "Une photo de la voiture école le lundi, un mot sur le code le jeudi, une réponse sous chaque avis.",
-   "cle": "2026-11-12 13:00|plan|visuel slide 3 texte",
-   "h": "04dc346636d7",
-   "id": "e7739b4",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 13:00",
-   "source": "plan",
-   "champ": "visuel slide 4 titre",
-   "texte": "La même école",
-   "cle": "2026-11-12 13:00|plan|visuel slide 4 titre",
-   "h": "06260087235a",
-   "id": "e9b8cd4",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 13:00",
-   "source": "plan",
-   "champ": "visuel slide 4 texte",
-   "texte": "Les moniteurs et la note n'ont pas changé. Sur la fiche Google, on voit enfin l'école vivre.",
-   "cle": "2026-11-12 13:00|plan|visuel slide 4 texte",
-   "h": "8d58e1c4dd66",
-   "id": "ea4a99f",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 13:00",
-   "source": "plan",
-   "champ": "visuel slide 5 titre",
-   "texte": "Et pour votre enfant ?",
-   "cle": "2026-11-12 13:00|plan|visuel slide 5 titre",
-   "h": "154e275a4af5",
-   "id": "e2ccc80",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 13:00",
-   "source": "plan",
-   "champ": "visuel slide 5 texte",
-   "texte": "Laquelle des deux versions vous ferait appeler pour une inscription ?",
-   "cle": "2026-11-12 13:00|plan|visuel slide 5 texte",
-   "h": "8b21d33fcfb5",
-   "id": "ee2ba26",
    "a_relire": false
   },
   {
@@ -1323,7 +553,7 @@
    "cle": "2026-11-12 19:00|plan|texte youtube",
    "h": "caf041dd7d94",
    "id": "e18fb77",
-   "a_relire": true
+   "a_relire": false
   },
   {
    "ref": "2026-11-12 19:00",
@@ -1333,376 +563,6 @@
    "cle": "2026-11-12 19:00|plan|texte facebook",
    "h": "f25565723f4f",
    "id": "e391d0e",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 13:00",
-   "source": "plan",
-   "champ": "accroche",
-   "texte": "« Vous intervenez chez les particuliers ? » Votre fiche Google peut répondre avant même l'appel.",
-   "cle": "2026-11-13 13:00|plan|accroche",
-   "h": "6127445ed898",
-   "id": "eaf7846",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 13:00",
-   "source": "plan",
-   "champ": "premier_commentaire",
-   "texte": "Électriciens, quelle question vos clients posent-ils le plus souvent au téléphone ? On en fera peut-être un conseil.",
-   "cle": "2026-11-13 13:00|plan|premier_commentaire",
-   "h": "83aa32e5088b",
-   "id": "e85417b",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 13:00",
-   "source": "plan",
-   "champ": "texte instagram",
-   "texte": "« Vous intervenez chez les particuliers ? » Votre fiche Google peut répondre avant même l'appel.\n\nLa fiche Google, c'est l'encadré que voit un client quand il cherche « électricien » sur Google Maps. Il y trouve vos photos, vos avis, vos services et votre numéro.\n\nTrois éléments rassurent souvent avant d'appeler.\nDes photos de chantiers récents.\nDes réponses polies sous les avis.\nLa liste claire de vos services.\n\nSelon vous, lequel compte le plus pour un client ?\n\n#FicheGoogle #Electricien #Electricite #ReferencementLocal #GoogleBusinessProfile",
-   "cle": "2026-11-13 13:00|plan|texte instagram",
-   "h": "a17a9ee24824",
-   "id": "ed9e76c",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 13:00",
-   "source": "plan",
-   "champ": "texte facebook",
-   "texte": "« Vous intervenez chez les particuliers ? » Votre fiche Google peut répondre avant même l'appel.\n\nSur Google Maps, chaque électricien a sa fiche Google, avec la note, les photos et le bouton Appeler. C'est elle qu'on regarde avant de vous appeler, et elle peut déjà répondre aux questions les plus courantes.\n\nTrois éléments y rassurent souvent un client. Il y a les photos de chantiers récents, les réponses sous les avis et la liste de vos services, du dépannage à la borne de recharge.\n\nC'est le petit sondage du vendredi. Pour vous, lequel de ces trois éléments fait le plus appeler ?\n\n#FicheGoogle #Electricien #Electricite #ReferencementLocal",
-   "cle": "2026-11-13 13:00|plan|texte facebook",
-   "h": "0e69eb0f825b",
-   "id": "edf19c4",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-13 13:00",
-   "source": "plan",
-   "champ": "texte linkedin",
-   "texte": "« Vous intervenez chez les particuliers ? » Sur Google, la fiche Google de votre entreprise peut répondre à cette question.\nElle le fait avant même que le téléphone sonne.\n\nLa fiche Google, c'est l'encadré qui présente l'entreprise sur Google et Google Maps, avec la note, les photos, les services et le numéro.\n\nTrois éléments y rassurent particulièrement un client.\nDes photos de chantiers récents, qui montrent le travail réel.\nDes réponses aux avis, qui montrent une entreprise à l'écoute.\nUne liste de services précise, du dépannage à l'installation de bornes de recharge.\n\nUne fiche Google bien tenue filtre aussi les appels. Le client sait déjà ce que fait l'entreprise quand il appelle.\n\nProenligne s'occupe chaque semaine d'une partie de ce travail pour les artisans, avec une photo le lundi, une publication le jeudi et une réponse à chaque avis.\n\nDans votre entreprise, quelle question revient le plus souvent au téléphone ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Electricien #Artisanat",
-   "cle": "2026-11-13 13:00|plan|texte linkedin",
-   "h": "cb2dcb83aef5",
-   "id": "e890823",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-13 13:00",
-   "source": "plan",
-   "champ": "visuel surtitre",
-   "texte": "Électriciens, un sondage sur Google",
-   "cle": "2026-11-13 13:00|plan|visuel surtitre",
-   "h": "3688ad10d2c1",
-   "id": "e0b7563",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 13:00",
-   "source": "plan",
-   "champ": "visuel titre",
-   "texte": "Qu'est-ce qui rassure le plus sur votre fiche Google ?",
-   "cle": "2026-11-13 13:00|plan|visuel titre",
-   "h": "9ef0a8090f62",
-   "id": "e8d0798",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 13:00",
-   "source": "plan",
-   "champ": "visuel question",
-   "texte": "Selon vous, qu'est-ce qui fait appeler un client ?",
-   "cle": "2026-11-13 13:00|plan|visuel question",
-   "h": "47523f2d823e",
-   "id": "ef2539d",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 13:00",
-   "source": "plan",
-   "champ": "visuel réponse 1",
-   "texte": "Des photos de chantiers récents",
-   "cle": "2026-11-13 13:00|plan|visuel réponse 1",
-   "h": "c8b633fc42e9",
-   "id": "ea09513",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 13:00",
-   "source": "plan",
-   "champ": "visuel réponse 2",
-   "texte": "Des réponses aux avis",
-   "cle": "2026-11-13 13:00|plan|visuel réponse 2",
-   "h": "6bc1fb5f0d4c",
-   "id": "e77b24e",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 13:00",
-   "source": "plan",
-   "champ": "visuel réponse 3",
-   "texte": "La liste de mes services",
-   "cle": "2026-11-13 13:00|plan|visuel réponse 3",
-   "h": "df364e3d3b4c",
-   "id": "e2513fa",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 13:00",
-   "source": "plan",
-   "champ": "visuel slide 2 titre",
-   "texte": "Les photos de chantiers",
-   "cle": "2026-11-13 13:00|plan|visuel slide 2 titre",
-   "h": "fc39bd133ded",
-   "id": "e6e4538",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 13:00",
-   "source": "plan",
-   "champ": "visuel slide 2 texte",
-   "texte": "Un tableau électrique refait, une prise extérieure posée. Le client voit ce que vous faites vraiment.",
-   "cle": "2026-11-13 13:00|plan|visuel slide 2 texte",
-   "h": "3d51e6c84993",
-   "id": "e1c4bb1",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 13:00",
-   "source": "plan",
-   "champ": "visuel slide 3 titre",
-   "texte": "Les réponses aux avis",
-   "cle": "2026-11-13 13:00|plan|visuel slide 3 titre",
-   "h": "75d00013b943",
-   "id": "ebc7153",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 13:00",
-   "source": "plan",
-   "champ": "visuel slide 3 texte",
-   "texte": "Une réponse polie sous chaque avis montre qu'une vraie personne lit et répond.",
-   "cle": "2026-11-13 13:00|plan|visuel slide 3 texte",
-   "h": "caa48a384729",
-   "id": "ebbf7ba",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 13:00",
-   "source": "plan",
-   "champ": "visuel slide 4 titre",
-   "texte": "La liste des services",
-   "cle": "2026-11-13 13:00|plan|visuel slide 4 titre",
-   "h": "c4902f4c03c2",
-   "id": "e156cc1",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 13:00",
-   "source": "plan",
-   "champ": "visuel slide 4 texte",
-   "texte": "Dépannage, rénovation, borne de recharge. Votre fiche Google peut les nommer un par un.",
-   "cle": "2026-11-13 13:00|plan|visuel slide 4 texte",
-   "h": "3d8e5d540edf",
-   "id": "e940087",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 13:00",
-   "source": "plan",
-   "champ": "visuel slide 5 titre",
-   "texte": "À vous de voter",
-   "cle": "2026-11-13 13:00|plan|visuel slide 5 titre",
-   "h": "249221c94747",
-   "id": "eae58ec",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 13:00",
-   "source": "plan",
-   "champ": "visuel slide 5 texte",
-   "texte": "Photos, réponses ou services, qu'est-ce qui vous ferait appeler un électricien ?",
-   "cle": "2026-11-13 13:00|plan|visuel slide 5 texte",
-   "h": "426aa6ee485b",
-   "id": "e01cebd",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 19:00",
-   "source": "plan",
-   "champ": "accroche",
-   "texte": "Esthéticienne à Lyon, on passe votre fiche Google sans vous appeler ?",
-   "cle": "2026-11-13 19:00|plan|accroche",
-   "h": "761c4b50dd64",
-   "id": "ec2a6b4",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 19:00",
-   "source": "plan",
-   "champ": "premier_commentaire",
-   "texte": "Esthéticiennes, quelle photo de votre institut montreriez-vous en premier sur votre fiche Google ?",
-   "cle": "2026-11-13 19:00|plan|premier_commentaire",
-   "h": "630fa7201a3b",
-   "id": "efad042",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 19:00",
-   "source": "plan",
-   "champ": "youtube_title",
-   "texte": "Esthéticienne, pourquoi on passe votre fiche Google sans appeler",
-   "cle": "2026-11-13 19:00|plan|youtube_title",
-   "h": "40d529f1b05f",
-   "id": "e103970",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 19:00",
-   "source": "plan",
-   "champ": "tiktok_title",
-   "texte": "Esthéticienne, on saute votre fiche Google ?",
-   "cle": "2026-11-13 19:00|plan|tiktok_title",
-   "h": "4cb13e019b01",
-   "id": "e2068a9",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-13 19:00",
-   "source": "plan",
-   "champ": "texte tiktok",
-   "texte": "Esthéticienne à Lyon, on passe votre fiche Google sans vous appeler ?\nUne cliente fait défiler les instituts sur Google Maps. Des photos anciennes, et elle passe à la suivante.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Estheticienne #Lyon",
-   "cle": "2026-11-13 19:00|plan|texte tiktok",
-   "h": "767466f7f0ca",
-   "id": "e864c1f",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 19:00",
-   "source": "plan",
-   "champ": "texte instagram",
-   "texte": "Esthéticienne à Lyon, on passe votre fiche Google sans vous appeler ?\n\nUne cliente cherche un soin du visage pour samedi. Sur Google Maps, elle fait défiler les fiches Google des instituts, avec leurs photos et leurs avis, comme on fait défiler des stories.\n\nChez vous, la dernière photo date d'il y a deux ans. Elle passe à la suivante, sans savoir que votre cabine a été refaite.\n\nQuelle photo de votre institut mériterait d'être vue en premier ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #Lyon #ReferencementLocal",
-   "cle": "2026-11-13 19:00|plan|texte instagram",
-   "h": "470616bab545",
-   "id": "e15f40c",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 19:00",
-   "source": "plan",
-   "champ": "texte youtube",
-   "texte": "Esthéticienne à Lyon, on passe votre fiche Google sans vous appeler ?\n\nVotre fiche Google, c'est ce qu'une future cliente voit quand elle cherche un institut sur Google Maps, avec vos photos, vos avis et le bouton Appeler. Des photos anciennes, et elle passe à la suivante.\n\nProenligne publie une photo le lundi, un article le jeudi, et répond à chaque avis.\n\nQuelle photo de votre institut montreriez-vous en premier ?\n\n#FicheGoogle #Estheticienne #Lyon",
-   "cle": "2026-11-13 19:00|plan|texte youtube",
-   "h": "92063696a0ba",
-   "id": "ef2e06b",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 19:00",
-   "source": "plan",
-   "champ": "texte facebook",
-   "texte": "Esthéticienne à Lyon, on passe votre fiche Google sans vous appeler ?\n\nUne cliente fait défiler les instituts sur son téléphone. Chaque fiche Google lui montre une note, des photos et un bouton Appeler. Elle s'arrête une seconde sur chacune.\n\nSi vos photos datent, elle continue. Si elle voit un soin de la semaine et une réponse sous chaque avis, elle s'arrête et elle appelle.\n\nQuelle photo de votre institut aimeriez-vous qu'elle voie en premier ?\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #ReferencementLocal",
-   "cle": "2026-11-13 19:00|plan|texte facebook",
-   "h": "991f3d3c5b57",
-   "id": "e1adde8",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-14 06:30",
-   "source": "plan",
-   "champ": "accroche",
-   "texte": "En hiver, les chantiers ralentissent, et la fiche Google d'un maçon s'arrête souvent avec eux.",
-   "cle": "2026-11-14 06:30|plan|accroche",
-   "h": "baf25154eac8",
-   "id": "ed53842",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-14 06:30",
-   "source": "plan",
-   "champ": "premier_commentaire",
-   "texte": "Maçons, que montrez-vous sur votre fiche Google entre deux gros chantiers ? Un petit travail, une rénovation, rien ?",
-   "cle": "2026-11-14 06:30|plan|premier_commentaire",
-   "h": "d18591b862d9",
-   "id": "e9620c7",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-14 06:30",
-   "source": "plan",
-   "champ": "texte x",
-   "texte": "En hiver, les chantiers ralentissent, et la fiche Google d'un maçon s'arrête souvent avec eux.\n\nC'est pourtant l'encadré que les clients regardent sur Google Maps pour préparer leurs travaux du printemps.\n\nVous publiez quoi en hiver ?\n\n#FicheGoogle #Macon",
-   "cle": "2026-11-14 06:30|plan|texte x",
-   "h": "314043b19a83",
-   "id": "e8d7e1d",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-14 06:30",
-   "source": "plan",
-   "champ": "texte facebook",
-   "texte": "En hiver, les chantiers ralentissent, et la fiche Google d'un maçon s'arrête souvent avec eux.\n\nPourtant, c'est l'hiver que beaucoup de clients préparent leurs travaux du printemps. Ils cherchent « maçon » sur Google Maps et regardent les fiches Google, avec les photos, les avis et le numéro.\n\nUne fiche Google sans rien de nouveau depuis l'été laisse un doute. Est-ce que l'entreprise prend encore des chantiers ?\n\nUn muret réparé, une ouverture dans un mur, un chantier en cours sous la bâche. Ça suffit à montrer que vous êtes là.\n\nQue montrez-vous sur votre fiche Google entre deux gros chantiers ?\n\n#FicheGoogle #Macon #Maconnerie #ReferencementLocal",
-   "cle": "2026-11-14 06:30|plan|texte facebook",
-   "h": "f676c56e44b2",
-   "id": "e0a65d9",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-14 06:30",
-   "source": "plan",
-   "champ": "visuel surtitre",
-   "texte": "Maçons, votre fiche Google en hiver",
-   "cle": "2026-11-14 06:30|plan|visuel surtitre",
-   "h": "7f187002fc96",
-   "id": "e4cecc9",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-14 06:30",
-   "source": "plan",
-   "champ": "visuel titre",
-   "texte": "En hiver, votre fiche Google peut rester vivante",
-   "cle": "2026-11-14 06:30|plan|visuel titre",
-   "h": "b40080298421",
-   "id": "e675d38",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-14 06:30",
-   "source": "plan",
-   "champ": "visuel question",
-   "texte": "Que montrez-vous sur votre fiche Google en hiver ?",
-   "cle": "2026-11-14 06:30|plan|visuel question",
-   "h": "bbcc3be1160d",
-   "id": "ec9b912",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-14 06:30",
-   "source": "plan",
-   "champ": "visuel point 1",
-   "texte": "Photographiez les petits travaux d'hiver",
-   "cle": "2026-11-14 06:30|plan|visuel point 1",
-   "h": "fa6ae51738a8",
-   "id": "e42738d",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-14 06:30",
-   "source": "plan",
-   "champ": "visuel point 2",
-   "texte": "Montrez un chantier en cours, pas seulement fini",
-   "cle": "2026-11-14 06:30|plan|visuel point 2",
-   "h": "c5d24035f636",
-   "id": "e2491c5",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-14 06:30",
-   "source": "plan",
-   "champ": "visuel point 3",
-   "texte": "Publiez une photo par semaine, même modeste",
-   "cle": "2026-11-14 06:30|plan|visuel point 3",
-   "h": "ee1450a92dd5",
-   "id": "e9ce8de",
    "a_relire": false
   },
   {
@@ -1773,7 +633,7 @@
    "cle": "2026-11-14 13:00|plan|visuel point 1",
    "h": "83016896acf3",
    "id": "e4b469d",
-   "a_relire": true
+   "a_relire": false
   },
   {
    "ref": "2026-11-14 13:00",
@@ -1789,9 +649,9 @@
    "ref": "2026-11-14 13:00",
    "source": "plan",
    "champ": "visuel point 3",
-   "texte": "Validez vous-même les réponses aux avis négatifs",
+   "texte": "Obtenez une réponse à chaque avis, et validez celles aux avis négatifs",
    "cle": "2026-11-14 13:00|plan|visuel point 3",
-   "h": "faddebf5644d",
+   "h": "eabc6a0b5e25",
    "id": "ec824b9",
    "a_relire": true
   },
@@ -1859,9 +719,9 @@
    "ref": "2026-11-14 13:00",
    "source": "plan",
    "champ": "visuel slide 5 titre",
-   "texte": "30 jours offerts pour votre fiche Google",
+   "texte": "Proenligne vous offre 30 jours d'essai",
    "cle": "2026-11-14 13:00|plan|visuel slide 5 titre",
-   "h": "282c2e3ff313",
+   "h": "44022972f1c8",
    "id": "e7397d5",
    "a_relire": true
   },
@@ -1873,186 +733,6 @@
    "cle": "2026-11-14 13:00|plan|visuel slide 5 texte",
    "h": "c1645a5f7dd9",
    "id": "e9f4203",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-14 19:00",
-   "source": "plan",
-   "champ": "accroche",
-   "texte": "Paysagiste à Lille, le voisin montre ses jardins sur Google, et vous ?",
-   "cle": "2026-11-14 19:00|plan|accroche",
-   "h": "2820c880c322",
-   "id": "ecea5b3",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-14 19:00",
-   "source": "plan",
-   "champ": "premier_commentaire",
-   "texte": "Paysagistes, quel jardin de cette année aimeriez-vous voir en photo sur votre fiche Google ?",
-   "cle": "2026-11-14 19:00|plan|premier_commentaire",
-   "h": "8ecea16c5a2c",
-   "id": "e249685",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-14 19:00",
-   "source": "plan",
-   "champ": "youtube_title",
-   "texte": "Paysagiste, le voisin montre ses jardins sur sa fiche Google, et vous ?",
-   "cle": "2026-11-14 19:00|plan|youtube_title",
-   "h": "6b28b6526285",
-   "id": "e1d5ab0",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-14 19:00",
-   "source": "plan",
-   "champ": "tiktok_title",
-   "texte": "Paysagiste, le voisin montre ses jardins sur Google",
-   "cle": "2026-11-14 19:00|plan|tiktok_title",
-   "h": "41ead0d47dd3",
-   "id": "ec17186",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-14 19:00",
-   "source": "plan",
-   "champ": "texte tiktok",
-   "texte": "« Celui-là, au moins, on voit ses jardins. » Paysagiste à Lille, le voisin montre ses jardins sur Google, et vous ?\nSur Google Maps, la cliente compare votre fiche Google à celle du voisin, avec les photos et les avis. Celle du voisin vit chaque semaine. Et la vôtre ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Paysagiste #Lille",
-   "cle": "2026-11-14 19:00|plan|texte tiktok",
-   "h": "8ada567b453a",
-   "id": "ee78b45",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-14 19:00",
-   "source": "plan",
-   "champ": "texte instagram",
-   "texte": "Paysagiste à Lille, le voisin montre ses jardins sur Google, et vous ?\n\n« Celui-là, au moins, on voit ses jardins. » C'est ce que se dit une cliente qui compare deux fiches Google sur Google Maps, avec leurs photos et leurs avis.\n\nLe voisin publie une haie taillée, une terrasse posée, un massif d'automne. Vous avez fait plus beau cette année, mais votre fiche Google n'en montre rien.\n\nQuel jardin de cette année mériterait d'y être ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Paysagiste #Jardin #Lille #ReferencementLocal",
-   "cle": "2026-11-14 19:00|plan|texte instagram",
-   "h": "135fa628509c",
-   "id": "e3463a8",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-14 19:00",
-   "source": "plan",
-   "champ": "texte youtube",
-   "texte": "Paysagiste à Lille, le voisin montre ses jardins sur Google, et vous ?\n\nLa fiche Google, c'est la vitrine que Google montre quand on cherche un paysagiste, avec les photos, les avis et le numéro. À travail égal, le client choisit souvent celle qui montre des jardins récents.\n\nProenligne publie une photo le lundi, un article le jeudi, et répond à chaque avis.\n\nQuel jardin de cette année aimeriez-vous montrer ?\n\n#FicheGoogle #Paysagiste #Lille",
-   "cle": "2026-11-14 19:00|plan|texte youtube",
-   "h": "6b643a8a5ce6",
-   "id": "ee3aa40",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-14 19:00",
-   "source": "plan",
-   "champ": "texte facebook",
-   "texte": "Paysagiste à Lille, le voisin montre ses jardins sur Google, et vous ?\n\n« Celui-là, au moins, on voit ses jardins. » Une cliente compare votre fiche Google à celle du voisin, ces encadrés avec photos et avis qui s'ouvrent sur Google Maps.\n\nChez le voisin, une terrasse posée la semaine dernière. Chez vous, une pelouse de l'an dernier. Vous avez peut-être fait plus beau, mais elle ne peut pas le savoir.\n\nQuel jardin de cette année aimeriez-vous qu'elle voie ?\n\n#FicheGoogle #Paysagiste #Jardin #ReferencementLocal",
-   "cle": "2026-11-14 19:00|plan|texte facebook",
-   "h": "878de48e8734",
-   "id": "ee74cfd",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 06:30",
-   "source": "plan",
-   "champ": "accroche",
-   "texte": "On pense qu'on ne cherche pas sa boulangerie sur Google. Le dimanche matin, on cherche celle qui est ouverte.",
-   "cle": "2026-11-15 06:30|plan|accroche",
-   "h": "718ed075f60b",
-   "id": "e12e9aa",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 06:30",
-   "source": "plan",
-   "champ": "premier_commentaire",
-   "texte": "Boulangers, vos horaires du dimanche sont-ils justes sur votre fiche Google ? Vérifiez, ça prend un instant.",
-   "cle": "2026-11-15 06:30|plan|premier_commentaire",
-   "h": "47f707b9eca8",
-   "id": "e4e0b2a",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-15 06:30",
-   "source": "plan",
-   "champ": "texte x",
-   "texte": "On pense qu'on ne cherche pas sa boulangerie sur Google. Le dimanche matin, on cherche celle qui est ouverte.\n\nLa fiche Google affiche vos horaires sur Google Maps. Ceux du dimanche sont justes ?\n\n#FicheGoogle #Boulangerie",
-   "cle": "2026-11-15 06:30|plan|texte x",
-   "h": "a31abc4f7f71",
-   "id": "e1605e0",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 06:30",
-   "source": "plan",
-   "champ": "texte facebook",
-   "texte": "On pense qu'on ne cherche pas sa boulangerie sur Google. Le dimanche matin, on cherche celle qui est ouverte.\n\nUne famille en vacances, un voisin qui vient d'emménager, quelqu'un qui a oublié le pain. Ils tapent « boulangerie ouverte » sur leur téléphone. Google leur montre des fiches Google avec les horaires, la note et l'itinéraire.\n\nSi vos horaires du dimanche sont faux, ils vont ailleurs, ou ils trouvent porte close.\n\nVos horaires du dimanche sont-ils justes sur votre fiche Google ?\n\n#FicheGoogle #Boulangerie #Boulanger #ReferencementLocal",
-   "cle": "2026-11-15 06:30|plan|texte facebook",
-   "h": "f1468408b6ef",
-   "id": "e5dd6d4",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 06:30",
-   "source": "plan",
-   "champ": "visuel surtitre",
-   "texte": "Boulangeries, le dimanche sur Google",
-   "cle": "2026-11-15 06:30|plan|visuel surtitre",
-   "h": "752c7d2a6773",
-   "id": "ea9f0e6",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 06:30",
-   "source": "plan",
-   "champ": "visuel titre",
-   "texte": "Vos horaires du dimanche sont-ils justes sur Google ?",
-   "cle": "2026-11-15 06:30|plan|visuel titre",
-   "h": "226706b83195",
-   "id": "ee7568b",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 06:30",
-   "source": "plan",
-   "champ": "visuel question",
-   "texte": "Vérifiez votre fiche Google. Vos horaires sont justes ?",
-   "cle": "2026-11-15 06:30|plan|visuel question",
-   "h": "5ef98606e38d",
-   "id": "eb2e63c",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 06:30",
-   "source": "plan",
-   "champ": "visuel réponse 1",
-   "texte": "Oui, je viens de vérifier",
-   "cle": "2026-11-15 06:30|plan|visuel réponse 1",
-   "h": "7910f40aab44",
-   "id": "ee6c55a",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 06:30",
-   "source": "plan",
-   "champ": "visuel réponse 2",
-   "texte": "Je ne sais pas",
-   "cle": "2026-11-15 06:30|plan|visuel réponse 2",
-   "h": "2fa28673e508",
-   "id": "ed7a972",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 06:30",
-   "source": "plan",
-   "champ": "visuel réponse 3",
-   "texte": "Non, ils sont faux",
-   "cle": "2026-11-15 06:30|plan|visuel réponse 3",
-   "h": "c17754e00fb4",
-   "id": "e244118",
    "a_relire": false
   },
   {
@@ -2109,9 +789,9 @@
    "ref": "2026-11-15 13:00",
    "source": "plan",
    "champ": "visuel titre",
-   "texte": "Avant ou après, laquelle vous ferait appeler sur Google ?",
+   "texte": "Quelle version de la fiche Google vous ferait appeler ?",
    "cle": "2026-11-15 13:00|plan|visuel titre",
-   "h": "64e8941272a2",
+   "h": "938940e47eee",
    "id": "e979ec8",
    "a_relire": true
   },
@@ -2289,9 +969,9 @@
    "ref": "2026-11-15 19:00",
    "source": "plan",
    "champ": "texte tiktok",
-   "texte": "Chauffagiste à Toulouse, vos soirées partent sur votre fiche Google ?\nC'est l'encadré qu'un client ouvre sur Google Maps quand sa chaudière s'arrête. Pendant que les dépannages s'enchaînent, ses avis et ses photos attendent le soir, après le dernier client.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Chauffagiste #Toulouse",
+   "texte": "Chauffagiste à Toulouse, vos soirées partent sur votre fiche Google ?\nVotre fiche Google, c'est l'encadré qu'un client ouvre sur Google Maps quand sa chaudière s'arrête. Pendant que les dépannages s'enchaînent, vos photos et vos réponses aux avis attendent le soir, après le dernier client.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Chauffagiste #Toulouse",
    "cle": "2026-11-15 19:00|plan|texte tiktok",
-   "h": "e655179f683d",
+   "h": "07d593b13ca9",
    "id": "e16b7d5",
    "a_relire": true
   },
@@ -2303,15 +983,15 @@
    "cle": "2026-11-15 19:00|plan|texte instagram",
    "h": "5c144ac56b02",
    "id": "e05eb5c",
-   "a_relire": true
+   "a_relire": false
   },
   {
    "ref": "2026-11-15 19:00",
    "source": "plan",
    "champ": "texte youtube",
-   "texte": "Chauffagiste à Toulouse, vos soirées partent-elles sur votre fiche Google ?\n\nLa fiche Google, c'est ce qu'un client voit sur Google Maps quand il cherche un chauffagiste, avec les photos, les avis et le numéro. En plein hiver, s'en occuper finit souvent le soir.\n\nProenligne publie une photo le lundi, un article le jeudi, et répond à chaque avis à votre place.\n\nQuand trouvez-vous le temps de vous en occuper ?\n\n#FicheGoogle #Chauffagiste #Toulouse",
+   "texte": "Chauffagiste à Toulouse, vos soirées partent-elles sur votre fiche Google ?\n\nLa fiche Google, c'est ce qu'un client voit sur Google Maps quand il cherche un chauffagiste, avec les photos, les avis et le numéro. En plein hiver, on s'en occupe souvent le soir, après le dernier dépannage.\n\nProenligne publie une photo le lundi, un article le jeudi, et répond à chaque avis à votre place.\n\nQuand trouvez-vous le temps de vous en occuper ?\n\n#FicheGoogle #Chauffagiste #Toulouse",
    "cle": "2026-11-15 19:00|plan|texte youtube",
-   "h": "6f0f8caa5d5e",
+   "h": "744aedc943a5",
    "id": "e98c7a9",
    "a_relire": true
   },
@@ -2323,7 +1003,7 @@
    "cle": "2026-11-15 19:00|plan|texte facebook",
    "h": "e3fc2a7b41a0",
    "id": "ed9e4b2",
-   "a_relire": true
+   "a_relire": false
   },
   {
    "ref": "2026-11-15 19:00",
@@ -2333,15 +1013,15 @@
    "cle": "2026-11-15 19:00|brief:chauffagiste-semaine-toulouse|accroche A",
    "h": "ddceddb05ca7",
    "id": "e6ee385",
-   "a_relire": true
+   "a_relire": false
   },
   {
    "ref": "2026-11-15 19:00",
    "source": "brief:chauffagiste-semaine-toulouse",
    "champ": "accroche B",
-   "texte": "Chauffagiste à Toulouse, votre *fiche Google* vous attend ?",
+   "texte": "Chauffagiste à Toulouse, encore votre *fiche Google* ce soir ?",
    "cle": "2026-11-15 19:00|brief:chauffagiste-semaine-toulouse|accroche B",
-   "h": "18b4f6eb21d2",
+   "h": "45c555bfd36b",
    "id": "e3ad8bc",
    "a_relire": true
   },
@@ -2383,346 +1063,6 @@
    "cle": "2026-11-15 19:00|brief:chauffagiste-semaine-toulouse|voix 4 (Offre, dite)",
    "h": "cfe94b187a02",
    "id": "e3d1e8e",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-11 19:00",
-   "source": "brief:coiffeuse-soiree-avis-caen",
-   "champ": "accroche A",
-   "texte": "Coiffeuse à Caen, encore vos *avis Google* à cette heure-ci ?",
-   "cle": "2026-11-11 19:00|brief:coiffeuse-soiree-avis-caen|accroche A",
-   "h": "bb6d25e34c50",
-   "id": "e8340b1",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-11 19:00",
-   "source": "brief:coiffeuse-soiree-avis-caen",
-   "champ": "accroche B",
-   "texte": "Coiffeuse à Caen, *Google* vous prend vos soirées ?",
-   "cle": "2026-11-11 19:00|brief:coiffeuse-soiree-avis-caen|accroche B",
-   "h": "5cd9634d34d2",
-   "id": "e6f956d",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-11 19:00",
-   "source": "brief:coiffeuse-soiree-avis-caen",
-   "champ": "valeur",
-   "texte": "22h47",
-   "cle": "2026-11-11 19:00|brief:coiffeuse-soiree-avis-caen|valeur",
-   "h": "e9b54c6fc3dd",
-   "id": "ec59bc4",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-11 19:00",
-   "source": "brief:coiffeuse-soiree-avis-caen",
-   "champ": "voix 1 (Probleme, dite)",
-   "texte": "Le salon est fermé, votre fiche Google vous attend.",
-   "cle": "2026-11-11 19:00|brief:coiffeuse-soiree-avis-caen|voix 1 (Probleme, dite)",
-   "h": "e2c1bde23352",
-   "id": "ebcbddd",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-11 19:00",
-   "source": "brief:coiffeuse-soiree-avis-caen",
-   "champ": "voix 2 (Bascule, dite)",
-   "texte": "Pro en ligne s'en charge en journée.",
-   "cle": "2026-11-11 19:00|brief:coiffeuse-soiree-avis-caen|voix 2 (Bascule, dite)",
-   "h": "8fec19a8bd7f",
-   "id": "e2ae1d5",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-11 19:00",
-   "source": "brief:coiffeuse-soiree-avis-caen",
-   "champ": "voix 3 (Bascule, dite)",
-   "texte": "Et le soir, vous rentrez vraiment chez vous.",
-   "cle": "2026-11-11 19:00|brief:coiffeuse-soiree-avis-caen|voix 3 (Bascule, dite)",
-   "h": "20c568ba0988",
-   "id": "ed221ee",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-11 19:00",
-   "source": "brief:coiffeuse-soiree-avis-caen",
-   "champ": "voix 4 (Offre, dite)",
-   "texte": "Essayez trente jours offerts, lien en bio.",
-   "cle": "2026-11-11 19:00|brief:coiffeuse-soiree-avis-caen|voix 4 (Offre, dite)",
-   "h": "0c29505704b4",
-   "id": "ee40699",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 19:00",
-   "source": "brief:electricien-classement-le-mans",
-   "champ": "accroche A",
-   "texte": "Google vous place *où ?*",
-   "cle": "2026-11-09 19:00|brief:electricien-classement-le-mans|accroche A",
-   "h": "f085fc1700d9",
-   "id": "e725c48",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 19:00",
-   "source": "brief:electricien-classement-le-mans",
-   "champ": "accroche B",
-   "texte": "Vous êtes où sur *Google ?*",
-   "cle": "2026-11-09 19:00|brief:electricien-classement-le-mans|accroche B",
-   "h": "d738b14ee980",
-   "id": "e9c5d66",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 19:00",
-   "source": "brief:electricien-classement-le-mans",
-   "champ": "accroche dite A",
-   "texte": "Tapez électricien Le Mans. Google vous place où ?",
-   "cle": "2026-11-09 19:00|brief:electricien-classement-le-mans|accroche dite A",
-   "h": "883b761a8792",
-   "id": "e30cf44",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 19:00",
-   "source": "brief:electricien-classement-le-mans",
-   "champ": "accroche dite B",
-   "texte": "Un client tape électricien Le Mans. Vous êtes où sur Google ?",
-   "cle": "2026-11-09 19:00|brief:electricien-classement-le-mans|accroche dite B",
-   "h": "cff1cd31be03",
-   "id": "e3721c7",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-09 19:00",
-   "source": "brief:electricien-classement-le-mans",
-   "champ": "voix 1 (Probleme, dite)",
-   "texte": "Le client appelle souvent les premiers de la liste.",
-   "cle": "2026-11-09 19:00|brief:electricien-classement-le-mans|voix 1 (Probleme, dite)",
-   "h": "237834813916",
-   "id": "e3c0f55",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 19:00",
-   "source": "brief:electricien-classement-le-mans",
-   "champ": "voix 2 (Bascule, dite)",
-   "texte": "Pro en ligne fait vivre votre fiche Google chaque semaine.",
-   "cle": "2026-11-09 19:00|brief:electricien-classement-le-mans|voix 2 (Bascule, dite)",
-   "h": "8369b00ec78d",
-   "id": "e17719c",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 19:00",
-   "source": "brief:electricien-classement-le-mans",
-   "champ": "voix 3 (Bascule, dite)",
-   "texte": "Et le client voit une fiche Google bien vivante.",
-   "cle": "2026-11-09 19:00|brief:electricien-classement-le-mans|voix 3 (Bascule, dite)",
-   "h": "9da3dbff7a9c",
-   "id": "ec49431",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-09 19:00",
-   "source": "brief:electricien-classement-le-mans",
-   "champ": "voix 4 (Offre, dite)",
-   "texte": "Trente jours offerts, le lien est en bio.",
-   "cle": "2026-11-09 19:00|brief:electricien-classement-le-mans|voix 4 (Offre, dite)",
-   "h": "286220c51666",
-   "id": "ebb30b4",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 19:00",
-   "source": "brief:estheticienne-swipe-appels-lyon",
-   "champ": "accroche A",
-   "texte": "Esthéticienne à Lyon, on saute votre fiche Google ?",
-   "cle": "2026-11-13 19:00|brief:estheticienne-swipe-appels-lyon|accroche A",
-   "h": "223e6615c599",
-   "id": "e6d44e4",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-13 19:00",
-   "source": "brief:estheticienne-swipe-appels-lyon",
-   "champ": "accroche B",
-   "texte": "Esthéticienne à Lyon, avant de réserver, on lit votre fiche Google.",
-   "cle": "2026-11-13 19:00|brief:estheticienne-swipe-appels-lyon|accroche B",
-   "h": "1b03e252194d",
-   "id": "e310326",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 19:00",
-   "source": "brief:estheticienne-swipe-appels-lyon",
-   "champ": "voix 1 (Probleme, dite)",
-   "texte": "Des photos anciennes, et on appelle la suivante.",
-   "cle": "2026-11-13 19:00|brief:estheticienne-swipe-appels-lyon|voix 1 (Probleme, dite)",
-   "h": "b89b69c10781",
-   "id": "e6919ba",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 19:00",
-   "source": "brief:estheticienne-swipe-appels-lyon",
-   "champ": "voix 2 (Bascule, dite)",
-   "texte": "Pro en ligne montre vos soins chaque semaine.",
-   "cle": "2026-11-13 19:00|brief:estheticienne-swipe-appels-lyon|voix 2 (Bascule, dite)",
-   "h": "92f27e90413f",
-   "id": "e5dee29",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 19:00",
-   "source": "brief:estheticienne-swipe-appels-lyon",
-   "champ": "voix 3 (Bascule, dite)",
-   "texte": "Et cette fois, c'est chez vous qu'on appelle.",
-   "cle": "2026-11-13 19:00|brief:estheticienne-swipe-appels-lyon|voix 3 (Bascule, dite)",
-   "h": "8680668558d7",
-   "id": "ed14e56",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-13 19:00",
-   "source": "brief:estheticienne-swipe-appels-lyon",
-   "champ": "voix 4 (Offre, dite)",
-   "texte": "Le lien est en bio, trente jours offerts.",
-   "cle": "2026-11-13 19:00|brief:estheticienne-swipe-appels-lyon|voix 4 (Offre, dite)",
-   "h": "b548bb4b5b11",
-   "id": "e82d0ed",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 19:00",
-   "source": "brief:macon-swipe-concurrent-tours",
-   "champ": "accroche A",
-   "texte": "Maçon à Tours, même note Google que le voisin. Pourquoi lui ?",
-   "cle": "2026-11-10 19:00|brief:macon-swipe-concurrent-tours|accroche A",
-   "h": "b7de930e5d19",
-   "id": "eb82ea7",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 19:00",
-   "source": "brief:macon-swipe-concurrent-tours",
-   "champ": "accroche B",
-   "texte": "Maçon à Tours, comparez votre fiche Google à celle d'en face.",
-   "cle": "2026-11-10 19:00|brief:macon-swipe-concurrent-tours|accroche B",
-   "h": "db597bc1454a",
-   "id": "e8da08f",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 19:00",
-   "source": "brief:macon-swipe-concurrent-tours",
-   "champ": "voix 1 (Probleme, dite)",
-   "texte": "Sa fiche Google montre ses chantiers récents.",
-   "cle": "2026-11-10 19:00|brief:macon-swipe-concurrent-tours|voix 1 (Probleme, dite)",
-   "h": "e7d60a3a8f3f",
-   "id": "e6d557e",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 19:00",
-   "source": "brief:macon-swipe-concurrent-tours",
-   "champ": "voix 2 (Bascule, dite)",
-   "texte": "Pro en ligne publie les vôtres chaque lundi.",
-   "cle": "2026-11-10 19:00|brief:macon-swipe-concurrent-tours|voix 2 (Bascule, dite)",
-   "h": "b5460162c9cc",
-   "id": "e4d5063",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-10 19:00",
-   "source": "brief:macon-swipe-concurrent-tours",
-   "champ": "voix 3 (Bascule, dite)",
-   "texte": "Et votre fiche Google montre votre travail récent.",
-   "cle": "2026-11-10 19:00|brief:macon-swipe-concurrent-tours|voix 3 (Bascule, dite)",
-   "h": "2f5d7d41adde",
-   "id": "e19d56c",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-10 19:00",
-   "source": "brief:macon-swipe-concurrent-tours",
-   "champ": "voix 4 (Offre, dite)",
-   "texte": "C'est trente jours offerts, lien en bio.",
-   "cle": "2026-11-10 19:00|brief:macon-swipe-concurrent-tours|voix 4 (Offre, dite)",
-   "h": "e9eed52a7292",
-   "id": "e9b5e7f",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-14 19:00",
-   "source": "brief:paysagiste-duel-lille",
-   "champ": "accroche A",
-   "texte": "Paysagiste à Lille, le voisin montre ses *jardins* sur Google.",
-   "cle": "2026-11-14 19:00|brief:paysagiste-duel-lille|accroche A",
-   "h": "0fbd1a032be3",
-   "id": "ec66cd6",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-14 19:00",
-   "source": "brief:paysagiste-duel-lille",
-   "champ": "accroche B",
-   "texte": "Paysagiste à Lille, qui a la *fiche Google* la plus vivante ?",
-   "cle": "2026-11-14 19:00|brief:paysagiste-duel-lille|accroche B",
-   "h": "bf0eb0e09211",
-   "id": "e8a56e5",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-14 19:00",
-   "source": "brief:paysagiste-duel-lille",
-   "champ": "valeur",
-   "texte": "Le voisin",
-   "cle": "2026-11-14 19:00|brief:paysagiste-duel-lille|valeur",
-   "h": "de85a565c95a",
-   "id": "e1fe607",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-14 19:00",
-   "source": "brief:paysagiste-duel-lille",
-   "champ": "voix 1 (Probleme, dite)",
-   "texte": "Il montre ses jardins chaque semaine. Vous, rarement.",
-   "cle": "2026-11-14 19:00|brief:paysagiste-duel-lille|voix 1 (Probleme, dite)",
-   "h": "84d734b69384",
-   "id": "e63f0c4",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-14 19:00",
-   "source": "brief:paysagiste-duel-lille",
-   "champ": "voix 2 (Bascule, dite)",
-   "texte": "Pro en ligne montre enfin vos chantiers d'hiver.",
-   "cle": "2026-11-14 19:00|brief:paysagiste-duel-lille|voix 2 (Bascule, dite)",
-   "h": "de6aed0554f5",
-   "id": "e973946",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-14 19:00",
-   "source": "brief:paysagiste-duel-lille",
-   "champ": "voix 3 (Bascule, dite)",
-   "texte": "À travail égal, on vous choisit, vous.",
-   "cle": "2026-11-14 19:00|brief:paysagiste-duel-lille|voix 3 (Bascule, dite)",
-   "h": "e76dc5195ca0",
-   "id": "e723996",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-14 19:00",
-   "source": "brief:paysagiste-duel-lille",
-   "champ": "voix 4 (Offre, dite)",
-   "texte": "Trente jours offerts vous attendent, lien en bio.",
-   "cle": "2026-11-14 19:00|brief:paysagiste-duel-lille|voix 4 (Offre, dite)",
-   "h": "9aba4e9d45d8",
-   "id": "ea38984",
    "a_relire": false
   },
   {
@@ -2769,9 +1109,9 @@
    "ref": "2026-11-12 19:00",
    "source": "brief:plombier-classement-bordeaux",
    "champ": "voix 1 (Probleme, dite)",
-   "texte": "Le client appelle souvent l'un des premiers noms.",
+   "texte": "Le client appelle souvent l'un des premiers qu'il voit.",
    "cle": "2026-11-12 19:00|brief:plombier-classement-bordeaux|voix 1 (Probleme, dite)",
-   "h": "0d6b3c5f5b4b",
+   "h": "42cdd04bacda",
    "id": "ef7a976",
    "a_relire": true
   },
@@ -2783,7 +1123,7 @@
    "cle": "2026-11-12 19:00|brief:plombier-classement-bordeaux|voix 2 (Bascule, dite)",
    "h": "dc72daa3cab4",
    "id": "e111d0e",
-   "a_relire": true
+   "a_relire": false
   },
   {
    "ref": "2026-11-12 19:00",
@@ -2803,7 +1143,7 @@
    "cle": "2026-11-12 19:00|brief:plombier-classement-bordeaux|voix 4 (Offre, dite)",
    "h": "a4e08736c49f",
    "id": "e65dd5a",
-   "a_relire": true
+   "a_relire": false
   }
  ]
 }

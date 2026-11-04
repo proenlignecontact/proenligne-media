@@ -407,6 +407,17 @@ T('2026-11-15', '19:00', 'textes.youtube', "Chauffagiste à Toulouse, vos soiré
 T('2026-11-14', '06:30', 'visuel.mot', 'rester vivante')
 T('2026-11-15', '13:00', 'visuel.mot', 'vous ferait appeler')
 
+# ───────── Corrections après la relecture, passe 2 ─────────
+T('2026-11-09', '13:00', 'textes.instagram', "Mercredi est un jour férié, et votre fiche Google affiche peut-être encore vos horaires habituels.\n\nQuand on cherche « boulangerie » dans sa ville, Google affiche des fiches Google avec la note, les photos et les horaires. La vôtre en fait partie, et un jour férié, ce sont souvent les horaires qu'on regarde en premier.\n\nTrois gestes avant mercredi.\n1. Ouvrez votre fiche Google depuis votre téléphone.\n2. Ajoutez des horaires exceptionnels pour le jour de l'Armistice.\n3. Publiez une photo de la vitrine avec l'affichette des horaires.\n\nVous ouvrez mercredi matin, vous ?\n\n#FicheGoogle #Boulangerie #Boulanger #ReferencementLocal #GoogleBusinessProfile")  # eb817e6
+T('2026-11-11', '06:30', 'textes.x', "Avant, la fiche Google du garage montrait un atelier vide. Après, on y voit l'équipe au travail.\n\nCe garage est imaginaire. Sa fiche Google, c'est ce que montre Google Maps quand on cherche un garage.\n\nÀ quel garage confieriez-vous votre voiture ?\n\n#FicheGoogle #Garage")  # e0228f5
+T('2026-11-11', '13:00', 'visuel.points.2', 'Obtenez une réponse à chaque avis, et validez celles aux avis négatifs')  # e547cdd
+T('2026-11-11', '13:00', 'visuel.slides.1.texte', 'Chaque jeudi, votre fiche Google présente un soin, une idée cadeau ou un conseil beauté.')  # eb05203
+T('2026-11-14', '13:00', 'visuel.points.2', 'Obtenez une réponse à chaque avis, et validez celles aux avis négatifs')  # ec824b9
+T('2026-11-14', '13:00', 'visuel.slides.3.titre', "Proenligne vous offre 30 jours d'essai")  # e7397d5
+T('2026-11-15', '13:00', 'visuel.titre', 'Quelle version de la fiche Google vous ferait appeler ?')  # e979ec8
+T('2026-11-15', '19:00', 'textes.tiktok', "Chauffagiste à Toulouse, vos soirées partent sur votre fiche Google ?\nVotre fiche Google, c'est l'encadré qu'un client ouvre sur Google Maps quand sa chaudière s'arrête. Pendant que les dépannages s'enchaînent, vos photos et vos réponses aux avis attendent le soir, après le dernier client.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Chauffagiste #Toulouse")  # e16b7d5
+T('2026-11-15', '19:00', 'textes.youtube', "Chauffagiste à Toulouse, vos soirées partent-elles sur votre fiche Google ?\n\nLa fiche Google, c'est ce qu'un client voit sur Google Maps quand il cherche un chauffagiste, avec les photos, les avis et le numéro. En plein hiver, on s'en occupe souvent le soir, après le dernier dépannage.\n\nProenligne publie une photo le lundi, un article le jeudi, et répond à chaque avis à votre place.\n\nQuand trouvez-vous le temps de vous en occuper ?\n\n#FicheGoogle #Chauffagiste #Toulouse")  # e98c7a9
+
 C.sort(key=lambda c: (c['date'], c['creneau_nominal']))
 p = os.path.join(ICI, f'{LUNDI}.json')
 ancien = {}

@@ -91,7 +91,7 @@
     ]
    },
    "textes": {
-    "instagram": "Mercredi est un jour férié, et votre fiche Google affiche peut-être encore vos horaires habituels.\n\nQuand on cherche « boulangerie » dans sa ville, Google affiche des fiches avec la note, les photos et les horaires. La vôtre en fait partie, et un jour férié, ce sont souvent les horaires qu'on regarde en premier.\n\nTrois gestes avant mercredi.\n1. Ouvrez votre fiche Google depuis votre téléphone.\n2. Ajoutez des horaires exceptionnels pour le jour de l'Armistice.\n3. Publiez une photo de la vitrine avec l'affichette des horaires.\n\nVous ouvrez mercredi matin, vous ?\n\n#FicheGoogle #Boulangerie #Boulanger #ReferencementLocal #GoogleBusinessProfile",
+    "instagram": "Mercredi est un jour férié, et votre fiche Google affiche peut-être encore vos horaires habituels.\n\nQuand on cherche « boulangerie » dans sa ville, Google affiche des fiches Google avec la note, les photos et les horaires. La vôtre en fait partie, et un jour férié, ce sont souvent les horaires qu'on regarde en premier.\n\nTrois gestes avant mercredi.\n1. Ouvrez votre fiche Google depuis votre téléphone.\n2. Ajoutez des horaires exceptionnels pour le jour de l'Armistice.\n3. Publiez une photo de la vitrine avec l'affichette des horaires.\n\nVous ouvrez mercredi matin, vous ?\n\n#FicheGoogle #Boulangerie #Boulanger #ReferencementLocal #GoogleBusinessProfile",
     "facebook": "Mercredi est un jour férié, et votre fiche Google affiche peut-être encore vos horaires habituels.\n\nCherchez « boulangerie » dans votre ville. Les encadrés avec une note, des photos et des horaires sont des fiches Google. Un matin de jour férié, le client y vérifie si vous êtes ouvert avant de sortir.\n\nSi votre fiche Google dit « ouvert » alors que le rideau est baissé, il trouve porte close. Si elle dit « fermé » alors que vous êtes ouvert, il va ailleurs sans le savoir.\n\nGoogle prévoit une rubrique pour les horaires exceptionnels. Deux minutes suffisent pour annoncer mercredi.\n\nEt chez vous, la boutique ouvre le matin du jour férié ?\n\n#FicheGoogle #Boulangerie #Boulanger #ReferencementLocal",
     "linkedin": "Mercredi est un jour férié. Pour un commerce de proximité, c'est la fiche Google qui annonce s'il ouvre ou non.\nLa fiche Google, c'est l'encadré que Google affiche avec la note, les photos et les horaires quand on cherche une boulangerie près de chez soi.\n\nUn matin de jour férié, une partie des clients vérifie les horaires sur son téléphone avant de sortir. Si les horaires affichés sont les horaires habituels, deux situations se présentent.\n\nLe client se déplace et trouve porte close. Il s'en souviendra.\nOu bien la boutique est ouverte, mais la fiche Google laisse un doute, et le client choisit une autre adresse.\n\nGoogle propose une rubrique d'horaires exceptionnels, prévue pour ces journées. La renseigner prend deux minutes et évite ces deux déceptions.\n\nProenligne s'occupe de la fiche Google des commerçants, avec une photo le lundi, une publication le jeudi et une réponse à chaque avis.\n\nVotre commerce ouvre-t-il ce mercredi, et vos clients le savent-ils déjà ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Boulangerie #Commerce"
    },
@@ -277,7 +277,7 @@
     "question": "À quel garage confieriez-vous votre voiture ?"
    },
    "textes": {
-    "x": "Avant, la fiche Google du garage montrait un atelier vide. Après, on y voit l'équipe au travail.\n\nLa fiche Google, c'est ce que Google Maps montre quand on cherche un garage. La note reste, l'impression change.\n\nÀ quel garage confieriez-vous votre voiture ?\n\n#FicheGoogle #Garage",
+    "x": "Avant, la fiche Google du garage montrait un atelier vide. Après, on y voit l'équipe au travail.\n\nCe garage est imaginaire. Sa fiche Google, c'est ce que montre Google Maps quand on cherche un garage.\n\nÀ quel garage confieriez-vous votre voiture ?\n\n#FicheGoogle #Garage",
     "facebook": "Avant, la fiche Google du garage montrait un atelier vide. Après, on y voit l'équipe au travail.\n\nPrenons un garage imaginaire, le garage Martin. Sur Google Maps, chaque garage a sa fiche Google, avec la note, les photos et le bouton Appeler. C'est elle qu'on regarde avant de confier sa voiture.\n\nAvant, la seule photo datait de 2021. Un atelier vide, les ponts au repos, personne.\nAprès, une photo arrive chaque lundi. Un pneu changé, une voiture sur le pont, un mécanicien qui sourit.\n\nLa note est la même. Ce qui change, c'est qu'on voit un garage qui tourne.\n\nÀ quel garage confieriez-vous votre voiture ?\n\n#FicheGoogle #Garage #Garagiste #ReferencementLocal"
    },
    "media": {}
@@ -306,7 +306,7 @@
     "points": [
      "Comptez sur une photo publiée chaque lundi",
      "Retrouvez une publication chaque jeudi",
-     "Validez vous-même les réponses aux avis négatifs"
+     "Obtenez une réponse à chaque avis, et validez celles aux avis négatifs"
     ],
     "cta": "offre",
     "slides": [
@@ -320,7 +320,7 @@
       "type": "point",
       "numero": "2",
       "titre": "Une publication le jeudi",
-      "texte": "Chaque jeudi, une publication présente un nouveau soin, une idée cadeau ou un conseil sur votre fiche Google."
+      "texte": "Chaque jeudi, votre fiche Google présente un soin, une idée cadeau ou un conseil beauté."
      },
      {
       "type": "point",
@@ -719,7 +719,7 @@
     "points": [
      "Comptez sur une photo de l'atelier chaque lundi",
      "Retrouvez une publication chaque jeudi",
-     "Validez vous-même les réponses aux avis négatifs"
+     "Obtenez une réponse à chaque avis, et validez celles aux avis négatifs"
     ],
     "cta": "offre",
     "slides": [
@@ -743,7 +743,7 @@
      },
      {
       "type": "fin",
-      "titre": "30 jours offerts pour votre fiche Google",
+      "titre": "Proenligne vous offre 30 jours d'essai",
       "texte": "Essayez Proenligne gratuitement pendant 30 jours, sans engagement."
      }
     ]
@@ -834,7 +834,7 @@
    "visuel": {
     "gabarit": "avant-apres",
     "surtitre": "Le même avis sur Google, avant et après",
-    "titre": "Avant ou après, laquelle vous ferait appeler sur Google ?",
+    "titre": "Quelle version de la fiche Google vous ferait appeler ?",
     "mot": "vous ferait appeler",
     "carte": {
      "enseigne": "Serrurerie Petit",
@@ -895,9 +895,9 @@
    "tiktok_title": "Chauffagiste, vos soirées partent sur Google ?",
    "youtube_title": "Chauffagiste, vos soirées partent-elles sur votre fiche Google ?",
    "textes": {
-    "tiktok": "Chauffagiste à Toulouse, vos soirées partent sur votre fiche Google ?\nC'est l'encadré qu'un client ouvre sur Google Maps quand sa chaudière s'arrête. Pendant que les dépannages s'enchaînent, ses avis et ses photos attendent le soir, après le dernier client.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Chauffagiste #Toulouse",
+    "tiktok": "Chauffagiste à Toulouse, vos soirées partent sur votre fiche Google ?\nVotre fiche Google, c'est l'encadré qu'un client ouvre sur Google Maps quand sa chaudière s'arrête. Pendant que les dépannages s'enchaînent, vos photos et vos réponses aux avis attendent le soir, après le dernier client.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Chauffagiste #Toulouse",
     "instagram": "Chauffagiste à Toulouse, vos soirées partent sur votre fiche Google ?\n\nPendant que les dépannages s'enchaînent, votre fiche Google attend. C'est l'encadré qu'un client ouvre sur Google Maps quand sa chaudière s'arrête, avec vos photos, vos avis et votre numéro.\n\nLe soir, après le dernier client, il reste une photo à publier et des clients à remercier pour leurs avis. Un peu chaque soir, tout l'hiver.\n\nProenligne s'en charge à votre place, avec une photo le lundi, une publication le jeudi et une réponse à chaque avis. Votre soirée reste la vôtre.\n\nQuand répondez-vous à vos avis en plein hiver ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Chauffagiste #Chauffage #Toulouse #ReferencementLocal",
-    "youtube": "Chauffagiste à Toulouse, vos soirées partent-elles sur votre fiche Google ?\n\nLa fiche Google, c'est ce qu'un client voit sur Google Maps quand il cherche un chauffagiste, avec les photos, les avis et le numéro. En plein hiver, s'en occuper finit souvent le soir.\n\nProenligne publie une photo le lundi, un article le jeudi, et répond à chaque avis à votre place.\n\nQuand trouvez-vous le temps de vous en occuper ?\n\n#FicheGoogle #Chauffagiste #Toulouse",
+    "youtube": "Chauffagiste à Toulouse, vos soirées partent-elles sur votre fiche Google ?\n\nLa fiche Google, c'est ce qu'un client voit sur Google Maps quand il cherche un chauffagiste, avec les photos, les avis et le numéro. En plein hiver, on s'en occupe souvent le soir, après le dernier dépannage.\n\nProenligne publie une photo le lundi, un article le jeudi, et répond à chaque avis à votre place.\n\nQuand trouvez-vous le temps de vous en occuper ?\n\n#FicheGoogle #Chauffagiste #Toulouse",
     "facebook": "Chauffagiste à Toulouse, vos soirées partent sur votre fiche Google ?\n\nPendant que les dépannages s'enchaînent, votre fiche Google, l'encadré que les clients ouvrent sur Google Maps, attend ses photos et ses réponses aux avis.\n\nAlors ça se fait le soir, après le dernier client. Un moment par-ci, un moment par-là, tout l'hiver.\n\nEt vous, en plein hiver, à quel moment répondez-vous à vos avis ?\n\n#FicheGoogle #Chauffagiste #Chauffage #ReferencementLocal"
    },
    "media": {}
