@@ -1,17 +1,14 @@
 {
- "demande": "2026-11-04 banque de bruitages",
+ "demande": "2026-11-04T18:47:35Z",
  "telecharges": [
-  "outils/assets/sfx/swipe.mp3",
-  "outils/assets/sfx/tampon.mp3",
-  "outils/assets/sfx/chute.mp3",
-  "outils/assets/sfx/tap.mp3",
-  "outils/assets/sfx/blip.mp3",
-  "outils/assets/sfx/appel.mp3",
-  "outils/assets/sfx/tic.mp3",
-  "outils/assets/sfx/rafale.mp3",
-  "outils/assets/sfx/feuille.mp3",
-  "outils/assets/sfx/transition.mp3",
-  "outils/assets/sfx/camera.mp3"
+  "medias/audio/_test-plombier-swipe-lorient/vo-accroche-A.mp3",
+  "medias/audio/_test-plombier-swipe-lorient/vo-1.mp3",
+  "medias/audio/_test-plombier-swipe-lorient/vo-2.mp3",
+  "medias/audio/_test-plombier-swipe-lorient/vo-3.mp3",
+  "medias/audio/_test-plombier-swipe-lorient/vo-4.mp3",
+  "medias/audio/_banque-musique/ambiance-0.mp3",
+  "medias/audio/_banque-musique/ambiance-1.mp3",
+  "medias/audio/_banque-musique/ambiance-2.mp3"
  ],
  "echecs": []
 }
