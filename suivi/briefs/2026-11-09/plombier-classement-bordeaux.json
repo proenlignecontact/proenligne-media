@@ -36,5 +36,14 @@
  ],
  "offre_ligne": "Une *fiche Google* qui travaille.",
  "musique": true,
- "audio_src": {}
+ "audio_src": {
+  "prise-A": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/uQVZFAFRkp039XPd05RT/8XvbhAGku8afRGBB3goC/content.mp3?Expires=1793833200&KeyName=assets-cdn-key-1&Signature=TiY9Rc6p03n-mRfYZ4wPkcivDOo=",
+   "duree": 13.44
+  },
+  "prise-B": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/I8jfyjmLrA37eT0Y9LYx/5uQ2IHeZ6Yns7SJE7nqK/content.mp3?Expires=1793833200&KeyName=assets-cdn-key-1&Signature=RpQEcDxF5YycWFIM15MUC_KXc8o=",
+   "duree": 14.16
+  }
+ }
 }

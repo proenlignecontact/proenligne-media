@@ -32,5 +32,10 @@
  ],
  "offre_ligne": "Vos soirées, *au chaud.*",
  "musique": true,
- "audio_src": {}
+ "audio_src": {
+  "prise-A": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/CdNeeciY6HsvZvuQTryc/I6RfXby8VmfrIfizLhN8/content.mp3?Expires=1793833200&KeyName=assets-cdn-key-1&Signature=HChYiN1SOYA0_n7gm2U-KiGS7Uk=",
+   "duree": 13.68
+  }
+ }
 }

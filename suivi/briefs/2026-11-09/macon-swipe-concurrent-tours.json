@@ -31,5 +31,14 @@
  ],
  "offre_ligne": "Vos chantiers, *enfin visibles.*",
  "musique": true,
- "audio_src": {}
+ "audio_src": {
+  "prise-A": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/yDavUKvtpE5JHun32AVJ/9RZzDZCyYfdbpytQvMMn/content.mp3?Expires=1793833200&KeyName=assets-cdn-key-1&Signature=VeoiPN2qyqGCU4zW4Or_YM6vCqE=",
+   "duree": 13.52
+  },
+  "prise-B": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/NXFXRVucBCon4e3OT0gh/kdbrv2Oo73GSZ12ByloJ/content.mp3?Expires=1793833200&KeyName=assets-cdn-key-1&Signature=r7KSCHr52c_oevIKhkho4X9HSCo=",
+   "duree": 14.48
+  }
+ }
 }

@@ -31,5 +31,10 @@
  ],
  "offre_ligne": "Vos jardins, *sur Google.*",
  "musique": true,
- "audio_src": {}
+ "audio_src": {
+  "prise-A": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/8r11lhu73bxsgJJVMjLb/LWF098veEIWKoGpQavTz/content.mp3?Expires=1793833200&KeyName=assets-cdn-key-1&Signature=r5GbftzDdFifD2jHf6GEuv-prvU=",
+   "duree": 15.44
+  }
+ }
 }
