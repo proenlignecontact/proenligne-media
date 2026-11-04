@@ -1,7 +1,17 @@
 {
- "demande": "2026-11-04T18:55Z test",
+ "demande": "2026-11-04 banque de bruitages",
  "telecharges": [
-  "medias/audio/_test/vo-1.mp3"
+  "outils/assets/sfx/swipe.mp3",
+  "outils/assets/sfx/tampon.mp3",
+  "outils/assets/sfx/chute.mp3",
+  "outils/assets/sfx/tap.mp3",
+  "outils/assets/sfx/blip.mp3",
+  "outils/assets/sfx/appel.mp3",
+  "outils/assets/sfx/tic.mp3",
+  "outils/assets/sfx/rafale.mp3",
+  "outils/assets/sfx/feuille.mp3",
+  "outils/assets/sfx/transition.mp3",
+  "outils/assets/sfx/camera.mp3"
  ],
  "echecs": []
 }
