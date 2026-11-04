@@ -30,5 +30,11 @@
    "texte": "Essayez Pro en ligne gratuitement, sans engagement."
   }
  ],
- "musique": true
+ "musique": true,
+ "audio_src": {
+  "prise-A": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/qNeauArD76tQp4neBEDw/nXwYNNbczlNrLWeiuG8p/content.mp3?Expires=1793829600&KeyName=assets-cdn-key-1&Signature=JUg9E9GIB3H2Nw-f8RzhCdh8uu8=",
+   "duree": 14.24
+  }
+ }
 }

@@ -30,5 +30,11 @@
    "texte": "Essayez gratuitement, sans engagement."
   }
  ],
- "musique": true
+ "musique": true,
+ "audio_src": {
+  "prise-A": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/RRJGIpyL5zyRcVaEYJGu/KD7BpfYPkh3SqD043KEY/content.mp3?Expires=1793829600&KeyName=assets-cdn-key-1&Signature=jVx8gw2qgst7gBOkCnbKvJHXL3I=",
+   "duree": 13.6
+  }
+ }
 }
