@@ -13,7 +13,7 @@
  "voix": [
   {
    "scene": "Probleme",
-   "texte": "Répondre aux avis, poster des photos… encore ce soir.",
+   "texte": "Ce soir encore, il faut répondre aux avis.",
    "ton": "tired"
   },
   {
@@ -22,7 +22,7 @@
   },
   {
    "scene": "Bascule",
-   "texte": "Il vous reste trois minutes pour jeter un œil.",
+   "texte": "Et vous fermez la boutique l'esprit tranquille.",
    "ancre": 3.0
   },
   {

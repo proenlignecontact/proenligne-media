@@ -8,7 +8,7 @@
  "lieu": "",
  "ambiance": 2,
  "accroches": [
-  "Pourquoi sa *fiche Google* attire plus d'appels ?",
+  "Pourquoi la *fiche Google* d'à côté attire plus d'appels ?",
   "Deux garages, deux *fiches Google*. Lequel appelez-vous ?"
  ],
  "ton_accroche": "curious",
@@ -19,7 +19,7 @@
   },
   {
    "scene": "Bascule",
-   "texte": "La vôtre, Pro en ligne la réveille aussi."
+   "texte": "Pro en ligne fait vivre la vôtre, chaque semaine."
   },
   {
    "scene": "Bascule",

@@ -8,13 +8,13 @@
  "ambiance": 1,
  "accroches": [
   "Sa *fiche Google* vit. La vôtre dort.",
-  "Les clientes comparent vos *fiches Google*. Qui gagne ?"
+  "Les clientes comparent les *fiches Google*. Qui gagne ?"
  ],
  "ton_accroche": "curious",
  "voix": [
   {
    "scene": "Probleme",
-   "texte": "Elle publie chaque semaine. Vous, rarement."
+   "texte": "En face, on publie chaque semaine. Vous, rarement."
   },
   {
    "scene": "Bascule",
