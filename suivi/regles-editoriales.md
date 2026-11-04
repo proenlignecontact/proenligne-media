@@ -55,15 +55,16 @@ Exemples de phrases refusées : « Nouveauté tue sur votre fiche Google, client
 |---|---|---|---|
 | **06:30** | Texte + image | X + Facebook | 1 image 1080×1350 (`outils/visuel.py`, gabarit `conseil` ou `question`) — sur Facebook un texte seul est le format le moins diffusé |
 | **13:00** | Carrousel | Instagram + Facebook, **+ LinkedIn du lundi au vendredi** | carrousel de 3 à 5 images (`outils/visuel.py --carrousel`), le même pour les 3 canaux ; LinkedIn en mode carrousel (`post_as_images_carousel: true`) |
+| **10:00** et **16:30** | Vidéos supplémentaires (depuis le 9 novembre 2026) | TikTok + Instagram + Facebook + YouTube + X + LinkedIn (7 jours sur 7) | 2 vidéos par jour, même méthode que la vidéo de 19:00 ; tâche dédiée « Vidéos supplémentaires Proenligne » (`suivi/consignes/videos-supplementaires.md`, `outils/videos-supp.py`) |
 | **19:00** | Vidéo verticale | TikTok + Instagram (Reel) + YouTube (Short) + Facebook (Reel) | pub motion 15 s (skill `pub-motion-proenligne`), **toujours la version verticale 9:16** sur les 4 canaux. La version horizontale n'est plus publiée. |
 
-3 créneaux par jour, 7 jours sur 7 : 21 créneaux, soit 7 × (2 + 2 + 4) + 5 LinkedIn = **61 posts par semaine**, plus 2 variantes A/B TikTok (voir plus bas).
+3 créneaux par jour, 7 jours sur 7 : 21 créneaux, soit 7 × (2 + 2 + 4) + 5 LinkedIn = **61 posts par semaine**, plus 2 variantes A/B TikTok (voir plus bas). S'y ajoutent les **14 vidéos supplémentaires** (10:00 et 16:30) sur les 6 réseaux, soit 84 posts : **147 posts par semaine** au total, 3 vidéos par jour.
 
 **Heures réelles variées.** Chaque créneau part à ± 45 min de son heure nominale (06:00 à 07:15, 12:30 à 13:45, 18:30 à 19:45), tirées par `python3 outils/heure_utc.py <lundi> --varier`. C'est ce qui permet d'apprendre quels horaires marchent ; le créneau nominal reste la référence des fiches. Un créneau est « occupé » si un post existe sur ce canal à ± 75 min du nominal.
 
 **Premier commentaire.** Chaque post part avec un premier commentaire (2e élément de `postsAndComments`, sans média) : une question, un complément ou le « où en savoir plus », jamais un prix. C'est là que va l'appel à l'action des contenus utiles.
 
-**LinkedIn : seulement en semaine, au créneau de 13:00.** Pas le week-end (audience quasi nulle sur une page entreprise), pas à 06:30 ni à 19:00 (l'engagement chute après 17h). 5 posts par semaine : la fréquence optimale pour une page de PME.
+**LinkedIn : le carrousel de 13:00 seulement en semaine ; les vidéos supplémentaires de 10:00 et 16:30 y partent aussi, 7 jours sur 7 (décision du 4 novembre 2026).** Pas le week-end (audience quasi nulle sur une page entreprise), pas à 06:30 ni à 19:00 (l'engagement chute après 17h). 5 posts par semaine : la fréquence optimale pour une page de PME.
 
 **Heure UTC à passer à Postiz** : toujours celle donnée par `outils/heure_utc.py` (heure d'été et d'hiver gérées). Ne jamais calculer le décalage à la main.
 

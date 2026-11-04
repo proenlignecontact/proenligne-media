@@ -19,8 +19,9 @@ par l'action GitHub « Téléchargement audio » (commande `telecharger`).
 
 usage :
   installer                                   prépare /home/claude/pub-video-work (une fois par session)
-  tirage <lundi> --metiers m1,…,m7            moteur / angle / ville / ambiance des 7 vidéos 19:00, en rotation
-                                              (écrit suivi/plan/<lundi>-videos.json)
+  tirage <lundi> --metiers m1,…,m7 [--par-jour 2] [--sortie <fichier>]
+                                              moteur / angle / ville / ambiance des vidéos, en rotation (écrit
+                                              suivi/plan/<lundi>-videos.json, ou --sortie ; --par-jour 2 = 2 vidéos par jour)
   valider <brief.json> …                      contrôle les briefs → « briefs OK »
   prise <brief.json> [--variante A|B]         donne l'id (prise-A / prise-B), la voix, le modèle et le TEXTE EXACT à envoyer
                                               à mcp__ElevenLabs__creative_generate_speech (une prise par variante)
@@ -208,7 +209,7 @@ def installer():
 
 
 # ---------------------------------------------------------------- tirage
-def tirage(lundi, metiers):
+def tirage(lundi, metiers, par_jour=1, sortie=None):
     import datetime as dt
     hist = []
     p = os.path.join(REPO, 'suivi', 'historique-pubs.json')
@@ -237,9 +238,9 @@ def tirage(lundi, metiers):
         angle = min(cands, key=lambda a: (compte[a], cands.index(a)))
         angles_sem.append(angle)
         amb = (i + (0 if dern_amb is None else dern_amb + 1)) % 3
-        out.append({'date': (j0 + dt.timedelta(days=i)).isoformat(), 'moteur': ordre_moteurs[i % 3], 'angle': angle,
+        out.append({'date': (j0 + dt.timedelta(days=i // par_jour)).isoformat(), 'moteur': ordre_moteurs[i % 3], 'angle': angle,
                     'metier': metier.lower(), 'ville': ordre_villes[i % len(ordre_villes)], 'ambiance': amb})
-    f = os.path.join(REPO, 'suivi', 'plan', f'{lundi}-videos.json')
+    f = sortie or os.path.join(REPO, 'suivi', 'plan', f'{lundi}-videos.json')
     json.dump(out, open(f, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     for o in out:
         print(f"{o['date']}  {o['moteur']:<13} {o['angle']:<19} {o['metier']:<14} {o['ville']:<14} ambiance {o['ambiance']}")
@@ -664,7 +665,7 @@ if __name__ == '__main__':
     if c == 'installer':
         installer()
     elif c == 'tirage':
-        tirage(a[1], [x.strip() for x in opt('--metiers', '').split(',') if x.strip()])
+        tirage(a[1], [x.strip() for x in opt('--metiers', '').split(',') if x.strip()], int(opt('--par-jour', 1)), opt('--sortie'))
     elif c == 'valider':
         sys.exit(valider([x for x in a[1:] if x.endswith('.json')]))
     elif c in ('prise', 'lignes'):
