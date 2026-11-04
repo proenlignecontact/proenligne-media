@@ -9,12 +9,12 @@
  "lieu": "",
  "accroches": [
   "Pressing à Nantes, la *fiche Google* d'en face attire plus ?",
-  "Pressing à Nantes, votre *fiche Google* face à la sienne ?"
+  "Pressing à Nantes, votre *fiche Google* tient face au voisin ?"
  ],
  "voix": [
   {
    "scene": "Probleme",
-   "texte": "Ses photos sont récentes, ses avis répondus."
+   "texte": "Ses photos sont récentes, chaque avis a sa réponse."
   },
   {
    "scene": "Bascule",

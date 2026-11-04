@@ -1,0 +1,51 @@
+[
+ {
+  "slug": "supp-carreleur-appels-rennes",
+  "champ": "accroche A",
+  "critere": "1 (compréhensible seul)",
+  "motif": "« fait-elle sonner ? » n'a pas de complément, on ne sait pas ce qui doit sonner. C'est une ellipse qui fait buter à la première lecture.",
+  "proposition": "Carreleur à Rennes, votre *fiche Google* amène des appels ?"
+ },
+ {
+  "slug": "supp-couvreur-semaine-angers",
+  "champ": "accroche A",
+  "critere": "1 (compréhensible seul)",
+  "motif": "La phrase n'a pas de verbe et « vos soirées pour la fiche Google » est une ellipse obscure, alors qu'il reste la place d'écrire une vraie phrase.",
+  "proposition": "Couvreur à Angers, vos soirées passent sur la *fiche Google ?*"
+ },
+ {
+  "slug": "supp-fleuriste-swipe-tours",
+  "champ": "accroche A",
+  "critere": "1 et 2 (compréhensible seul, cohérence avec la voix)",
+  "motif": "Dans une vidéo où l'on swipe les fiches, « envie de passer » se lit comme « passer à la suivante ». La voix dit d'ailleurs juste après « on passe à la suivante », soit le sens inverse de celui que l'accroche veut donner.",
+  "proposition": "Fleuriste à Tours, votre fiche Google donne-t-elle envie d'entrer ?"
+ },
+ {
+  "slug": "supp-peintre-swipe-lyon",
+  "champ": "voix 1",
+  "critere": "1 (compréhensible seul, naturel à l'oral)",
+  "motif": "« tout passe le soir » ne se comprend pas à l'oreille. On ne sait pas si les tâches sont faites le soir ou si elles disparaissent.",
+  "proposition": "Les photos, les avis, tout se fait le soir."
+ },
+ {
+  "slug": "supp-pressing-duel-nantes",
+  "champ": "accroche B",
+  "critere": "1 (compréhensible seul)",
+  "motif": "La phrase n'a pas de verbe et « la sienne » ne renvoie à personne à la première image. On ne sait pas de qui on parle.",
+  "proposition": "Pressing à Nantes, votre *fiche Google* tient face au voisin ?"
+ },
+ {
+  "slug": "supp-pressing-duel-nantes",
+  "champ": "voix 1",
+  "critere": "10 (français)",
+  "motif": "« ses avis répondus » est incorrect, car on répond à un avis et on ne peut donc pas écrire « avis répondus ». La faute s'entend à l'oral.",
+  "proposition": "Ses photos sont récentes, chaque avis a sa réponse."
+ },
+ {
+  "slug": "supp-fromager-cinetique-lille",
+  "champ": "voix 4",
+  "critere": "10 (français, naturel à l'oral)",
+  "motif": "« il suffit du lien en bio » n'est pas une tournure française naturelle et fait buter la voix sur la dernière phrase.",
+  "proposition": "Trente jours offerts, cliquez sur le lien en bio."
+ }
+]
