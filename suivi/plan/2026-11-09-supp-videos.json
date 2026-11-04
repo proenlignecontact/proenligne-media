@@ -1,0 +1,114 @@
+[
+ {
+  "date": "2026-11-09",
+  "moteur": "plan-sequence",
+  "angle": "Du temps libre",
+  "metier": "couvreur",
+  "ville": "Angers",
+  "ambiance": 2
+ },
+ {
+  "date": "2026-11-09",
+  "moteur": "swipe",
+  "angle": "Plus de clients",
+  "metier": "fleuriste",
+  "ville": "Tours",
+  "ambiance": 0
+ },
+ {
+  "date": "2026-11-10",
+  "moteur": "cinetique",
+  "angle": "Face au concurrent",
+  "metier": "menuisier",
+  "ville": "Caen",
+  "ambiance": 1
+ },
+ {
+  "date": "2026-11-10",
+  "moteur": "plan-sequence",
+  "angle": "Plus de clients",
+  "metier": "toiletteur",
+  "ville": "Bordeaux",
+  "ambiance": 2
+ },
+ {
+  "date": "2026-11-11",
+  "moteur": "swipe",
+  "angle": "Du temps libre",
+  "metier": "peintre",
+  "ville": "Lyon",
+  "ambiance": 0
+ },
+ {
+  "date": "2026-11-11",
+  "moteur": "cinetique",
+  "angle": "Face au concurrent",
+  "metier": "fromager",
+  "ville": "Lille",
+  "ambiance": 1
+ },
+ {
+  "date": "2026-11-12",
+  "moteur": "plan-sequence",
+  "angle": "Du temps libre",
+  "metier": "carrossier",
+  "ville": "Toulouse",
+  "ambiance": 2
+ },
+ {
+  "date": "2026-11-12",
+  "moteur": "swipe",
+  "angle": "Plus de clients",
+  "metier": "vitrier",
+  "ville": "Montpellier",
+  "ambiance": 0
+ },
+ {
+  "date": "2026-11-13",
+  "moteur": "cinetique",
+  "angle": "Plus d'appels",
+  "metier": "carreleur",
+  "ville": "Rennes",
+  "ambiance": 1
+ },
+ {
+  "date": "2026-11-13",
+  "moteur": "plan-sequence",
+  "angle": "Face au concurrent",
+  "metier": "pressing",
+  "ville": "Nantes",
+  "ambiance": 2
+ },
+ {
+  "date": "2026-11-14",
+  "moteur": "swipe",
+  "angle": "Du temps libre",
+  "metier": "ramoneur",
+  "ville": "Lorient",
+  "ambiance": 0
+ },
+ {
+  "date": "2026-11-14",
+  "moteur": "cinetique",
+  "angle": "Plus d'appels",
+  "metier": "plaquiste",
+  "ville": "Vannes",
+  "ambiance": 1
+ },
+ {
+  "date": "2026-11-15",
+  "moteur": "plan-sequence",
+  "angle": "Plus de clients",
+  "metier": "charpentier",
+  "ville": "Brest",
+  "ambiance": 2
+ },
+ {
+  "date": "2026-11-15",
+  "moteur": "swipe",
+  "angle": "Face au concurrent",
+  "metier": "déménageur",
+  "ville": "Quimper",
+  "ambiance": 0
+ }
+]

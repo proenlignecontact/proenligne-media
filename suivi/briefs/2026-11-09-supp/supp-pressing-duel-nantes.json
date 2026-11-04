@@ -1,0 +1,35 @@
+{
+ "slug": "supp-pressing-duel-nantes",
+ "moteur": "plan-sequence",
+ "angle": "Face au concurrent",
+ "metier": "pressing",
+ "ville": "Nantes",
+ "ambiance": 2,
+ "entreprise": "",
+ "lieu": "",
+ "accroches": [
+  "Pressing à Nantes, la *fiche Google* d'en face attire plus ?",
+  "Pressing à Nantes, votre *fiche Google* face à la sienne ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Ses photos sont récentes, ses avis répondus."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne fait vivre la vôtre, chaque semaine."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et c'est chez vous qu'on entre.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts, lien en bio."
+  }
+ ],
+ "offre_ligne": "Votre pressing, *celui qu'on choisit.*",
+ "musique": true
+}

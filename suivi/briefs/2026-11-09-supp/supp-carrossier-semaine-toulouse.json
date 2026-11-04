@@ -1,0 +1,35 @@
+{
+ "slug": "supp-carrossier-semaine-toulouse",
+ "moteur": "plan-sequence",
+ "angle": "Du temps libre",
+ "metier": "carrossier",
+ "ville": "Toulouse",
+ "ambiance": 2,
+ "entreprise": "",
+ "lieu": "Atelier",
+ "accroches": [
+  "Carrossier à Toulouse, la *fiche Google* prend vos soirées ?",
+  "Carrossier à Toulouse, le soir, votre *fiche Google* attend ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Après l'atelier, restent les avis à lire."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne s'en occupe en journée."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et le soir, l'atelier ferme pour de bon.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts avec le lien en bio."
+  }
+ ],
+ "offre_ligne": "L'atelier fermé, *l'esprit libre.*",
+ "musique": true
+}

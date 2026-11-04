@@ -1,0 +1,39 @@
+{
+ "slug": "supp-charpentier-classement-brest",
+ "moteur": "plan-sequence",
+ "angle": "Plus de clients",
+ "metier": "charpentier",
+ "ville": "Brest",
+ "ambiance": 2,
+ "entreprise": "",
+ "lieu": "",
+ "accroches": [
+  "Votre *fiche Google*, ici ?",
+  "Là, votre *fiche Google ?*"
+ ],
+ "accroches_dites": [
+  "Tapez charpentier Brest. Votre fiche Google est ici ?",
+  "Charpentier à Brest, votre fiche Google est là ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Le client s'arrête souvent sur les premiers noms."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne montre vos charpentes, chaque semaine."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et votre travail se voit enfin.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts, c'est par le lien en bio."
+  }
+ ],
+ "offre_ligne": "Vos charpentes, *sous les yeux.*",
+ "musique": true
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "supp-ramoneur-swipe-lorient",
+ "moteur": "swipe",
+ "angle": "Du temps libre",
+ "metier": "ramoneur",
+ "ville": "Lorient",
+ "ambiance": 0,
+ "entreprise": "",
+ "accroches": [
+  "Ramoneur à Lorient, en pleine saison, qui s'occupe de votre fiche Google ?",
+  "Ramoneur à Lorient, le soir, votre fiche Google attend toujours."
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Les cheminées s'enchaînent, les avis s'accumulent."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne s'en charge, chaque semaine."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et vos soirées restent au coin du feu.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts, lien en bio."
+  }
+ ],
+ "offre_ligne": "Vos soirées, *au coin du feu.*",
+ "musique": true
+}

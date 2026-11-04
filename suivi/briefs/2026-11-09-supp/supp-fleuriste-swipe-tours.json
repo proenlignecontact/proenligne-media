@@ -1,0 +1,34 @@
+{
+ "slug": "supp-fleuriste-swipe-tours",
+ "moteur": "swipe",
+ "angle": "Plus de clients",
+ "metier": "fleuriste",
+ "ville": "Tours",
+ "ambiance": 0,
+ "entreprise": "",
+ "accroches": [
+  "Fleuriste à Tours, votre fiche Google donne-t-elle envie de passer ?",
+  "Fleuriste à Tours, on choisit souvent sa boutique sur sa fiche Google."
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Sans bouquet récent, on passe à la suivante."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne montre vos bouquets chaque semaine."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et cette fois, on pousse votre porte.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts, lien en bio."
+  }
+ ],
+ "offre_ligne": "Vos bouquets, *en vitrine sur Google.*",
+ "musique": true
+}

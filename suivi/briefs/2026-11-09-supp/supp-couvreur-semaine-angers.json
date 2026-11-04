@@ -1,0 +1,35 @@
+{
+ "slug": "supp-couvreur-semaine-angers",
+ "moteur": "plan-sequence",
+ "angle": "Du temps libre",
+ "metier": "couvreur",
+ "ville": "Angers",
+ "ambiance": 2,
+ "entreprise": "",
+ "lieu": "Chantier",
+ "accroches": [
+  "Couvreur à Angers, vos soirées pour la *fiche Google ?*",
+  "Couvreur à Angers, le soir, encore votre *fiche Google ?*"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Après le toit, il reste les avis, le soir."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne s'occupe de votre fiche Google en journée."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Vos soirées redeviennent les vôtres.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Profitez de trente jours offerts, lien en bio."
+  }
+ ],
+ "offre_ligne": "Vos soirées, *enfin libres.*",
+ "musique": true
+}

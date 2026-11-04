@@ -1,0 +1,34 @@
+{
+ "slug": "supp-demenageur-swipe-quimper",
+ "moteur": "swipe",
+ "angle": "Face au concurrent",
+ "metier": "déménageur",
+ "ville": "Quimper",
+ "ambiance": 0,
+ "entreprise": "",
+ "accroches": [
+  "Déménageur à Quimper, pourquoi garde-t-on la fiche Google d'en face ?",
+  "Déménageur à Quimper, votre fiche Google tient-elle face au voisin ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Ses camions sont en photo."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne publie vos déménagements chaque semaine."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et cette fois, c'est la sienne qu'on écarte.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts, lien en bio."
+  }
+ ],
+ "offre_ligne": "Vos équipes, *enfin en photo.*",
+ "musique": true
+}

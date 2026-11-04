@@ -1,0 +1,39 @@
+{
+ "slug": "supp-toiletteur-classement-bordeaux",
+ "moteur": "plan-sequence",
+ "angle": "Plus de clients",
+ "metier": "toiletteur",
+ "ville": "Bordeaux",
+ "ambiance": 2,
+ "entreprise": "",
+ "lieu": "",
+ "accroches": [
+  "Et votre *fiche Google ?*",
+  "Votre *fiche Google*, où ?"
+ ],
+ "accroches_dites": [
+  "Tapez toiletteur Bordeaux. Et votre fiche Google ?",
+  "Toiletteur à Bordeaux, votre fiche Google est où ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "On réserve souvent chez les premiers qu'on voit."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne montre vos toilettages chaque semaine."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et les maîtres découvrent enfin votre salon.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts, le lien vous attend en bio."
+  }
+ ],
+ "offre_ligne": "Vos toilettages, *bien en vue.*",
+ "musique": true
+}
