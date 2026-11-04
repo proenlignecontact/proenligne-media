@@ -129,3 +129,8 @@ Chaque lot hebdomadaire ajoute ici ses décisions, avec le chiffre qui les justi
 - **A/B TikTok** : maçon swipe (A mardi, B jeudi 12:30) et plombier plan-séquence (A jeudi, B samedi 12:30).
 - **Outil** : `outils/pub-video.py` cherche aussi les skills dans `~/.claude/skills/**` (emplacement des skills synchronisés) ; deux textes fixes adaptés : « Vos appels aujourd'hui : N » (deux-points, swipe « Plus d'appels ») → « Appels aujourd'hui · N », et « Après dix heures de chantier. » (cinétique « Du temps libre », faux pour une coiffeuse) → « Après une longue journée de travail. ».
 - **À surveiller** : le décor plan-séquence « Plus de clients » montre la carte « Votre entreprise » remonter au N° 1 avec « Les clients du coin vous trouvent, vous. » (texte fixe du skill), proche d'une promesse de classement ; deux vidéos de la semaine l'utilisent (lundi, jeudi). À arbitrer par Maxime (texte fixe à adapter ou combinaison à écarter).
+
+## 2026-11-04 (21 h 20 UTC) — Relance anticipée de la tâche hebdomadaire, semaine du 9/11
+
+- Les 63 posts de la semaine (61 de la grille + 2 variantes B) étaient déjà programmés par l'exécution de 20 h 30, déjà conforme à l'audit vidéo du 4/11 (écran final 14,99 € · 30 jours offerts · Lien en bio, accroche métier + ville, `offre_ligne` variable) : rien de reprogrammé ni de régénéré, selon la consigne (étape 3 seule).
+- Relevé du 04/11 (21 h 22 UTC) : toujours 11 publications mesurées, exploration 50 / 50, aucune décision nouvelle.
