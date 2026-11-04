@@ -134,7 +134,7 @@ def verifier(plan, medias=True):
             if 'fiche google' not in t.lower(): pb.append(f'{ref} {canal} : « fiche Google » absent')
             if 'google' not in t.split('\n')[0].lower(): pb.append(f'{ref} {canal} : première ligne sans « Google »')
             if PRIX.search(t): pb.append(f'{ref} {canal} : prix, « mois » ou « centime » dans le texte')
-            if c.get('intention') == 'offre' and 'gratuit' not in t.lower(): pb.append(f'{ref} {canal} : intention offre sans « gratuitement »')
+            if c.get('intention') == 'offre' and not ('gratuit' in t.lower() or '30 jours' in t.lower()): pb.append(f'{ref} {canal} : intention offre sans « gratuitement »')
             if c.get('intention') == 'utile' and canal != 'x' and '?' not in t and '?' not in pc:
                 pb.append(f'{ref} {canal} : contenu utile sans question (ni dans le texte ni dans le premier commentaire)')
             if t.count('✅') > 3: pb.append(f'{ref} {canal} : plus de 3 ✅')

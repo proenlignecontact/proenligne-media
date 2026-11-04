@@ -21,9 +21,9 @@ Le public (artisans, commerçants) ne sait pas ce qu'est « la fiche ». Il faut
   - « Cherchez “boulangerie” dans votre ville. Les encadrés avec une note et des photos sont des fiches Google. »
   - « Avant d'appeler un serrurier, le client ouvre sa fiche Google sur Google Maps et lit les avis, les horaires et vos réponses. »
 
-## Règle n°2 : l'essai est gratuit, aucun prix nulle part
+## Règle n°2 : l'essai est gratuit (30 jours offerts), aucun prix nulle part sauf l'écran final des vidéos
 
-Appel à l'action : « Essayez gratuitement » / « Essayez Proenligne gratuitement », éventuellement « sans engagement ». Jamais de montant, de « € », de « par mois », de « centimes par jour », d'abonnement ni de comparaison de prix, dans aucun texte, visuel, vidéo, titre ou commentaire.
+Appel à l'action : « Essayez Proenligne gratuitement, 30 jours offerts », éventuellement « sans engagement ». Seule exception : l'écran final des vidéos affiche « 14,99 € / mois · 30 jours offerts » (voir Audit du 4 novembre 2026). Ailleurs, jamais de montant, de « € », de « par mois », de « centimes par jour », d'abonnement ni de comparaison de prix, dans aucun texte, visuel, vidéo, titre ou commentaire.
 
 ## Règle n°3 : aucune statistique ni résultat chiffré venant de nos clients
 
@@ -124,7 +124,7 @@ Un même message se décline par plateforme, jamais copié tel quel :
 - **YouTube** : titre accrocheur (≤ 100), description complète.
 - **LinkedIn** : on parle à des **gérants d'entreprise**, pas à leurs clients. Ton professionnel, vouvoiement, phrases courtes, une idée par paragraphe.
   - Les **2 premières lignes (≈ 200 caractères)** sont les seules visibles avant « … voir plus » : elles portent l'accroche avec « fiche Google ».
-  - Corps de 700 à 1 300 caractères : un constat du métier, ce que ça coûte en clients, ce que fait Proenligne (les 3 promesses), l'appel à l'action « Essayez Proenligne gratuitement, sans engagement ».
+  - Corps de 700 à 1 300 caractères : un constat du métier, ce que ça coûte en clients, ce que fait Proenligne (les 3 promesses), l'appel à l'action « Essayez Proenligne gratuitement, 30 jours offerts, sans engagement » (page Proenligne, pas de lien).
   - 3 à 5 hashtags maximum en fin de texte (#FicheGoogle #GoogleBusinessProfile #ReferencementLocal + métier ou #TPE / #Artisanat). Pas d'avalanche d'emojis : 3 ✅ au plus.
   - Jamais de lien externe dans le texte (LinkedIn réduit leur portée) ; « lien en bio » n'a pas de sens sur LinkedIn : renvoyer vers la page Proenligne ou ne rien dire.
   - Ne pas recopier le texte Facebook : reprendre l'idée du créneau, réécrite pour un décideur.
@@ -175,9 +175,18 @@ Ne pas utiliser deux fois le même format le même jour, ni le même format deux
 - SEULS trois skills produisent de la vidéo : « pub-swipe-proenligne » (fiches Google qu'on swipe), « pub-cinetique-proenligne » (typographie cinétique) et « pub-plan-sequence-proenligne » (une caméra parcourt un décor). Jamais pub-motion-proenligne ni un autre outil vidéo.
 - Rendu MP4 par `outils/pub-video.py` (installer, tirage, valider, lignes, noter, telecharger, caler, rendre). Rotation : les 3 moteurs tournent d'un jour à l'autre, les 4 angles (Plus de clients, Face au concurrent, Du temps libre, Plus d'appels) ne se suivent jamais, ville et ambiance changent chaque jour (villes dans `suivi/villes-pubs.json`).
 - Son : voix off ElevenLabs (voix « Marcel - French touch », modèle eleven_v4, script entier dit d'une traite avec balises de jeu, puis redécoupé aux pauses) + bruitages de la banque `outils/assets/sfx/` + musique de banque `outils/assets/musique/` en fond très bas (≈ 15 dB sous la voix, baissée encore pendant qu'elle parle). La voix commande la durée : 15 à 18 s, plafond 20 s.
-- Script de voix : écrit pour l'oreille, en français parlé (pas un ton d'annonce radio), vouvoiement, ≤ 9 mots par ligne (≤ 10 en Bascule), « Pro en ligne » en trois mots, « fiche Google » en entier, aucun prix (jamais « 14,99 euros »), aucun résultat chiffré, aucun « : ». La dernière ligne invite à essayer gratuitement, sans engagement.
+- Script de voix : écrit pour l'oreille, en français parlé (pas un ton d'annonce radio), vouvoiement, ≤ 9 mots par ligne (≤ 10 en Bascule), « Pro en ligne » en trois mots, « fiche Google » en entier, aucun prix dit (jamais « 14,99 euros »), aucun résultat chiffré, aucun « : ». La dernière ligne dit « trente jours offerts » et « lien en bio ».
 - Les fichiers ElevenLabs passent par l'action GitHub « Téléchargement audio » (le terminal des sessions ne joint pas ElevenLabs).
-- La scène Offre affiche « Essai gratuit, sans engagement » (aucun prix) ; la preuve client est toujours coupée.
+- La scène Offre affiche « 14,99 € / mois · 30 jours offerts » et « Lien en bio → » ; la preuve client est toujours coupée.
+
+## Audit des vidéos du 4 novembre 2026 (décisions)
+- **Fin de vidéo** : l'écran final affiche le prix « 14,99 € / mois · 30 jours offerts » et le bouton « Lien en bio → ». C'est le SEUL endroit où un prix est permis (exception à la règle n°2). La dernière ligne de voix dit « trente jours offerts » et « lien en bio » (ex. « Trente jours offerts, le lien est en bio. »), sans dire le prix. Le vérificateur l'exige.
+- **Essai gratuit = 30 jours.** Dans les textes de publication, l'appel à l'action devient « 30 jours offerts, sans engagement » (TikTok, Instagram, Facebook, YouTube, X : « lien en bio » ou « lien dans la bio » ; LinkedIn : « page Proenligne », jamais « lien en bio »). Aucun prix dans les textes.
+- **Accroche** : chaque accroche (affichée et dite) nomme le métier ET la ville (« Plombier à Rennes, votre *fiche Google* dort ? »). Quand l'écran d'accroche est fixe (swipe, plan-séquence « Plus de clients »), c'est la phrase dite (`accroches_dites` ou l'accroche) qui les nomme.
+- **Phrase de l'Offre variable** : champ `offre_ligne` du brief (≤ 40 caractères, un ou deux *mots* mis en avant), différente d'une vidéo à l'autre dans la semaine ; vide = phrase par défaut de l'angle.
+- **Décor honnête** : « Exemple · <ville>, un matin » remplace « En direct… » ; dans le swipe, le concurrent a la même note que vous (4,2) : la différence, c'est une fiche Google vivante.
+- **Combinaisons écartées** : cinétique + « Plus de clients » (compteurs « 34 contre 6 », promesse chiffrée) ; plan-séquence + « Plus d'appels » (1re image coupée) ; « Plus d'appels » pour un commerce à boutique (boulangerie, fleuriste, fromager, pressing, restaurant…) dont les clients viennent sur place : on parle alors de clients qui passent la porte, d'itinéraires.
+- **Variété** : jamais le même moteur + angle à moins de 3 jours d'écart (tirage avec `--eviter` sur l'autre tirage de la semaine). Le tirage applique tout cela.
 
 ## « fiche Google » dans les visuels (depuis le 4 novembre 2026)
 Dans tout visuel (images 06:30, carrousels 13:00, vidéos), le mot « fiche » est TOUJOURS écrit « fiche Google », sans exception (« À fiche Google aussi vivante… », jamais « À fiche égale »). Contrôlé par `regles_texte.fiche_seule`, appelé par `outils/visuel.py`, `cerveau/verifier.py` et `outils/pub-video.py` (y compris sur le texte réellement affiché dans la vidéo).

@@ -4,8 +4,9 @@ bruitages ElevenLabs calés sur les scènes (musique facultative).
 
 Les skills s'exportent normalement à la main ; ce script fait le rendu image par image (Chromium + ffmpeg) et le mixage audio.
 Le moteur d'animation n'est jamais réécrit : reference/ est copié et seuls des TEXTES fixes sont corrigés pour les règles du
-dépôt (n°1 « fiche Google », n°2 aucun prix, n°3 aucune statistique client, n°5 aucun deux-points) : Offre « Essai gratuit,
-sans engagement », preuve client coupée, heures « 21h00 », chaque « fiche » → « fiche Google ». Au rendu, tout le texte
+dépôt (n°1 « fiche Google », n°2 aucun prix sauf l'écran final, n°3 aucune statistique client, n°5 aucun deux-points) :
+écran final « 14,99 € / mois · 30 jours offerts » + « Lien en bio → » (phrase variable `offre_ligne`), « Exemple · ville »,
+concurrent du swipe à la même note, preuve client coupée, heures « 21h00 », chaque « fiche » → « fiche Google ». Au rendu, tout le texte
 réellement affiché est relevé image par image et passé dans cerveau/regles_texte.py : un seul problème = rendu refusé.
 
 AUDIO (comme le décrit references/audio-elevenlabs.md des skills) : la voix commande le tempo. Le script entier est dit
@@ -21,7 +22,8 @@ usage :
   installer                                   prépare /home/claude/pub-video-work (une fois par session)
   tirage <lundi> --metiers m1,…,m7 [--par-jour 2] [--sortie <fichier>]
                                               moteur / angle / ville / ambiance des vidéos, en rotation (écrit
-                                              suivi/plan/<lundi>-videos.json, ou --sortie ; --par-jour 2 = 2 vidéos par jour)
+                                              suivi/plan/<lundi>-videos.json, ou --sortie ; --par-jour 2 = 2 vidéos par jour ;
+                                              --eviter <fichier de tirage> = ne pas répéter moteur + angle à moins de 3 jours)
   valider <brief.json> …                      contrôle les briefs → « briefs OK »
   prise <brief.json> [--variante A|B]         donne l'id (prise-A / prise-B), la voix, le modèle et le TEXTE EXACT à envoyer
                                               à mcp__ElevenLabs__creative_generate_speech (une prise par variante)
@@ -52,6 +54,8 @@ Brief vidéo (suivi/briefs/<lundi>/<slug>.json ; slug = celui du créneau 19:00 
       {"scene": "Offre",    "texte": "Essayez Pro en ligne gratuitement, sans engagement."}
     ],                           (champ facultatif "ton" par ligne : balise de jeu en anglais, ex. "curious", "softly",
                                   "excited", "warmly", "pause" ; défauts warmly / pause / excited / warmly ; "ton_accroche")
+    "offre_ligne": "Votre métier, *pas votre fiche.*",  (facultatif, ≤ 40 car. : la grande phrase de l'écran final ;
+                                  à varier d'une vidéo à l'autre ; vide = phrase par défaut de l'angle)
     "musique": true,             (musique de banque de l'ambiance en fond très bas ; false = voix + bruitages seuls)
     "ambiance": 0 | 1 | 2,
     "audio_src": {}              (rempli par `noter`)
@@ -83,6 +87,12 @@ RACINES = ['/mnt/skills/organization', '/mnt/skills/user', '/mnt/skills/private'
 ANGLES = ['Plus de clients', 'Face au concurrent', 'Du temps libre', "Plus d'appels"]
 NAT = [('Accroche', 3.0), ('Probleme', 4.0), ('Bascule', 5.0), ('Offre', 3.0)]
 SANS_SOIREES = {'boulangerie', 'boulanger', 'restaurant'}
+# commerces à boutique : leurs clients viennent sur place (itinéraires), ils n'appellent pas → jamais l'angle « Plus d'appels »
+SANS_APPELS = {'boulangerie', 'boulanger', 'fleuriste', 'restaurant', 'fromager', 'fromagerie', 'pressing', 'caviste', 'épicerie',
+               'primeur', 'boutique', 'pâtisserie', 'pâtissier', 'boucherie', 'boucher', 'librairie', 'opticien'}
+# combinaisons écartées après l'audit du 4/11/2026 : compteurs « 34 contre 6 » (promesse chiffrée) et 1re image coupée
+COMBOS_EXCLUS = {('cinetique', 'Plus de clients'), ('plan-sequence', "Plus d'appels")}
+PRIX_AUTORISES = {'14,99 €', '/ mois · 30 jours offerts'}   # seuls textes à prix permis, sur l'écran final de la vidéo
 VOIX_ID, VOIX_NOM, VOIX_MODELE = 'kENkNtk0xyzG09WW40xE', 'Marcel - French touch', 'eleven_v4'
 TONS = {'Accroche': 'warmly', 'Probleme': 'pause', 'Bascule': 'excited', 'Offre': 'warmly'}  # balises de jeu par défaut (eleven_v4)
 BPM = 120
@@ -120,8 +130,11 @@ SFX_ANGLES = {
 }
 
 REMPLACEMENTS = [
-    ("'14,99 €'", "'Essai gratuit'"), ('>14,99 €<', '>Essai gratuit<'),
-    ('/ mois, sans engagement', 'sans engagement'),
+    ('/ mois, sans engagement', '/ mois · 30 jours offerts'),          # prix affiché sur l'écran final (décision du 4/11/2026)
+    ('Essayer gratuitement →', 'Lien en bio →'),                       # fin pensée pour les publications non sponsorisées
+    ('En direct · {tw.ville}, ce matin', 'Exemple · {tw.ville}, un matin'),   # pas de fausse donnée « en direct »
+    ("sub={'4,8 · '", "sub={'4,2 · '"),                                # le concurrent a la même note : la note n'est pas l'argument
+    ('text={line} size={132}', 'text={window.PUB_OFFRE_LIGNE || line} size={132}'),  # phrase de l'Offre variable par vidéo
     ('Dernière photo : il y a 2 ans', 'Dernière photo il y a 2 ans'),
     ('Nouvelle photo : lundi', 'Nouvelle photo lundi'),
     ('Publication : jeudi', 'Publication jeudi'),
@@ -164,7 +177,15 @@ def controler_decor(js, nom):
         t = next(g for g in m.groups() if g is not None)
         if not re.search(r'[A-Za-zÀ-ÿ]{3,} [A-Za-zÀ-ÿ]', t):
             continue
-        pb += regles_texte.problemes(t, f'{nom} « {t[:50]} »') + regles_texte.fiche_seule(t, f'{nom} « {t[:50]} »')
+        pb += problemes_ecran(t, f'{nom} « {t[:50]} »') + regles_texte.fiche_seule(t, f'{nom} « {t[:50]} »')
+    return pb
+
+
+def problemes_ecran(t, ou):
+    """Règles de texte, sauf le prix de l'écran final (PRIX_AUTORISES), seul endroit où il est permis."""
+    pb = regles_texte.problemes(t, ou)
+    if t.strip() in PRIX_AUTORISES:
+        pb = [x for x in pb if 'règle n°2' not in x]
     return pb
 
 
@@ -209,7 +230,7 @@ def installer():
 
 
 # ---------------------------------------------------------------- tirage
-def tirage(lundi, metiers, par_jour=1, sortie=None):
+def tirage(lundi, metiers, par_jour=1, sortie=None, eviter=None):
     import datetime as dt
     hist = []
     p = os.path.join(REPO, 'suivi', 'historique-pubs.json')
@@ -230,15 +251,26 @@ def tirage(lundi, metiers, par_jour=1, sortie=None):
     dern_amb = hist[-1].get('ambiance') if hist else None
     out, angles_sem = [], []
     j0 = dt.date.fromisoformat(lundi)
+    autres = [e for e in hist if e.get('date')] + (json.load(open(eviter, encoding='utf-8')) if eviter and os.path.exists(eviter) else [])
     for i, metier in enumerate(metiers):
-        cands = [a for a in ordre_angles + ordre_angles if a not in angles_sem[-1:]]
-        if metier.lower() in SANS_SOIREES:
-            cands = [a for a in cands if a != 'Du temps libre']
+        moteur = ordre_moteurs[i % 3]
+        d = j0 + dt.timedelta(days=i // par_jour)
+        def permis(a, strict=True):
+            if (moteur, a) in COMBOS_EXCLUS: return False
+            if metier.lower() in SANS_SOIREES and a == 'Du temps libre': return False
+            if metier.lower() in SANS_APPELS and a == "Plus d'appels": return False
+            if strict:
+                for e in autres + out:
+                    if e.get('moteur') == moteur and e.get('angle') == a and abs((dt.date.fromisoformat(e['date'][:10]) - d).days) <= 2:
+                        return False
+            return True
+        cands = [a for a in ordre_angles + ordre_angles if a not in angles_sem[-1:] and permis(a)] or \
+                [a for a in ordre_angles if permis(a, False)] or list(ANGLES)
         compte = {a: angles_sem.count(a) for a in ANGLES}
         angle = min(cands, key=lambda a: (compte[a], cands.index(a)))
         angles_sem.append(angle)
         amb = (i + (0 if dern_amb is None else dern_amb + 1)) % 3
-        out.append({'date': (j0 + dt.timedelta(days=i // par_jour)).isoformat(), 'moteur': ordre_moteurs[i % 3], 'angle': angle,
+        out.append({'date': d.isoformat(), 'moteur': moteur, 'angle': angle,
                     'metier': metier.lower(), 'ville': ordre_villes[i % len(ordre_villes)], 'ambiance': amb})
     f = sortie or os.path.join(REPO, 'suivi', 'plan', f'{lundi}-videos.json')
     json.dump(out, open(f, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
@@ -348,6 +380,30 @@ def probs_brief(b, nom=''):
     for k in ('entreprise', 'lieu', 'ville', 'metier'):
         pb += regles_texte.problemes(b.get(k) or '', f'{ou} {k}') + regles_texte.fiche_seule(b.get(k) or '', f'{ou} {k}')
     if b.get('ambiance') not in (0, 1, 2, None): pb.append(f'{ou} ambiance : 0, 1 ou 2')
+    if (m, b.get('angle')) in COMBOS_EXCLUS: pb.append(f'{ou} : combinaison {m} + « {b.get("angle")} » écartée (audit du 4/11)')
+    if b.get('angle') == "Plus d'appels" and (b.get('metier') or '').lower() in SANS_APPELS:
+        pb.append(f'{ou} : « Plus d\'appels » interdit pour un commerce à boutique (ses clients viennent sur place)')
+    ol = b.get('offre_ligne') or ''
+    if ol:
+        if len(ol.replace('*', '')) > 40: pb.append(f'{ou} offre_ligne : > 40 caractères')
+        pb += regles_texte.problemes(ol.replace('*', ''), f'{ou} offre_ligne') + regles_texte.fiche_seule(ol, f'{ou} offre_ligne')
+    # métier et ville dans l'accroche (affichée quand elle est libre, et dite)
+    def racine(x):
+        import unicodedata
+        x = unicodedata.normalize('NFD', x.lower()); x = ''.join(c for c in x if unicodedata.category(c) != 'Mn')
+        return x[:5]
+    def contient(t, mot):
+        import unicodedata
+        t = unicodedata.normalize('NFD', t.lower()); t = ''.join(c for c in t if unicodedata.category(c) != 'Mn')
+        return racine(mot) in t
+    met, vil = b.get('metier') or '', b.get('ville') or ''
+    dites = b.get('accroches_dites') or []
+    for i, a in enumerate(acc):
+        lab = f'{ou} accroche {"ABC"[i] if i < 3 else i}'
+        dite = (dites[i] if i < len(dites) and dites[i] else a).replace('*', '')
+        if not (contient(dite, met) and contient(dite, vil)): pb.append(f'{lab} (dite) : doit nommer le métier et la ville')
+        affichee_libre = not (m == 'swipe' or (m == 'plan-sequence' and b.get('angle') == 'Plus de clients'))
+        if affichee_libre and not (contient(a, met) and contient(a, vil)): pb.append(f'{lab} (affichée) : doit nommer le métier et la ville')
     # voix
     voix = b.get('voix') or []
     scenes = [l.get('scene') for l in voix]
@@ -370,6 +426,9 @@ def probs_brief(b, nom=''):
         if n > lim_m: pb.append(f'{lab} : {n} mots (max {lim_m}, sinon la pub dépasse 20 s)')
         if re.search(r'proenligne', t, re.I): pb.append(f'{lab} : écrire « Pro en ligne » en trois mots (prononciation)')
         pb += regles_texte.problemes(t, lab) + regles_texte.fiche_seule(t, lab)
+    offres = [l.get('texte', '').lower() for l in voix if l.get('scene') == 'Offre']
+    if offres and not ('bio' in offres[-1] and re.search(r'trente jours|30 jours', offres[-1])):
+        pb.append(f'{ou} voix Offre : doit dire « trente jours offerts » et « lien en bio »')
     if mots + len(re.findall(r"[\w'’]+", (acc[0] if acc else '').replace('*', ''))) > 42:
         pb.append(f'{ou} voix : trop de mots au total (≈ 2,4 mots par seconde, plafond 20 s)')
     return pb
@@ -526,7 +585,7 @@ PAGE = """<!doctype html><html><head><meta charset="utf-8"><style>
 html,body{margin:0;background:%(bg)s}#root{position:relative;width:1080px;height:1920px;overflow:hidden;background:%(bg)s}
 </style>
 <script src="react.production.min.js"></script><script src="react-dom.production.min.js"></script>
-<script>window.TWEAK_DEFAULTS=%(tw)s;window.OM_SCENES=%(scenes)s;window.OM_PLAYBACK='{"mode":"loop"}';window.PUB_AUDIO='{}';</script>
+<script>window.TWEAK_DEFAULTS=%(tw)s;window.OM_SCENES=%(scenes)s;window.OM_PLAYBACK='{"mode":"loop"}';window.PUB_AUDIO='{}';window.PUB_OFFRE_LIGNE=%(offre)s;</script>
 %(scripts)s
 </head><body><div id="root"></div><script>
 (function(){
@@ -577,7 +636,8 @@ def rendre(brief_f, sortie, variante='A', muet=False, fps=30):
     scripts = '\n'.join(f'<script src="{b["moteur"]}/{f[:-4]}.js"></script>' for f in m['fichiers'])
     page = os.path.join(WORK, f'page-{os.getpid()}.html')
     open(page, 'w', encoding='utf-8').write(PAGE % {'bg': m['bg'], 'tw': json.dumps(tw, ensure_ascii=False),
-                                                     'scenes': json.dumps(json.dumps(scenes_js)), 'scripts': scripts, 'piece': m['piece']})
+                                                     'scenes': json.dumps(json.dumps(scenes_js)), 'scripts': scripts, 'piece': m['piece'],
+                                                     'offre': json.dumps(b.get('offre_ligne') or '', ensure_ascii=False)})
     sortie = os.path.abspath(sortie)
     os.makedirs(os.path.dirname(sortie), exist_ok=True)
     total = plan['total']
@@ -625,7 +685,7 @@ def rendre(brief_f, sortie, variante='A', muet=False, fps=30):
     pl.save(pl_f)
     pb = []
     for t, at in textes.items():
-        pb += regles_texte.problemes(t, f'à l\'écran vers {at} s « {t[:60]} »') + regles_texte.fiche_seule(t, f'à l\'écran vers {at} s « {t[:60]} »')
+        pb += problemes_ecran(t, f'à l\'écran vers {at} s « {t[:60]} »') + regles_texte.fiche_seule(t, f'à l\'écran vers {at} s « {t[:60]} »')
     acc_nu = acc.replace('*', '')
     mots_acc = set(re.findall(r"[\w'’?]+", acc_nu))
     pb += [f'accroche qui déborde de l\'image « {t[:60]} »' for t in deborde if t in mots_acc or t in acc_nu]
@@ -665,7 +725,7 @@ if __name__ == '__main__':
     if c == 'installer':
         installer()
     elif c == 'tirage':
-        tirage(a[1], [x.strip() for x in opt('--metiers', '').split(',') if x.strip()], int(opt('--par-jour', 1)), opt('--sortie'))
+        tirage(a[1], [x.strip() for x in opt('--metiers', '').split(',') if x.strip()], int(opt('--par-jour', 1)), opt('--sortie'), opt('--eviter'))
     elif c == 'valider':
         sys.exit(valider([x for x in a[1:] if x.endswith('.json')]))
     elif c in ('prise', 'lignes'):
