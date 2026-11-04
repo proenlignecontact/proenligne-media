@@ -31,5 +31,11 @@
   }
  ],
  "offre_ligne": "L'atelier fermé, *l'esprit libre.*",
- "musique": true
+ "musique": true,
+ "audio_src": {
+  "prise-A": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/cFw7OOBUREwseqDY0QSv/cffJhjyDl7blbavewGtj/content.mp3?Expires=1793833200&KeyName=assets-cdn-key-1&Signature=-jWf5QzTcpy-nClUQ7a7GPbMmew=",
+   "duree": 12.96
+  }
+ }
 }

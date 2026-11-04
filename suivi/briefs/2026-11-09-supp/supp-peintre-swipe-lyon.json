@@ -30,5 +30,11 @@
   }
  ],
  "offre_ligne": "Le rouleau posé, *la soirée libre.*",
- "musique": true
+ "musique": true,
+ "audio_src": {
+  "prise-A": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/vhQxoxf2lZpEfd52rJ5X/X19xxSdX3svUbErqMirZ/content.mp3?Expires=1793833200&KeyName=assets-cdn-key-1&Signature=gQvsUssPbQU_zqN1iX901fMye_k=",
+   "duree": 13.76
+  }
+ }
 }

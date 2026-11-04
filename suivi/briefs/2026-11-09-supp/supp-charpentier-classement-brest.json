@@ -35,5 +35,11 @@
   }
  ],
  "offre_ligne": "Vos charpentes, *sous les yeux.*",
- "musique": true
+ "musique": true,
+ "audio_src": {
+  "prise-A": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/xM6gn0d6n4gB7mvmQCBt/B1f4RVkAoQ2IyVaG7Mjm/content.mp3?Expires=1793833200&KeyName=assets-cdn-key-1&Signature=IWdalivfVw_lEyCEbYdX0v04QiA=",
+   "duree": 13.44
+  }
+ }
 }
