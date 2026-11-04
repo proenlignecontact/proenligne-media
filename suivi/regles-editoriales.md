@@ -169,3 +169,11 @@ Ne pas utiliser deux fois le même format le même jour, ni le même format deux
 - Les briefs vidéo (`pub-work/briefs/<slug>.json`) sont copiés dans `suivi/briefs/<lundi>/` : la tâche quotidienne s'en sert pour rendre une variante.
 - Utiliser l'URL `media.glidy.uk/...` renvoyée par Postiz comme pièce jointe, jamais l'URL GitHub.
 - Nettoyage : supprimer (`git rm`) les dossiers `medias/` de plus de 14 jours, une fois les posts publiés.
+
+## Vidéos 19:00 (depuis le 4 novembre 2026)
+- Les vidéos sont produites avec les skills « pub-cinetique-proenligne » (typographie cinétique sur aplats) et « pub-plan-sequence-proenligne » (une caméra parcourt un décor), rendues en MP4 par `outils/pub-video.py` (installer, tirage, valider, rendre). Le skill pub-motion-proenligne n'est plus utilisé.
+- Rotation : les deux moteurs alternent d'un jour à l'autre, les 4 angles (Plus de clients, Face au concurrent, Du temps libre, Plus d'appels) tournent sans se suivre, la ville et l'ambiance sonore changent chaque jour (`tirage`, villes dans `suivi/villes-pubs.json`).
+- La scène Offre affiche « Essai gratuit, sans engagement » (aucun prix) ; la preuve client est toujours coupée.
+
+## « fiche Google » dans les visuels (depuis le 4 novembre 2026)
+Dans tout visuel (images 06:30, carrousels 13:00, vidéos), le mot « fiche » est TOUJOURS écrit « fiche Google », sans exception (« À fiche Google aussi vivante… », jamais « À fiche égale »). Contrôlé par `regles_texte.fiche_seule`, appelé par `outils/visuel.py`, `cerveau/verifier.py` et `outils/pub-video.py` (y compris sur le texte réellement affiché dans la vidéo).

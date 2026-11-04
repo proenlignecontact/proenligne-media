@@ -4,6 +4,7 @@ Importé par cerveau/verifier.py, cerveau/relecture.py et par la copie adaptée 
 
   problemes(texte, ou)  → liste de problèmes lisibles (vide = rien à signaler)
   textes_du_plan(plan)  → [(ref, champ, texte)] : tous les éléments textuels d'un plan (textes, accroche, titres, 1er commentaire, visuel)
+  fiche_seule(texte, ou) → visuels : « fiche » toujours suivi de « Google » (demande du 4 novembre 2026)
   textes_du_brief(b)    → [(champ, texte)] : tous les textes d'un brief vidéo (accroches, suite, réveil, corps, notifs, scène)
 
 RÈGLE N°5 — aucun deux-points « : » dans un texte publié (texte, accroche, titre, commentaire, visuel, vidéo) : ça ne fait pas naturel.
@@ -50,6 +51,15 @@ def problemes(texte, ou=''):
     return pb
 
 
+FICHE_SEULE = re.compile(r"\bfiches?\b(?!\s+Google)", re.I)
+
+
+def fiche_seule(texte, ou=''):
+    """Visuels (images, carrousels, vidéos) : chaque « fiche » est écrite « fiche Google », sans exception."""
+    m = FICHE_SEULE.search((texte or '').replace('*', ''))
+    return [f'{ou} : « {m.group(0)} » sans « Google » — dans un visuel, toujours écrire « fiche Google »'] if m else []
+
+
 def phrase_complete(texte, ou=''):
     """Un titre ou une accroche doit se lire comme une phrase : au moins 4 mots et un verbe (pas de style télégraphique)."""
     t = texte or ''
@@ -87,7 +97,7 @@ def textes_du_plan(plan):
 def textes_du_brief(b):
     out = [('probleme', b.get('probleme', ''))]
     for i, a in enumerate(b.get('accroches') or []): out.append((f'accroche {"ABC"[i] if i < 3 else i}', a))
-    for k in ('suite', 'reveil', 'reveil_sous', 'corps', 'label'):
+    for k in ('suite', 'reveil', 'reveil_sous', 'corps', 'label', 'valeur', 'entreprise', 'lieu'):
         if b.get(k): out.append((k, b[k]))
     for i, n in enumerate(b.get('notifs') or [], 1): out.append((f'notif {i}', n))
     for k, v in (b.get('desc') or {}).items(): out.append((f'desc {k}', v))

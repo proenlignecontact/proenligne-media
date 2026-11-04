@@ -32,6 +32,17 @@ PRIX = regles_texte.PRIX
 GABARITS = ('avant-apres', 'conseil', 'question')
 
 
+
+def _textes_visuel(b):
+    """Tous les textes affichés par un brief visuel (pour la règle « fiche Google »)."""
+    out = [(k, b.get(k) or '') for k in ('surtitre', 'titre', 'question')]
+    for k in ('points', 'reponses'):
+        out += [(f'{k} {i}', v) for i, v in enumerate(b.get(k) or [], 1) if isinstance(v, str)]
+    out += [(f'carte {k}', str(v)) for k, v in (b.get('carte') or {}).items()]
+    for i, sl in enumerate(b.get('slides') or [], 2):
+        out += [(f'slide {i} titre', sl.get('titre', '')), (f'slide {i} texte', sl.get('texte', ''))]
+    return out
+
 def b64(nom):
     return base64.b64encode(open(os.path.join(A, nom), 'rb').read()).decode()
 
@@ -52,6 +63,8 @@ def verifier(b):
     for k, n in (('surtitre', 60), ('titre', 60), ('question', 90)):
         if len(b.get(k, '') or '') > n: err.append(f'{k} > {n} caractères')
     if b.get('mot') and b['mot'] not in b.get('titre', ''): err.append('"mot" doit être un morceau exact de "titre"')
+    for k_, v_ in _textes_visuel(b):
+        err += regles_texte.fiche_seule(v_, k_)
     if 'google' not in (b.get('surtitre', '') + ' ' + b.get('titre', '')).lower():
         err.append('le surtitre ou le titre doit dire « fiche Google » (règle n°1)')
     if PRIX.search(json.dumps(b, ensure_ascii=False)): err.append('aucun prix ne doit apparaître (règle : essai gratuit, sans prix)')

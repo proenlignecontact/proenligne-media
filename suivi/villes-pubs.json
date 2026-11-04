@@ -1,0 +1,4 @@
+{
+ "_note": "Villes affichées dans les pubs vidéo (cinétique et plan-séquence). outils/pub-video.py tirage prend la moins récemment utilisée. Modifiable librement.",
+ "villes": ["Rennes", "Nantes", "Lorient", "Vannes", "Brest", "Quimper", "Saint-Brieuc", "Angers", "Le Mans", "Tours", "Caen", "Bordeaux", "Lyon", "Lille", "Toulouse", "Montpellier"]
+}

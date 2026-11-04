@@ -33,6 +33,9 @@ import datetime as dt, glob, itertools, json, os, re, sys, unicodedata
 from collections import Counter
 
 ICI = os.path.dirname(os.path.abspath(__file__))
+import importlib.util as _ilu  # noqa: E402
+_sp = _ilu.spec_from_file_location('pub_video', os.path.join(ICI, '..', 'outils', 'pub-video.py'))
+PUBVIDEO = _ilu.module_from_spec(_sp); _sp.loader.exec_module(PUBVIDEO)
 sys.path.insert(0, ICI)
 import regles_texte  # noqa: E402
 METIERS = {'plombier', 'electricien', 'chauffagiste', 'serrurier', 'paysagiste', 'macon', 'coiffeur', 'estheticienne', 'autoecole', 'boulangerie', 'garage', 'general'}
@@ -114,6 +117,8 @@ def verifier(plan, medias=True):
                 pb.append(f'{ref} visuel : gabarit question, le titre doit être une question (finir par « ? »)')
             if 'bonne' in v:
                 pb.append(f'{ref} visuel : « bonne » interdit — un test ne coche aucune réponse, un quiz révèle la réponse sur une slide suivante')
+            for _, champ_v, t_v in regles_texte.textes_du_plan({'creneaux': [dict(c, textes={}, accroche='', premier_commentaire='', youtube_title='', tiktok_title='')]}):
+                pb += regles_texte.fiche_seule(t_v, f'{ref} {champ_v}')
             if 'google' not in (v.get('surtitre', '') + v.get('titre', '')).lower():
                 pb.append(f'{ref} visuel : « Google » absent du surtitre + titre')
         pc = c.get('premier_commentaire') or ''
@@ -227,7 +232,12 @@ def verifier_briefs(dossier):
         for i, a in enumerate(b.get('accroches') or []):
             pb += regles_texte.phrase_complete(a, f'brief {slug} accroche {"ABC"[i] if i < 3 else i}')
             if 'google' not in a.lower(): pb.append(f'brief {slug} accroche {"ABC"[i] if i < 3 else i} : sans « Google »')
-        pb += regles_texte.phrase_complete(b.get('suite', ''), f'brief {slug} suite')
+        if b.get('moteur'):  # pubs cinétiques / plan-séquence (outils/pub-video.py) : pas de « suite », contrôles du script
+            pb += [f'brief {x}' for x in PUBVIDEO.probs_brief(b, slug)]
+        else:
+            pb += regles_texte.phrase_complete(b.get('suite', ''), f'brief {slug} suite')
+        for champ, t in regles_texte.textes_du_brief(b):
+            pb += regles_texte.fiche_seule(t, f'brief {slug} {champ}')
         if b.get('angle') == 'preuve': pb.append(f'brief {slug} : angle « preuve » retiré (règle n°3) — utiliser peur de perdre ou gain de temps')
         for n in re.findall(r'\b(Weber|Martin|Durand|Bernard|Petit)\b', json.dumps(b, ensure_ascii=False)):
             noms[n] += 1
