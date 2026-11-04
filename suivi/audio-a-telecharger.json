@@ -1,13 +1,37 @@
 {
- "demande": "2026-11-04T19:03:56Z",
+ "demande": "2026-11-04T19:21:23Z",
  "fichiers": [
   {
-   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/wX8ECsRgCMCAZa1pUnBW/DayobW8GbyCBZBz2mc98/content.mp3?Expires=1793829600&KeyName=assets-cdn-key-1&Signature=57fDIyferJG3Y-yJ6xn0PNXaslo=",
-   "dest": "medias/audio/_exemple-coiffeuse-duel-vannes/prise-A.mp3"
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/6hgatPJTQw4d0EyjRrhR/ZtTpZWz9638iYmg2X9qh/content.mp3?Expires=1793829600&KeyName=assets-cdn-key-1&Signature=F98f-Uqv5kcaQDtSqODrB9b9I6A=",
+   "dest": "medias/audio/bonus-boulangerie-detail-lorient/prise-A.mp3"
   },
   {
-   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/NoLq3yGWhe5PbADjCtRG/f78oOS95JFCG0AM0zKec/content.mp3?Expires=1793829600&KeyName=assets-cdn-key-1&Signature=Ew-Ve6oH1XfNC9tAVJxHurNtocE=",
-   "dest": "medias/audio/_exemple-electricien-temps-nantes/prise-A.mp3"
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/gDgmdJ0q8kOhKrQcXnER/Vr7g2Fk2TOZcduD35KcY/content.mp3?Expires=1793829600&KeyName=assets-cdn-key-1&Signature=aw5HNKWzToSXvNHtWxEI_JbOyaA=",
+   "dest": "medias/audio/bonus-chauffagiste-swipe-rennes/prise-A.mp3"
+  },
+  {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/4odpTBzvaP6XRhcJXI5M/P9cw41u8D4jwBk0E8AxA/content.mp3?Expires=1793829600&KeyName=assets-cdn-key-1&Signature=F_3sXUmx0rw9ofEvmCNGMWYHlqU=",
+   "dest": "medias/audio/bonus-coiffeuse-duel-nantes/prise-A.mp3"
+  },
+  {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/M80UCXqcq38Z9HHzP8KR/KYZs55zZqsaNTee2TcdS/content.mp3?Expires=1793829600&KeyName=assets-cdn-key-1&Signature=kINDgKK_hfmP5a6dwcrFfHcxu_Q=",
+   "dest": "medias/audio/bonus-couvreur-clients-brest/prise-A.mp3"
+  },
+  {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/ybC8uPR8aMqanGUB1Dnm/PAPRpRggxHeFoxanduEs/content.mp3?Expires=1793829600&KeyName=assets-cdn-key-1&Signature=7fZN2Cqn55GMo_UH9U9TLk-v4-s=",
+   "dest": "medias/audio/bonus-electricien-appels-angers/prise-A.mp3"
+  },
+  {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/RRJGIpyL5zyRcVaEYJGu/KD7BpfYPkh3SqD043KEY/content.mp3?Expires=1793829600&KeyName=assets-cdn-key-1&Signature=jVx8gw2qgst7gBOkCnbKvJHXL3I=",
+   "dest": "medias/audio/bonus-fleuriste-swipe-saint-brieuc/prise-A.mp3"
+  },
+  {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/znLSgwAT9gQakOOe728K/mp6VDu4TpETmIr6Fy9Si/content.mp3?Expires=1793829600&KeyName=assets-cdn-key-1&Signature=0Opprr2z0uK8bs-W0r-ym_WCyIo=",
+   "dest": "medias/audio/bonus-garage-duel-quimper/prise-A.mp3"
+  },
+  {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/qNeauArD76tQp4neBEDw/nXwYNNbczlNrLWeiuG8p/content.mp3?Expires=1793829600&KeyName=assets-cdn-key-1&Signature=JUg9E9GIB3H2Nw-f8RzhCdh8uu8=",
+   "dest": "medias/audio/bonus-paysagiste-swipe-vannes/prise-A.mp3"
   }
  ]
 }
