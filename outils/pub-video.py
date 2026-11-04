@@ -148,6 +148,7 @@ REMPLACEMENTS = [
     ("Cas client O\\'propre, Rennes : ×3 appels par mois.", ''),
     ('À fiche égale,', 'À fiche Google aussi vivante,'),
     ('votre fiche Google *réclame :*', 'votre fiche Google *vous réclame tout ça.*'),
+    ('Les clients du coin *vous trouvent, vous.*', 'Les clients du coin *voient votre travail.*'),   # pas de promesse invérifiable
 ]
 TEXTES_DECOR = ('p4-angles.jsx', 'ps-angles.jsx', 'sw-angles.jsx', 'p4-kit.jsx', 'ps-kit.jsx', 'sw-kit.jsx')
 DEPENDANCES = 'react@18.3.1 react-dom@18.3.1 esbuild@0.23.1'
