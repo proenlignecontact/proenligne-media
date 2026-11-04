@@ -1,0 +1,35 @@
+{
+ "slug": "paysagiste-duel-lille",
+ "moteur": "cinetique",
+ "angle": "Face au concurrent",
+ "metier": "paysagiste",
+ "ville": "Lille",
+ "ambiance": 1,
+ "valeur": "Le voisin",
+ "accroches": [
+  "Paysagiste à Lille, le voisin montre ses *jardins* sur Google.",
+  "Paysagiste à Lille, qui a la *fiche Google* la plus vivante ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Il montre ses jardins chaque semaine. Vous, rarement."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne montre enfin vos chantiers d'hiver."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "À travail égal, on vous choisit, vous.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts vous attendent, lien en bio."
+  }
+ ],
+ "offre_ligne": "Vos jardins, *sur Google.*",
+ "musique": true,
+ "audio_src": {}
+}

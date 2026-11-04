@@ -156,7 +156,8 @@ def trouver_skill(nom):
         p = os.path.join(r, nom, 'reference')
         if os.path.isdir(p):
             return p
-    hits = glob.glob(f'/mnt/skills/**/{nom}/reference', recursive=True)
+    hits = glob.glob(f'/mnt/skills/**/{nom}/reference', recursive=True) + \
+        glob.glob(os.path.expanduser(f'~/.claude/skills/**/{nom}/reference'), recursive=True)
     if hits:
         return hits[0]
     raise SystemExit(f'skill {nom} introuvable (cherché dans {", ".join(RACINES)})')

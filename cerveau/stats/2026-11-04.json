@@ -1,5 +1,5 @@
 {
- "releve_le": "2026-11-04T11:44:23.340Z",
+ "releve_le": "2026-11-04T20:32:28.383Z",
  "source": "2026-11-04.json",
  "posts": [
   {
@@ -16,6 +16,20 @@
    "vues": 2,
    "likes": 0,
    "engagement_total": 0
+  },
+  {
+   "postiz_id": "cmvybgwnx007lkb7zf2xrl16u",
+   "canal": "facebook",
+   "vues": 0,
+   "likes": 0,
+   "clics": 0
+  },
+  {
+   "postiz_id": "cmvybgwur007vkb7zqmwn5yqe",
+   "canal": "facebook",
+   "vues": 0,
+   "likes": 0,
+   "engagement_total": 1
   },
   {
    "postiz_id": "cmvybe43u006hkb7z8cn2cmc0",
@@ -79,6 +93,12 @@
    "commentaires": 1
   },
   {
+   "postiz_id": "cmvybgwpf007nkb7zinxcfl0f",
+   "canal": "linkedin",
+   "likes": 0,
+   "commentaires": 1
+  },
+  {
    "postiz_id": "cmvscsk3y0001o77z79evxv7h",
    "canal": "instagram",
    "vues": 0,
@@ -103,6 +123,16 @@
    "canal": "instagram",
    "vues": 2,
    "portee": 2,
+   "enregistrements": 0,
+   "likes": 0,
+   "commentaires": 1,
+   "partages": 0
+  },
+  {
+   "postiz_id": "cmvybgwm5007jkb7z6xc2qt7f",
+   "canal": "instagram",
+   "vues": 0,
+   "portee": 0,
    "enregistrements": 0,
    "likes": 0,
    "commentaires": 1,
@@ -139,6 +169,16 @@
    "partages": 0
   },
   {
+   "postiz_id": "cmvybgwsl007rkb7ziinpnajt",
+   "canal": "instagram",
+   "vues": 0,
+   "portee": 0,
+   "enregistrements": 0,
+   "likes": 0,
+   "commentaires": 1,
+   "partages": 0
+  },
+  {
    "postiz_id": "cmvwm8prg0007kb7z6jff27hx",
    "canal": "youtube",
    "vues": 2,
@@ -147,9 +187,17 @@
    "enregistrements": 0
   },
   {
+   "postiz_id": "cmvybgwto007tkb7zmb0oni74",
+   "canal": "youtube",
+   "vues": 3,
+   "likes": 0,
+   "commentaires": 0,
+   "enregistrements": 0
+  },
+  {
    "postiz_id": "cmvybe4co006tkb7zur20zuxl",
    "canal": "youtube",
-   "vues": 113,
+   "vues": 117,
    "likes": 0,
    "commentaires": 0,
    "enregistrements": 0
@@ -157,7 +205,7 @@
   {
    "postiz_id": "cmvybfl4z007bkb7z190jwst5",
    "canal": "youtube",
-   "vues": 72,
+   "vues": 73,
    "likes": 0,
    "commentaires": 0,
    "enregistrements": 0
@@ -171,6 +219,11 @@
   },
   {
    "postiz_id": "cmvybfl160077kb7z6wfyaq0l",
+   "canal": "tiktok",
+   "raison": "Postiz ne connaît pas l'ID du post sur la plateforme"
+  },
+  {
+   "postiz_id": "cmvybgwqy007pkb7zg6p0duwh",
    "canal": "tiktok",
    "raison": "Postiz ne connaît pas l'ID du post sur la plateforme"
   },
@@ -215,8 +268,8 @@
    "Followers": 0,
    "Following": 6,
    "Total Likes": 7,
-   "Videos": 4,
-   "Views": 2022,
+   "Videos": 5,
+   "Views": 2138,
    "Recent Likes": 7,
    "Recent Comments": 0,
    "Recent Shares": 0
@@ -224,7 +277,7 @@
   "facebook": {
    "Page Impressions": 7,
    "Media views": 45,
-   "Posts Engagement": 10,
+   "Posts Engagement": 12,
    "Page followers": 0
   },
   "linkedin": {
@@ -239,9 +292,9 @@
   "instagram": {},
   "x": {},
   "youtube": {
-   "Estimated Minutes Watched": 1,
-   "Average View Duration": 28,
-   "Average View Percentage": 114.13,
+   "Estimated Minutes Watched": 3,
+   "Average View Duration": 38,
+   "Average View Percentage": 177.35,
    "Subscribers Gained": 0,
    "Subscribers Lost": 0,
    "Likes": 1

@@ -1,0 +1,36 @@
+{
+ "slug": "chauffagiste-semaine-toulouse",
+ "moteur": "plan-sequence",
+ "angle": "Du temps libre",
+ "metier": "chauffagiste",
+ "ville": "Toulouse",
+ "ambiance": 2,
+ "entreprise": "",
+ "lieu": "",
+ "accroches": [
+  "Chauffagiste à Toulouse, vos soirées vont *à Google ?*",
+  "Chauffagiste à Toulouse, combien de soirées pour *Google ?*"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Après les dépannages, il reste les avis le soir."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne prend tout ça en charge."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Vos soirées redeviennent libres.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Testez trente jours offerts, le lien est en bio."
+  }
+ ],
+ "offre_ligne": "Vos soirées, *au chaud.*",
+ "musique": true,
+ "audio_src": {}
+}

@@ -1,0 +1,40 @@
+{
+ "slug": "electricien-classement-le-mans",
+ "moteur": "plan-sequence",
+ "angle": "Plus de clients",
+ "metier": "électricien",
+ "ville": "Le Mans",
+ "ambiance": 2,
+ "entreprise": "",
+ "lieu": "",
+ "accroches": [
+  "Google vous place *où ?*",
+  "Vous êtes où sur *Google ?*"
+ ],
+ "accroches_dites": [
+  "Tapez électricien Le Mans. Google vous place où ?",
+  "Un client cherche électricien Le Mans. Vous êtes où sur Google ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Le client appelle souvent les premiers de la liste."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne fait vivre votre fiche Google chaque semaine."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et c'est votre fiche Google qu'on ouvre.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts, le lien est en bio."
+  }
+ ],
+ "offre_ligne": "Votre *fiche Google*, bien vivante.",
+ "musique": true,
+ "audio_src": {}
+}

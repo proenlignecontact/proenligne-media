@@ -1,0 +1,35 @@
+{
+ "slug": "estheticienne-swipe-appels-lyon",
+ "moteur": "swipe",
+ "angle": "Plus d'appels",
+ "metier": "esthéticienne",
+ "ville": "Lyon",
+ "ambiance": 0,
+ "entreprise": "",
+ "accroches": [
+  "Esthéticienne à Lyon, on passe votre fiche Google ?",
+  "Esthéticienne à Lyon, avant de réserver, on lit votre fiche Google."
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Des photos anciennes, et on appelle la suivante."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne montre vos soins chaque semaine."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et cette fois, c'est chez vous qu'on appelle.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Le lien est en bio, trente jours offerts."
+  }
+ ],
+ "offre_ligne": "Vos soins *se voient enfin.*",
+ "musique": true,
+ "audio_src": {}
+}

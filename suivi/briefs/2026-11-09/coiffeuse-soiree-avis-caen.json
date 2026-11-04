@@ -1,0 +1,35 @@
+{
+ "slug": "coiffeuse-soiree-avis-caen",
+ "moteur": "cinetique",
+ "angle": "Du temps libre",
+ "metier": "coiffeuse",
+ "ville": "Caen",
+ "ambiance": 1,
+ "valeur": "22h47",
+ "accroches": [
+  "Coiffeuse à Caen, encore vos *avis Google* à cette heure-ci ?",
+  "Coiffeuse à Caen, *Google* vous prend vos soirées ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Le salon ferme, et les avis vous attendent."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne s'en charge en journée."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et le soir, vous rentrez vraiment chez vous.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Essayez trente jours offerts, lien en bio."
+  }
+ ],
+ "offre_ligne": "Vos soirées *vous reviennent.*",
+ "musique": true,
+ "audio_src": {}
+}

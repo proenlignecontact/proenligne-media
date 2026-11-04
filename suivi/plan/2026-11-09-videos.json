@@ -1,0 +1,58 @@
+[
+ {
+  "date": "2026-11-09",
+  "moteur": "plan-sequence",
+  "angle": "Plus de clients",
+  "metier": "électricien",
+  "ville": "Le Mans",
+  "ambiance": 2
+ },
+ {
+  "date": "2026-11-10",
+  "moteur": "swipe",
+  "angle": "Face au concurrent",
+  "metier": "maçon",
+  "ville": "Tours",
+  "ambiance": 0
+ },
+ {
+  "date": "2026-11-11",
+  "moteur": "cinetique",
+  "angle": "Du temps libre",
+  "metier": "coiffeuse",
+  "ville": "Caen",
+  "ambiance": 1
+ },
+ {
+  "date": "2026-11-12",
+  "moteur": "plan-sequence",
+  "angle": "Plus de clients",
+  "metier": "plombier",
+  "ville": "Bordeaux",
+  "ambiance": 2
+ },
+ {
+  "date": "2026-11-13",
+  "moteur": "swipe",
+  "angle": "Plus d'appels",
+  "metier": "esthéticienne",
+  "ville": "Lyon",
+  "ambiance": 0
+ },
+ {
+  "date": "2026-11-14",
+  "moteur": "cinetique",
+  "angle": "Face au concurrent",
+  "metier": "paysagiste",
+  "ville": "Lille",
+  "ambiance": 1
+ },
+ {
+  "date": "2026-11-15",
+  "moteur": "plan-sequence",
+  "angle": "Du temps libre",
+  "metier": "chauffagiste",
+  "ville": "Toulouse",
+  "ambiance": 2
+ }
+]

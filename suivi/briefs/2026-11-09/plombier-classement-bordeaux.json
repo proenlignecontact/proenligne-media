@@ -1,0 +1,40 @@
+{
+ "slug": "plombier-classement-bordeaux",
+ "moteur": "plan-sequence",
+ "angle": "Plus de clients",
+ "metier": "plombier",
+ "ville": "Bordeaux",
+ "ambiance": 2,
+ "entreprise": "",
+ "lieu": "",
+ "accroches": [
+  "On vous voit sur *Google ?*",
+  "Votre nom est sur *Google ?*"
+ ],
+ "accroches_dites": [
+  "Plombier à Bordeaux, on vous voit sur Google ?",
+  "Un client tape plombier Bordeaux. Votre nom est sur Google ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Il appelle souvent l'un des premiers noms."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne publie photos et nouvelles chaque semaine."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et votre fiche Google se met à vivre.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts, cliquez le lien en bio."
+  }
+ ],
+ "offre_ligne": "Une *fiche Google* qui travaille.",
+ "musique": true,
+ "audio_src": {}
+}
