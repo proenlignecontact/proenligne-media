@@ -371,5 +371,261 @@
    "Avant, votre fiche Google avait une bonne note et aucun signe de vie récent."
   ],
   "suite": "Les parents voient une fiche Google figée depuis 2021."
+ },
+ {
+  "date": "2026-11-05",
+  "slug": "bonus-chauffagiste-swipe-rennes",
+  "moteur": "swipe",
+  "angle": "Plus de clients",
+  "metier": "chauffagiste",
+  "ville": "Rennes",
+  "valeur": "",
+  "accroches": [
+   "Un client a froid, il cherche un chauffagiste sur Google.",
+   "Votre fiche Google se joue en deux secondes. Regardez."
+  ],
+  "voix": [
+   "Une fiche Google sans photo récente, il la passe.",
+   "Pro en ligne la fait vivre, chaque semaine.",
+   "Et cette fois, c'est chez vous que ça sonne.",
+   "Essayez gratuitement, sans engagement."
+  ],
+  "ambiance": 0,
+  "duree": 16.5,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmw2ihhhy00bbkb7zznu93tdg",
+   "facebook": "cmw2ihhk700bdkb7zz8i7ibav",
+   "instagram": "cmw2ihhmd00bfkb7zwrlhvtkg",
+   "x": "cmw2ihhoc00bhkb7z12i491py",
+   "youtube": "cmw2ihhpq00bjkb7zsqiq9i4v",
+   "linkedin": "cmw2ihhra00blkb7zoyquuj31"
+  },
+  "serie": "bonus 5-8 novembre"
+ },
+ {
+  "date": "2026-11-05",
+  "slug": "bonus-coiffeuse-duel-nantes",
+  "moteur": "cinetique",
+  "angle": "Face au concurrent",
+  "metier": "coiffeuse",
+  "ville": "Nantes",
+  "valeur": "Le salon d'en face",
+  "accroches": [
+   "Sa *fiche Google* vit. La vôtre dort.",
+   "Les clientes comparent les *fiches Google*. Qui gagne ?"
+  ],
+  "voix": [
+   "En face, on publie chaque semaine. Vous, rarement.",
+   "Pro en ligne remet votre fiche Google en mouvement.",
+   "Et à travail égal, c'est vous qu'on choisit.",
+   "Essayez Pro en ligne gratuitement, sans engagement."
+  ],
+  "ambiance": 1,
+  "duree": 18.5,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmw2ii02d00bnkb7znc9kr3a9",
+   "facebook": "cmw2ii03m00bpkb7z6clgzo6l",
+   "instagram": "cmw2ii05d00brkb7zcavcug6m",
+   "x": "cmw2ii06w00btkb7zw5k84vh6",
+   "youtube": "cmw2ii09m00bvkb7zrqw7wmbk",
+   "linkedin": "cmw2ii0b700bxkb7z0k4lbmha"
+  },
+  "serie": "bonus 5-8 novembre"
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "bonus-boulangerie-detail-lorient",
+  "moteur": "plan-sequence",
+  "angle": "Plus d'appels",
+  "metier": "boulangerie",
+  "ville": "Lorient",
+  "valeur": "",
+  "accroches": [
+   "Ce petit détail de votre *fiche Google* coûte des appels.",
+   "Votre *fiche Google* montre encore une photo de 2021 ?"
+  ],
+  "voix": [
+   "Le client hésite… et il appelle à côté.",
+   "Pro en ligne remet votre fiche Google à jour.",
+   "Et votre téléphone se remet à sonner.",
+   "Essayez gratuitement, sans engagement."
+  ],
+  "ambiance": 2,
+  "duree": 16.0,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmw2iinph00bzkb7zt2otcg72",
+   "facebook": "cmw2iinrf00c1kb7zb4234q7w",
+   "instagram": "cmw2iinsu00c3kb7zver5s6dm",
+   "x": "cmw2iinub00c5kb7zlukbamhe",
+   "youtube": "cmw2iinvi00c7kb7zkh5ztrps",
+   "linkedin": "cmw2iinwy00c9kb7zvxh53b8f"
+  },
+  "serie": "bonus 5-8 novembre"
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "bonus-paysagiste-swipe-vannes",
+  "moteur": "swipe",
+  "angle": "Du temps libre",
+  "metier": "paysagiste",
+  "ville": "Vannes",
+  "valeur": "",
+  "accroches": [
+   "Il est vingt-trois heures, et votre fiche Google attend encore.",
+   "Après le chantier, il reste votre fiche Google à soigner."
+  ],
+  "voix": [
+   "Chaque soir, les avis et les photos vous attendent.",
+   "Pro en ligne s'en charge, pendant la journée.",
+   "Vos soirées redeviennent les vôtres.",
+   "Essayez Pro en ligne gratuitement, sans engagement."
+  ],
+  "ambiance": 0,
+  "duree": 16.5,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmw2ij92a00cbkb7z9ukj25nb",
+   "facebook": "cmw2ij93s00cdkb7zc8rneah9",
+   "instagram": "cmw2ij95j00cfkb7z1j1l9zwq",
+   "x": "cmw2ij97800chkb7zatvvrt2b",
+   "youtube": "cmw2ij98o00cjkb7z6qvhab6w",
+   "linkedin": "cmw2ij9a000clkb7zfu7sgz58"
+  },
+  "serie": "bonus 5-8 novembre"
+ },
+ {
+  "date": "2026-11-07",
+  "slug": "bonus-couvreur-clients-brest",
+  "moteur": "cinetique",
+  "angle": "Plus de clients",
+  "metier": "couvreur",
+  "ville": "Brest",
+  "valeur": "23",
+  "accroches": [
+   "personnes cherchent un couvreur sur *Google* ce matin.",
+   "personnes regardent les *fiches Google* des couvreurs."
+  ],
+  "voix": [
+   "Souvent, ils appellent le couvreur qui montre ses chantiers.",
+   "Pro en ligne fait vivre votre fiche Google, chaque semaine.",
+   "Les clients du coin voient vos derniers chantiers.",
+   "Essayez gratuitement, sans engagement."
+  ],
+  "ambiance": 1,
+  "duree": 17.5,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmw2ijtag00cnkb7zrim9ykif",
+   "facebook": "cmw2ijtbp00cpkb7zync5oqst",
+   "instagram": "cmw2ijtcz00crkb7z0pdsmkre",
+   "x": "cmw2ijtel00ctkb7zsflp344u",
+   "youtube": "cmw2ijtga00cvkb7zrnvt60rj",
+   "linkedin": "cmw2ijthk00cxkb7zf6vfngfn"
+  },
+  "serie": "bonus 5-8 novembre"
+ },
+ {
+  "date": "2026-11-07",
+  "slug": "bonus-garage-duel-quimper",
+  "moteur": "plan-sequence",
+  "angle": "Face au concurrent",
+  "metier": "garage",
+  "ville": "Quimper",
+  "valeur": "",
+  "accroches": [
+   "Pourquoi la *fiche Google* d'à côté attire plus d'appels ?",
+   "Deux garages, deux *fiches Google*. Lequel appelez-vous ?"
+  ],
+  "voix": [
+   "Sa fiche Google montre des photos de la semaine.",
+   "Pro en ligne fait vivre la vôtre, chaque semaine.",
+   "Et c'est votre garage qu'on choisit.",
+   "Essayez Pro en ligne gratuitement, sans engagement."
+  ],
+  "ambiance": 2,
+  "duree": 16.0,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmw2ike2z00czkb7zew3mv3gv",
+   "facebook": "cmw2ike4c00d1kb7zavflj008",
+   "instagram": "cmw2ike6200d3kb7z70nnq8b3",
+   "x": "cmw2ike7w00d5kb7zixjz0px1",
+   "youtube": "cmw2ike9f00d7kb7zrac3ti0d",
+   "linkedin": "cmw2ikeb200d9kb7zjepg9g7w"
+  },
+  "serie": "bonus 5-8 novembre"
+ },
+ {
+  "date": "2026-11-08",
+  "slug": "bonus-fleuriste-swipe-saint-brieuc",
+  "moteur": "swipe",
+  "angle": "Du temps libre",
+  "metier": "fleuriste",
+  "ville": "Saint-Brieuc",
+  "valeur": "",
+  "accroches": [
+   "Les bouquets sont prêts. Votre fiche Google, elle, attend.",
+   "Le soir, entre deux commandes, qui s'occupe de votre fiche Google ?"
+  ],
+  "voix": [
+   "Ce soir encore, il faut répondre aux avis.",
+   "Pro en ligne s'en occupe, chaque semaine.",
+   "Et vous fermez la boutique l'esprit tranquille.",
+   "Essayez gratuitement, sans engagement."
+  ],
+  "ambiance": 0,
+  "duree": 16.5,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmw2ikz0t00dbkb7z841v946c",
+   "facebook": "cmw2ikz2i00ddkb7z5prtbej7",
+   "instagram": "cmw2ikz4w00dfkb7zfnsoh5mg",
+   "x": "cmw2ikz6g00dhkb7zu0y2k3q2",
+   "youtube": "cmw2ikz7u00djkb7zn3n3q390",
+   "linkedin": "cmw2ikz9800dlkb7z8403v7pe"
+  },
+  "serie": "bonus 5-8 novembre"
+ },
+ {
+  "date": "2026-11-08",
+  "slug": "bonus-electricien-appels-angers",
+  "moteur": "cinetique",
+  "angle": "Plus d'appels",
+  "metier": "électricien",
+  "ville": "Angers",
+  "valeur": "0",
+  "accroches": [
+   "Le téléphone est calme ? Regardez votre *fiche Google*.",
+   "Une *fiche Google* endormie, c'est un téléphone qui dort."
+  ],
+  "voix": [
+   "Vos photos datent, vos avis attendent une réponse.",
+   "Pro en ligne réveille votre fiche Google, chaque semaine.",
+   "Et le téléphone recommence à sonner.",
+   "Essayez Pro en ligne gratuitement, sans engagement."
+  ],
+  "ambiance": 1,
+  "duree": 16.5,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmw2ill4r00dnkb7z0njpf3ph",
+   "facebook": "cmw2ill6b00dpkb7zd4z6r2xp",
+   "instagram": "cmw2ill8b00drkb7z85cgj9hb",
+   "x": "cmw2ill9y00dtkb7zm6txtnpq",
+   "youtube": "cmw2illbt00dvkb7zhq015r1l",
+   "linkedin": "cmw2illdn00dxkb7zqfcez4wd"
+  },
+  "serie": "bonus 5-8 novembre"
  }
 ]
