@@ -1212,6 +1212,38 @@
   "2026-11-12 19:00|brief:plombier-classement-bordeaux|voix 4 (Offre, dite)": {
    "h": "a4e08736c49f",
    "quand": "2026-11-04T20:49:25+00:00"
+  },
+  "2026-11-09 13:00|plan|texte instagram": {
+   "h": "86b678240c05",
+   "quand": "2026-11-04T20:51:39+00:00"
+  },
+  "2026-11-11 06:30|plan|texte x": {
+   "h": "6a50ab4106b0",
+   "quand": "2026-11-04T20:51:39+00:00"
+  },
+  "2026-11-11 13:00|plan|visuel slide 3 texte": {
+   "h": "d6e68fb899b5",
+   "quand": "2026-11-04T20:51:39+00:00"
+  },
+  "2026-11-14 13:00|plan|visuel slide 5 titre": {
+   "h": "44022972f1c8",
+   "quand": "2026-11-04T20:51:39+00:00"
+  },
+  "2026-11-15 13:00|plan|visuel titre": {
+   "h": "938940e47eee",
+   "quand": "2026-11-04T20:51:39+00:00"
+  },
+  "2026-11-15 19:00|plan|texte tiktok": {
+   "h": "07d593b13ca9",
+   "quand": "2026-11-04T20:51:39+00:00"
+  },
+  "2026-11-15 19:00|plan|texte youtube": {
+   "h": "744aedc943a5",
+   "quand": "2026-11-04T20:51:39+00:00"
+  },
+  "2026-11-12 19:00|brief:plombier-classement-bordeaux|voix 1 (Probleme, dite)": {
+   "h": "42cdd04bacda",
+   "quand": "2026-11-04T20:51:39+00:00"
   }
  }
 }

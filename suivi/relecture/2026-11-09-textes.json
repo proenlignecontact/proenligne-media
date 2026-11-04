@@ -1,310 +1,10 @@
 {
  "lundi": "2026-11-09",
- "empreinte": "83c96711deef730f",
- "nb": 114,
- "nb_a_relire": 11,
+ "empreinte": "b241a3c887340cb8",
+ "nb": 49,
+ "nb_a_relire": 3,
  "consigne": "Un verdict pour chaque élément a_relire=true (les autres sont du contexte déjà validé : verdict facultatif, mais à refuser s'ils contredisent un élément relu).",
  "elements": [
-  {
-   "ref": "2026-11-09 13:00",
-   "source": "plan",
-   "champ": "accroche",
-   "texte": "Mercredi est un jour férié, et votre fiche Google affiche peut-être encore vos horaires habituels.",
-   "cle": "2026-11-09 13:00|plan|accroche",
-   "h": "23d4da624746",
-   "id": "eef172c",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 13:00",
-   "source": "plan",
-   "champ": "premier_commentaire",
-   "texte": "Boulangers, vous ouvrez le matin du jour de l'Armistice ? Et votre fiche Google, elle le dit déjà ?",
-   "cle": "2026-11-09 13:00|plan|premier_commentaire",
-   "h": "2bfafe610d2d",
-   "id": "e464cd1",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 13:00",
-   "source": "plan",
-   "champ": "texte instagram",
-   "texte": "Mercredi est un jour férié, et votre fiche Google affiche peut-être encore vos horaires habituels.\n\nQuand on cherche « boulangerie » dans sa ville, Google affiche des fiches Google avec la note, les photos et les horaires. La vôtre en fait partie, et un jour férié, ce sont souvent les horaires qu'on regarde en premier.\n\nTrois gestes avant mercredi.\n1. Ouvrez votre fiche Google depuis votre téléphone.\n2. Ajoutez des horaires exceptionnels pour le jour de l'Armistice.\n3. Publiez une photo de la vitrine avec l'affichette des horaires.\n\nVous ouvrez mercredi matin, vous ?\n\n#FicheGoogle #Boulangerie #Boulanger #ReferencementLocal #GoogleBusinessProfile",
-   "cle": "2026-11-09 13:00|plan|texte instagram",
-   "h": "86b678240c05",
-   "id": "eb817e6",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-09 13:00",
-   "source": "plan",
-   "champ": "texte facebook",
-   "texte": "Mercredi est un jour férié, et votre fiche Google affiche peut-être encore vos horaires habituels.\n\nCherchez « boulangerie » dans votre ville. Les encadrés avec une note, des photos et des horaires sont des fiches Google. Un matin de jour férié, le client y vérifie si vous êtes ouvert avant de sortir.\n\nSi votre fiche Google dit « ouvert » alors que le rideau est baissé, il trouve porte close. Si elle dit « fermé » alors que vous êtes ouvert, il va ailleurs sans le savoir.\n\nGoogle prévoit une rubrique pour les horaires exceptionnels. Deux minutes suffisent pour annoncer mercredi.\n\nEt chez vous, la boutique ouvre le matin du jour férié ?\n\n#FicheGoogle #Boulangerie #Boulanger #ReferencementLocal",
-   "cle": "2026-11-09 13:00|plan|texte facebook",
-   "h": "76b494ed6c5f",
-   "id": "ed12bc0",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 13:00",
-   "source": "plan",
-   "champ": "texte linkedin",
-   "texte": "Mercredi est un jour férié. Pour un commerce de proximité, c'est la fiche Google qui annonce s'il ouvre ou non.\nLa fiche Google, c'est l'encadré que Google affiche avec la note, les photos et les horaires quand on cherche une boulangerie près de chez soi.\n\nUn matin de jour férié, une partie des clients vérifie les horaires sur son téléphone avant de sortir. Si les horaires affichés sont les horaires habituels, deux situations se présentent.\n\nLe client se déplace et trouve porte close. Il s'en souviendra.\nOu bien la boutique est ouverte, mais la fiche Google laisse un doute, et le client choisit une autre adresse.\n\nGoogle propose une rubrique d'horaires exceptionnels, prévue pour ces journées. La renseigner prend deux minutes et évite ces deux déceptions.\n\nProenligne s'occupe de la fiche Google des commerçants, avec une photo le lundi, une publication le jeudi et une réponse à chaque avis.\n\nVotre commerce ouvre-t-il ce mercredi, et vos clients le savent-ils déjà ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Boulangerie #Commerce",
-   "cle": "2026-11-09 13:00|plan|texte linkedin",
-   "h": "2f141360288b",
-   "id": "ec0c904",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 13:00",
-   "source": "plan",
-   "champ": "visuel surtitre",
-   "texte": "Boulangeries, votre fiche Google",
-   "cle": "2026-11-09 13:00|plan|visuel surtitre",
-   "h": "550078b7dbbe",
-   "id": "e2cf4f2",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 13:00",
-   "source": "plan",
-   "champ": "visuel titre",
-   "texte": "Annoncez vos horaires du jour férié",
-   "cle": "2026-11-09 13:00|plan|visuel titre",
-   "h": "97794c6009fa",
-   "id": "ede0436",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 13:00",
-   "source": "plan",
-   "champ": "visuel question",
-   "texte": "Vous ouvrez mercredi matin, ou vous fermez pour le jour férié ?",
-   "cle": "2026-11-09 13:00|plan|visuel question",
-   "h": "118558d78278",
-   "id": "ee18a37",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 13:00",
-   "source": "plan",
-   "champ": "visuel point 1",
-   "texte": "Ouvrez votre fiche Google depuis votre téléphone",
-   "cle": "2026-11-09 13:00|plan|visuel point 1",
-   "h": "062caa4d9eeb",
-   "id": "e8cc188",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 13:00",
-   "source": "plan",
-   "champ": "visuel point 2",
-   "texte": "Ajoutez des horaires exceptionnels pour mercredi",
-   "cle": "2026-11-09 13:00|plan|visuel point 2",
-   "h": "2f15dd6c4046",
-   "id": "e0fc0d8",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 13:00",
-   "source": "plan",
-   "champ": "visuel point 3",
-   "texte": "Publiez une photo de la vitrine avec vos horaires",
-   "cle": "2026-11-09 13:00|plan|visuel point 3",
-   "h": "454c9f7c1f93",
-   "id": "edfb12d",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 13:00",
-   "source": "plan",
-   "champ": "visuel slide 2 titre",
-   "texte": "Le client vérifie avant de sortir",
-   "cle": "2026-11-09 13:00|plan|visuel slide 2 titre",
-   "h": "719602d9c403",
-   "id": "e900821",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 13:00",
-   "source": "plan",
-   "champ": "visuel slide 2 texte",
-   "texte": "Un jour férié, beaucoup de clients regardent votre fiche Google avant de prendre la voiture pour le pain.",
-   "cle": "2026-11-09 13:00|plan|visuel slide 2 texte",
-   "h": "86279750c8d0",
-   "id": "e77258c",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 13:00",
-   "source": "plan",
-   "champ": "visuel slide 3 titre",
-   "texte": "Google prévoit les jours spéciaux",
-   "cle": "2026-11-09 13:00|plan|visuel slide 3 titre",
-   "h": "5a654834c00a",
-   "id": "e27f052",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 13:00",
-   "source": "plan",
-   "champ": "visuel slide 3 texte",
-   "texte": "Dans votre fiche Google, la rubrique des horaires exceptionnels sert à annoncer un jour férié à l'avance.",
-   "cle": "2026-11-09 13:00|plan|visuel slide 3 texte",
-   "h": "a04c4133c73e",
-   "id": "e47b416",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 13:00",
-   "source": "plan",
-   "champ": "visuel slide 4 titre",
-   "texte": "Une photo rassure encore plus",
-   "cle": "2026-11-09 13:00|plan|visuel slide 4 titre",
-   "h": "4b087d223cec",
-   "id": "e9e9172",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 13:00",
-   "source": "plan",
-   "champ": "visuel slide 4 texte",
-   "texte": "Une photo de la vitrine avec l'affichette des horaires montre que la boutique est bien ouverte.",
-   "cle": "2026-11-09 13:00|plan|visuel slide 4 texte",
-   "h": "18da63fb04b0",
-   "id": "eabd60e",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 13:00",
-   "source": "plan",
-   "champ": "visuel slide 5 titre",
-   "texte": "Et chez vous, mercredi ?",
-   "cle": "2026-11-09 13:00|plan|visuel slide 5 titre",
-   "h": "e6f6a118755a",
-   "id": "e433e84",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-09 13:00",
-   "source": "plan",
-   "champ": "visuel slide 5 texte",
-   "texte": "Vous ouvrez le matin du jour férié, ou la boutique reste fermée ?",
-   "cle": "2026-11-09 13:00|plan|visuel slide 5 texte",
-   "h": "364c2dc35fa2",
-   "id": "eb947ac",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-11 06:30",
-   "source": "plan",
-   "champ": "accroche",
-   "texte": "Avant, la fiche Google du garage montrait un atelier vide. Après, on y voit l'équipe au travail.",
-   "cle": "2026-11-11 06:30|plan|accroche",
-   "h": "bbf8c5ac15aa",
-   "id": "ed9c9c3",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-11 06:30",
-   "source": "plan",
-   "champ": "premier_commentaire",
-   "texte": "Garagistes, quelle photo de votre atelier montreriez-vous en premier sur votre fiche Google ?",
-   "cle": "2026-11-11 06:30|plan|premier_commentaire",
-   "h": "e70b44a7e7c9",
-   "id": "ecc3437",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-11 06:30",
-   "source": "plan",
-   "champ": "texte x",
-   "texte": "Avant, la fiche Google du garage montrait un atelier vide. Après, on y voit l'équipe au travail.\n\nCe garage est imaginaire. Sa fiche Google, c'est ce que montre Google Maps quand on cherche un garage.\n\nÀ quel garage confieriez-vous votre voiture ?\n\n#FicheGoogle #Garage",
-   "cle": "2026-11-11 06:30|plan|texte x",
-   "h": "6a50ab4106b0",
-   "id": "e0228f5",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-11 06:30",
-   "source": "plan",
-   "champ": "texte facebook",
-   "texte": "Avant, la fiche Google du garage montrait un atelier vide. Après, on y voit l'équipe au travail.\n\nPrenons un garage imaginaire, le garage Martin. Sur Google Maps, chaque garage a sa fiche Google, avec la note, les photos et le bouton Appeler. C'est elle qu'on regarde avant de confier sa voiture.\n\nAvant, la seule photo datait de 2021. Un atelier vide, les ponts au repos, personne.\nAprès, une photo arrive chaque lundi. Un pneu changé, une voiture sur le pont, un mécanicien qui sourit.\n\nLa note est la même. Ce qui change, c'est qu'on voit un garage qui tourne.\n\nÀ quel garage confieriez-vous votre voiture ?\n\n#FicheGoogle #Garage #Garagiste #ReferencementLocal",
-   "cle": "2026-11-11 06:30|plan|texte facebook",
-   "h": "bd97e4503a03",
-   "id": "eaef390",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-11 06:30",
-   "source": "plan",
-   "champ": "visuel surtitre",
-   "texte": "La même fiche Google, avant et après",
-   "cle": "2026-11-11 06:30|plan|visuel surtitre",
-   "h": "48fca376ee99",
-   "id": "ef260e1",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-11 06:30",
-   "source": "plan",
-   "champ": "visuel titre",
-   "texte": "Quel garage vous inspire confiance sur Google ?",
-   "cle": "2026-11-11 06:30|plan|visuel titre",
-   "h": "101b1e742172",
-   "id": "e11d463",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-11 06:30",
-   "source": "plan",
-   "champ": "visuel question",
-   "texte": "À quel garage confieriez-vous votre voiture ?",
-   "cle": "2026-11-11 06:30|plan|visuel question",
-   "h": "7bc2d9577e6d",
-   "id": "e1a3cc8",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-11 06:30",
-   "source": "plan",
-   "champ": "visuel carte enseigne",
-   "texte": "Garage Martin",
-   "cle": "2026-11-11 06:30|plan|visuel carte enseigne",
-   "h": "92ba7a3b906a",
-   "id": "eddd380",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-11 06:30",
-   "source": "plan",
-   "champ": "visuel carte metier",
-   "texte": "Garage",
-   "cle": "2026-11-11 06:30|plan|visuel carte metier",
-   "h": "b15f62535196",
-   "id": "e1abea7",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-11 06:30",
-   "source": "plan",
-   "champ": "visuel carte avant",
-   "texte": "Un atelier vide, photo de 2021",
-   "cle": "2026-11-11 06:30|plan|visuel carte avant",
-   "h": "8601ff1d946d",
-   "id": "ec06f4e",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-11 06:30",
-   "source": "plan",
-   "champ": "visuel carte apres",
-   "texte": "Chaque lundi, on voit l'équipe au travail",
-   "cle": "2026-11-11 06:30|plan|visuel carte apres",
-   "h": "6c5df4b9fb7d",
-   "id": "ec607df",
-   "a_relire": false
-  },
   {
    "ref": "2026-11-11 13:00",
    "source": "plan",
@@ -399,9 +99,9 @@
    "ref": "2026-11-11 13:00",
    "source": "plan",
    "champ": "visuel point 3",
-   "texte": "Obtenez une réponse à chaque avis, et validez celles aux avis négatifs",
+   "texte": "Comptez sur une réponse à chaque avis, à valider si l'avis est négatif",
    "cle": "2026-11-11 13:00|plan|visuel point 3",
-   "h": "eabc6a0b5e25",
+   "h": "5ccc0fb7fcae",
    "id": "e547cdd",
    "a_relire": true
   },
@@ -443,7 +143,7 @@
    "cle": "2026-11-11 13:00|plan|visuel slide 3 texte",
    "h": "d6e68fb899b5",
    "id": "eb05203",
-   "a_relire": true
+   "a_relire": false
   },
   {
    "ref": "2026-11-11 13:00",
@@ -483,86 +183,6 @@
    "cle": "2026-11-11 13:00|plan|visuel slide 5 texte",
    "h": "1dea8e751089",
    "id": "ea51f0c",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 19:00",
-   "source": "plan",
-   "champ": "accroche",
-   "texte": "Vous êtes sous un évier, et un client tape « plombier Bordeaux » sur Google.",
-   "cle": "2026-11-12 19:00|plan|accroche",
-   "h": "9ed3bf6a4a52",
-   "id": "e3403cd",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 19:00",
-   "source": "plan",
-   "champ": "premier_commentaire",
-   "texte": "Plombiers, quand vous cherchez votre métier et votre ville sur Google, votre fiche Google apparaît-elle tout de suite ?",
-   "cle": "2026-11-12 19:00|plan|premier_commentaire",
-   "h": "0e83b3418fdc",
-   "id": "e7b0db0",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 19:00",
-   "source": "plan",
-   "champ": "youtube_title",
-   "texte": "Plombier, un client cherche sur Google pendant que vous travaillez",
-   "cle": "2026-11-12 19:00|plan|youtube_title",
-   "h": "d25b1b6cee7c",
-   "id": "eead2dd",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 19:00",
-   "source": "plan",
-   "champ": "tiktok_title",
-   "texte": "Plombier, on vous voit sur Google ?",
-   "cle": "2026-11-12 19:00|plan|tiktok_title",
-   "h": "183f0611447d",
-   "id": "eed31fd",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 19:00",
-   "source": "plan",
-   "champ": "texte tiktok",
-   "texte": "Vous êtes sous un évier, et un client tape « plombier Bordeaux » sur Google.\nIl voit une liste de fiches Google et il appelle souvent l'une des premières. On voit votre fiche Google ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Plombier #Bordeaux",
-   "cle": "2026-11-12 19:00|plan|texte tiktok",
-   "h": "ca45cfb5b139",
-   "id": "eb02ada",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 19:00",
-   "source": "plan",
-   "champ": "texte instagram",
-   "texte": "Vous êtes sous un évier, et un client tape « plombier Bordeaux » sur Google.\n\nIl a une fuite, il n'a pas le temps. Google lui montre des fiches Google avec la note, les photos et le bouton Appeler. Il en compare deux ou trois, et il appelle.\n\nVous, vous êtes occupé, et c'est normal. Votre fiche Google, elle, peut travailler pendant ce temps, avec des photos récentes et des réponses aux avis.\n\nQuand vous faites la recherche dans votre ville, où apparaissez-vous ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Plombier #Plomberie #Bordeaux #ReferencementLocal",
-   "cle": "2026-11-12 19:00|plan|texte instagram",
-   "h": "96968d29cfcd",
-   "id": "e3aa938",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 19:00",
-   "source": "plan",
-   "champ": "texte youtube",
-   "texte": "Vous êtes sous un évier, et un client tape « plombier Bordeaux » sur Google.\n\nLa fiche Google, c'est ce que Google affiche pour chaque plombier, avec les photos, les avis, les horaires et le numéro. Le client compare quelques fiches Google et il appelle.\n\nProenligne publie une photo le lundi, un article le jeudi, et répond à chaque avis, pendant que vous êtes sur le chantier.\n\nOù apparaissez-vous quand vous faites la recherche dans votre ville ?\n\n#FicheGoogle #Plombier #Bordeaux",
-   "cle": "2026-11-12 19:00|plan|texte youtube",
-   "h": "caf041dd7d94",
-   "id": "e18fb77",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 19:00",
-   "source": "plan",
-   "champ": "texte facebook",
-   "texte": "Vous êtes sous un évier, et un client tape « plombier Bordeaux » sur Google.\n\nLa scène se répète chaque jour. Une fuite, un téléphone, une recherche. Google montre des fiches Google, ces encadrés avec la note, les photos et le bouton Appeler.\n\nLe client ne lit pas tout. Il regarde votre fiche Google et deux ou trois autres, les photos récentes, les réponses aux avis, et il choisit.\n\nVous avez déjà fait cette recherche dans votre ville ? Qu'avez-vous vu ?\n\n#FicheGoogle #Plombier #Plomberie #ReferencementLocal",
-   "cle": "2026-11-12 19:00|plan|texte facebook",
-   "h": "f25565723f4f",
-   "id": "e391d0e",
    "a_relire": false
   },
   {
@@ -649,9 +269,9 @@
    "ref": "2026-11-14 13:00",
    "source": "plan",
    "champ": "visuel point 3",
-   "texte": "Obtenez une réponse à chaque avis, et validez celles aux avis négatifs",
+   "texte": "Comptez sur une réponse à chaque avis, à valider si l'avis est négatif",
    "cle": "2026-11-14 13:00|plan|visuel point 3",
-   "h": "eabc6a0b5e25",
+   "h": "5ccc0fb7fcae",
    "id": "ec824b9",
    "a_relire": true
   },
@@ -723,7 +343,7 @@
    "cle": "2026-11-14 13:00|plan|visuel slide 5 titre",
    "h": "44022972f1c8",
    "id": "e7397d5",
-   "a_relire": true
+   "a_relire": false
   },
   {
    "ref": "2026-11-14 13:00",
@@ -733,196 +353,6 @@
    "cle": "2026-11-14 13:00|plan|visuel slide 5 texte",
    "h": "c1645a5f7dd9",
    "id": "e9f4203",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 13:00",
-   "source": "plan",
-   "champ": "accroche",
-   "texte": "Avant, l'avis à une étoile restait sans réponse sur la fiche Google du serrurier. Après, une réponse calme change tout.",
-   "cle": "2026-11-15 13:00|plan|accroche",
-   "h": "ee11e0af6433",
-   "id": "ea04b76",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 13:00",
-   "source": "plan",
-   "champ": "premier_commentaire",
-   "texte": "Serruriers, comment répondez-vous à un client mécontent sur votre fiche Google ? Vous répondez, ou vous laissez passer ?",
-   "cle": "2026-11-15 13:00|plan|premier_commentaire",
-   "h": "1aa186cbd2eb",
-   "id": "ea72cc9",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 13:00",
-   "source": "plan",
-   "champ": "texte instagram",
-   "texte": "Avant, l'avis à une étoile restait sans réponse sur la fiche Google du serrurier. Après, une réponse calme change tout.\n\nPrenons une serrurerie imaginaire, la serrurerie Petit. Sa fiche Google, c'est l'encadré qu'un client ouvre sur Google Maps avant d'appeler en urgence.\n\nAvant, un avis à une étoile parlait d'un retard, sans aucune réponse.\nAprès, on lit en dessous « Bonjour Marc, désolés pour l'attente ce soir-là. Appelez-nous, nous voulons en parler. »\n\nL'avis est toujours là. Mais le client qui lit voit maintenant une entreprise qui écoute.\n\nLequel des deux appelleriez-vous ?\n\n#FicheGoogle #Serrurier #Serrurerie #ReferencementLocal #GoogleBusinessProfile",
-   "cle": "2026-11-15 13:00|plan|texte instagram",
-   "h": "065d573f5a52",
-   "id": "e52d62e",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 13:00",
-   "source": "plan",
-   "champ": "texte facebook",
-   "texte": "Avant, l'avis à une étoile restait sans réponse sur la fiche Google du serrurier. Après, une réponse calme change tout.\n\nAvant d'appeler un serrurier, le client ouvre sa fiche Google sur Google Maps et lit les avis, les horaires et vos réponses.\n\nVoici une serrurerie imaginaire, la serrurerie Petit.\nAvant, un avis à une étoile sur un retard, et rien en dessous.\nAprès, une réponse calme. « Bonjour Marc, désolés pour l'attente ce soir-là. Appelez-nous, nous voulons en parler. »\n\nLe reproche n'a pas disparu. Il est simplement accompagné d'une entreprise qui répond.\n\nLequel des deux appelleriez-vous en urgence ?\n\n#FicheGoogle #Serrurier #Serrurerie #ReferencementLocal",
-   "cle": "2026-11-15 13:00|plan|texte facebook",
-   "h": "0758df89dda8",
-   "id": "e8a9856",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 13:00",
-   "source": "plan",
-   "champ": "visuel surtitre",
-   "texte": "Le même avis sur Google, avant et après",
-   "cle": "2026-11-15 13:00|plan|visuel surtitre",
-   "h": "c5514d996309",
-   "id": "e98746a",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 13:00",
-   "source": "plan",
-   "champ": "visuel titre",
-   "texte": "Quelle version de la fiche Google vous ferait appeler ?",
-   "cle": "2026-11-15 13:00|plan|visuel titre",
-   "h": "938940e47eee",
-   "id": "e979ec8",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-15 13:00",
-   "source": "plan",
-   "champ": "visuel question",
-   "texte": "Lequel des deux appelleriez-vous en urgence ?",
-   "cle": "2026-11-15 13:00|plan|visuel question",
-   "h": "ebd098e56364",
-   "id": "e295a53",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 13:00",
-   "source": "plan",
-   "champ": "visuel carte enseigne",
-   "texte": "Serrurerie Petit",
-   "cle": "2026-11-15 13:00|plan|visuel carte enseigne",
-   "h": "b84a7ff5adb2",
-   "id": "e48ac4e",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 13:00",
-   "source": "plan",
-   "champ": "visuel carte metier",
-   "texte": "Serrurier",
-   "cle": "2026-11-15 13:00|plan|visuel carte metier",
-   "h": "cf9e11d5dffc",
-   "id": "ef3d3e8",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 13:00",
-   "source": "plan",
-   "champ": "visuel carte avant",
-   "texte": "Un avis négatif, aucune réponse",
-   "cle": "2026-11-15 13:00|plan|visuel carte avant",
-   "h": "3782eee97ffe",
-   "id": "ef863c1",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 13:00",
-   "source": "plan",
-   "champ": "visuel carte apres",
-   "texte": "Une réponse calme et polie",
-   "cle": "2026-11-15 13:00|plan|visuel carte apres",
-   "h": "1698e0bbfdb1",
-   "id": "e093156",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 13:00",
-   "source": "plan",
-   "champ": "visuel slide 2 titre",
-   "texte": "Avant",
-   "cle": "2026-11-15 13:00|plan|visuel slide 2 titre",
-   "h": "a6594f80458a",
-   "id": "e6ba0b9",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 13:00",
-   "source": "plan",
-   "champ": "visuel slide 2 texte",
-   "texte": "Un avis à une étoile parle d'un retard. Personne n'a répondu. Le client qui lit se fait sa propre idée.",
-   "cle": "2026-11-15 13:00|plan|visuel slide 2 texte",
-   "h": "90592923e852",
-   "id": "ee79abf",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 13:00",
-   "source": "plan",
-   "champ": "visuel slide 3 titre",
-   "texte": "Après",
-   "cle": "2026-11-15 13:00|plan|visuel slide 3 titre",
-   "h": "6f0f4bbdb64a",
-   "id": "e1832f5",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 13:00",
-   "source": "plan",
-   "champ": "visuel slide 3 texte",
-   "texte": "« Bonjour Marc, désolés pour l'attente ce soir-là. Appelez-nous, nous voulons en parler. » La même fiche Google rassure.",
-   "cle": "2026-11-15 13:00|plan|visuel slide 3 texte",
-   "h": "d7d085279479",
-   "id": "e625c56",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 13:00",
-   "source": "plan",
-   "champ": "visuel slide 4 titre",
-   "texte": "Ce que lit le client",
-   "cle": "2026-11-15 13:00|plan|visuel slide 4 titre",
-   "h": "ace4863d37e5",
-   "id": "eff4c14",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 13:00",
-   "source": "plan",
-   "champ": "visuel slide 4 texte",
-   "texte": "Il ne voit plus seulement un reproche. Il voit une entreprise qui écoute et qui répond poliment.",
-   "cle": "2026-11-15 13:00|plan|visuel slide 4 texte",
-   "h": "ab9eb7b0b986",
-   "id": "ec7fe5d",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 13:00",
-   "source": "plan",
-   "champ": "visuel slide 5 titre",
-   "texte": "Et vous, que répondez-vous ?",
-   "cle": "2026-11-15 13:00|plan|visuel slide 5 titre",
-   "h": "2f41fe242131",
-   "id": "ea69dfd",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-15 13:00",
-   "source": "plan",
-   "champ": "visuel slide 5 texte",
-   "texte": "Comment répondez-vous à un avis négatif sur votre fiche Google ?",
-   "cle": "2026-11-15 13:00|plan|visuel slide 5 texte",
-   "h": "734c463f4176",
-   "id": "e3d9d9c",
    "a_relire": false
   },
   {
@@ -973,7 +403,7 @@
    "cle": "2026-11-15 19:00|plan|texte tiktok",
    "h": "07d593b13ca9",
    "id": "e16b7d5",
-   "a_relire": true
+   "a_relire": false
   },
   {
    "ref": "2026-11-15 19:00",
@@ -993,7 +423,7 @@
    "cle": "2026-11-15 19:00|plan|texte youtube",
    "h": "744aedc943a5",
    "id": "e98c7a9",
-   "a_relire": true
+   "a_relire": false
   },
   {
    "ref": "2026-11-15 19:00",
@@ -1019,9 +449,9 @@
    "ref": "2026-11-15 19:00",
    "source": "brief:chauffagiste-semaine-toulouse",
    "champ": "accroche B",
-   "texte": "Chauffagiste à Toulouse, encore votre *fiche Google* ce soir ?",
+   "texte": "Chauffagiste à Toulouse, la *fiche Google* vous attend ?",
    "cle": "2026-11-15 19:00|brief:chauffagiste-semaine-toulouse|accroche B",
-   "h": "45c555bfd36b",
+   "h": "bf7c63f120e2",
    "id": "e3ad8bc",
    "a_relire": true
   },
@@ -1063,86 +493,6 @@
    "cle": "2026-11-15 19:00|brief:chauffagiste-semaine-toulouse|voix 4 (Offre, dite)",
    "h": "cfe94b187a02",
    "id": "e3d1e8e",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 19:00",
-   "source": "brief:plombier-classement-bordeaux",
-   "champ": "accroche A",
-   "texte": "On vous voit sur *Google ?*",
-   "cle": "2026-11-12 19:00|brief:plombier-classement-bordeaux|accroche A",
-   "h": "fd865d91edff",
-   "id": "e25dd24",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 19:00",
-   "source": "brief:plombier-classement-bordeaux",
-   "champ": "accroche B",
-   "texte": "Votre nom est sur *Google ?*",
-   "cle": "2026-11-12 19:00|brief:plombier-classement-bordeaux|accroche B",
-   "h": "e6eb08bcfc1e",
-   "id": "eea4784",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 19:00",
-   "source": "brief:plombier-classement-bordeaux",
-   "champ": "accroche dite A",
-   "texte": "Plombier à Bordeaux, on vous voit sur Google ?",
-   "cle": "2026-11-12 19:00|brief:plombier-classement-bordeaux|accroche dite A",
-   "h": "e6cddcb2baa6",
-   "id": "e6175d4",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 19:00",
-   "source": "brief:plombier-classement-bordeaux",
-   "champ": "accroche dite B",
-   "texte": "Un client tape plombier Bordeaux. Votre nom est sur Google ?",
-   "cle": "2026-11-12 19:00|brief:plombier-classement-bordeaux|accroche dite B",
-   "h": "ba6b46c0c860",
-   "id": "e4c5e52",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 19:00",
-   "source": "brief:plombier-classement-bordeaux",
-   "champ": "voix 1 (Probleme, dite)",
-   "texte": "Le client appelle souvent l'un des premiers qu'il voit.",
-   "cle": "2026-11-12 19:00|brief:plombier-classement-bordeaux|voix 1 (Probleme, dite)",
-   "h": "42cdd04bacda",
-   "id": "ef7a976",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-12 19:00",
-   "source": "brief:plombier-classement-bordeaux",
-   "champ": "voix 2 (Bascule, dite)",
-   "texte": "Chaque semaine, Pro en ligne publie pour vous.",
-   "cle": "2026-11-12 19:00|brief:plombier-classement-bordeaux|voix 2 (Bascule, dite)",
-   "h": "dc72daa3cab4",
-   "id": "e111d0e",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 19:00",
-   "source": "brief:plombier-classement-bordeaux",
-   "champ": "voix 3 (Bascule, dite)",
-   "texte": "Et votre fiche Google se met à vivre.",
-   "cle": "2026-11-12 19:00|brief:plombier-classement-bordeaux|voix 3 (Bascule, dite)",
-   "h": "b1930182fcd7",
-   "id": "e44e481",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-12 19:00",
-   "source": "brief:plombier-classement-bordeaux",
-   "champ": "voix 4 (Offre, dite)",
-   "texte": "Trente jours offerts, et le lien est en bio.",
-   "cle": "2026-11-12 19:00|brief:plombier-classement-bordeaux|voix 4 (Offre, dite)",
-   "h": "a4e08736c49f",
-   "id": "e65dd5a",
    "a_relire": false
   }
  ]

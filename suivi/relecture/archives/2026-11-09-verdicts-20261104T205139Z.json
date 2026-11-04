@@ -1,0 +1,55 @@
+{
+ "empreinte": "83c96711deef730f",
+ "verdicts": [
+  {
+   "id": "eb817e6",
+   "verdict": "ok"
+  },
+  {
+   "id": "e0228f5",
+   "verdict": "ok"
+  },
+  {
+   "id": "e547cdd",
+   "verdict": "refuse",
+   "motif": "Critère 1, compréhensible seul. « Obtenez une réponse à chaque avis » fait croire que c'est l'artisan qui reçoit une réponse, alors que c'est lui (ou Proenligne) qui répond aux avis de ses clients.",
+   "proposition": "Comptez sur une réponse à chaque avis, à valider si l'avis est négatif"
+  },
+  {
+   "id": "eb05203",
+   "verdict": "ok"
+  },
+  {
+   "id": "ec824b9",
+   "verdict": "refuse",
+   "motif": "Critère 1, compréhensible seul. « Obtenez une réponse à chaque avis » fait croire que c'est l'artisan qui reçoit une réponse, alors que c'est lui (ou Proenligne) qui répond aux avis de ses clients.",
+   "proposition": "Comptez sur une réponse à chaque avis, à valider si l'avis est négatif"
+  },
+  {
+   "id": "e7397d5",
+   "verdict": "ok"
+  },
+  {
+   "id": "e979ec8",
+   "verdict": "ok"
+  },
+  {
+   "id": "e16b7d5",
+   "verdict": "ok"
+  },
+  {
+   "id": "e98c7a9",
+   "verdict": "ok"
+  },
+  {
+   "id": "e3ad8bc",
+   "verdict": "refuse",
+   "motif": "Critère 1, compréhensible seul. « encore votre fiche Google ce soir ? » est une ellipse sans verbe, et celui qui l'entend ou la lit ne comprend pas ce qu'on lui demande de faire.",
+   "proposition": "Chauffagiste à Toulouse, la *fiche Google* vous attend ?"
+  },
+  {
+   "id": "ef7a976",
+   "verdict": "ok"
+  }
+ ]
+}

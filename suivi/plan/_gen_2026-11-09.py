@@ -418,6 +418,10 @@ T('2026-11-15', '13:00', 'visuel.titre', 'Quelle version de la fiche Google vous
 T('2026-11-15', '19:00', 'textes.tiktok', "Chauffagiste à Toulouse, vos soirées partent sur votre fiche Google ?\nVotre fiche Google, c'est l'encadré qu'un client ouvre sur Google Maps quand sa chaudière s'arrête. Pendant que les dépannages s'enchaînent, vos photos et vos réponses aux avis attendent le soir, après le dernier client.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Chauffagiste #Toulouse")  # e16b7d5
 T('2026-11-15', '19:00', 'textes.youtube', "Chauffagiste à Toulouse, vos soirées partent-elles sur votre fiche Google ?\n\nLa fiche Google, c'est ce qu'un client voit sur Google Maps quand il cherche un chauffagiste, avec les photos, les avis et le numéro. En plein hiver, on s'en occupe souvent le soir, après le dernier dépannage.\n\nProenligne publie une photo le lundi, un article le jeudi, et répond à chaque avis à votre place.\n\nQuand trouvez-vous le temps de vous en occuper ?\n\n#FicheGoogle #Chauffagiste #Toulouse")  # e98c7a9
 
+# ───────── Corrections après la relecture, passe 3 ─────────
+T('2026-11-11', '13:00', 'visuel.points.2', "Comptez sur une réponse à chaque avis, à valider si l'avis est négatif")  # e547cdd
+T('2026-11-14', '13:00', 'visuel.points.2', "Comptez sur une réponse à chaque avis, à valider si l'avis est négatif")  # ec824b9
+
 C.sort(key=lambda c: (c['date'], c['creneau_nominal']))
 p = os.path.join(ICI, f'{LUNDI}.json')
 ancien = {}

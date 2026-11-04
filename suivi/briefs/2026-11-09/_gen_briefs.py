@@ -50,7 +50,7 @@ B = [
       offre_ligne="Vos jardins, *sur Google.*"),
  dict(slug='chauffagiste-semaine-toulouse', moteur='plan-sequence', angle='Du temps libre', metier='chauffagiste', ville='Toulouse', ambiance=2,
       entreprise='', lieu='',
-      accroches=["Chauffagiste à Toulouse, la *fiche Google* prend vos soirées ?", "Chauffagiste à Toulouse, encore votre *fiche Google* ce soir ?"],
+      accroches=["Chauffagiste à Toulouse, la *fiche Google* prend vos soirées ?", "Chauffagiste à Toulouse, la *fiche Google* vous attend ?"],
       voix=[{'scene': 'Probleme', 'texte': "Après les dépannages, il reste les avis le soir."},
             {'scene': 'Bascule', 'texte': "Pro en ligne prend tout ça en charge."},
             {'scene': 'Bascule', 'texte': "Vos soirées redeviennent libres.", 'ancre': 3.0},
