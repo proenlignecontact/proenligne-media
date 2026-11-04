@@ -31,7 +31,7 @@ jobs:
           ok, ko = [], []
           for f in d.get('fichiers', []):
               url, dest = f['url'], os.path.normpath(f['dest'])
-              if not re.match(r'^https://', url) or not dest.startswith('medias/audio/') or '..' in dest:
+              if not re.match(r'^https://', url) or not (dest.startswith("medias/audio/") or dest.startswith("outils/assets/sfx/")) or '..' in dest:
                   ko.append(f'{dest} : refusé (url https et destination sous medias/audio/ seulement)'); continue
               os.makedirs(os.path.dirname(dest), exist_ok=True)
               r = subprocess.run(['curl', '-sSfL', '--max-time', '120', '-o', dest, url], capture_output=True, text=True)
@@ -49,7 +49,7 @@ jobs:
         run: |
           git config user.name "telecharger-audio"
           git config user.email "actions@users.noreply.github.com"
-          git add medias/audio suivi/audio-telecharge.json 2>/dev/null || git add suivi/audio-telecharge.json
+          git add -A medias/audio outils/assets/sfx suivi/audio-telecharge.json 2>/dev/null || git add suivi/audio-telecharge.json
           if git diff --cached --quiet; then
             echo "Rien de nouveau."
           else
