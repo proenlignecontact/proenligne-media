@@ -1,0 +1,58 @@
+# Télécharge dans le dépôt les fichiers audio générés par ElevenLabs (voix off, bruitages, musique).
+# Les sessions Claude ne peuvent pas joindre ElevenLabs depuis leur terminal : elles écrivent la liste des URL
+# (signées, valables quelques heures) dans suivi/audio-a-telecharger.json, poussent, puis récupèrent les fichiers.
+# Format : {"demande": "<horodatage>", "fichiers": [{"url": "https://…", "dest": "medias/audio/<slug>/vo-1.mp3"}, …]}
+name: Téléchargement audio
+
+on:
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: ["suivi/audio-a-telecharger.json"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: telecharger-audio
+  cancel-in-progress: false
+
+jobs:
+  telecharger:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Télécharger les fichiers
+        run: |
+          python3 - <<'EOF'
+          import json, os, re, subprocess, sys
+          d = json.load(open('suivi/audio-a-telecharger.json', encoding='utf-8'))
+          ok, ko = [], []
+          for f in d.get('fichiers', []):
+              url, dest = f['url'], os.path.normpath(f['dest'])
+              if not re.match(r'^https://', url) or not dest.startswith('medias/audio/') or '..' in dest:
+                  ko.append(f'{dest} : refusé (url https et destination sous medias/audio/ seulement)'); continue
+              os.makedirs(os.path.dirname(dest), exist_ok=True)
+              r = subprocess.run(['curl', '-sSfL', '--max-time', '120', '-o', dest, url], capture_output=True, text=True)
+              if r.returncode or os.path.getsize(dest) < 1000:
+                  ko.append(f'{dest} : échec ({r.stderr.strip()[:200]})')
+                  if os.path.exists(dest): os.remove(dest)
+              else:
+                  ok.append(dest)
+          rapport = {'demande': d.get('demande'), 'telecharges': ok, 'echecs': ko}
+          json.dump(rapport, open('suivi/audio-telecharge.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+          print(json.dumps(rapport, ensure_ascii=False, indent=1))
+          EOF
+
+      - name: Enregistrer dans le dépôt
+        run: |
+          git config user.name "telecharger-audio"
+          git config user.email "actions@users.noreply.github.com"
+          git add medias/audio suivi/audio-telecharge.json 2>/dev/null || git add suivi/audio-telecharge.json
+          if git diff --cached --quiet; then
+            echo "Rien de nouveau."
+          else
+            git commit -m "Audio ElevenLabs téléchargé"
+            for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 5; done
+          fi
