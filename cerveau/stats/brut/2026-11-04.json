@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-04T11:44:23.340Z",
+    "generatedAt": "2026-11-04T13:04:31.504Z",
     "days": 60,
     "channels": [
         {
@@ -37,8 +37,8 @@
                     },
                     {
                         "metric": "Views",
-                        "latest": 2022,
-                        "sum": 2022,
+                        "latest": 2039,
+                        "sum": 2039,
                         "percentageChange": 0
                     },
                     {
@@ -85,8 +85,8 @@
                     },
                     {
                         "metric": "Posts Engagement",
-                        "latest": 0,
-                        "sum": 10,
+                        "latest": 1,
+                        "sum": 11,
                         "percentageChange": 5
                     },
                     {
@@ -339,6 +339,50 @@
                     },
                     {
                         "metric": "Engagement",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybgwnx007lkb7zf2xrl16u",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-04T12:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/122101312257531668/posts/122103802371531668",
+            "content": "Deux instituts ont la m\u00eame note sur leur fiche Google. Qu'est-ce qui fait choisir l'un plut\u00f4t que l'autre ?\n\nLa fiche Google, c'est ce qui appara\u00eet quand une cliente cherche \u00ab institut de beaut\u00e9 \u00bb pr\u00e8s de chez elle, avec les photos, les avis et les horaires.\n\nOn vous propose un petit sondage.\nA. Des photos r\u00e9centes des soins\nB. Des r\u00e9ponses aux avis\nC. Des horaires faciles \u00e0 lire\n\nChaque piste est expliqu\u00e9e dans les images. Vous, vous votez pour quelle lettre ?\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks by Type",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Impressions",
                         "latest": 0,
                         "sum": 0,
                         "percentageChange": 0
@@ -683,6 +727,32 @@
             }
         },
         {
+            "id": "cmvybgwpf007nkb7zinxcfl0f",
+            "platform": "linkedin-page",
+            "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "publishDate": "2026-11-04T12:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7523727177037717504",
+            "content": "Quand deux instituts affichent la m\u00eame note sur leur fiche Google, qu'est-ce qui fait pencher la cliente ?\nLa fiche Google, c'est la pr\u00e9sentation que Google affiche quand on cherche \u00ab institut de beaut\u00e9 \u00bb \u00e0 proximit\u00e9.\n\nLa note attire l'\u0153il, mais quand deux adresses voisines ont la m\u00eame, la cliente fait d\u00e9filer le reste.\n\nTrois \u00e9l\u00e9ments peuvent faire la diff\u00e9rence.\nA. Des photos r\u00e9centes des soins et de la cabine, qui montrent une activit\u00e9 r\u00e9elle.\nB. Des r\u00e9ponses aux avis, qui montrent qu'une personne lit et prend soin de sa client\u00e8le.\nC. Des horaires lisibles, avec la pause du midi et le samedi bien indiqu\u00e9s.\n\nAucun de ces \u00e9l\u00e9ments ne demande de budget. Ils demandent de la r\u00e9gularit\u00e9, et c'est souvent l\u00e0 que le temps manque. Pour les instituts qui le souhaitent, Proenligne publie une photo chaque lundi, un article chaque jeudi et r\u00e9pond \u00e0 chaque avis.\n\nSelon vous, lequel p\u00e8se le plus dans le choix d'une nouvelle cliente, A, B ou C ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Esthetique #TPE",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
             "id": "cmvscsk3y0001o77z79evxv7h",
             "platform": "instagram",
             "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
@@ -803,6 +873,56 @@
                         "metric": "Reach",
                         "latest": 2,
                         "sum": 2,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybgwm5007jkb7z6xc2qt7f",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-04T12:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/p/DfUfMOHCvjs/",
+            "content": "Deux instituts ont la m\u00eame note sur leur fiche Google. Qu'est-ce qui fait choisir l'un plut\u00f4t que l'autre ?\n\nSur Google Maps, chaque institut a sa fiche Google, avec la note, les photos, les avis et les horaires. Quand les notes se valent, la cliente regarde le reste.\n\nVoici trois pistes, d\u00e9taill\u00e9es dans le carrousel.\nA. Des photos r\u00e9centes des soins\nB. Des r\u00e9ponses aux avis\nC. Des horaires faciles \u00e0 lire\n\nIl n'y a pas de bonne r\u00e9ponse, on veut votre avis de professionnelle. Pour vous, c'est A, B ou C ?\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #ReferencementLocal #GoogleBusinessProfile",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 0,
+                        "sum": 0,
                         "percentageChange": 0
                     },
                     {
