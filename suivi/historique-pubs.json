@@ -774,5 +774,453 @@
   ],
   "ambiance": 2,
   "duree": 16.0
+ },
+ {
+  "date": "2026-11-09",
+  "slug": "supp-couvreur-semaine-angers",
+  "moteur": "plan-sequence",
+  "angle": "Du temps libre",
+  "metier": "couvreur",
+  "ville": "Angers",
+  "valeur": "",
+  "accroches": [
+   "Couvreur à Angers, vos soirées passent sur la *fiche Google ?*",
+   "Couvreur à Angers, le soir, encore votre *fiche Google ?*"
+  ],
+  "voix": [
+   "Après le toit, il reste les avis, le soir.",
+   "Pro en ligne s'occupe de votre fiche Google en journée.",
+   "Vos soirées redeviennent les vôtres.",
+   "Profitez de trente jours offerts, lien en bio."
+  ],
+  "ambiance": 2,
+  "duree": 15.5,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmw2m78ae00e1kb7z1sgugytj",
+   "facebook": "cmw2m78c500e3kb7zkly0vm5x",
+   "instagram": "cmw2m78dw00e5kb7zn0j7lqu7",
+   "x": "cmw2m78fk00e7kb7zpmfz2xhg",
+   "youtube": "cmw2m78h400e9kb7zwjrt02l0",
+   "linkedin": "cmw2m78id00ebkb7z9tyoj6vo"
+  },
+  "serie": "supp"
+ },
+ {
+  "date": "2026-11-09",
+  "slug": "supp-fleuriste-swipe-tours",
+  "moteur": "swipe",
+  "angle": "Plus de clients",
+  "metier": "fleuriste",
+  "ville": "Tours",
+  "valeur": "",
+  "accroches": [
+   "Fleuriste à Tours, votre fiche Google donne-t-elle envie d'entrer ?",
+   "Fleuriste à Tours, on choisit souvent sa boutique sur sa fiche Google."
+  ],
+  "voix": [
+   "Sans bouquet récent, on passe à la suivante.",
+   "Pro en ligne montre vos bouquets chaque semaine.",
+   "Et cette fois, on pousse votre porte.",
+   "Trente jours offerts, lien en bio."
+  ],
+  "ambiance": 0,
+  "duree": 16.5,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmw2m7w9700edkb7z5fdkcvyw",
+   "facebook": "cmw2m7wam00efkb7z1okkgy1t",
+   "instagram": "cmw2m7wc700ehkb7z80tr2z19",
+   "x": "cmw2m7wfm00ejkb7z5yeuvbie",
+   "youtube": "cmw2m7wht00elkb7z0h28pe0i",
+   "linkedin": "cmw2m7wj500enkb7zjqrjb6i9"
+  },
+  "serie": "supp"
+ },
+ {
+  "date": "2026-11-10",
+  "slug": "supp-menuisier-cinetique-caen",
+  "moteur": "cinetique",
+  "angle": "Face au concurrent",
+  "metier": "menuisier",
+  "ville": "Caen",
+  "valeur": "L'atelier voisin",
+  "accroches": [
+   "Menuisier à Caen, sa *fiche Google* montre ses meubles.",
+   "Menuisier à Caen, quelle *fiche Google* fait appeler ?"
+  ],
+  "voix": [
+   "Escaliers, placards, cuisines, tout est en photo chez lui.",
+   "Pro en ligne publie vos réalisations, chaque semaine.",
+   "Et c'est votre atelier qu'on appelle.",
+   "Trente jours offerts pour essayer, lien en bio."
+  ],
+  "ambiance": 1,
+  "duree": 17.0,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmw2m8jrq00epkb7zhzritjlz",
+   "facebook": "cmw2m8jt900erkb7zrp7ziao5",
+   "instagram": "cmw2m8juy00etkb7z6d9bce69",
+   "x": "cmw2m8jwp00evkb7zxwbltz1v",
+   "youtube": "cmw2m8jyf00exkb7z8rby2iim",
+   "linkedin": "cmw2m8jzy00ezkb7zmxlef3xu"
+  },
+  "serie": "supp"
+ },
+ {
+  "date": "2026-11-10",
+  "slug": "supp-toiletteur-classement-bordeaux",
+  "moteur": "plan-sequence",
+  "angle": "Plus de clients",
+  "metier": "toiletteur",
+  "ville": "Bordeaux",
+  "valeur": "",
+  "accroches": [
+   "Et votre *fiche Google ?*",
+   "Votre *fiche Google*, où ?"
+  ],
+  "voix": [
+   "On réserve souvent chez les premiers qu'on voit.",
+   "Pro en ligne montre vos toilettages chaque semaine.",
+   "Et les maîtres découvrent enfin votre salon.",
+   "Trente jours offerts, le lien vous attend en bio."
+  ],
+  "ambiance": 2,
+  "duree": 17.0,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmw2m97o800fjkb7zbgvqj532",
+   "facebook": "cmw2m97pl00flkb7zqbvyy7ue",
+   "instagram": "cmw2m97r700fnkb7z9smxrq4v",
+   "x": "cmw2m97t200fpkb7zyxk9k2rk",
+   "youtube": "cmw2m97uh00frkb7zhk3or0k0",
+   "linkedin": "cmw2m97w800ftkb7z11rigv6h"
+  },
+  "serie": "supp"
+ },
+ {
+  "date": "2026-11-11",
+  "slug": "supp-peintre-swipe-lyon",
+  "moteur": "swipe",
+  "angle": "Du temps libre",
+  "metier": "peintre",
+  "ville": "Lyon",
+  "valeur": "",
+  "accroches": [
+   "Peintre à Lyon, vos pinceaux sont rangés, pas votre fiche Google.",
+   "Peintre à Lyon, la journée est finie, et votre fiche Google vous réclame."
+  ],
+  "voix": [
+   "Les photos, les avis, tout se fait le soir.",
+   "Pro en ligne s'en charge pour vous.",
+   "Le soir, vous posez enfin le rouleau.",
+   "Trente jours offerts, le lien est en bio."
+  ],
+  "ambiance": 0,
+  "duree": 17.0,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmw2m9w6p00gdkb7zq2p2wyhy",
+   "facebook": "cmw2m9w7s00gfkb7z806hr6ui",
+   "instagram": "cmw2m9w9e00ghkb7z0di0h0iw",
+   "x": "cmw2m9wba00gjkb7zs04jn9wf",
+   "youtube": "cmw2m9wdb00glkb7z03icqiln",
+   "linkedin": "cmw2m9wex00gnkb7zkwpvyzov"
+  },
+  "serie": "supp"
+ },
+ {
+  "date": "2026-11-11",
+  "slug": "supp-fromager-cinetique-lille",
+  "moteur": "cinetique",
+  "angle": "Face au concurrent",
+  "metier": "fromager",
+  "ville": "Lille",
+  "valeur": "Le fromager voisin",
+  "accroches": [
+   "Fromager à Lille, sa *fiche Google* montre ses plateaux.",
+   "Fromager à Lille, quelle *fiche Google* donne envie d'entrer ?"
+  ],
+  "voix": [
+   "Chez lui, on voit la vitrine avant de venir.",
+   "Pro en ligne montre vos fromages, chaque semaine.",
+   "Et c'est votre porte qu'on pousse.",
+   "Trente jours offerts, cliquez sur le lien en bio."
+  ],
+  "ambiance": 1,
+  "duree": 16.0,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmw2maijg00gpkb7zm76ox0ot",
+   "facebook": "cmw2maikk00grkb7z5puirroj",
+   "instagram": "cmw2maimd00gtkb7zojxl25mg",
+   "x": "cmw2maioa00gvkb7z19nn93cq",
+   "youtube": "cmw2maipp00gxkb7zs31izwe9",
+   "linkedin": "cmw2mair100gzkb7znb30xkxp"
+  },
+  "serie": "supp"
+ },
+ {
+  "date": "2026-11-12",
+  "slug": "supp-carrossier-semaine-toulouse",
+  "moteur": "plan-sequence",
+  "angle": "Du temps libre",
+  "metier": "carrossier",
+  "ville": "Toulouse",
+  "valeur": "",
+  "accroches": [
+   "Carrossier à Toulouse, la *fiche Google* prend vos soirées ?",
+   "Carrossier à Toulouse, le soir, votre *fiche Google* attend ?"
+  ],
+  "voix": [
+   "Après l'atelier, restent les avis à lire.",
+   "Pro en ligne s'en occupe en journée.",
+   "Et le soir, l'atelier ferme pour de bon.",
+   "Trente jours offerts avec le lien en bio."
+  ],
+  "ambiance": 2,
+  "duree": 16.0,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmw2mb6nv00hjkb7zbjej86fz",
+   "facebook": "cmw2mb6po00hlkb7zptv299se",
+   "instagram": "cmw2mb6rk00hnkb7zggrkqfzh",
+   "x": "cmw2mb6t700hpkb7zu1xdkm2c",
+   "youtube": "cmw2mb6vm00hrkb7z3wbvzoia",
+   "linkedin": "cmw2mb6xd00htkb7zhgoh2d4y"
+  },
+  "serie": "supp"
+ },
+ {
+  "date": "2026-11-12",
+  "slug": "supp-vitrier-swipe-montpellier",
+  "moteur": "swipe",
+  "angle": "Plus de clients",
+  "metier": "vitrier",
+  "ville": "Montpellier",
+  "valeur": "",
+  "accroches": [
+   "Vitrier à Montpellier, une vitre cassée, et on fait défiler les fiches Google.",
+   "Vitrier à Montpellier, on garde votre fiche Google ou on la fait glisser ?"
+  ],
+  "voix": [
+   "Une fiche Google sans photo, on la passe.",
+   "Pro en ligne publie vos vitrages chaque semaine.",
+   "Cette fois, on s'arrête sur vous.",
+   "Trente jours offerts, lien en bio."
+  ],
+  "ambiance": 0,
+  "duree": 16.5,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmw2mbumj00hvkb7z2fadymwt",
+   "facebook": "cmw2mbung00hxkb7zxcbm7jcc",
+   "instagram": "cmw2mbuod00hzkb7zsids1xh2",
+   "x": "cmw2mbupb00i1kb7zbjvxei3u",
+   "youtube": "cmw2mbuqs00i3kb7zyya286bz",
+   "linkedin": "cmw2mbus900i5kb7zdmch5p3i"
+  },
+  "serie": "supp"
+ },
+ {
+  "date": "2026-11-13",
+  "slug": "supp-carreleur-appels-rennes",
+  "moteur": "cinetique",
+  "angle": "Plus d'appels",
+  "metier": "carreleur",
+  "ville": "Rennes",
+  "valeur": "0",
+  "accroches": [
+   "Carreleur à Rennes, votre *fiche Google* amène des appels ?",
+   "Carreleur à Rennes, avant d'appeler, on lit la *fiche Google*."
+  ],
+  "voix": [
+   "Pas une photo de vos sols depuis longtemps.",
+   "Pro en ligne montre vos carrelages, chaque semaine.",
+   "Et le téléphone se remet à sonner.",
+   "Pour essayer, trente jours offerts, lien en bio."
+  ],
+  "ambiance": 1,
+  "duree": 16.0,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmw2mcj0300irkb7z0vd73b8u",
+   "facebook": "cmw2mcj1b00itkb7zb560g1hi",
+   "instagram": "cmw2mcj2l00ivkb7ztwgi8nco",
+   "x": "cmw2mcj4s00ixkb7zzd7bdrmh",
+   "youtube": "cmw2mcj6800izkb7zhqxcglaq",
+   "linkedin": "cmw2mcj7j00j1kb7z7uy089zw"
+  },
+  "serie": "supp"
+ },
+ {
+  "date": "2026-11-13",
+  "slug": "supp-pressing-duel-nantes",
+  "moteur": "plan-sequence",
+  "angle": "Face au concurrent",
+  "metier": "pressing",
+  "ville": "Nantes",
+  "valeur": "",
+  "accroches": [
+   "Pressing à Nantes, la *fiche Google* d'en face attire plus ?",
+   "Pressing à Nantes, votre *fiche Google* tient face au voisin ?"
+  ],
+  "voix": [
+   "Ses photos sont récentes, chaque avis a sa réponse.",
+   "Pro en ligne fait vivre la vôtre, chaque semaine.",
+   "Et c'est chez vous qu'on entre.",
+   "Trente jours offerts, lien en bio."
+  ],
+  "ambiance": 2,
+  "duree": 15.0,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmw2md7j000jlkb7zii5uf64n",
+   "facebook": "cmw2md7k400jnkb7zw8syzoig",
+   "instagram": "cmw2md7lj00jpkb7zrf9q2xgi",
+   "x": "cmw2md7n500jrkb7z5bchncrw",
+   "youtube": "cmw2md7q800jtkb7zaby4v8bu",
+   "linkedin": "cmw2md7t800jvkb7zaia0cyiy"
+  },
+  "serie": "supp"
+ },
+ {
+  "date": "2026-11-14",
+  "slug": "supp-ramoneur-swipe-lorient",
+  "moteur": "swipe",
+  "angle": "Du temps libre",
+  "metier": "ramoneur",
+  "ville": "Lorient",
+  "valeur": "",
+  "accroches": [
+   "Ramoneur à Lorient, en pleine saison, qui s'occupe de votre fiche Google ?",
+   "Ramoneur à Lorient, le soir, votre fiche Google attend toujours."
+  ],
+  "voix": [
+   "Les cheminées s'enchaînent, les avis s'accumulent.",
+   "Pro en ligne s'en charge, chaque semaine.",
+   "Et vos soirées restent au coin du feu.",
+   "Trente jours offerts, lien en bio."
+  ],
+  "ambiance": 0,
+  "duree": 16.5,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmw2mdvjl00jxkb7z9em895tc",
+   "facebook": "cmw2mdvkv00jzkb7zpmyoxfm8",
+   "instagram": "cmw2mdvmc00k1kb7zdxnvjjp2",
+   "x": "cmw2mdvo400k3kb7zgi8jdker",
+   "youtube": "cmw2mdvq600k5kb7z22zmak0i",
+   "linkedin": "cmw2mdvrj00k7kb7z27nzgq9m"
+  },
+  "serie": "supp"
+ },
+ {
+  "date": "2026-11-14",
+  "slug": "supp-plaquiste-appels-vannes",
+  "moteur": "cinetique",
+  "angle": "Plus d'appels",
+  "metier": "plaquiste",
+  "ville": "Vannes",
+  "valeur": "1",
+  "accroches": [
+   "Plaquiste à Vannes, votre *fiche Google* montre vos cloisons ?",
+   "Plaquiste à Vannes, votre *fiche Google* reste vide ?"
+  ],
+  "voix": [
+   "Aucun chantier récent sur votre fiche Google.",
+   "Pro en ligne publie vos chantiers chaque lundi.",
+   "Et on vous appelle pour le prochain chantier.",
+   "Trente jours offerts, le lien attend en bio."
+  ],
+  "ambiance": 1,
+  "duree": 16.0,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmw2mej2s00krkb7zb4qin6sj",
+   "facebook": "cmw2mej4400ktkb7zlo4pn41n",
+   "instagram": "cmw2mej5800kvkb7zxa5lrikh",
+   "x": "cmw2mej7100kxkb7zou3er69u",
+   "youtube": "cmw2mej8l00kzkb7ze0vepiwc",
+   "linkedin": "cmw2mej9v00l1kb7zk90luie1"
+  },
+  "serie": "supp"
+ },
+ {
+  "date": "2026-11-15",
+  "slug": "supp-charpentier-classement-brest",
+  "moteur": "plan-sequence",
+  "angle": "Plus de clients",
+  "metier": "charpentier",
+  "ville": "Brest",
+  "valeur": "",
+  "accroches": [
+   "Votre *fiche Google*, ici ?",
+   "Là, votre *fiche Google ?*"
+  ],
+  "voix": [
+   "Le client s'arrête souvent sur les premiers noms.",
+   "Pro en ligne montre vos charpentes, chaque semaine.",
+   "Et votre travail se voit enfin.",
+   "Trente jours offerts, c'est par le lien en bio."
+  ],
+  "ambiance": 2,
+  "duree": 16.0,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmw2mf6hu00ljkb7z2hmvrmwa",
+   "facebook": "cmw2mf6jl00llkb7zoz53c085",
+   "instagram": "cmw2mf6lf00lnkb7zxn53enws",
+   "x": "cmw2mf6nf00lpkb7z300rhd2c",
+   "youtube": "cmw2mf6ox00lrkb7zc6gd95tu",
+   "linkedin": "cmw2mf6q800ltkb7zranvwusc"
+  },
+  "serie": "supp"
+ },
+ {
+  "date": "2026-11-15",
+  "slug": "supp-demenageur-swipe-quimper",
+  "moteur": "swipe",
+  "angle": "Face au concurrent",
+  "metier": "déménageur",
+  "ville": "Quimper",
+  "valeur": "",
+  "accroches": [
+   "Déménageur à Quimper, pourquoi garde-t-on la fiche Google d'en face ?",
+   "Déménageur à Quimper, votre fiche Google tient-elle face au voisin ?"
+  ],
+  "voix": [
+   "Ses camions sont en photo.",
+   "Pro en ligne publie vos déménagements chaque semaine.",
+   "Et cette fois, c'est la sienne qu'on écarte.",
+   "Trente jours offerts, lien en bio."
+  ],
+  "ambiance": 0,
+  "duree": 17.5,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmw2mfuj800lvkb7z43vghk35",
+   "facebook": "cmw2mfukf00lxkb7z2q1ir6p1",
+   "instagram": "cmw2mfulu00lzkb7zfz78nbgy",
+   "x": "cmw2mfuna00m1kb7zawjd055p",
+   "youtube": "cmw2mfuon00m3kb7z980kdd76",
+   "linkedin": "cmw2mfuq000m5kb7ze823ogp2"
+  },
+  "serie": "supp"
  }
 ]
