@@ -1,9 +1,8 @@
 {
- "demande": "2026-11-04T18:56:21Z",
+ "demande": "2026-11-04T19:03:56Z",
  "telecharges": [
-  "medias/audio/_essais-voix/1-v4-nico.mp3",
-  "medias/audio/_essais-voix/2-v3-nico.mp3",
-  "medias/audio/_essais-voix/3-v4-marcel.mp3"
+  "medias/audio/_exemple-coiffeuse-duel-vannes/prise-A.mp3",
+  "medias/audio/_exemple-electricien-temps-nantes/prise-A.mp3"
  ],
  "echecs": []
 }
