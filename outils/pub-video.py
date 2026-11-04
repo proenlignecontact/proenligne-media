@@ -151,7 +151,7 @@ def trouver_skill(nom):
 def adapter_textes(js, nom):
     for a, b in REMPLACEMENTS:
         js = js.replace(a, b)
-    js = re.sub(r"(['>])(\d{1,2}):(\d{2})(['<])", r'\1\2h\3\4', js)
+    js = re.sub(r"(['>\"])(\d{1,2}):(\d{2})(?=['<\"\s·])", r'\1\2h\3', js)   # '21:00', >23:02 · … → 21h00, 23h02
     if nom in TEXTES_DECOR:
         js = re.sub(r"\b([Ff]iches?)\b(?!\*? Google)", r'\1 Google', js)
     return js
@@ -200,7 +200,7 @@ def installer():
         shutil.copy(os.path.join(WORK, 'node_modules', pkg, 'umd', f), os.path.join(WORK, f))
     for f in ('bricolage-grotesque-latin.woff2', 'figtree-latin.woff2'):
         shutil.copy(os.path.join(ICI, 'assets', f), os.path.join(WORK, f))
-    manque = sorted({s for t in SFX_ANGLES.values() for l in t.values() for _, s in l} | {s for l in SFX_COMMUNS.values() for _, s in l}
+    manque = sorted(({s for t in SFX_ANGLES.values() for l in t.values() for _, s in l} | {s for l in SFX_COMMUNS.values() for _, s in l})
                     - {os.path.basename(f)[:-4] for f in glob.glob(os.path.join(SFX_DIR, '*.mp3'))})
     print(f'prêt : {WORK} (' + ', '.join(f'{m} ← {trouver_skill(SKILLS[m]["nom"])}' for m in MOTEURS) + ')')
     if manque:
