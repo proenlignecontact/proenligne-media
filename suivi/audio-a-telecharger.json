@@ -1,37 +1,17 @@
 {
- "demande": "2026-11-04T18:47:35Z",
+ "demande": "2026-11-04T18:56:21Z",
  "fichiers": [
   {
-   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/lZqjCf95fmDqLRVZHGXg/79VODDMPvUSYqaYyytwa/content.mp3?Expires=1793826000&KeyName=assets-cdn-key-1&Signature=hGXnLoYwYmjk7u_2Ejy1sqQRhiU=",
-   "dest": "medias/audio/_test-plombier-swipe-lorient/vo-accroche-A.mp3"
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/yZxWKjSnh9bV7DXwKiFg/nDo5ihU0aqqZoyxa24JP/content.mp3?Expires=1793826000&KeyName=assets-cdn-key-1&Signature=RYKAtStRMFAWbJ8lnQCWtUux-4k=",
+   "dest": "medias/audio/_essais-voix/1-v4-nico.mp3"
   },
   {
-   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/XhqkcrEo01TM6aftAV1X/PV8xLNv6dN0LBQfyovqA/content.mp3?Expires=1793826000&KeyName=assets-cdn-key-1&Signature=tdI1ZFK05jUBICNqAu9RcSdAobA=",
-   "dest": "medias/audio/_test-plombier-swipe-lorient/vo-1.mp3"
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/jdFcCqkV47Zg1vZ6EJN2/c8n21FJ85v1nDt0X0EIs/content.mp3?Expires=1793826000&KeyName=assets-cdn-key-1&Signature=yNTdUdEZvnyV2MjlZ2xCZ7PW1FQ=",
+   "dest": "medias/audio/_essais-voix/2-v3-nico.mp3"
   },
   {
-   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/xd7DCZcwqGNdE9saTaCJ/P90jSz76AZTaDYpdkRhN/content.mp3?Expires=1793826000&KeyName=assets-cdn-key-1&Signature=Ehfi_15zBHGZGo6pjidr8f3ThM4=",
-   "dest": "medias/audio/_test-plombier-swipe-lorient/vo-2.mp3"
-  },
-  {
-   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/tGQJI8cvC46rqc1UV8If/vcYDZ1sJPzYQu6muRmNF/content.mp3?Expires=1793826000&KeyName=assets-cdn-key-1&Signature=nkLESV5dmth2clmE0wrGePSPlz0=",
-   "dest": "medias/audio/_test-plombier-swipe-lorient/vo-3.mp3"
-  },
-  {
-   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/vWHuWKbP5dw9h8crPyjB/pPvyGxfj2U7ZWIJvA84r/content.mp3?Expires=1793826000&KeyName=assets-cdn-key-1&Signature=QzT2FxxVlhQdlwULyZN36D-oVv4=",
-   "dest": "medias/audio/_test-plombier-swipe-lorient/vo-4.mp3"
-  },
-  {
-   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/09O2qrXLqtdrR0mbXgm7/2QoTaMpB4xvq6j9BLkIW/content.mp3?Expires=1793826000&KeyName=assets-cdn-key-1&Signature=1JFdRhHhCAZUZKYQRniqKICC_FU=",
-   "dest": "medias/audio/_banque-musique/ambiance-0.mp3"
-  },
-  {
-   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/cJs0sHirGNkZb2FgtT4o/A7LBZkVfobGanXN6XC3E/content.mp3?Expires=1793826000&KeyName=assets-cdn-key-1&Signature=SPO_gdDfnJK17hRhiLC4wNKyAKs=",
-   "dest": "medias/audio/_banque-musique/ambiance-1.mp3"
-  },
-  {
-   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/2WhV56VfYlfAcpWsc7Io/FyUHJPO9MR70dzxqSXcw/content.mp3?Expires=1793826000&KeyName=assets-cdn-key-1&Signature=IGzER_6axl0t5ZXLbCCL3NwPaIQ=",
-   "dest": "medias/audio/_banque-musique/ambiance-2.mp3"
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/fwnrhVbBZTHO30pe5EaG/d1YTEdgfCcKVmlurBdZI/content.mp3?Expires=1793826000&KeyName=assets-cdn-key-1&Signature=i2hWyPIQwMc96kGxwiSTBLps8wI=",
+   "dest": "medias/audio/_essais-voix/3-v4-marcel.mp3"
   }
  ]
 }
