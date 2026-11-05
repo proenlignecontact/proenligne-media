@@ -1,5 +1,54 @@
 {
  "_lisezmoi": "Posts qui ont décollé (audience > 2 × médiane du canal sur 14 jours). Écrit par la tâche quotidienne, lu et vidé par la tâche hebdomadaire après reprise.",
- "a_reprendre": [],
+ "a_reprendre": [
+  {
+   "fiche": "2026-11-02_1900_paysagiste-fiche-endormie-hiver",
+   "canal": "instagram",
+   "audience": 7,
+   "mediane_canal": 1.0,
+   "partages": 0,
+   "commentaires": 1,
+   "metier": "paysagiste",
+   "angle": "peur-de-perdre",
+   "ton": "scene",
+   "intention": "utile",
+   "format": "fiche",
+   "creneau": "video",
+   "accroche": "Il est 20 h. Une cliente cherche un paysagiste et ouvre votre fiche Google.",
+   "detecte_le": "2026-11-05"
+  },
+  {
+   "fiche": "2026-11-03_1900_garage-avis-sans-reponse-soir",
+   "canal": "instagram",
+   "audience": 2,
+   "mediane_canal": 1.0,
+   "partages": 0,
+   "commentaires": 1,
+   "metier": "garage",
+   "angle": "gain-de-temps",
+   "ton": "replique",
+   "intention": "utile",
+   "format": "avis",
+   "creneau": "video",
+   "accroche": "« Ils ne lisent pas leurs avis ? » se demande un client devant votre fiche Google.",
+   "detecte_le": "2026-11-05"
+  },
+  {
+   "fiche": "2026-10-31_1900_electricien-panne-du-soir",
+   "canal": "instagram",
+   "audience": 5,
+   "mediane_canal": 1.0,
+   "partages": 0,
+   "commentaires": 0,
+   "metier": "electricien",
+   "angle": "peur-de-perdre",
+   "ton": "scene",
+   "intention": null,
+   "format": "libre",
+   "creneau": "video",
+   "accroche": "Électriciens : ce soir, vous êtes 3e sur Google. Aucune photo depuis 2021.",
+   "detecte_le": "2026-11-05"
+  }
+ ],
  "repris": []
 }
