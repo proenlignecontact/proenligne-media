@@ -1,0 +1,1475 @@
+{
+    "generatedAt": "2026-11-05T07:23:57.425Z",
+    "days": 60,
+    "channels": [
+        {
+            "id": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "name": "Proenligne",
+            "platform": "tiktok",
+            "profile": "proenligne",
+            "disabled": false,
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Followers",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Following",
+                        "latest": 6,
+                        "sum": 6,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Total Likes",
+                        "latest": 8,
+                        "sum": 8,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Videos",
+                        "latest": 5,
+                        "sum": 5,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Views",
+                        "latest": 2367,
+                        "sum": 2367,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Recent Likes",
+                        "latest": 8,
+                        "sum": 8,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Recent Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Recent Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvs9p6ky0001mq8gkj2c0a82",
+            "name": "Proenligne",
+            "platform": "facebook",
+            "profile": "",
+            "disabled": false,
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Page Impressions",
+                        "latest": 0,
+                        "sum": 7,
+                        "percentageChange": 5
+                    },
+                    {
+                        "metric": "Media views",
+                        "latest": 0,
+                        "sum": 45,
+                        "percentageChange": 5
+                    },
+                    {
+                        "metric": "Posts Engagement",
+                        "latest": 0,
+                        "sum": 13,
+                        "percentageChange": 5
+                    },
+                    {
+                        "metric": "Page followers",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 5
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "name": "Proenligne",
+            "platform": "linkedin-page",
+            "profile": "proenligne",
+            "disabled": false,
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Page Views",
+                        "latest": 0,
+                        "sum": 6,
+                        "percentageChange": 5
+                    },
+                    {
+                        "metric": "Clicks",
+                        "latest": 0,
+                        "sum": 4,
+                        "percentageChange": 5
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 5
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 0.3333333333333333,
+                        "sum": 0.55,
+                        "percentageChange": 5
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 3,
+                        "percentageChange": 5
+                    },
+                    {
+                        "metric": "Organic Followers",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 5
+                    },
+                    {
+                        "metric": "Paid Followers",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 5
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvs9xsx80003mq8gnh6baz7n",
+            "name": "Proenligne",
+            "platform": "instagram",
+            "profile": "proenligne",
+            "disabled": false,
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmvsbfk2y0001nr8eba2fo36u",
+            "name": "Proenligne",
+            "platform": "x",
+            "profile": "Proenligne",
+            "disabled": false,
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmvsbyqw20001jv87195lx18q",
+            "name": "Alexandre | Google My Business",
+            "platform": "youtube",
+            "profile": "@proenligne-u5m",
+            "disabled": false,
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Estimated Minutes Watched",
+                        "latest": 2,
+                        "sum": 3,
+                        "percentageChange": null
+                    },
+                    {
+                        "metric": "Average View Duration",
+                        "latest": 10,
+                        "sum": 38,
+                        "percentageChange": null
+                    },
+                    {
+                        "metric": "Average View Percentage",
+                        "latest": 63.22,
+                        "sum": 177.35,
+                        "percentageChange": null
+                    },
+                    {
+                        "metric": "Subscribers Gained",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": null
+                    },
+                    {
+                        "metric": "Subscribers Lost",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": null
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 1,
+                        "percentageChange": null
+                    }
+                ]
+            }
+        }
+    ],
+    "posts": [
+        {
+            "id": "cmvsd5nrv000co77z6pi0gl8u",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-10-28T17:03:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7701765523486935062",
+            "content": "Votre concurrent n'est pas meilleur que vous. Sa fiche Google est juste plus vivante. \ud83d\udc40\n\nQuand un client cherche \u00ab plombier pr\u00e8s de moi \u00bb ou \u00ab coiffeur pr\u00e8s de moi \u00bb, Google met en avant les fiches actives : photos r\u00e9centes, publications r\u00e9guli\u00e8res, avis qui re\u00e7oivent une r\u00e9ponse.\n\nProenligne s'en occupe \u00e0 votre place :\n\u2705 Publications automatiques sur votre fiche Google\n\u2705 R\u00e9ponses \u00e0 vos avis clients \n\u2705 Une fiche \u00e0 jour, sans y passer vos soir\u00e9es\n\nVous faites votre m\u00e9tier, on fait vivre votre fiche.\n\n\ud83d\udc49 Essayez d\u00e8s 14,99 \u20ac/mois, sans engagement. Lien en bio.\n\n#artisan #commerceLocal #GoogleBusiness #ficheGoogle #referencementLocal #TPE #independant #Proenligne",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmvwmarjg0009kb7z3a3a0qpg",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-10-31T18:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/@proenligne/video/7702937693541485857",
+            "content": "\u00c9lectriciens : ce soir, vous \u00eates 3e sur Google. Aucune photo depuis 2021. Vous restez dans l'ombre.\n\nProenligne fait vivre votre fiche Google chaque semaine, sans que vous y pensiez.\n\n\ud83d\udc49 Essayez Proenligne gratuitement, puis d\u00e8s 14,99 \u20ac/mois, sans engagement.\n\n#GoogleBusinessProfile",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 778,
+                        "sum": 778,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 2,
+                        "sum": 2,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybfl160077kb7z6wfyaq0l",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-03T17:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7703998576539568150",
+            "content": "\u00ab Ils ne lisent pas leurs avis ? \u00bb C'est ce que se demande un client devant votre fiche Google quand trois bons avis restent sans r\u00e9ponse.\nVotre fiche Google, c'est l'encadr\u00e9 que Google affiche avec votre note et vos avis quand on cherche un garage.\n\n#FicheGoogle #Garage #Garagiste #Mecanique",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmvybgwqy007pkb7zg6p0duwh",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-04T18:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7704388757663811606",
+            "content": "En novembre, un chauffagiste n'a plus une minute pour sa fiche Google.\nC'est pourtant elle que voit un client qui cherche \u00ab chauffagiste \u00bb sur Google Maps. Proenligne publie une photo le lundi, un article le jeudi et r\u00e9pond \u00e0 vos avis. Essayez gratuitement, sans engagement.\n\n#FicheGoogle #Chauffagiste #Chauffage",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmvybe4a1006pkb7zuua09yzk",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-02T19:29:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7703658246048909334",
+            "content": "Il est 20 h. Une cliente cherche un paysagiste pour ses haies et ouvre votre fiche Google, l'encadr\u00e9 que Google affiche avec vos photos et vos avis.\nRien n'y a \u00e9t\u00e9 publi\u00e9 depuis le printemps. Elle se demande si vous travaillez encore l'hiver.\n\n#FicheGoogle #Paysagiste #Jardin",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmvscsk1w0000o77z1vrubvpf",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-10-28T16:59:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/4436694093220331",
+            "content": "Votre concurrent n'est pas meilleur que vous. Sa fiche Google est juste plus vivante. \ud83d\udc40\n\nQuand un client cherche \u00ab plombier pr\u00e8s de moi \u00bb ou \u00ab coiffeur pr\u00e8s de moi \u00bb, Google met en avant les fiches actives : photos r\u00e9centes, publications r\u00e9guli\u00e8res, avis qui re\u00e7oivent une r\u00e9ponse.\n\nProenligne s'en occupe \u00e0 votre place :\n\u2705 Publications automatiques sur votre fiche Google\n\u2705 R\u00e9ponses \u00e0 vos avis clients \n\u2705 Une fiche \u00e0 jour, sans y passer vos soir\u00e9es\n\nVous faites votre m\u00e9tier, on fait vivre votre fiche.\n\n\ud83d\udc49 Essayez d\u00e8s 14,99 \u20ac/mois, sans engagement. Lien en bio.\n\n#artisan #commerceLocal #GoogleBusiness #ficheGoogle #referencementLocal #TPE #independant #Proenligne",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmvwm8ppv0006kb7zqwx8v1rh",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-10-31T18:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/4681341162141618",
+            "content": "\u00c9lectriciens : ce soir, vous \u00eates 3e sur Google. Aucune photo depuis 2021. Vous restez dans l'ombre.\n\nUn soir de panne, personne ne compare longtemps : on appelle la fiche qui a l'air active. \n\nProenligne fait vivre la v\u00f4tre chaque semaine, sans que vous y pensiez.\n\n\u2705 Une photo publi\u00e9e le lundi\n\u2705 Une publication r\u00e9dig\u00e9e le jeudi\n\u2705 Une r\u00e9ponse \u00e0 chaque avis\n\n\ud83d\udc49 Essayez Proenligne gratuitement, puis d\u00e8s 14,99 \u20ac/mois, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Electricien #Artisan",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 2,
+                        "sum": 2,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybgwnx007lkb7zf2xrl16u",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-04T12:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/122101312257531668/posts/122103802371531668",
+            "content": "Deux instituts ont la m\u00eame note sur leur fiche Google. Qu'est-ce qui fait choisir l'un plut\u00f4t que l'autre ?\n\nLa fiche Google, c'est ce qui appara\u00eet quand une cliente cherche \u00ab institut de beaut\u00e9 \u00bb pr\u00e8s de chez elle, avec les photos, les avis et les horaires.\n\nOn vous propose un petit sondage.\nA. Des photos r\u00e9centes des soins\nB. Des r\u00e9ponses aux avis\nC. Des horaires faciles \u00e0 lire\n\nChaque piste est expliqu\u00e9e dans les images. Vous, vous votez pour quelle lettre ?\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks by Type",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybgwur007vkb7zqmwn5yqe",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-04T18:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/1004962169312788",
+            "content": "En novembre, un chauffagiste n'a plus une minute pour sa fiche Google.\n\nQuand un client cherche \u00ab chauffagiste \u00bb pr\u00e8s de chez lui, Google lui montre des fiches avec des photos, des avis et un num\u00e9ro. La v\u00f4tre en fait partie, m\u00eame quand vous n'avez pas le temps d'y toucher.\n\nProenligne s'en charge chaque semaine.\n\u2705 Une photo de vos chantiers publi\u00e9e le lundi\n\u2705 Un article publi\u00e9 le jeudi\n\u2705 Une r\u00e9ponse \u00e0 chaque avis, valid\u00e9e par vous quand l'avis est n\u00e9gatif\n\nEssayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #Chauffagiste #Chauffage #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybe43u006hkb7z8cn2cmc0",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-02T05:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/122101312257531668/posts/122101312173531668",
+            "content": "Avez-vous d\u00e9j\u00e0 regard\u00e9 votre fiche Google avec les yeux d'un client qui a une fuite ?\n\nLe test prend 30 secondes. Sur votre t\u00e9l\u00e9phone, ouvrez Google Maps en navigation priv\u00e9e et tapez \u00ab plombier \u00bb suivi du nom de votre ville.\n\nLes encadr\u00e9s qui s'affichent, avec une note, des photos et un bouton Appeler, ce sont des fiches Google. La v\u00f4tre est dedans, quelque part.\n\nRegardez-la comme quelqu'un qui a de l'eau sous l'\u00e9vier et pas le temps de comparer longtemps.\nLa derni\u00e8re photo montre-t-elle votre travail ?\nLes horaires sont-ils justes ?\nLe dernier avis a-t-il une r\u00e9ponse ?\n\nQu'avez-vous remarqu\u00e9 en premier ? Dites-le en commentaire.\n\n#FicheGoogle #Plombier #ReferencementLocal #GoogleBusinessProfile",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Impressions",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks by Type",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybe47b006lkb7zjxsy83sq",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-02T12:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/122101312257531668/posts/122101594755531668",
+            "content": "Vos plus belles coupes dorment dans votre t\u00e9l\u00e9phone au lieu d'\u00eatre sur votre fiche Google.\n\nVotre fiche Google, c'est ce que voit une future cliente quand elle cherche \u00ab coiffeur \u00bb sur Google Maps. Avant de r\u00e9server, elle fait souvent d\u00e9filer les photos.\n\nTrois r\u00e9flexes suffisent pour que vos coupes arrivent sur votre fiche Google.\n1. Photographiez la coupe pr\u00e8s de la vitrine, \u00e0 la lumi\u00e8re du jour, sans flash.\n2. Demandez l'accord de la cliente. Une simple question, et beaucoup sont flatt\u00e9es.\n3. Publiez la photo sur votre fiche Google le soir m\u00eame, avant qu'elle se perde dans la galerie.\n\nEt chez vous, qui s'occupe des photos au salon ?\n\n#FicheGoogle #Coiffeur #Coiffure #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks by Type",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybe4fl006vkb7ztfypeb8z",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-02T18:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/1765322021431067",
+            "content": "Il est 20 h. Une cliente cherche un paysagiste et ouvre votre fiche Google.\n\nElle veut faire tailler ses haies avant l'hiver. Sur votre fiche Google, l'encadr\u00e9 que Google lui montre avec vos photos et vos avis, la derni\u00e8re publication date du printemps.\n\nElle se pose une question simple. Est-ce qu'il travaille encore en novembre ?\n\nUne taille de haie ou un ramassage de feuilles en photo suffit souvent \u00e0 lui r\u00e9pondre.\n\nQue publiez-vous sur votre fiche Google pendant l'hiver ?\n\n#FicheGoogle #Paysagiste #Jardin #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybgwk7007hkb7z7ao228ea",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-04T05:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/122101312257531668/posts/122103421515531668",
+            "content": "On pense qu'en urgence, personne ne regarde votre fiche Google. C'est souvent l'inverse.\n\nImaginez quelqu'un bloqu\u00e9 devant sa porte un dimanche soir. Il a entendu des histoires de d\u00e9pannages qui tournent mal. Alors avant d'appeler, il ouvre Google Maps et regarde les fiches Google des serruriers du coin, avec leur note, leurs avis et leurs photos.\n\nIl cherche des signes rassurants, comme un nom et une camionnette en photo, des avis r\u00e9cents et des r\u00e9ponses polies.\n\nL'urgence ne fait pas dispara\u00eetre la m\u00e9fiance. Elle la rend plus forte.\n\nSi vous \u00e9tiez bloqu\u00e9 dehors, qu'est-ce qui vous ferait appeler un serrurier plut\u00f4t qu'un autre ?\n\n#FicheGoogle #Serrurier #ReferencementLocal #GoogleBusinessProfile",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks by Type",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybfl63007dkb7zni4sgwl3",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-03T17:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/981922861656918",
+            "content": "\u00ab Ils ne lisent pas leurs avis ? \u00bb se demande un client devant votre fiche Google.\n\nIl cherche un garage pour sa r\u00e9vision. Sur votre fiche Google, l'encadr\u00e9 que Google lui montre avec votre note et vos avis, il lit trois bons avis. Aucun n'a de r\u00e9ponse.\n\nCe n'est pas grave en soi, mais \u00e7a laisse un doute. Est-ce que quelqu'un lit vraiment ce qu'\u00e9crivent les clients ?\n\nUne phrase suffit sous chaque avis, avec un merci, un pr\u00e9nom et un d\u00e9tail.\n\nVous r\u00e9pondez \u00e0 vos avis le jour m\u00eame, ou plut\u00f4t quand vous avez un moment ?\n\n#FicheGoogle #Garage #Garagiste #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybfkw0006zkb7zi1x7480b",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-03T05:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/122101312257531668/posts/122102299497531668",
+            "content": "Pendant que vous \u00eates sur un chantier, votre fiche Google affiche peut-\u00eatre encore vos horaires de vacances.\n\nVotre fiche Google, c'est ce que Google montre quand quelqu'un cherche \u00ab \u00e9lectricien \u00bb pr\u00e8s de chez lui, avec votre note, vos photos, vos horaires et votre num\u00e9ro.\n\nUn client en panne regarde souvent d'abord si vous \u00eates ouvert. S'il lit \u00ab Ferm\u00e9 \u00bb, il ne prend pas le risque d'appeler. Il passe \u00e0 l'\u00e9lectricien suivant.\n\nSi vous avez modifi\u00e9 vos horaires habituels pour les vacances, ils restent affich\u00e9s tant que vous ne les remettez pas. Apr\u00e8s la Toussaint, c'est le bon moment pour v\u00e9rifier.\nOuvrez votre fiche Google depuis votre t\u00e9l\u00e9phone.\nV\u00e9rifiez la ligne des horaires, jour par jour.\nAjoutez d\u00e8s maintenant les jours f\u00e9ri\u00e9s de fin d'ann\u00e9e en horaires exceptionnels.\n\nVos horaires affich\u00e9s sont-ils justes aujourd'hui ?\n\n#FicheGoogle #Electricien #ReferencementLocal #GoogleBusinessProfile",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks by Type",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybfky30073kb7ziqtgmmsj",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-03T11:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/122101312257531668/posts/122102582511531668",
+            "content": "La m\u00eame boulangerie peut avoir deux visages sur sa fiche Google. Lequel donne faim ?\n\nCherchez \u00ab boulangerie \u00bb dans votre ville. Les encadr\u00e9s avec une note et des photos sont des fiches Google. C'est souvent l\u00e0 que se joue le choix du croissant du dimanche.\n\nVoici une boulangerie imaginaire, la boulangerie Durand, en deux versions.\nAvant, sa fiche Google n'avait qu'une photo, une vitrine vide prise un soir apr\u00e8s la fermeture.\nApr\u00e8s, une photo de la fourn\u00e9e du matin est publi\u00e9e chaque lundi, avec les baguettes, les viennoiseries et l'\u00e9quipe.\n\nLe pain est le m\u00eame, la note aussi. Seules les photos de la fiche Google ont chang\u00e9.\n\nLaquelle vous donnerait envie d'entrer ?\n\n#FicheGoogle #Boulangerie #Boulanger #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks by Type",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybibm5007zkb7z3ksiamxo",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-05T06:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/122101312257531668/posts/122104499421531668",
+            "content": "Ce soir, le mur est mont\u00e9 et le chantier est propre. Votre fiche Google n'en montre rien.\n\nQuand un particulier cherche \u00ab ma\u00e7on \u00bb sur Google Maps, il tombe sur des fiches Google avec des photos, des avis et un num\u00e9ro. Ce sont les photos de chantiers qui lui montrent ce que vous savez faire.\n\nLe bon moment pour la photo, c'est juste avant de partir. Trois gestes suffisent.\nReculez de quelques pas pour montrer l'ouvrage en entier.\nRangez les outils et les sacs qui tra\u00eenent dans le cadre.\nPhotographiez aussi un d\u00e9tail bien fait, un angle ou un joint propre.\n\nIl ne reste qu'\u00e0 la publier sur votre fiche Google, ce soir ou lundi.\n\nVous prenez vos chantiers en photo avant de partir, ou \u00e7a vous \u00e9chappe souvent ?\n\n#FicheGoogle #Macon #Maconnerie #ReferencementLocal #GoogleBusinessProfile",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks by Type",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybe48l006nkb7zxgqac8v9",
+            "platform": "linkedin-page",
+            "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "publishDate": "2026-11-02T12:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7522994853601808384",
+            "content": "Dans un salon de coiffure, les plus belles r\u00e9alisations finissent souvent dans le t\u00e9l\u00e9phone du coiffeur, rarement sur la fiche Google du salon.\n\nLa fiche Google, c'est ce qu'une future cliente voit quand elle cherche \u00ab coiffeur \u00bb sur Google ou Google Maps. Avant de r\u00e9server, elle regarde les photos, la note et les horaires.\n\nLe constat revient dans beaucoup de salons. Les photos existent, mais personne n'a le r\u00e9flexe de les publier. La fiche Google montre alors des coupes anciennes, ou aucune coupe.\n\nTrois habitudes changent la donne sans prendre de temps.\nPhotographier \u00e0 la lumi\u00e8re du jour, pr\u00e8s de la vitrine.\nDemander l'accord de la cliente, ce qui cr\u00e9e souvent un bon moment d'\u00e9change.\nPublier le soir m\u00eame, plut\u00f4t que de garder les photos pour plus tard.\n\nProenligne publie une photo chaque lundi sur la fiche Google des salons qui lui confient la t\u00e2che, mais le r\u00e9flexe de photographier reste celui de l'\u00e9quipe.\n\nDans votre salon, qui est charg\u00e9 des photos ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Coiffure",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybfkz60075kb7zddwqarz5",
+            "platform": "linkedin-page",
+            "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "publishDate": "2026-11-03T11:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7523349688343773184",
+            "content": "Deux versions de la m\u00eame fiche Google de boulangerie, et une seule donne vraiment envie d'entrer.\nLa fiche Google, c'est l'encadr\u00e9 que Google affiche quand un client cherche \u00ab boulangerie \u00bb pr\u00e8s de chez lui.\n\nPrenons une boulangerie imaginaire.\n\nDans la premi\u00e8re version, sa fiche Google ne montre qu'une photo, une vitrine vide prise un soir apr\u00e8s la fermeture. Rien n'indique ce qu'on y trouve ni qui sert au comptoir.\n\nDans la seconde, une photo de la fourn\u00e9e du matin est publi\u00e9e chaque lundi. On voit le pain, les viennoiseries, l'\u00e9quipe.\n\nLe produit est identique, la note aussi. Ce qui change, c'est ce que le client voit avant de pousser la porte.\n\nC'est ce travail r\u00e9gulier que Proenligne prend en charge pour les commer\u00e7ants, une photo le lundi et un article le jeudi.\n\nQuelle image de votre commerce aimeriez-vous que vos clients voient en premier ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Boulangerie #Commerce",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybgwpf007nkb7zinxcfl0f",
+            "platform": "linkedin-page",
+            "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "publishDate": "2026-11-04T12:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7523727177037717504",
+            "content": "Quand deux instituts affichent la m\u00eame note sur leur fiche Google, qu'est-ce qui fait pencher la cliente ?\nLa fiche Google, c'est la pr\u00e9sentation que Google affiche quand on cherche \u00ab institut de beaut\u00e9 \u00bb \u00e0 proximit\u00e9.\n\nLa note attire l'\u0153il, mais quand deux adresses voisines ont la m\u00eame, la cliente fait d\u00e9filer le reste.\n\nTrois \u00e9l\u00e9ments peuvent faire la diff\u00e9rence.\nA. Des photos r\u00e9centes des soins et de la cabine, qui montrent une activit\u00e9 r\u00e9elle.\nB. Des r\u00e9ponses aux avis, qui montrent qu'une personne lit et prend soin de sa client\u00e8le.\nC. Des horaires lisibles, avec la pause du midi et le samedi bien indiqu\u00e9s.\n\nAucun de ces \u00e9l\u00e9ments ne demande de budget. Ils demandent de la r\u00e9gularit\u00e9, et c'est souvent l\u00e0 que le temps manque. Pour les instituts qui le souhaitent, Proenligne publie une photo chaque lundi, un article chaque jeudi et r\u00e9pond \u00e0 chaque avis.\n\nSelon vous, lequel p\u00e8se le plus dans le choix d'une nouvelle cliente, A, B ou C ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Esthetique #TPE",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvscsk3y0001o77z79evxv7h",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-10-28T16:59:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DfC6snDEihT/",
+            "content": "Votre concurrent n'est pas meilleur que vous. Sa fiche Google est juste plus vivante. \ud83d\udc40\n\nQuand un client cherche \u00ab plombier pr\u00e8s de moi \u00bb ou \u00ab coiffeur pr\u00e8s de moi \u00bb, Google met en avant les fiches actives : photos r\u00e9centes, publications r\u00e9guli\u00e8res, avis qui re\u00e7oivent une r\u00e9ponse.\n\nProenligne s'en occupe \u00e0 votre place :\n\u2705 Publications automatiques sur votre fiche Google\n\u2705 R\u00e9ponses \u00e0 vos avis clients \n\u2705 Une fiche \u00e0 jour, sans y passer vos soir\u00e9es\n\nVous faites votre m\u00e9tier, on fait vivre votre fiche.\n\n\ud83d\udc49 Essayez d\u00e8s 14,99 \u20ac/mois, sans engagement. Lien en bio.\n\n#artisan #commerceLocal #GoogleBusiness #ficheGoogle #referencementLocal #TPE #independant #Proenligne",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvwm8pog0005kb7z54kpm83z",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-10-31T18:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DfKwCtskePP/",
+            "content": "\u00c9lectriciens : ce soir, vous \u00eates 3e sur Google. Aucune photo depuis 2021. Vous restez dans l'ombre.\n\nUn soir de panne, personne ne compare longtemps : on appelle la fiche qui a l'air active. \n\nProenligne fait vivre la v\u00f4tre chaque semaine, sans que vous y pensiez.\n\n\u2705 Une photo publi\u00e9e le lundi\n\u2705 Une publication r\u00e9dig\u00e9e le jeudi\n\u2705 Une r\u00e9ponse \u00e0 chaque avis\n\n\ud83d\udc49 Essayez Proenligne gratuitement, puis d\u00e8s 14,99 \u20ac/mois, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Electricien #Artisan",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 5,
+                        "sum": 5,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 4,
+                        "sum": 4,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybfl3e0079kb7zriij96ax",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-03T17:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DfSa_jmijOR/",
+            "content": "\u00ab Ils ne lisent pas leurs avis ? \u00bb se demande un client devant votre fiche Google.\n\nSur Google Maps, chaque garage a sa fiche Google, avec la note, les avis et le bouton Appeler. Avant d'appeler, beaucoup de clients lisent les avis, et souvent les r\u00e9ponses aussi.\n\nTrois bons avis sans un mot en dessous, et le nouveau client se demande si quelqu'un lit ce qu'\u00e9crivent les clients.\n\nR\u00e9pondre prend une phrase. \u00ab Merci Karim, ravis d'avoir pu vous d\u00e9panner ce samedi. \u00bb\n\nCombien d'avis attendent une r\u00e9ponse sur votre fiche Google ?\n\n#FicheGoogle #Garage #Garagiste #ReferencementLocal #GoogleBusinessProfile",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 2,
+                        "sum": 2,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 2,
+                        "sum": 2,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybgwm5007jkb7z6xc2qt7f",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-04T12:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/p/DfUfMOHCvjs/",
+            "content": "Deux instituts ont la m\u00eame note sur leur fiche Google. Qu'est-ce qui fait choisir l'un plut\u00f4t que l'autre ?\n\nSur Google Maps, chaque institut a sa fiche Google, avec la note, les photos, les avis et les horaires. Quand les notes se valent, la cliente regarde le reste.\n\nVoici trois pistes, d\u00e9taill\u00e9es dans le carrousel.\nA. Des photos r\u00e9centes des soins\nB. Des r\u00e9ponses aux avis\nC. Des horaires faciles \u00e0 lire\n\nIl n'y a pas de bonne r\u00e9ponse, on veut votre avis de professionnelle. Pour vous, c'est A, B ou C ?\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #ReferencementLocal #GoogleBusinessProfile",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybe45b006jkb7z4fshdqcy",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-02T12:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/p/DfPSKIzCCHK/",
+            "content": "Vos plus belles coupes dorment dans votre t\u00e9l\u00e9phone au lieu d'\u00eatre sur votre fiche Google.\n\nQuand quelqu'un tape \u00ab coiffeur pr\u00e8s de moi \u00bb, Google affiche des fiches avec des photos, des avis et des horaires. La v\u00f4tre en fait partie, et ce sont souvent les photos qu'on regarde en premier.\n\nVoici 3 r\u00e9flexes qui prennent deux minutes.\n1. Photographiez la coupe pr\u00e8s de la vitrine, \u00e0 la lumi\u00e8re du jour, sans flash.\n2. Demandez l'accord de la cliente. Beaucoup sont flatt\u00e9es qu'on leur pose la question.\n3. Publiez la photo sur votre fiche Google le soir m\u00eame, pendant que vous y pensez.\n\nAu salon, qui prend les photos des coupes, vous ou quelqu'un de l'\u00e9quipe ?\n\n#FicheGoogle #Coiffeur #Coiffure #ReferencementLocal #GoogleBusinessProfile",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybe4bb006rkb7z14nnai5t",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-02T18:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DfP-x3LAMSg/",
+            "content": "Il est 20 h. Une cliente cherche un paysagiste pour ses haies et ouvre votre fiche Google.\n\nVotre fiche Google, c'est ce qui s'affiche quand quelqu'un tape \u00ab paysagiste \u00bb sur Google Maps, avec vos photos, vos avis et vos publications.\n\nCe soir-l\u00e0, la derni\u00e8re photo montre une tonte du printemps, et rien n'a \u00e9t\u00e9 publi\u00e9 depuis. Elle se demande si vous travaillez encore l'hiver, et elle continue de chercher.\n\nL'hiver, il y a pourtant de quoi montrer. Une taille de haie, un ramassage de feuilles, une plantation d'arbres.\n\nQue publiez-vous sur votre fiche Google pendant l'hiver ?\n\n#FicheGoogle #Paysagiste #Jardin #ReferencementLocal #GoogleBusinessProfile",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 7,
+                        "sum": 7,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 7,
+                        "sum": 7,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybfkx20071kb7z95e8z4m3",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-03T11:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/p/DfRzkBniE8X/",
+            "content": "La m\u00eame boulangerie peut avoir deux visages sur sa fiche Google. Lequel donne faim ?\n\nLa fiche Google, c'est l'encadr\u00e9 qui s'affiche quand on cherche \u00ab boulangerie \u00bb sur Google Maps, avec la note, les photos et les horaires.\n\nPrenons une boulangerie imaginaire, la boulangerie Durand.\n\nAvant, sa fiche Google n'avait qu'une photo, une vitrine vide prise un soir apr\u00e8s la fermeture.\n\nApr\u00e8s, une photo de la fourn\u00e9e du matin arrive chaque lundi. On voit les baguettes, les viennoiseries et l'\u00e9quipe derri\u00e8re le comptoir.\n\nLe pain est le m\u00eame et la note aussi. Ce qui change, c'est ce que le client voit avant de choisir o\u00f9 s'arr\u00eater.\n\nVous, vous entreriez dans laquelle ?\n\n#FicheGoogle #Boulangerie #Boulanger #ReferencementLocal #GoogleBusinessProfile",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybgwsl007rkb7ziinpnajt",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-04T18:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DfVIXx5GTUj/",
+            "content": "En novembre, un chauffagiste n'a plus une minute pour sa fiche Google.\n\nVotre fiche Google, c'est ce qui s'affiche quand on cherche \u00ab chauffagiste \u00bb sur Google Maps, avec vos photos, vos avis et votre num\u00e9ro. En pleine saison de chauffe, les chaudi\u00e8res passent avant elle.\n\nProenligne s'en occupe pour vous.\n\u2705 Une photo de vos chantiers publi\u00e9e chaque lundi\n\u2705 Un article publi\u00e9 chaque jeudi\n\u2705 Une r\u00e9ponse \u00e0 chaque avis, et vous validez celles aux avis n\u00e9gatifs\n\nEssayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #Chauffagiste #Chauffage #ReferencementLocal #GoogleBusinessProfile",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 3,
+                        "sum": 3,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 2,
+                        "sum": 2,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvse6ufu000eo77zjtho46xq",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-10-28T17:53:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2115502388161241426",
+            "content": "Votre concurrent n'est pas meilleur que vous. Sa fiche Google est juste plus vivante. \ud83d\udc40\n\nProenligne s'en occupe \u00e0 votre place :\n\u2705 Publications automatiques sur votre fiche Google\n\u2705 R\u00e9ponses \u00e0 vos avis clients\n\u2705 Une fiche \u00e0 jour, sans y passer vos soir\u00e9es",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmvwmari50008kb7z04egfpim",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-10-31T18:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2116591210668114253",
+            "content": "\u00c9lectriciens : ce soir, vous \u00eates 3e sur Google. Aucune photo depuis 2021. Vous restez dans l'ombre.\n\nProenligne fait vivre votre fiche Google chaque semaine, sans que vous y pensiez.\n\n\ud83d\udc49 Essayez Proenligne gratuitement,\n\n#GoogleBusinessProfile",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmvybfkuv006xkb7zwg9wqzk9",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-03T05:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2117493320268100066",
+            "content": "Pendant que vous \u00eates sur un chantier, votre fiche Google affiche peut-\u00eatre encore vos horaires de vacances.\n\nC'est l'encadr\u00e9 que Google montre quand on cherche un \u00e9lectricien. Si on y lit \u00ab Ferm\u00e9 \u00bb, on appelle ailleurs.\n\nVos horaires sont-ils \u00e0 jour ?\n\n#FicheGoogle #Electricien",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmvybe41y006fkb7z54mz4v0q",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-02T05:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2117119603528605963",
+            "content": "Avez-vous d\u00e9j\u00e0 regard\u00e9 votre fiche Google avec les yeux d'un client qui a une fuite ?\n\nTapez \u00ab plombier \u00bb et votre ville sur Google Maps. Votre fiche Google, c'est l'encadr\u00e9 avec votre nom, vos photos et vos avis.\n\nQu'avez-vous remarqu\u00e9 en premier ?\n\n#FicheGoogle #Plombier",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmvybgwif007fkb7z0xbu1vtc",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-04T05:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2117855704945955077",
+            "content": "On pense qu'en urgence, personne ne regarde votre fiche Google. C'est souvent l'inverse.\n\nBloqu\u00e9 dehors, le client ouvre les fiches Google des serruriers sur Google Maps et lit leurs avis.\n\n\u00c0 sa place, que regarderiez-vous en premier ?\n\n#FicheGoogle #Serrurier",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmvybibki007xkb7z60hjma89",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-05T06:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2118225644056146018",
+            "content": "Ce soir, le mur est mont\u00e9 et le chantier est propre. Votre fiche Google n'en montre rien.\n\nC'est pourtant elle qu'on voit en cherchant \u00ab ma\u00e7on \u00bb sur Google Maps. Une photo avant de partir suffit \u00e0 montrer ce travail.\n\nVous prenez vos chantiers en photo ?\n\n#FicheGoogle #Macon",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmvwm8prg0007kb7z6jff27hx",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-10-31T18:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=TRJQhs5TNkU",
+            "content": "\u00c9lectriciens : ce soir, vous \u00eates 3e sur Google. Aucune photo depuis 2021. Vous restez dans l'ombre.\n\nUn soir de panne, personne ne compare longtemps : on appelle la fiche qui a l'air active. \n\nProenligne fait vivre la v\u00f4tre chaque semaine, sans que vous y pensiez.\n\n\u2705 Une photo publi\u00e9e le lundi\n\u2705 Une publication r\u00e9dig\u00e9e le jeudi\n\u2705 Une r\u00e9ponse \u00e0 chaque avis\n\n\ud83d\udc49 Essayez Proenligne gratuitement, puis d\u00e8s 14,99 \u20ac/mois, sans engagement.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Electricien #Artisan",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 2,
+                        "sum": 2,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybgwto007tkb7zmb0oni74",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-04T18:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=K6JTAkNSwJ4",
+            "content": "En novembre, un chauffagiste n'a plus une minute pour sa fiche Google.\n\nLa fiche Google, c'est la vitrine que Google montre quand un client cherche un chauffagiste pr\u00e8s de chez lui. Le soir, apr\u00e8s les d\u00e9pannages, plus personne n'a la force de s'en occuper.\n\nProenligne publie une photo le lundi, un article le jeudi et r\u00e9pond \u00e0 chaque avis. Vous validez les r\u00e9ponses aux avis n\u00e9gatifs.\n\nEssayez Proenligne gratuitement, sans engagement.\n\n#FicheGoogle #Chauffagiste #Chauffage",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 42,
+                        "sum": 42,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybe4co006tkb7zur20zuxl",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-02T18:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=OEa5Pr9S3Qg",
+            "content": "Il est 20 h. Une cliente cherche un paysagiste et ouvre votre fiche Google. Rien n'y a \u00e9t\u00e9 publi\u00e9 depuis le printemps.\n\nLa fiche Google, c'est la carte de visite que Google montre \u00e0 votre place, avec vos photos, vos avis et vos publications. En hiver, quand elle ne bouge plus, on peut croire que l'entreprise est en pause.\n\nProenligne publie une photo le lundi et un article le jeudi, et r\u00e9pond \u00e0 chaque avis, m\u00eame l'hiver.\n\nEt vous, que montrez-vous sur votre fiche Google en novembre ?\n\n#FicheGoogle #Paysagiste #Jardin",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 117,
+                        "sum": 117,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybfl4z007bkb7z190jwst5",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-03T17:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=p04jlAjSbFk",
+            "content": "\u00ab Ils ne lisent pas leurs avis ? \u00bb C'est la question d'un client devant une fiche Google o\u00f9 trois bons avis restent sans r\u00e9ponse.\n\nVotre fiche Google, c'est ce que vos clients voient en premier quand ils cherchent \u00ab garage \u00bb sur Google Maps. Les r\u00e9ponses aux avis montrent qu'une vraie personne \u00e9coute.\n\nProenligne r\u00e9pond \u00e0 chaque avis, publie une photo le lundi et un article le jeudi.\n\nVous r\u00e9pondez \u00e0 vos avis, vous ?\n\n#FicheGoogle #Garage #Garagiste",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 76,
+                        "sum": 76,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        }
+    ]
+}
