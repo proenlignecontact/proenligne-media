@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-05T07:23:57.425Z",
+    "generatedAt": "2026-11-05T13:18:05.488Z",
     "days": 60,
     "channels": [
         {
@@ -31,14 +31,14 @@
                     },
                     {
                         "metric": "Videos",
-                        "latest": 5,
-                        "sum": 5,
+                        "latest": 6,
+                        "sum": 6,
                         "percentageChange": 0
                     },
                     {
                         "metric": "Views",
-                        "latest": 2367,
-                        "sum": 2367,
+                        "latest": 2688,
+                        "sum": 2688,
                         "percentageChange": 0
                     },
                     {
@@ -85,8 +85,8 @@
                     },
                     {
                         "metric": "Posts Engagement",
-                        "latest": 0,
-                        "sum": 13,
+                        "latest": 2,
+                        "sum": 15,
                         "percentageChange": 5
                     },
                     {
@@ -276,6 +276,19 @@
             }
         },
         {
+            "id": "cmvybibnp0081kb7zhd1ii5y3",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-05T11:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7704648027696400406",
+            "content": "Quand chaque avis de votre fiche Google re\u00e7oit un merci, vos clients le remarquent.\nVotre fiche Google, c'est l'encadr\u00e9 de votre garage sur Google Maps, avec la note et les avis. Une phrase et le pr\u00e9nom du client suffisent pour montrer que vous lisez.\n\n#FicheGoogle #Garage #Garagiste",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
             "id": "cmvybfl160077kb7z6wfyaq0l",
             "platform": "tiktok",
             "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
@@ -309,6 +322,19 @@
             "state": "PUBLISHED",
             "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7703658246048909334",
             "content": "Il est 20 h. Une cliente cherche un paysagiste pour ses haies et ouvre votre fiche Google, l'encadr\u00e9 que Google affiche avec vos photos et vos avis.\nRien n'y a \u00e9t\u00e9 publi\u00e9 depuis le printemps. Elle se demande si vous travaillez encore l'hiver.\n\n#FicheGoogle #Paysagiste #Jardin",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmw2ihhhy00bbkb7zznu93tdg",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-05T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7704613128222574614",
+            "content": "Quand il fait froid, un client cherche un chauffagiste sur Google et fait d\u00e9filer les fiches Google. Celle qui dort, il la passe.\n\n#FicheGoogle #Chauffagiste #Chauffage #ReferencementLocal",
             "stats": {
                 "available": false,
                 "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
@@ -764,6 +790,82 @@
             }
         },
         {
+            "id": "cmw2ihhk700bdkb7zz8i7ibav",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-05T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/1640948714168452",
+            "content": "Il fait froid, la chaudi\u00e8re tombe en panne, et le client cherche un chauffagiste sur Google.\n\nIl fait d\u00e9filer les fiches Google, ces encadr\u00e9s avec vos photos, vos avis et le bouton Appeler. Une fiche Google sans photo r\u00e9cente, il la passe en deux secondes.\n\nUne photo de chantier chaque semaine et une r\u00e9ponse sous chaque avis, et le pouce s'arr\u00eate sur vous.\n\nDe quand date la derni\u00e8re photo de votre fiche Google ?\n\n#FicheGoogle #Chauffagiste #Chauffage #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybibqk0085kb7zscatef49",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-05T12:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/122101312257531668/posts/122104803603531668",
+            "content": "\u00ab Elle est s\u00e9rieuse, cette auto-\u00e9cole ? \u00bb Les parents cherchent la r\u00e9ponse sur votre fiche Google.\n\nVotre fiche Google, c'est ce qui s'affiche quand des parents cherchent \u00ab auto-\u00e9cole \u00bb pr\u00e8s de chez eux. Ils lisent les avis des anciens \u00e9l\u00e8ves, et ils lisent aussi vos r\u00e9ponses.\n\nUne r\u00e9ponse qui rassure se construit en 3 temps.\nRemerciez l'\u00e9l\u00e8ve par son pr\u00e9nom.\nRappelez un d\u00e9tail de sa formation.\nSouhaitez-lui bonne route.\n\nVoici un exemple de r\u00e9ponse. \u00ab Merci In\u00e8s ! Votre premi\u00e8re conduite de nuit vous faisait peur, et vous l'avez r\u00e9ussie haut la main. Bonne route ! \u00bb\n\nQui r\u00e9pond aux avis chez vous, vous ou un moniteur ?\n\n#FicheGoogle #AutoEcole #PermisDeConduire #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks by Type",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
             "id": "cmvybe48l006nkb7zxgqac8v9",
             "platform": "linkedin-page",
             "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
@@ -823,6 +925,58 @@
             "state": "PUBLISHED",
             "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7523727177037717504",
             "content": "Quand deux instituts affichent la m\u00eame note sur leur fiche Google, qu'est-ce qui fait pencher la cliente ?\nLa fiche Google, c'est la pr\u00e9sentation que Google affiche quand on cherche \u00ab institut de beaut\u00e9 \u00bb \u00e0 proximit\u00e9.\n\nLa note attire l'\u0153il, mais quand deux adresses voisines ont la m\u00eame, la cliente fait d\u00e9filer le reste.\n\nTrois \u00e9l\u00e9ments peuvent faire la diff\u00e9rence.\nA. Des photos r\u00e9centes des soins et de la cabine, qui montrent une activit\u00e9 r\u00e9elle.\nB. Des r\u00e9ponses aux avis, qui montrent qu'une personne lit et prend soin de sa client\u00e8le.\nC. Des horaires lisibles, avec la pause du midi et le samedi bien indiqu\u00e9s.\n\nAucun de ces \u00e9l\u00e9ments ne demande de budget. Ils demandent de la r\u00e9gularit\u00e9, et c'est souvent l\u00e0 que le temps manque. Pour les instituts qui le souhaitent, Proenligne publie une photo chaque lundi, un article chaque jeudi et r\u00e9pond \u00e0 chaque avis.\n\nSelon vous, lequel p\u00e8se le plus dans le choix d'une nouvelle cliente, A, B ou C ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Esthetique #TPE",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2ihhra00blkb7zoyquuj31",
+            "platform": "linkedin-page",
+            "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "publishDate": "2026-11-05T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7524036721777410049",
+            "content": "En p\u00e9riode de froid, un particulier dont la chaudi\u00e8re tombe en panne choisit souvent son chauffagiste en quelques secondes, depuis son t\u00e9l\u00e9phone.\n\nIl compare les fiches Google, ces encadr\u00e9s que Google affiche avec les photos, la note, les avis et le bouton Appeler. Il ne lit pas tout. Il regarde si l'entreprise semble active.\n\nUne fiche Google dont la derni\u00e8re photo date de plusieurs saisons envoie un signal discret mais r\u00e9el. Le client se demande si l'entreprise r\u00e9pond encore, et il passe \u00e0 la suivante.\n\n\u00c0 l'inverse, une photo de chantier publi\u00e9e chaque semaine et une r\u00e9ponse sous chaque avis suffisent \u00e0 montrer une entreprise en activit\u00e9.\n\nC'est ce que fait Proenligne, chaque semaine, \u00e0 la place du g\u00e9rant. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis.\n\nDans votre entreprise, qui s'occupe aujourd'hui de la fiche Google ?\n\n#FicheGoogle #GoogleBusinessProfile #Chauffagiste #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybibrp0087kb7z0vez1koq",
+            "platform": "linkedin-page",
+            "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "publishDate": "2026-11-05T12:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7524078239666061313",
+            "content": "\u00ab Elle est s\u00e9rieuse, cette auto-\u00e9cole ? \u00bb C'est la question que se posent des parents devant votre fiche Google, avant d'inscrire leur enfant.\nLa fiche Google, c'est ce que Google affiche quand on cherche \u00ab auto-\u00e9cole \u00bb dans sa ville.\n\nLes avis des anciens \u00e9l\u00e8ves comptent. Les r\u00e9ponses de l'auto-\u00e9cole comptent aussi, parce qu'elles montrent la mani\u00e8re dont l'\u00e9quipe parle \u00e0 ses \u00e9l\u00e8ves.\n\nUne r\u00e9ponse efficace tient en trois temps.\nRemercier l'\u00e9l\u00e8ve par son pr\u00e9nom.\nRappeler un d\u00e9tail de sa formation, un examen, une premi\u00e8re conduite de nuit.\nLui souhaiter bonne route.\n\nDeux ou trois phrases suffisent. Le plus difficile reste la r\u00e9gularit\u00e9, surtout quand les avis arrivent pendant les heures de conduite. Proenligne r\u00e9pond \u00e0 chaque avis pour les auto-\u00e9coles qui lui confient leur fiche Google.\n\nDans votre structure, qui est charg\u00e9 de r\u00e9pondre aux avis ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #AutoEcole",
             "stats": {
                 "available": true,
                 "metrics": [
@@ -999,6 +1153,56 @@
             "state": "PUBLISHED",
             "url": "https://www.instagram.com/p/DfUfMOHCvjs/",
             "content": "Deux instituts ont la m\u00eame note sur leur fiche Google. Qu'est-ce qui fait choisir l'un plut\u00f4t que l'autre ?\n\nSur Google Maps, chaque institut a sa fiche Google, avec la note, les photos, les avis et les horaires. Quand les notes se valent, la cliente regarde le reste.\n\nVoici trois pistes, d\u00e9taill\u00e9es dans le carrousel.\nA. Des photos r\u00e9centes des soins\nB. Des r\u00e9ponses aux avis\nC. Des horaires faciles \u00e0 lire\n\nIl n'y a pas de bonne r\u00e9ponse, on veut votre avis de professionnelle. Pour vous, c'est A, B ou C ?\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #ReferencementLocal #GoogleBusinessProfile",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybibp70083kb7z092qlgf7",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-05T12:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/p/DfW-04nCEMI/",
+            "content": "\u00ab Elle est s\u00e9rieuse, cette auto-\u00e9cole ? \u00bb Les parents cherchent la r\u00e9ponse sur votre fiche Google.\n\nAvant d'inscrire leur enfant, beaucoup tapent \u00ab auto-\u00e9cole \u00bb sur Google Maps. Ils tombent sur votre fiche Google, avec la note, les avis et surtout vos r\u00e9ponses.\n\nUne bonne r\u00e9ponse \u00e0 un avis tient en 3 temps.\n1. Remerciez l'\u00e9l\u00e8ve par son pr\u00e9nom.\n2. Rappelez un d\u00e9tail de sa formation, son examen ou sa premi\u00e8re conduite de nuit.\n3. Souhaitez-lui bonne route.\n\nDeux ou trois phrases suffisent, et les parents voient qu'une vraie personne r\u00e9pond.\n\nDans votre auto-\u00e9cole, qui r\u00e9pond aux avis, vous ou un moniteur ?\n\n#FicheGoogle #AutoEcole #PermisDeConduire #ReferencementLocal #GoogleBusinessProfile",
             "stats": {
                 "available": true,
                 "metrics": [
@@ -1242,6 +1446,56 @@
             }
         },
         {
+            "id": "cmw2ihhmd00bfkb7zwrlhvtkg",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-05T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DfWsACinGi-/",
+            "content": "Il fait froid, la chaudi\u00e8re tombe en panne, et le client cherche un chauffagiste sur Google.\n\nIl fait d\u00e9filer les fiches Google, ces encadr\u00e9s avec vos photos, vos avis et le bouton Appeler. Une fiche Google sans photo r\u00e9cente, il la passe en deux secondes.\n\nUne photo de chantier chaque semaine et une r\u00e9ponse sous chaque avis, et le pouce s'arr\u00eate sur vous.\n\nDe quand date la derni\u00e8re photo de votre fiche Google ?\n\n#FicheGoogle #Chauffagiste #Chauffage #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
             "id": "cmvse6ufu000eo77zjtho46xq",
             "platform": "x",
             "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
@@ -1301,6 +1555,19 @@
             "state": "PUBLISHED",
             "url": "https://twitter.com/Proenligne/status/2117855704945955077",
             "content": "On pense qu'en urgence, personne ne regarde votre fiche Google. C'est souvent l'inverse.\n\nBloqu\u00e9 dehors, le client ouvre les fiches Google des serruriers sur Google Maps et lit leurs avis.\n\n\u00c0 sa place, que regarderiez-vous en premier ?\n\n#FicheGoogle #Serrurier",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmw2ihhoc00bhkb7z12i491py",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-05T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2118271028988117392",
+            "content": "Il fait froid, un client cherche un chauffagiste sur Google. Une fiche Google sans photo r\u00e9cente, il la passe en deux secondes.\n\nDe quand date la v\u00f4tre ?\n\n#FicheGoogle #Chauffagiste",
             "stats": {
                 "available": false,
                 "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
@@ -1370,8 +1637,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 42,
-                        "sum": 42,
+                        "latest": 49,
+                        "sum": 49,
                         "percentageChange": 0
                     },
                     {
@@ -1446,8 +1713,46 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 76,
-                        "sum": 76,
+                        "latest": 77,
+                        "sum": 77,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2ihhpq00bjkb7zsqiq9i4v",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-05T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=dOFFUdqjLL0",
+            "content": "Il fait froid, la chaudi\u00e8re tombe en panne, et le client cherche un chauffagiste sur Google.\n\nIl fait d\u00e9filer les fiches Google, ces encadr\u00e9s avec vos photos, vos avis et le bouton Appeler. Une fiche Google sans photo r\u00e9cente, il la passe en deux secondes.\n\nUne photo de chantier chaque semaine et une r\u00e9ponse sous chaque avis, et le pouce s'arr\u00eate sur vous.\n\nDe quand date la derni\u00e8re photo de votre fiche Google ?\n\n#FicheGoogle #Chauffagiste #Chauffage #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 20,
+                        "sum": 20,
                         "percentageChange": 0
                     },
                     {
