@@ -1222,5 +1222,39 @@
    "linkedin": "cmw2mfuq000m5kb7ze823ogp2"
   },
   "serie": "supp"
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "paysagiste-concurrent-saint-brieuc",
+  "moteur": "swipe",
+  "angle": "Face au concurrent",
+  "metier": "paysagiste",
+  "ville": "Saint-Brieuc",
+  "valeur": "",
+  "accroches": [
+   "Paysagiste à Saint-Brieuc, une cliente compare votre fiche Google.",
+   "Paysagiste à Saint-Brieuc, votre fiche Google dort cet hiver ?"
+  ],
+  "voix": [
+   {
+    "scene": "Probleme",
+    "texte": "Le voisin montre ses jardins d'hiver."
+   },
+   {
+    "scene": "Bascule",
+    "texte": "Pro en ligne publie vos chantiers."
+   },
+   {
+    "scene": "Bascule",
+    "texte": "Et c'est votre fiche Google qu'on garde.",
+    "ancre": 3.0
+   },
+   {
+    "scene": "Offre",
+    "texte": "Trente jours offerts, le lien est en bio."
+   }
+  ],
+  "ambiance": 1,
+  "duree": 16.5
  }
 ]

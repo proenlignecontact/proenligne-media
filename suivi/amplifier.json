@@ -15,7 +15,12 @@
    "format": "fiche",
    "creneau": "video",
    "accroche": "Il est 20 h. Une cliente cherche un paysagiste et ouvre votre fiche Google.",
-   "detecte_le": "2026-11-05"
+   "detecte_le": "2026-11-05",
+   "variante_programmee": {
+    "date": "2026-11-06",
+    "postiz_id": "cmw3ly7xv00mbkb7z3i0ss5va",
+    "ab": "B"
+   }
   },
   {
    "fiche": "2026-11-03_1900_garage-avis-sans-reponse-soir",

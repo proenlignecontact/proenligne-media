@@ -1,0 +1,31 @@
+{
+ "creneaux": [
+  {
+   "date": "2026-11-06",
+   "creneau_nominal": "12:30",
+   "heure": "12:30",
+   "utc": "2026-11-06T11:30:00Z",
+   "creneau": "video",
+   "offre": "essai",
+   "intention": "utile",
+   "ab": "B",
+   "metier": "paysagiste",
+   "angle": "peur-de-perdre",
+   "format": "fiche",
+   "ton": "scene",
+   "symptome": "aucune-publication",
+   "slug": "paysagiste-concurrent-saint-brieuc",
+   "accroche": "Paysagiste à Saint-Brieuc, une cliente compare votre fiche Google.",
+   "premier_commentaire": "Paysagistes, que montrez-vous sur votre fiche Google entre novembre et mars ?",
+   "tiktok_title": "Paysagiste, votre fiche Google dort-elle cet hiver ?",
+   "textes": {
+    "tiktok": "Paysagiste à Saint-Brieuc, une cliente compare votre fiche Google à celle du voisin. Lui montre ses jardins d'hiver, la vôtre dort depuis le printemps.\n30 jours offerts, sans engagement, lien en bio.\n\n#FicheGoogle #Paysagiste #Jardin #SaintBrieuc"
+   },
+   "media": {
+    "video": "https://media.glidy.uk/mJmuFvocsh.mp4",
+    "fichier": "medias/2026-11-06/paysagiste-concurrent-saint-brieuc-amplif.mp4"
+   },
+   "notes": "Variante amplifiée de 2026-11-02_1900_paysagiste-fiche-endormie-hiver (Instagram 7 vs médiane 1)."
+  }
+ ]
+}

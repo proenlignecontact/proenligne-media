@@ -1,0 +1,49 @@
+{
+ "id": "2026-11-06_1230_paysagiste-concurrent-saint-brieuc",
+ "date_paris": "2026-11-06",
+ "heure_paris": "12:30",
+ "creneau_nominal": "12:30",
+ "intention": "utile",
+ "ab": "B",
+ "premier_commentaire": "Paysagistes, que montrez-vous sur votre fiche Google entre novembre et mars ?",
+ "jour_semaine": "vendredi",
+ "creneau": "video",
+ "metier": "paysagiste",
+ "angle": "peur-de-perdre",
+ "format": "fiche",
+ "ton": "scene",
+ "symptome": "aucune-publication",
+ "offre": "essai",
+ "accroche": "Paysagiste à Saint-Brieuc, une cliente compare votre fiche Google.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#Jardin",
+  "#Paysagiste",
+  "#SaintBrieuc"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [
+   "medias/2026-11-06/paysagiste-concurrent-saint-brieuc-amplif.mp4"
+  ],
+  "postiz": [
+   "https://media.glidy.uk/mJmuFvocsh.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmw3ly7xv00mbkb7z3i0ss5va",
+   "caracteres": 246,
+   "texte": "Paysagiste à Saint-Brieuc, une cliente compare votre fiche Google à celle du voisin. Lui montre ses jardins d'hiver, la vôtre dort depuis le printemps.\n30 jours offerts, sans engagement, lien en bio.\n\n#FicheGoogle #Paysagiste #Jardin #SaintBrieuc"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "Variante amplifiée de 2026-11-02_1900_paysagiste-fiche-endormie-hiver (Instagram 7 vs médiane 1).",
+ "moteur": "swipe",
+ "angle_video": "Face au concurrent",
+ "ville_video": "Saint-Brieuc",
+ "duree_video": 16.5,
+ "musique": "ambiance-1"
+}
