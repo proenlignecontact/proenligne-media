@@ -21,7 +21,7 @@ Si après les 20 essais `mcp__postiz__*` est toujours absent ou en erreur (ou El
 | Tâche (nom exact) | Identifiant à relancer |
 |---|---|
 | Gardien quotidien Proenligne | trig_01Adg31pNnFKfkNdASGwDxpS |
-| Gardien quotidien Proenligne — secours | (voir la consigne gardien : ne se relance pas, le gardien du lendemain prend le relais) |
+| Gardien quotidien Proenligne — secours (trig_01A6nFwj6AiWVVZtU5eAjZQy, 11h47) | ne se relance pas : si postiz reste absent, message avec l’erreur exacte |
 | Planning hebdo Proenligne | trig_0133XiVfnvCaVBi4Na7WyF1G |
 | Planning hebdo Proenligne — secours | trig_01NCGbi1emYnLZFXBKtFeAS9 |
 | Vidéos supplémentaires Proenligne | trig_01F1wWz3A5dR1o7joNbvcfDs |
