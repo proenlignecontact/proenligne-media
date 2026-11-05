@@ -1,0 +1,40 @@
+{
+ "slug": "paysagiste-concurrent-saint-brieuc",
+ "moteur": "swipe",
+ "angle": "Face au concurrent",
+ "metier": "paysagiste",
+ "ville": "Saint-Brieuc",
+ "ambiance": 1,
+ "entreprise": "",
+ "accroches": [
+  "Paysagiste à Saint-Brieuc, une cliente compare votre fiche Google.",
+  "Paysagiste à Saint-Brieuc, votre fiche Google dort cet hiver ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Le voisin montre ses jardins d'hiver."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne publie vos chantiers."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et c'est votre fiche Google qu'on garde.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts, le lien est en bio."
+  }
+ ],
+ "offre_ligne": "Même l'hiver, *une fiche Google vivante.*",
+ "musique": true,
+ "audio_src": {
+  "prise-A": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/k8wRL7Zy1tg9j5ofAVdr/C56VO6Zs4bZ6uXYsG8IA/content.mp3?Expires=1793894400&KeyName=assets-cdn-key-1&Signature=wS9AUVrokpFriHWIsqm63SXA6xQ=",
+   "duree": 13.12
+  }
+ }
+}
