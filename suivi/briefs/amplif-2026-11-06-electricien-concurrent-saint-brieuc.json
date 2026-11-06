@@ -1,0 +1,41 @@
+{
+ "slug": "electricien-concurrent-saint-brieuc",
+ "moteur": "cinetique",
+ "angle": "Face au concurrent",
+ "metier": "électricien",
+ "ville": "Saint-Brieuc",
+ "valeur": "Électricien Morvan",
+ "ambiance": 1,
+ "entreprise": "",
+ "accroches": [
+  "Électricien à Saint-Brieuc, sa *fiche Google* bat la vôtre ?",
+  "Électricien à Saint-Brieuc, votre *fiche Google* dort ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Lui publie, la vôtre ne bouge plus."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne fait vivre votre fiche Google."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et ce soir, on vous appelle.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts, le lien est en bio."
+  }
+ ],
+ "offre_ligne": "Ce soir, *on vous appelle, vous.*",
+ "musique": true,
+ "audio_src": {
+  "prise-B": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/idbS2HPXw9iOVw1zaUk0/NAJ6B5tKriE2Z8R6kQZT/content.mp3?Expires=1793962800&KeyName=assets-cdn-key-1&Signature=CO6dc7RjdypTBBmVLov8U5NsCmY=",
+   "duree": 12.88
+  }
+ }
+}
