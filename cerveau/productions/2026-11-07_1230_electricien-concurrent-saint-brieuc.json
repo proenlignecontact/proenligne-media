@@ -1,0 +1,49 @@
+{
+ "id": "2026-11-07_1230_electricien-concurrent-saint-brieuc",
+ "date_paris": "2026-11-07",
+ "heure_paris": "12:30",
+ "creneau_nominal": "12:30",
+ "intention": null,
+ "ab": "B",
+ "premier_commentaire": "Votre dernière photo sur votre fiche Google date de quand ?",
+ "jour_semaine": "samedi",
+ "creneau": "video",
+ "metier": "electricien",
+ "angle": "peur-de-perdre",
+ "format": "libre",
+ "ton": "scene",
+ "symptome": "aucune-publication",
+ "offre": "essai",
+ "accroche": "Électricien à Saint-Brieuc, votre fiche Google dort ?",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Depannage",
+  "#Electricien",
+  "#FicheGoogle",
+  "#SaintBrieuc"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [
+   "medias/2026-11-07/electricien-concurrent-saint-brieuc-amplif.mp4"
+  ],
+  "postiz": [
+   "https://media.glidy.uk/TmX9YYeHWV.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmw4qc0sp00mhkb7zqefbavlh",
+   "caracteres": 265,
+   "texte": "Électricien à Saint-Brieuc, votre fiche Google dort ? Le concurrent publie ses chantiers, la vôtre ne bouge plus depuis des mois. Et ce soir, c'est lui qu'on appelle.\n30 jours offerts, sans engagement, lien en bio.\n\n#FicheGoogle #Electricien #Depannage #SaintBrieuc"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "Variante amplifiée de 2026-10-31_1900_electricien-panne-du-soir (Instagram 5 vs médiane 1).",
+ "moteur": "cinetique",
+ "angle_video": "Face au concurrent",
+ "ville_video": "Saint-Brieuc",
+ "duree_video": 15.5,
+ "musique": "ambiance-1"
+}

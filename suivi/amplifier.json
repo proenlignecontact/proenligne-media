@@ -52,7 +52,12 @@
    "format": "libre",
    "creneau": "video",
    "accroche": "Électriciens : ce soir, vous êtes 3e sur Google. Aucune photo depuis 2021.",
-   "detecte_le": "2026-11-05"
+   "detecte_le": "2026-11-05",
+   "variante_programmee": {
+    "date": "2026-11-07",
+    "postiz_id": "cmw4qc0sp00mhkb7zqefbavlh",
+    "ab": "B"
+   }
   }
  ],
  "repris": []

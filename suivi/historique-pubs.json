@@ -1256,5 +1256,26 @@
   ],
   "ambiance": 1,
   "duree": 16.5
+ },
+ {
+  "date": "2026-11-07",
+  "slug": "electricien-concurrent-saint-brieuc",
+  "moteur": "cinetique",
+  "angle": "Face au concurrent",
+  "metier": "électricien",
+  "ville": "Saint-Brieuc",
+  "valeur": "Électricien Morvan",
+  "accroches": [
+   "Électricien à Saint-Brieuc, sa *fiche Google* bat la vôtre ?",
+   "Électricien à Saint-Brieuc, votre *fiche Google* dort ?"
+  ],
+  "voix": [
+   "Lui publie, la vôtre ne bouge plus.",
+   "Pro en ligne fait vivre votre fiche Google.",
+   "Et ce soir, on vous appelle.",
+   "Trente jours offerts, le lien est en bio."
+  ],
+  "ambiance": 1,
+  "duree": 15.5
  }
 ]

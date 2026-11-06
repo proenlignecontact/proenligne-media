@@ -1,0 +1,31 @@
+{
+ "creneaux": [
+  {
+   "date": "2026-11-07",
+   "creneau_nominal": "12:30",
+   "heure": "12:30",
+   "utc": "2026-11-07T11:30:00Z",
+   "creneau": "video",
+   "offre": "essai",
+   "intention": null,
+   "ab": "B",
+   "metier": "electricien",
+   "angle": "peur-de-perdre",
+   "format": "libre",
+   "ton": "scene",
+   "symptome": "aucune-publication",
+   "slug": "electricien-concurrent-saint-brieuc",
+   "accroche": "Électricien à Saint-Brieuc, votre fiche Google dort ?",
+   "premier_commentaire": "Votre dernière photo sur votre fiche Google date de quand ?",
+   "tiktok_title": "Électricien, votre fiche Google dort-elle ?",
+   "textes": {
+    "tiktok": "Électricien à Saint-Brieuc, votre fiche Google dort ? Le concurrent publie ses chantiers, la vôtre ne bouge plus depuis des mois. Et ce soir, c'est lui qu'on appelle.\n30 jours offerts, sans engagement, lien en bio.\n\n#FicheGoogle #Electricien #Depannage #SaintBrieuc"
+   },
+   "media": {
+    "video": "https://media.glidy.uk/TmX9YYeHWV.mp4",
+    "fichier": "medias/2026-11-07/electricien-concurrent-saint-brieuc-amplif.mp4"
+   },
+   "notes": "Variante amplifiée de 2026-10-31_1900_electricien-panne-du-soir (Instagram 5 vs médiane 1)."
+  }
+ ]
+}
