@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-06T08:41:57.248Z",
+    "generatedAt": "2026-11-06T13:01:03.722Z",
     "days": 60,
     "channels": [
         {
@@ -13,20 +13,20 @@
                 "metrics": [
                     {
                         "metric": "Page Impressions",
-                        "latest": 0,
-                        "sum": 9,
+                        "latest": 2,
+                        "sum": 11,
                         "percentageChange": 5
                     },
                     {
                         "metric": "Media views",
-                        "latest": 0,
-                        "sum": 48,
+                        "latest": 4,
+                        "sum": 52,
                         "percentageChange": 5
                     },
                     {
                         "metric": "Posts Engagement",
-                        "latest": 0,
-                        "sum": 18,
+                        "latest": 2,
+                        "sum": 20,
                         "percentageChange": 5
                     },
                     {
@@ -58,66 +58,6 @@
             "stats": {
                 "available": false,
                 "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
-            }
-        },
-        {
-            "id": "cmvsaqnzu0001pj8d4gk1ojzz",
-            "name": "Proenligne",
-            "platform": "tiktok",
-            "profile": "proenligne",
-            "disabled": false,
-            "stats": {
-                "available": true,
-                "metrics": [
-                    {
-                        "metric": "Followers",
-                        "latest": 0,
-                        "sum": 0,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Following",
-                        "latest": 6,
-                        "sum": 6,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Total Likes",
-                        "latest": 13,
-                        "sum": 13,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Videos",
-                        "latest": 7,
-                        "sum": 7,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Views",
-                        "latest": 3865,
-                        "sum": 3865,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Recent Likes",
-                        "latest": 13,
-                        "sum": 13,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Recent Comments",
-                        "latest": 0,
-                        "sum": 0,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Recent Shares",
-                        "latest": 0,
-                        "sum": 0,
-                        "percentageChange": 0
-                    }
-                ]
             }
         },
         {
@@ -164,6 +104,66 @@
                         "latest": 0,
                         "sum": 1,
                         "percentageChange": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "name": "Proenligne",
+            "platform": "tiktok",
+            "profile": "proenligne",
+            "disabled": false,
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Followers",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Following",
+                        "latest": 6,
+                        "sum": 6,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Total Likes",
+                        "latest": 14,
+                        "sum": 14,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Videos",
+                        "latest": 11,
+                        "sum": 11,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Views",
+                        "latest": 4151,
+                        "sum": 4151,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Recent Likes",
+                        "latest": 14,
+                        "sum": 14,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Recent Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Recent Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
                     }
                 ]
             }
@@ -654,8 +654,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 61,
-                        "sum": 61,
+                        "latest": 63,
+                        "sum": 63,
                         "percentageChange": 0
                     },
                     {
@@ -839,6 +839,82 @@
                         "metric": "Engagement",
                         "latest": 1,
                         "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybjrmt008pkb7zbev1ufdt",
+            "platform": "linkedin-page",
+            "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "publishDate": "2026-11-06T11:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7524433078610583552",
+            "content": "Votre entreprise installe des bornes de recharge ? Votre fiche Google le dit-elle ?\nLa fiche Google, c'est l'encadr\u00e9 que Google pr\u00e9sente quand un particulier cherche un \u00e9lectricien pr\u00e8s de chez lui.\n\nPrenons une entreprise imaginaire, \u00c9lectricit\u00e9 Bernard.\n\nAvant, sa fiche Google mentionnait seulement \u00ab \u00e9lectricien \u00bb. Un propri\u00e9taire de voiture \u00e9lectrique qui cherchait un installateur de bornes ne pouvait pas deviner qu'\u00c9lectricit\u00e9 Bernard en posait.\n\nApr\u00e8s, une photo de borne install\u00e9e est publi\u00e9e le lundi, puis un article sur la recharge \u00e0 domicile le jeudi. Le service devient visible pour les clients qui le cherchent.\n\nLe m\u00e9tier n'a pas chang\u00e9. Ce qui a chang\u00e9, c'est ce que la fiche Google raconte de l'activit\u00e9 r\u00e9elle.\n\nProenligne fonctionne ainsi. Chaque semaine, une photo est publi\u00e9e le lundi, un article le jeudi, et chaque avis re\u00e7oit une r\u00e9ponse.\n\nQuel service de votre entreprise reste aujourd'hui invisible sur Google ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Electricien #Artisanat",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybjri9008lkb7z3azra8w2",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-06T11:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/p/DfZgMEPCFl6/",
+            "content": "Vous installez des bornes de recharge, mais votre fiche Google n'en dit pas un mot.\n\nLa fiche Google, c'est la carte de visite que Google montre \u00e0 votre place quand quelqu'un cherche un \u00e9lectricien, avec vos photos, vos avis et votre num\u00e9ro.\n\nPrenons un \u00e9lectricien imaginaire, \u00c9lectricit\u00e9 Bernard.\nAvant, sa fiche Google indiquait seulement \u00ab \u00e9lectricien \u00bb. Un propri\u00e9taire de voiture \u00e9lectrique ne pouvait pas deviner qu'\u00c9lectricit\u00e9 Bernard posait des bornes.\nApr\u00e8s, une photo de borne install\u00e9e est publi\u00e9e le lundi, et un article sur la recharge \u00e0 domicile le jeudi. Le service se voit enfin.\n\nQuel service faites-vous souvent sans qu'il apparaisse sur votre fiche Google ?\n\n#FicheGoogle #Electricien #BorneDeRecharge #ReferencementLocal #GoogleBusinessProfile",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
                         "percentageChange": 0
                     }
                 ]
@@ -1669,6 +1745,114 @@
             }
         },
         {
+            "id": "cmw2iinrf00c1kb7zb4234q7w",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-06T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/2356590471852755",
+            "content": "Un client veut commander un g\u00e2teau d'anniversaire. Il cherche une boulangerie sur Google Maps et ouvre votre fiche Google.\n\nLa derni\u00e8re photo date de 2021. Quelques avis attendent une r\u00e9ponse. Rien n'a \u00e9t\u00e9 publi\u00e9 depuis longtemps.\n\nIl h\u00e9site, puis il appelle la boulangerie d'\u00e0 c\u00f4t\u00e9, celle dont la fiche Google montre les vitrines de la semaine.\n\nQuelle est la derni\u00e8re photo que vous avez ajout\u00e9e \u00e0 votre fiche Google ?\n\n#FicheGoogle #Boulangerie #Boulanger #Patisserie",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 3,
+                        "sum": 3,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2iinub00c5kb7zlukbamhe",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-06T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2118629639983636528",
+            "content": "Une photo de 2021 sur votre fiche Google, des avis sans r\u00e9ponse, et le client qui voulait commander un g\u00e2teau appelle \u00e0 c\u00f4t\u00e9.\n\nVotre derni\u00e8re photo date de quand ?\n\n#FicheGoogle #Boulangerie",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmw2iinsu00c3kb7zver5s6dm",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-06T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DfZPAfMjvXg/",
+            "content": "Un client veut commander un g\u00e2teau d'anniversaire. Il cherche une boulangerie sur Google Maps et ouvre votre fiche Google.\n\nLa derni\u00e8re photo date de 2021. Quelques avis attendent une r\u00e9ponse. Rien n'a \u00e9t\u00e9 publi\u00e9 depuis longtemps.\n\nIl h\u00e9site, puis il appelle la boulangerie d'\u00e0 c\u00f4t\u00e9, celle dont la fiche Google montre les vitrines de la semaine.\n\nQuelle est la derni\u00e8re photo que vous avez ajout\u00e9e \u00e0 votre fiche Google ?\n\n#FicheGoogle #Boulangerie #Boulanger #Patisserie",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 4,
+                        "sum": 4,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 4,
+                        "sum": 4,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2iinph00bzkb7zt2otcg72",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-06T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7704980360144095254",
+            "content": "Une photo de 2021 sur votre fiche Google, et le client qui voulait commander un g\u00e2teau appelle la boulangerie d'\u00e0 c\u00f4t\u00e9.\n\n#FicheGoogle #Boulangerie #Boulanger #Patisserie",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
             "id": "cmw2ihhoc00bhkb7z12i491py",
             "platform": "x",
             "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
@@ -1751,8 +1935,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 32,
-                        "sum": 32,
+                        "latest": 34,
+                        "sum": 34,
                         "percentageChange": 0
                     },
                     {
@@ -1955,6 +2139,19 @@
             }
         },
         {
+            "id": "cmw3ly7xv00mbkb7z3i0ss5va",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-06T11:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7705019047683049494",
+            "content": "Paysagiste \u00e0 Saint-Brieuc, une cliente compare votre fiche Google \u00e0 celle du voisin. Lui montre ses jardins d'hiver, la v\u00f4tre dort depuis le printemps.\n30 jours offerts, sans engagement, lien en bio.\n\n#FicheGoogle #Paysagiste #Jardin #SaintBrieuc",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
             "id": "cmw2ihhhy00bbkb7zznu93tdg",
             "platform": "tiktok",
             "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
@@ -2005,8 +2202,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 37,
-                        "sum": 37,
+                        "latest": 38,
+                        "sum": 38,
                         "percentageChange": 0
                     },
                     {
@@ -2119,8 +2316,8 @@
                 "metrics": [
                     {
                         "metric": "Impressions",
-                        "latest": 0,
-                        "sum": 0,
+                        "latest": 1,
+                        "sum": 1,
                         "percentageChange": 0
                     },
                     {
@@ -2161,6 +2358,114 @@
             "stats": {
                 "available": false,
                 "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmw2iinvi00c7kb7zkh5ztrps",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-06T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=b4Bn3raCZJ8",
+            "content": "Un client veut commander un g\u00e2teau d'anniversaire. Il cherche une boulangerie sur Google Maps et ouvre votre fiche Google.\n\nLa derni\u00e8re photo date de 2021. Quelques avis attendent une r\u00e9ponse. Rien n'a \u00e9t\u00e9 publi\u00e9 depuis longtemps.\n\nIl h\u00e9site, puis il appelle la boulangerie d'\u00e0 c\u00f4t\u00e9, celle dont la fiche Google montre les vitrines de la semaine.\n\nQuelle est la derni\u00e8re photo que vous avez ajout\u00e9e \u00e0 votre fiche Google ?\n\n#FicheGoogle #Boulangerie #Boulanger #Patisserie",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 7,
+                        "sum": 7,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2iinwy00c9kb7zvxh53b8f",
+            "platform": "linkedin-page",
+            "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "publishDate": "2026-11-06T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7524395335712960512",
+            "content": "Pour une boulangerie, une partie des commandes passe encore par le t\u00e9l\u00e9phone. G\u00e2teaux d'anniversaire, pi\u00e8ces mont\u00e9es, plateaux pour un \u00e9v\u00e9nement.\n\nAvant d'appeler, le client ouvre souvent la fiche Google, l'encadr\u00e9 que Google affiche avec les photos, les horaires et les avis.\n\nUn d\u00e9tail peut suffire \u00e0 le faire h\u00e9siter. Une derni\u00e8re photo vieille de plusieurs ann\u00e9es, des avis rest\u00e9s sans r\u00e9ponse, aucune publication r\u00e9cente. Le doute s'installe et l'appel part ailleurs.\n\nLa solution n'a rien de spectaculaire. Une photo de la vitrine chaque semaine, une publication r\u00e9guli\u00e8re, une r\u00e9ponse sous chaque avis.\n\nProenligne le fait \u00e0 la place de l'\u00e9quipe, qui reste \u00e0 son fournil.\n\nCombien de commandes votre boulangerie re\u00e7oit-elle par t\u00e9l\u00e9phone, selon vous, gr\u00e2ce \u00e0 Google ?\n\n#FicheGoogle #GoogleBusinessProfile #Boulangerie #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvybjrld008nkb7zm8hsntjz",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-06T11:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/122101312257531668/posts/122105921169531668",
+            "content": "Vous installez des bornes de recharge, mais votre fiche Google n'en dit pas un mot.\n\nVoici une d\u00e9monstration avec un \u00e9lectricien imaginaire, \u00c9lectricit\u00e9 Bernard.\n\nAvant, sa fiche Google, celle que Google affiche quand on cherche \u00ab \u00e9lectricien \u00bb pr\u00e8s de chez soi, indiquait seulement son m\u00e9tier. Rien sur les bornes de recharge qu'il installe pourtant r\u00e9guli\u00e8rement.\n\nApr\u00e8s, une photo de borne install\u00e9e arrive le lundi, et un article sur la recharge \u00e0 domicile le jeudi. Le client qui vient d'acheter une voiture \u00e9lectrique comprend tout de suite qu'il est au bon endroit.\n\nEt vous, quel service faites-vous souvent sans qu'il apparaisse sur votre fiche Google ?\n\n#FicheGoogle #Electricien #BorneDeRecharge #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks by Type",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
             }
         }
     ]
