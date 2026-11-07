@@ -1,0 +1,49 @@
+{
+ "id": "2026-11-08_1230_garage-temps-saint-brieuc",
+ "date_paris": "2026-11-08",
+ "heure_paris": "12:30",
+ "creneau_nominal": "12:30",
+ "intention": "utile",
+ "ab": "B",
+ "premier_commentaire": "Et vous, à quelle heure répondez-vous aux avis de votre fiche Google ?",
+ "jour_semaine": "dimanche",
+ "creneau": "video",
+ "metier": "garage",
+ "angle": "gain-de-temps",
+ "format": "avis",
+ "ton": "replique",
+ "symptome": "avis-sans-reponse",
+ "offre": "essai",
+ "accroche": "Garagiste à Saint-Brieuc, encore sur votre fiche Google ?",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#Garage",
+  "#Garagiste",
+  "#SaintBrieuc"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [
+   "medias/2026-11-08/garage-temps-saint-brieuc-amplif.mp4"
+  ],
+  "postiz": [
+   "https://media.glidy.uk/wrXfw2KdfX.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmw6ot54d00mxkb7z966jyz0r",
+   "caracteres": 195,
+   "texte": "Garagiste à Saint-Brieuc, encore sur votre fiche Google à 22h47 ? Proenligne répond à chaque avis à votre place. Vos soirées redeviennent les vôtres.\n\n#FicheGoogle #Garage #Garagiste #SaintBrieuc"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "Variante amplifiée de 2026-11-03_1900_garage-avis-sans-reponse-soir (Instagram 2 vs médiane 1).",
+ "moteur": "cinetique",
+ "angle_video": "Du temps libre",
+ "ville_video": "Saint-Brieuc",
+ "duree_video": 15.5,
+ "musique": "ambiance-1"
+}

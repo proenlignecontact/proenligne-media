@@ -1,5 +1,24 @@
 {
- "recrees": [],
+ "recrees": [
+  {
+   "date": "2026-11-07",
+   "ancien_id": "cmvybkzg70095kb7zsunacjbw",
+   "nouvel_id": "cmw6oq08m00mtkb7zpkvporoj",
+   "canal": "instagram",
+   "erreur": "Failed to create media, please try again",
+   "prevu": "2026-11-07T12:30:00Z",
+   "reprogramme": "2026-11-07T19:45:00Z"
+  },
+  {
+   "date": "2026-11-07",
+   "ancien_id": "cmw2ike6200d3kb7z70nnq8b3",
+   "nouvel_id": "cmw6oq0ac00mvkb7zniotzia1",
+   "canal": "instagram",
+   "erreur": "Unknown error, please try again later or contact support",
+   "prevu": "2026-11-07T15:15:00Z",
+   "reprogramme": "2026-11-07T20:00:00Z"
+  }
+ ],
  "echecs": [
   {
    "date": "2026-11-03",

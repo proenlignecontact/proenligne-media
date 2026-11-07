@@ -36,7 +36,12 @@
    "format": "avis",
    "creneau": "video",
    "accroche": "« Ils ne lisent pas leurs avis ? » se demande un client devant votre fiche Google.",
-   "detecte_le": "2026-11-05"
+   "detecte_le": "2026-11-05",
+   "variante_programmee": {
+    "date": "2026-11-08",
+    "postiz_id": "cmw6ot54d00mxkb7z966jyz0r",
+    "ab": "B"
+   }
   },
   {
    "fiche": "2026-10-31_1900_electricien-panne-du-soir",

@@ -557,7 +557,7 @@
   "canaux": {
    "tiktok": "cmw2ike2z00czkb7zew3mv3gv",
    "facebook": "cmw2ike4c00d1kb7zavflj008",
-   "instagram": "cmw2ike6200d3kb7z70nnq8b3",
+   "instagram": "cmw6oq0ac00mvkb7zniotzia1",
    "x": "cmw2ike7w00d5kb7zixjz0px1",
    "youtube": "cmw2ike9f00d7kb7zrac3ti0d",
    "linkedin": "cmw2ikeb200d9kb7zjepg9g7w"
@@ -1273,6 +1273,27 @@
    "Lui publie, la vôtre ne bouge plus.",
    "Pro en ligne fait vivre votre fiche Google.",
    "Et ce soir, on vous appelle.",
+   "Trente jours offerts, le lien est en bio."
+  ],
+  "ambiance": 1,
+  "duree": 15.5
+ },
+ {
+  "date": "2026-11-08",
+  "slug": "garage-temps-saint-brieuc",
+  "moteur": "cinetique",
+  "angle": "Du temps libre",
+  "metier": "garagiste",
+  "ville": "Saint-Brieuc",
+  "valeur": "22h47",
+  "accroches": [
+   "Garagiste à Saint-Brieuc, encore sur votre *fiche Google* ?",
+   "Garagiste à Saint-Brieuc, et vos avis de *fiche Google* ?"
+  ],
+  "voix": [
+   "Trois clients attendent un merci sur votre fiche Google.",
+   "Pro en ligne répond à chaque avis pour vous.",
+   "Et vos soirées redeviennent les vôtres.",
    "Trente jours offerts, le lien est en bio."
   ],
   "ambiance": 1,
