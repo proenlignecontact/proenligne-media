@@ -1,5 +1,5 @@
 {
- "releve_le": "2026-11-08T11:59:42.161Z",
+ "releve_le": "2026-11-08T16:32:49.341Z",
  "source": "2026-11-08.json",
  "posts": [
   {
@@ -73,8 +73,8 @@
   {
    "postiz_id": "cmw6oq0ac00mvkb7zniotzia1",
    "canal": "instagram",
-   "vues": 18,
-   "portee": 16,
+   "vues": 26,
+   "portee": 23,
    "enregistrements": 0,
    "likes": 0,
    "commentaires": 1,
@@ -89,8 +89,8 @@
   {
    "postiz_id": "cmw2ikz4w00dfkb7zfnsoh5mg",
    "canal": "instagram",
-   "vues": 13,
-   "portee": 10,
+   "vues": 19,
+   "portee": 16,
    "enregistrements": 0,
    "likes": 0,
    "commentaires": 1,
@@ -112,6 +112,12 @@
    "likes": 0,
    "commentaires": 1,
    "partages": 0
+  },
+  {
+   "postiz_id": "cmw2illdn00dxkb7zqfcez4wd",
+   "canal": "linkedin",
+   "likes": 0,
+   "commentaires": 1
   },
   {
    "postiz_id": "cmvybgwnx007lkb7zf2xrl16u",
@@ -158,7 +164,7 @@
   {
    "postiz_id": "cmw2ijtga00cvkb7zrnvt60rj",
    "canal": "youtube",
-   "vues": 132,
+   "vues": 142,
    "likes": 1,
    "commentaires": 0,
    "enregistrements": 0
@@ -439,7 +445,7 @@
   {
    "postiz_id": "cmw2ike9f00d7kb7zrac3ti0d",
    "canal": "youtube",
-   "vues": 50,
+   "vues": 82,
    "likes": 1,
    "commentaires": 0,
    "enregistrements": 0
@@ -454,7 +460,7 @@
   {
    "postiz_id": "cmw2ikz7u00djkb7zn3n3q390",
    "canal": "youtube",
-   "vues": 9,
+   "vues": 21,
    "likes": 0,
    "commentaires": 0,
    "enregistrements": 0
@@ -465,6 +471,31 @@
    "vues": 0,
    "likes": 0,
    "engagement_total": 1
+  },
+  {
+   "postiz_id": "cmw2illbt00dvkb7zhq015r1l",
+   "canal": "youtube",
+   "vues": 15,
+   "likes": 0,
+   "commentaires": 0,
+   "enregistrements": 0
+  },
+  {
+   "postiz_id": "cmw2ill6b00dpkb7zd4z6r2xp",
+   "canal": "facebook",
+   "vues": 0,
+   "likes": 0,
+   "engagement_total": 1
+  },
+  {
+   "postiz_id": "cmw2ill8b00drkb7z85cgj9hb",
+   "canal": "instagram",
+   "vues": 1,
+   "portee": 1,
+   "enregistrements": 0,
+   "likes": 0,
+   "commentaires": 1,
+   "partages": 0
   },
   {
    "postiz_id": "cmvybibm5007zkb7z3ksiamxo",
@@ -559,7 +590,7 @@
   {
    "postiz_id": "cmw2iinvi00c7kb7zkh5ztrps",
    "canal": "youtube",
-   "vues": 35,
+   "vues": 36,
    "likes": 0,
    "commentaires": 0,
    "enregistrements": 0
@@ -580,7 +611,7 @@
   {
    "postiz_id": "cmw2ij98o00cjkb7z6qvhab6w",
    "canal": "youtube",
-   "vues": 83,
+   "vues": 92,
    "likes": 1,
    "commentaires": 0,
    "enregistrements": 0
@@ -647,6 +678,11 @@
   },
   {
    "postiz_id": "cmw6ot54d00mxkb7z966jyz0r",
+   "canal": "tiktok",
+   "raison": "Postiz ne connaît pas l'ID du post sur la plateforme"
+  },
+  {
+   "postiz_id": "cmw2ill4r00dnkb7z0njpf3ph",
    "canal": "tiktok",
    "raison": "Postiz ne connaît pas l'ID du post sur la plateforme"
   },
@@ -751,6 +787,11 @@
    "raison": "Aucune statistique renvoyée par la plateforme"
   },
   {
+   "postiz_id": "cmw2ill9y00dtkb7zm6txtnpq",
+   "canal": "x",
+   "raison": "Aucune statistique renvoyée par la plateforme"
+  },
+  {
    "postiz_id": "cmw2ihhoc00bhkb7z12i491py",
    "canal": "x",
    "raison": "Aucune statistique renvoyée par la plateforme"
@@ -800,11 +841,21 @@
   "facebook": {
    "Page Impressions": 11,
    "Media views": 52,
-   "Posts Engagement": 30,
+   "Posts Engagement": 31,
    "Page followers": 0
   },
   "instagram": {},
   "x": {},
+  "tiktok": {
+   "Followers": 0,
+   "Following": 12,
+   "Total Likes": 45,
+   "Videos": 15,
+   "Views": 7770,
+   "Recent Likes": 45,
+   "Recent Comments": 0,
+   "Recent Shares": 0
+  },
   "youtube": {
    "Estimated Minutes Watched": 19,
    "Average View Duration": 107,
@@ -812,16 +863,6 @@
    "Subscribers Gained": 0,
    "Subscribers Lost": 0,
    "Likes": 1
-  },
-  "tiktok": {
-   "Followers": 0,
-   "Following": 6,
-   "Total Likes": 40,
-   "Videos": 14,
-   "Views": 7375,
-   "Recent Likes": 40,
-   "Recent Comments": 0,
-   "Recent Shares": 0
   },
   "linkedin": {
    "Page Views": 7,

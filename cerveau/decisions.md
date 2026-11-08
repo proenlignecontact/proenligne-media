@@ -142,3 +142,10 @@ Chaque lot hebdomadaire ajoute ici ses décisions, avec le chiffre qui les justi
 - **Comptes** : TikTok 7 375 vues (+1 997 depuis le 07/11), Facebook 30 engagements (+6), LinkedIn 11 commentaires (+2), YouTube 19 min regardées (+2). TikTok n'a qu'un post mesuré (les autres en UPLOAD sans identifiant) : pas de verdict TikTok ni A/B possible.
 - **Amplification** : les entrées `a_reprendre` de `suivi/amplifier.json` restent en place, la semaine du 9/11 étant déjà pleine ; à reprendre par la tâche du 15/11.
 - Postiz injoignable dans cette exécution : la présence des 63 posts n'a pas pu être revérifiée dans Postiz (le dépôt les donne programmés depuis le 04/11).
+
+## 2026-11-08 (dimanche 16 h 30 UTC) — Tâche hebdomadaire, semaine du 9/11 déjà programmée
+
+- **Postiz joint au 1er essai** : les 63 posts de la semaine (61 de la grille + 2 variantes B TikTok) sont bien présents dans Postiz, tous en QUEUE ; rien n'est reprogrammé ni régénéré (consigne, étape 3 seule).
+- **Relevé frais du 08/11 (16 h 33 UTC, action réussie)** : toujours 32 publications mesurées, verdicts inchangés par rapport à l'exécution de secours ; décisions 70 / 30 du jour maintenues, à appliquer au plan du 16/11.
+- **Comptes** : TikTok 7 770 vues (+2 392 depuis le relevé précédent), 45 j'aime ; Facebook 31 engagements ; LinkedIn 11 commentaires ; YouTube 19 min regardées.
+- **Amplification** : entrées `a_reprendre` laissées en place pour la tâche du 15/11 (semaine du 9/11 pleine).
