@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-08T11:59:42.161Z",
+    "generatedAt": "2026-11-08T16:32:49.341Z",
     "days": 60,
     "channels": [
         {
@@ -25,8 +25,8 @@
                     },
                     {
                         "metric": "Posts Engagement",
-                        "latest": 2,
-                        "sum": 30,
+                        "latest": 3,
+                        "sum": 31,
                         "percentageChange": 5
                     },
                     {
@@ -58,6 +58,66 @@
             "stats": {
                 "available": false,
                 "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "name": "Proenligne",
+            "platform": "tiktok",
+            "profile": "proenligne",
+            "disabled": false,
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Followers",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Following",
+                        "latest": 12,
+                        "sum": 12,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Total Likes",
+                        "latest": 45,
+                        "sum": 45,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Videos",
+                        "latest": 15,
+                        "sum": 15,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Views",
+                        "latest": 7770,
+                        "sum": 7770,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Recent Likes",
+                        "latest": 45,
+                        "sum": 45,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Recent Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Recent Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
             }
         },
         {
@@ -104,66 +164,6 @@
                         "latest": 0,
                         "sum": 1,
                         "percentageChange": null
-                    }
-                ]
-            }
-        },
-        {
-            "id": "cmvsaqnzu0001pj8d4gk1ojzz",
-            "name": "Proenligne",
-            "platform": "tiktok",
-            "profile": "proenligne",
-            "disabled": false,
-            "stats": {
-                "available": true,
-                "metrics": [
-                    {
-                        "metric": "Followers",
-                        "latest": 0,
-                        "sum": 0,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Following",
-                        "latest": 6,
-                        "sum": 6,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Total Likes",
-                        "latest": 40,
-                        "sum": 40,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Videos",
-                        "latest": 14,
-                        "sum": 14,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Views",
-                        "latest": 7375,
-                        "sum": 7375,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Recent Likes",
-                        "latest": 40,
-                        "sum": 40,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Recent Comments",
-                        "latest": 0,
-                        "sum": 0,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Recent Shares",
-                        "latest": 0,
-                        "sum": 0,
-                        "percentageChange": 0
                     }
                 ]
             }
@@ -617,14 +617,14 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 18,
-                        "sum": 18,
+                        "latest": 26,
+                        "sum": 26,
                         "percentageChange": 0
                     },
                     {
                         "metric": "Reach",
-                        "latest": 16,
-                        "sum": 16,
+                        "latest": 23,
+                        "sum": 23,
                         "percentageChange": 0
                     },
                     {
@@ -706,14 +706,14 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 13,
-                        "sum": 13,
+                        "latest": 19,
+                        "sum": 19,
                         "percentageChange": 0
                     },
                     {
                         "metric": "Reach",
-                        "latest": 10,
-                        "sum": 10,
+                        "latest": 16,
+                        "sum": 16,
                         "percentageChange": 0
                     },
                     {
@@ -848,6 +848,45 @@
                         "percentageChange": 0
                     }
                 ]
+            }
+        },
+        {
+            "id": "cmw2illdn00dxkb7zqfcez4wd",
+            "platform": "linkedin-page",
+            "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "publishDate": "2026-11-08T15:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7525210706065960960",
+            "content": "Pour une entreprise d'\u00e9lectricit\u00e9, une baisse d'appels n'a pas toujours une cause \u00e9vidente. La qualit\u00e9 du travail n'a pas chang\u00e9, l'\u00e9quipe non plus.\n\nUne piste est souvent oubli\u00e9e. La fiche Google, cet encadr\u00e9 que Google affiche avec les photos, la note et les avis, est souvent consult\u00e9e avant l'appel. Si elle montre des photos anciennes et des avis rest\u00e9s sans r\u00e9ponse, une partie des clients passe au concurrent suivant sans jamais appeler.\n\nRemettre la fiche Google en mouvement est simple sur le papier. Une photo chaque semaine, une publication r\u00e9guli\u00e8re, une r\u00e9ponse sous chaque avis. C'est la r\u00e9gularit\u00e9 qui co\u00fbte du temps.\n\nProenligne s'en charge chaque semaine, \u00e0 la place du g\u00e9rant.\n\nQuand votre fiche Google a-t-elle \u00e9t\u00e9 mise \u00e0 jour pour la derni\u00e8re fois ?\n\n#FicheGoogle #GoogleBusinessProfile #Electricien #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2ill4r00dnkb7z0njpf3ph",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-08T15:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7705815264763578390",
+            "content": "Le t\u00e9l\u00e9phone est calme ? Regardez votre fiche Google. Des photos qui datent et des avis sans r\u00e9ponse font h\u00e9siter les clients.\n\n#FicheGoogle #Electricien #Electricite #ReferencementLocal",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
             }
         },
         {
@@ -1077,8 +1116,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 132,
-                        "sum": 132,
+                        "latest": 142,
+                        "sum": 142,
                         "percentageChange": 0
                     },
                     {
@@ -2718,8 +2757,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 50,
-                        "sum": 50,
+                        "latest": 82,
+                        "sum": 82,
                         "percentageChange": 0
                     },
                     {
@@ -2801,8 +2840,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 9,
-                        "sum": 9,
+                        "latest": 21,
+                        "sum": 21,
                         "percentageChange": 0
                     },
                     {
@@ -2879,6 +2918,139 @@
             "state": "PUBLISHED",
             "url": "https://twitter.com/Proenligne/status/2119361967726993714",
             "content": "Les bouquets sont pr\u00eats, la boutique est ferm\u00e9e, et votre fiche Google attend encore ses photos et ses r\u00e9ponses aux avis.\n\nQui s'en occupe chez vous ?\n\n#FicheGoogle #Fleuriste",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmw2illbt00dvkb7zhq015r1l",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-08T15:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=sc11cm2hKpY",
+            "content": "Le t\u00e9l\u00e9phone est calme cette semaine ? Ouvrez votre fiche Google, l'encadr\u00e9 que voient les clients qui cherchent un \u00e9lectricien sur Google Maps.\n\nSi les photos datent de deux ans et que les avis attendent une r\u00e9ponse, le client h\u00e9site. Puis il appelle le suivant.\n\nUne fiche Google r\u00e9veill\u00e9e chaque semaine, et le t\u00e9l\u00e9phone recommence \u00e0 sonner.\n\nDepuis quand n'avez-vous pas mis \u00e0 jour votre fiche Google ?\n\n#FicheGoogle #Electricien #Electricite #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 15,
+                        "sum": 15,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2ill6b00dpkb7zd4z6r2xp",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-08T15:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/1153930657073211",
+            "content": "Le t\u00e9l\u00e9phone est calme cette semaine ? Ouvrez votre fiche Google, l'encadr\u00e9 que voient les clients qui cherchent un \u00e9lectricien sur Google Maps.\n\nSi les photos datent de deux ans et que les avis attendent une r\u00e9ponse, le client h\u00e9site. Puis il appelle le suivant.\n\nUne fiche Google r\u00e9veill\u00e9e chaque semaine, et le t\u00e9l\u00e9phone recommence \u00e0 sonner.\n\nDepuis quand n'avez-vous pas mis \u00e0 jour votre fiche Google ?\n\n#FicheGoogle #Electricien #Electricite #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2ill8b00drkb7z85cgj9hb",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-08T15:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DffBzDnDO0K/",
+            "content": "Le t\u00e9l\u00e9phone est calme cette semaine ? Ouvrez votre fiche Google, l'encadr\u00e9 que voient les clients qui cherchent un \u00e9lectricien sur Google Maps.\n\nSi les photos datent de deux ans et que les avis attendent une r\u00e9ponse, le client h\u00e9site. Puis il appelle le suivant.\n\nUne fiche Google r\u00e9veill\u00e9e chaque semaine, et le t\u00e9l\u00e9phone recommence \u00e0 sonner.\n\nDepuis quand n'avez-vous pas mis \u00e0 jour votre fiche Google ?\n\n#FicheGoogle #Electricien #Electricite #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2ill9y00dtkb7zm6txtnpq",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-08T15:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2119445014493151516",
+            "content": "Le t\u00e9l\u00e9phone est calme ? Regardez votre fiche Google. Photos qui datent, avis sans r\u00e9ponse, et le client appelle le suivant.\n\nVotre derni\u00e8re mise \u00e0 jour remonte \u00e0 quand ?\n\n#FicheGoogle #Electricien",
             "stats": {
                 "available": false,
                 "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
@@ -3405,8 +3577,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 35,
-                        "sum": 35,
+                        "latest": 36,
+                        "sum": 36,
                         "percentageChange": 0
                     },
                     {
@@ -3513,8 +3685,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 83,
-                        "sum": 83,
+                        "latest": 92,
+                        "sum": 92,
                         "percentageChange": 0
                     },
                     {
