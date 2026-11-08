@@ -134,3 +134,11 @@ Chaque lot hebdomadaire ajoute ici ses décisions, avec le chiffre qui les justi
 
 - Les 63 posts de la semaine (61 de la grille + 2 variantes B) étaient déjà programmés par l'exécution de 20 h 30, déjà conforme à l'audit vidéo du 4/11 (écran final 14,99 € · 30 jours offerts · Lien en bio, accroche métier + ville, `offre_ligne` variable) : rien de reprogrammé ni de régénéré, selon la consigne (étape 3 seule).
 - Relevé du 04/11 (21 h 22 UTC) : toujours 11 publications mesurées, exploration 50 / 50, aucune décision nouvelle.
+
+## 2026-11-08 (dimanche, exécution de secours) — Statistiques, semaine du 9/11 déjà programmée
+
+- **Passage à l'exploitation 70 / 30** : 32 publications mesurées sur 52 fiches (seuil de 30 franchi, relevé brut du 08/11).
+- **À renforcer (indice ≥ 1,2, au moins 5 publications)** : créneau visuel 13:00 (10 posts, indice 1,50), format conseil (5, 1,80), ton réplique (5, 1,50), symptôme avis sans réponse (6, 1,42), angle gain de temps (14, 1,36), intention utile (19, 1,23), Instagram (11, 1,27), jeudi (6, 1,33) et lundi (6, 1,24). À appliquer dans le plan de la semaine du 16/11 (la semaine du 9/11 est déjà programmée et n'est pas modifiée).
+- **Comptes** : TikTok 7 375 vues (+1 997 depuis le 07/11), Facebook 30 engagements (+6), LinkedIn 11 commentaires (+2), YouTube 19 min regardées (+2). TikTok n'a qu'un post mesuré (les autres en UPLOAD sans identifiant) : pas de verdict TikTok ni A/B possible.
+- **Amplification** : les entrées `a_reprendre` de `suivi/amplifier.json` restent en place, la semaine du 9/11 étant déjà pleine ; à reprendre par la tâche du 15/11.
+- Postiz injoignable dans cette exécution : la présence des 63 posts n'a pas pu être revérifiée dans Postiz (le dépôt les donne programmés depuis le 04/11).
