@@ -1,0 +1,31 @@
+{
+ "creneaux": [
+  {
+   "date": "2026-11-11",
+   "creneau_nominal": "12:30",
+   "heure": "12:30",
+   "utc": "2026-11-11T11:30:00Z",
+   "creneau": "video",
+   "offre": "essai",
+   "intention": "utile",
+   "ab": "B",
+   "metier": "serrurier",
+   "angle": "gain-de-temps",
+   "format": "avis",
+   "ton": "question",
+   "symptome": "avis-negatif-seul",
+   "slug": "serrurier-temps-saint-brieuc",
+   "accroche": "Serrurier à Saint-Brieuc, et vos avis de fiche Google ?",
+   "premier_commentaire": "Serruriers, quand répondez-vous à vos avis ? Le soir après le travail, le week-end, ou jamais ?",
+   "tiktok_title": "Serrurier à Saint-Brieuc, et vos avis de fiche Google ?",
+   "textes": {
+    "tiktok": "Serrurier à Saint-Brieuc, et vos avis de fiche Google ? Un avis sans réponse, et le client appelle le suivant.\n\n#FicheGoogle #Serrurier"
+   },
+   "media": {
+    "video": "https://media.glidy.uk/nvuyWpn621.mp4",
+    "fichier": "medias/2026-11-11/serrurier-temps-saint-brieuc-amplif.mp4"
+   },
+   "notes": "Variante amplifiée de 2026-11-06_1900_serrurier-avis-negatif-en-haut (Instagram 5 vs médiane 2,5)."
+  }
+ ]
+}
