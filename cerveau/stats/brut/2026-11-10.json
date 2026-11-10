@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-10T07:27:28.687Z",
+    "generatedAt": "2026-11-10T13:35:04.379Z",
     "days": 60,
     "channels": [
         {
@@ -25,8 +25,8 @@
                     },
                     {
                         "metric": "Posts Engagement",
-                        "latest": 0,
-                        "sum": 38,
+                        "latest": 2,
+                        "sum": 40,
                         "percentageChange": 5
                     },
                     {
@@ -77,8 +77,8 @@
                     },
                     {
                         "metric": "Following",
-                        "latest": 14,
-                        "sum": 14,
+                        "latest": 15,
+                        "sum": 15,
                         "percentageChange": 0
                     },
                     {
@@ -89,14 +89,14 @@
                     },
                     {
                         "metric": "Videos",
-                        "latest": 17,
-                        "sum": 17,
+                        "latest": 18,
+                        "sum": 18,
                         "percentageChange": 0
                     },
                     {
                         "metric": "Views",
-                        "latest": 10111,
-                        "sum": 10111,
+                        "latest": 10390,
+                        "sum": 10390,
                         "percentageChange": 0
                     },
                     {
@@ -1995,8 +1995,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 34,
-                        "sum": 34,
+                        "latest": 39,
+                        "sum": 39,
                         "percentageChange": 0
                     },
                     {
@@ -2033,8 +2033,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 15,
-                        "sum": 15,
+                        "latest": 16,
+                        "sum": 16,
                         "percentageChange": 0
                     },
                     {
@@ -2478,6 +2478,19 @@
             }
         },
         {
+            "id": "cmwadav6n00ndkb7zpt14j8lt",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-10T09:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2120086653402296460",
+            "content": "Si vous \u00e9tiez enferm\u00e9 dehors ce soir, choisiriez-vous votre propre fiche Google ?\n\nTapez \u00ab serrurier \u00bb et votre ville sur Google Maps. Votre fiche Google, c'est l'encadr\u00e9 avec votre note, vos photos et vos avis.\n\nVous vous appelleriez ?\n\n#FicheGoogle #Serrurier",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
             "id": "cmvybgwk7007hkb7z7ao228ea",
             "platform": "facebook",
             "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
@@ -2545,6 +2558,38 @@
             "stats": {
                 "available": false,
                 "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmw2m8jt900erkb7zrp7ziao5",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-10T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/1519038466952194",
+            "content": "Menuisier \u00e0 Caen, l'atelier voisin montre ses meubles sur sa fiche Google. Et vous ?\n\nLa fiche Google, c'est la carte de visite que Google montre \u00e0 votre place, avec vos photos, vos avis, vos horaires et votre t\u00e9l\u00e9phone.\n\nEscaliers, placards, cuisines sur mesure\u2026 Quand un client compare deux menuisiers, il appelle souvent celui dont il voit le travail. Un beau savoir-faire sans photo reste invisible.\n\nProenligne publie vos r\u00e9alisations chaque semaine. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis. 30 jours offerts, lien en bio.\n\nQuelle est la derni\u00e8re r\u00e9alisation que vous avez montr\u00e9e sur votre fiche Google ?\n\n#FicheGoogle #Menuisier #Menuiserie #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
             }
         },
         {
@@ -2782,6 +2827,32 @@
             }
         },
         {
+            "id": "cmw2m8jzy00ezkb7zmxlef3xu",
+            "platform": "linkedin-page",
+            "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "publishDate": "2026-11-10T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7525844881664122880",
+            "content": "Deux menuisiers, m\u00eame ville, m\u00eame savoir-faire. Sur Google, le client ne voit pourtant pas la m\u00eame chose en ouvrant leurs fiches Google.\n\nLa fiche Google, c'est ce que Google affiche quand on cherche un menuisier pr\u00e8s de chez soi, avec les photos, les avis et le bouton Appeler.\n\nL'un montre ses escaliers, ses placards, ses cuisines pos\u00e9es la semaine derni\u00e8re. L'autre n'a que trois photos anciennes de l'atelier. Le client qui h\u00e9site appelle souvent le premier, parce qu'il peut juger le travail avant de d\u00e9crocher.\n\nProenligne fait vivre la fiche Google des artisans. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis.\n\nEssayez Proenligne gratuitement, 30 jours offerts, sans engagement. Tout est expliqu\u00e9 sur la page Proenligne.\n\nVos plus belles r\u00e9alisations sont-elles visibles sur votre fiche Google aujourd'hui ?\n\n#FicheGoogle #GoogleBusinessProfile #Menuisier #Artisanat",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Likes",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 2,
+                        "sum": 2,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
             "id": "cmvybgwpf007nkb7zinxcfl0f",
             "platform": "linkedin-page",
             "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
@@ -2868,6 +2939,50 @@
             "stats": {
                 "available": false,
                 "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmw2m9si300g1kb7ziai80814",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-10T12:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/122101312257531668/posts/122108951979531668",
+            "content": "\u00ab Je vous ai trouv\u00e9 sur Google. \u00bb Vous l'entendez souvent au t\u00e9l\u00e9phone, cette phrase ?\n\nSur Google Maps, chaque plombier a sa fiche Google, avec la note, les photos et le bouton Appeler. M\u00eame recommand\u00e9 par un voisin, le client y jette souvent un \u0153il avant de composer votre num\u00e9ro.\n\nPrenez un petit r\u00e9flexe cette semaine. \u00c0 chaque nouvel appel, demandez simplement \u00ab Comment nous avez-vous trouv\u00e9s ? \u00bb\n\nLe client vous parlera peut-\u00eatre du bouche-\u00e0-oreille, de votre fiche Google ou de votre camionnette gar\u00e9e dans la rue. Les r\u00e9ponses risquent de vous surprendre.\n\nVous posez d\u00e9j\u00e0 la question, vous ?\n\n#FicheGoogle #Plombier #Plomberie #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks by Type",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
             }
         },
         {
@@ -3398,8 +3513,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 29,
-                        "sum": 29,
+                        "latest": 30,
+                        "sum": 30,
                         "percentageChange": 0
                     },
                     {
@@ -3494,8 +3609,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 120,
-                        "sum": 120,
+                        "latest": 128,
+                        "sum": 128,
                         "percentageChange": 0
                     },
                     {
@@ -3736,6 +3851,120 @@
             }
         },
         {
+            "id": "cmw2m8jwp00evkb7zxwbltz1v",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-10T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2120079192310026453",
+            "content": "Menuisier \u00e0 Caen, l'atelier voisin montre ses meubles sur sa fiche Google. Le client appelle souvent celui dont il voit le travail. Proenligne publie le v\u00f4tre. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Menuisier",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmw2m8juy00etkb7z6d9bce69",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-10T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DfjiMAzAfF8/",
+            "content": "Menuisier \u00e0 Caen, l'atelier voisin montre ses meubles sur sa fiche Google. Et vous ?\n\nLa fiche Google, c'est la carte de visite que Google montre \u00e0 votre place, avec vos photos, vos avis, vos horaires et votre t\u00e9l\u00e9phone.\n\nEscaliers, placards, cuisines sur mesure\u2026 Quand un client compare deux menuisiers, il appelle souvent celui dont il voit le travail. Un beau savoir-faire sans photo reste invisible.\n\nProenligne publie vos r\u00e9alisations chaque semaine. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis. 30 jours offerts, lien en bio.\n\nQuelle est la derni\u00e8re r\u00e9alisation que vous avez montr\u00e9e sur votre fiche Google ?\n\n#FicheGoogle #Menuisier #Menuiserie #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 4,
+                        "sum": 4,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 3,
+                        "sum": 3,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2m8jrq00epkb7zhzritjlz",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-10T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7706464359274514454",
+            "content": "Escaliers, placards, cuisines\u2026 Lui les montre sur sa fiche Google. Et vous ? Proenligne publie vos r\u00e9alisations chaque semaine. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Menuisier #Menuiserie #ReferencementLocal",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmw2m8jyf00exkb7z8rby2iim",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-10T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=E2Ld7b9ZklY",
+            "content": "Menuisier \u00e0 Caen, l'atelier voisin montre ses meubles sur sa fiche Google. Et vous ?\n\nLa fiche Google, c'est la carte de visite que Google montre \u00e0 votre place, avec vos photos, vos avis, vos horaires et votre t\u00e9l\u00e9phone.\n\nEscaliers, placards, cuisines sur mesure\u2026 Quand un client compare deux menuisiers, il appelle souvent celui dont il voit le travail. Un beau savoir-faire sans photo reste invisible.\n\nProenligne publie vos r\u00e9alisations chaque semaine. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis. 30 jours offerts, lien en bio.\n\nQuelle est la derni\u00e8re r\u00e9alisation que vous avez montr\u00e9e sur votre fiche Google ?\n\n#FicheGoogle #Menuisier #Menuiserie #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 7,
+                        "sum": 7,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
             "id": "cmw2m8ow500f7kb7zy9688ude",
             "platform": "facebook",
             "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
@@ -3856,8 +4085,84 @@
                     },
                     {
                         "metric": "Reach",
-                        "latest": 13,
-                        "sum": 13,
+                        "latest": 14,
+                        "sum": 14,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2m9sk400g3kb7zdi1pgwtk",
+            "platform": "linkedin-page",
+            "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "publishDate": "2026-11-10T12:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7525901504373977088",
+            "content": "\u00ab Je vous ai trouv\u00e9 sur Google. \u00bb Combien de fois cette phrase revient-elle dans les appels de votre entreprise ?\nPour beaucoup d'artisans, la fiche Google est devenue la vitrine que le client consulte avant d'appeler.\n\nLa fiche Google, c'est l'encadr\u00e9 qui pr\u00e9sente l'entreprise sur Google et Google Maps, avec la note, les photos, les horaires et le num\u00e9ro.\n\nLe bouche-\u00e0-oreille reste pr\u00e9cieux. Mais un client recommand\u00e9 tape souvent le nom de l'entreprise sur Google pour v\u00e9rifier. Ce qu'il y trouve confirme la recommandation, ou la fragilise.\n\nUne habitude simple permet d'y voir clair. Demander \u00e0 chaque nouveau client comment il a connu l'entreprise, et noter la r\u00e9ponse. Au bout de quelques semaines, on sait d'o\u00f9 viennent les appels.\n\nProenligne s'occupe de la partie Google pour les artisans, avec une photo le lundi, un article le jeudi et une r\u00e9ponse \u00e0 chaque avis.\n\nDans votre entreprise, savez-vous d'o\u00f9 viennent vos nouveaux clients ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Plombier #Artisanat",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2m9sge00fzkb7zusay7u5k",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-10T12:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/p/Dfj7858CLrh/",
+            "content": "\u00ab Je vous ai trouv\u00e9 sur Google. \u00bb Vous l'entendez souvent au t\u00e9l\u00e9phone, cette phrase ?\n\nM\u00eame quand un voisin a donn\u00e9 votre nom, beaucoup de clients tapent ce nom sur Google avant d'appeler. Ils tombent sur votre fiche Google, l'encadr\u00e9 avec vos photos, vos avis et votre num\u00e9ro.\n\nC'est l\u00e0 qu'ils se d\u00e9cident. Ils regardent les photos de chantiers r\u00e9cents, la note et les r\u00e9ponses aux avis.\n\nPrenez l'habitude de poser une question \u00e0 chaque nouvel appel. \u00ab Comment nous avez-vous trouv\u00e9s ? \u00bb La r\u00e9ponse vous apprend beaucoup.\n\nEt chez vous, d'o\u00f9 viennent les nouveaux clients ?\n\n#FicheGoogle #Plombier #Plomberie #ReferencementLocal #GoogleBusinessProfile",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 0,
+                        "sum": 0,
                         "percentageChange": 0
                     },
                     {
