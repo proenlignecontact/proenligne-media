@@ -63,6 +63,38 @@
     "postiz_id": "cmw4qc0sp00mhkb7zqefbavlh",
     "ab": "B"
    }
+  },
+  {
+   "fiche": "2026-11-06_1900_serrurier-avis-negatif-en-haut",
+   "canal": "instagram",
+   "audience": 5,
+   "mediane_canal": 2.5,
+   "partages": 0,
+   "commentaires": 1,
+   "metier": "serrurier",
+   "angle": "gain-de-temps",
+   "ton": "question",
+   "intention": "utile",
+   "format": "avis",
+   "creneau": "video",
+   "accroche": "Bloqué dehors, que pense un client devant l'avis à une étoile de votre fiche Google ?",
+   "detecte_le": "2026-11-10"
+  },
+  {
+   "fiche": "2026-11-07_1300_offre-fiche-google-sans-soiree",
+   "canal": "instagram",
+   "audience": 6,
+   "mediane_canal": 2.5,
+   "partages": 0,
+   "commentaires": 1,
+   "metier": "general",
+   "angle": "gain-de-temps",
+   "ton": "contre-intuitif",
+   "intention": "offre",
+   "format": "conseil",
+   "creneau": "visuel",
+   "accroche": "Votre fiche Google peut rester active sans vous prendre vos soirées. C'est le principe de Proenligne.",
+   "detecte_le": "2026-11-10"
   }
  ],
  "repris": []

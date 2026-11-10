@@ -1,0 +1,41 @@
+{
+ "slug": "serrurier-temps-saint-brieuc",
+ "moteur": "cinetique",
+ "angle": "Du temps libre",
+ "metier": "serrurier",
+ "ville": "Saint-Brieuc",
+ "valeur": "22h47",
+ "ambiance": 1,
+ "entreprise": "",
+ "accroches": [
+  "Serrurier à Saint-Brieuc, cet avis sur votre *fiche Google* ?",
+  "Serrurier à Saint-Brieuc, et vos avis de *fiche Google* ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Un avis sans réponse, et le client fuit."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne répond à chaque avis pour vous."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et le soir, vous rentrez chez vous.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts, le lien est en bio."
+  }
+ ],
+ "offre_ligne": "Vos avis, *sans vos soirées.*",
+ "musique": true,
+ "audio_src": {
+  "prise-B": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/w6Z27kdOtjogeyOelQgz/YsEvz0lUxFiFI6v3tQFa/content.mp3?Expires=1794304800&KeyName=assets-cdn-key-1&Signature=oPUIiGCdB9_gh53tdybibqbOAwA=",
+   "duree": 13.28
+  }
+ }
+}
