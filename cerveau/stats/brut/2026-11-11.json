@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-11T07:26:35.209Z",
+    "generatedAt": "2026-11-11T12:48:15.930Z",
     "days": 60,
     "channels": [
         {
@@ -25,8 +25,8 @@
                     },
                     {
                         "metric": "Posts Engagement",
-                        "latest": 0,
-                        "sum": 43,
+                        "latest": 2,
+                        "sum": 45,
                         "percentageChange": 5
                     },
                     {
@@ -83,26 +83,26 @@
                     },
                     {
                         "metric": "Total Likes",
-                        "latest": 53,
-                        "sum": 53,
+                        "latest": 57,
+                        "sum": 57,
                         "percentageChange": 0
                     },
                     {
                         "metric": "Videos",
-                        "latest": 18,
-                        "sum": 18,
+                        "latest": 19,
+                        "sum": 19,
                         "percentageChange": 0
                     },
                     {
                         "metric": "Views",
-                        "latest": 10966,
-                        "sum": 10966,
+                        "latest": 11723,
+                        "sum": 11723,
                         "percentageChange": 0
                     },
                     {
                         "metric": "Recent Likes",
-                        "latest": 53,
-                        "sum": 53,
+                        "latest": 57,
+                        "sum": 57,
                         "percentageChange": 0
                     },
                     {
@@ -482,6 +482,19 @@
                         "percentageChange": 0
                     }
                 ]
+            }
+        },
+        {
+            "id": "cmwbsou0w00nlkb7zal15qb2o",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-11T09:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7706843356793686038",
+            "content": "Ma\u00e7on \u00e0 Tours, m\u00eame note Google que le voisin, et c'est lui qu'on appelle.\nSa fiche Google, l'encadr\u00e9 que Google affiche avec la note et les photos, montre ses chantiers de la semaine. La v\u00f4tre montre une fa\u00e7ade d'il y a longtemps.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Macon #Tours",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
             }
         },
         {
@@ -922,6 +935,56 @@
             }
         },
         {
+            "id": "cmw2maw0x00h5kb7zv0iueuhp",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-11T12:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/p/DfmfBoUjnOx/",
+            "content": "Pendant que vous \u00eates en soin, votre fiche Google continue de vivre avec Proenligne.\n\nVotre fiche Google, c'est ce que voit une future cliente quand elle cherche \u00ab institut de beaut\u00e9 \u00bb sur Google Maps, avec vos photos, vos avis et vos horaires.\n\n\u2705 Une photo publi\u00e9e chaque lundi\n\u2705 Une publication chaque jeudi\n\u2705 Une r\u00e9ponse \u00e0 chaque avis, et vous validez celles aux avis n\u00e9gatifs\n\nEssayez Proenligne gratuitement, 30 jours offerts, sans engagement. Le lien est en bio.\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #ReferencementLocal #GoogleBusinessProfile",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
             "id": "cmvybgwnx007lkb7zf2xrl16u",
             "platform": "facebook",
             "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
@@ -1142,8 +1205,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 35,
-                        "sum": 35,
+                        "latest": 37,
+                        "sum": 37,
                         "percentageChange": 0
                     },
                     {
@@ -1585,8 +1648,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 34,
-                        "sum": 34,
+                        "latest": 35,
+                        "sum": 35,
                         "percentageChange": 0
                     },
                     {
@@ -2491,6 +2554,19 @@
             }
         },
         {
+            "id": "cmwadfi8000nfkb7z0nanb10b",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-11T11:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7706874448271656982",
+            "content": "Serrurier \u00e0 Saint-Brieuc, et vos avis de fiche Google ? Un avis sans r\u00e9ponse, et le client appelle le suivant.\n\n#FicheGoogle #Serrurier",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
             "id": "cmvybgwk7007hkb7z7ao228ea",
             "platform": "facebook",
             "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
@@ -3106,8 +3182,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 22,
-                        "sum": 22,
+                        "latest": 23,
+                        "sum": 23,
                         "percentageChange": 0
                     },
                     {
@@ -4034,14 +4110,14 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 6,
-                        "sum": 6,
+                        "latest": 7,
+                        "sum": 7,
                         "percentageChange": 0
                     },
                     {
                         "metric": "Reach",
-                        "latest": 5,
-                        "sum": 5,
+                        "latest": 6,
+                        "sum": 6,
                         "percentageChange": 0
                     },
                     {
@@ -4358,14 +4434,14 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 2,
-                        "sum": 2,
+                        "latest": 5,
+                        "sum": 5,
                         "percentageChange": 0
                     },
                     {
                         "metric": "Reach",
-                        "latest": 2,
-                        "sum": 2,
+                        "latest": 5,
+                        "sum": 5,
                         "percentageChange": 0
                     },
                     {
@@ -4484,8 +4560,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 22,
-                        "sum": 22,
+                        "latest": 27,
+                        "sum": 27,
                         "percentageChange": 0
                     },
                     {
@@ -4534,6 +4610,134 @@
                     },
                     {
                         "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2m9w6p00gdkb7zq2p2wyhy",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-11T08:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7706831766627534870",
+            "content": "La journ\u00e9e est finie, le rouleau est pos\u00e9\u2026 et votre fiche Google vous r\u00e9clame encore. Proenligne s'en charge pour vous. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Peintre #PeintureBatiment #ReferencementLocal",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmw2m9w7s00gfkb7z806hr6ui",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-11T08:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/1134232499009875",
+            "content": "Peintre \u00e0 Lyon, vos pinceaux sont rang\u00e9s, mais votre fiche Google attend encore.\n\nSur Google Maps, chaque peintre a sa fiche Google, avec ses photos, ses avis et le bouton Appeler. C'est elle qu'on regarde avant de demander un devis.\n\nLes photos du chantier, les avis \u00e0 lire, les r\u00e9ponses \u00e0 \u00e9crire\u2026 Tout \u00e7a passe souvent apr\u00e8s le d\u00eener, quand la journ\u00e9e est d\u00e9j\u00e0 longue.\n\nProenligne s'en charge pour vous. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis. 30 jours offerts, lien en bio.\n\nCombien de soir\u00e9es par semaine donnez-vous \u00e0 votre fiche Google ?\n\n#FicheGoogle #Peintre #PeintureBatiment #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2m9wba00gjkb7zs04jn9wf",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-11T08:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2120437806740729857",
+            "content": "Peintre \u00e0 Lyon, vos pinceaux sont rang\u00e9s, mais votre fiche Google attend encore ses photos et ses r\u00e9ponses aux avis ? Proenligne s'en charge. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Peintre",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmw2maw2700h7kb7zqzri11zp",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-11T12:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/122101312257531668/posts/122109402333531668",
+            "content": "Pendant que vous \u00eates en soin, votre fiche Google continue de vivre avec Proenligne.\n\nLa fiche Google, c'est la carte de visite que Google montre \u00e0 votre place, avec vos photos, vos avis, vos horaires et votre t\u00e9l\u00e9phone. Entre deux rendez-vous, difficile de s'en occuper.\n\n\u2705 Une photo publi\u00e9e chaque lundi\n\u2705 Une publication chaque jeudi\n\u2705 Une r\u00e9ponse \u00e0 chaque avis, et celles aux avis n\u00e9gatifs sont valid\u00e9es par vous\n\nEssayez Proenligne gratuitement, 30 jours offerts, sans engagement.\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks by Type",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2maw3x00h9kb7z92noi89z",
+            "platform": "linkedin-page",
+            "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "publishDate": "2026-11-11T12:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7526260116099194880",
+            "content": "Une g\u00e9rante d'institut passe ses journ\u00e9es en cabine. Pendant ce temps, sa fiche Google reste souvent fig\u00e9e.\nLa fiche Google, c'est l'encadr\u00e9 que Google affiche quand une cliente cherche un institut de beaut\u00e9 pr\u00e8s de chez elle.\n\nLe m\u00e9tier se fait les mains occup\u00e9es. Prendre une photo, r\u00e9diger une publication, r\u00e9pondre \u00e0 un avis, tout cela attend le soir, puis la semaine suivante.\n\nProenligne prend ce travail en charge.\n\u2705 Une photo publi\u00e9e sur la fiche Google chaque lundi\n\u2705 Une publication chaque jeudi\n\u2705 Une r\u00e9ponse \u00e0 chaque avis, les r\u00e9ponses aux avis n\u00e9gatifs \u00e9tant valid\u00e9es par la g\u00e9rante avant publication\n\nLa fiche Google montre alors un institut actif, sans prendre de temps sur les soins.\n\nEssayez Proenligne gratuitement, 30 jours offerts, sans engagement. Tout est expliqu\u00e9 sur la page Proenligne.\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #InstitutDeBeaute #TPE",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
                         "latest": 1,
                         "sum": 1,
                         "percentageChange": 0
@@ -5418,6 +5622,120 @@
             "stats": {
                 "available": false,
                 "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmw2m9wdb00glkb7z03icqiln",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-11T08:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=bPZjQODGj7A",
+            "content": "Peintre \u00e0 Lyon, vos pinceaux sont rang\u00e9s, mais votre fiche Google attend encore.\n\nSur Google Maps, chaque peintre a sa fiche Google, avec ses photos, ses avis et le bouton Appeler. C'est elle qu'on regarde avant de demander un devis.\n\nLes photos du chantier, les avis \u00e0 lire, les r\u00e9ponses \u00e0 \u00e9crire\u2026 Tout \u00e7a passe souvent apr\u00e8s le d\u00eener, quand la journ\u00e9e est d\u00e9j\u00e0 longue.\n\nProenligne s'en charge pour vous. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis. 30 jours offerts, lien en bio.\n\nCombien de soir\u00e9es par semaine donnez-vous \u00e0 votre fiche Google ?\n\n#FicheGoogle #Peintre #PeintureBatiment #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 8,
+                        "sum": 8,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2m9wex00gnkb7zkwpvyzov",
+            "platform": "linkedin-page",
+            "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "publishDate": "2026-11-11T08:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7526203496723881985",
+            "content": "Dans une entreprise de peinture, la fiche Google se fait rarement aux heures de bureau. Elle se fait le soir, quand le dernier chantier est rang\u00e9.\n\nPour rappel, la fiche Google est ce que Google affiche quand un particulier cherche un peintre pr\u00e8s de chez lui, avec les photos des chantiers, les avis et le bouton Appeler.\n\nTrier les photos avant et apr\u00e8s, r\u00e9pondre aux avis, publier une nouvelle\u2026 Ce sont de petites t\u00e2ches, mais elles s'accumulent et finissent par prendre plusieurs soir\u00e9es.\n\nEt quand on les repousse, le client qui compare voit une fiche Google qui ne bouge plus.\n\nProenligne prend ce travail \u00e0 sa charge. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis.\n\nEssayez Proenligne gratuitement, 30 jours offerts, sans engagement. Tout est expliqu\u00e9 sur la page Proenligne.\n\nChez vous, qui s'occupe de la fiche Google, et \u00e0 quel moment de la journ\u00e9e ?\n\n#FicheGoogle #GoogleBusinessProfile #Peintre #Artisanat",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2m9w9e00ghkb7z0di0h0iw",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-11T08:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DfmFRIMlY1L/",
+            "content": "Peintre \u00e0 Lyon, vos pinceaux sont rang\u00e9s, mais votre fiche Google attend encore.\n\nSur Google Maps, chaque peintre a sa fiche Google, avec ses photos, ses avis et le bouton Appeler. C'est elle qu'on regarde avant de demander un devis.\n\nLes photos du chantier, les avis \u00e0 lire, les r\u00e9ponses \u00e0 \u00e9crire\u2026 Tout \u00e7a passe souvent apr\u00e8s le d\u00eener, quand la journ\u00e9e est d\u00e9j\u00e0 longue.\n\nProenligne s'en charge pour vous. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis. 30 jours offerts, lien en bio.\n\nCombien de soir\u00e9es par semaine donnez-vous \u00e0 votre fiche Google ?\n\n#FicheGoogle #Peintre #PeintureBatiment #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 5,
+                        "sum": 5,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 3,
+                        "sum": 3,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
             }
         }
     ]
