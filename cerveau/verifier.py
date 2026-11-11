@@ -12,21 +12,22 @@ Règles mécaniques appliquées à CHAQUE élément textuel (textes, accroche, t
 La compréhension (sens, contradictions) est jugée par la relecture, pas ici.
 
 Format du plan : {"creneaux": [ {
-   "date": "2026-11-09", "creneau_nominal": "06:30|13:00|19:00", "heure": "06:50"  (heure réelle, à ±45 min du nominal),
-   "creneau": "texte|visuel|video", "intention": "utile|preuve|offre",
+   "date": "2026-11-16", "creneau_nominal": "13:00|19:00", "heure": "13:15"  (heure réelle, à ±45 min du nominal),
+   "creneau": "visuel|video", "intention": "utile|preuve|offre",
+   (le créneau « texte » de 06:30 est supprimé depuis la semaine du 16/11/2026 : il est refusé)
    "metier": …, "angle": …, "format": …, "ton": …, "symptome": … ou null, "accroche": …, "slug": …,
    "textes": {canal: texte} — canaux attendus :
-        texte  : x, facebook
-        visuel : instagram, facebook (+ linkedin du lundi au vendredi)
+        visuel : instagram (+ linkedin le mardi et le jeudi)
         video  : tiktok, instagram, youtube, facebook
-   "premier_commentaire": … (≤ 300 car., une question ou un complément, sans prix),
+   "premier_commentaire": … (≤ 300 car., un COMPLÉMENT d'information, jamais une question ni un prix — la question va dans le texte),
    "youtube_title", "tiktok_title" (vidéo),
    "media": {…}  — visuel : "carrousel": [urls media.glidy.uk…] (3 à 5) ou "postiz": url ; vidéo : "postiz_vertical", "postiz_horizontal" ;
                    texte : "postiz": url de l'image (facultatif mais recommandé)
    "ab": "A"|"B" (facultatif, TikTok)
 } ] }
 
-Mix éditorial sur la semaine (21 créneaux) : utile ≥ 13 (≈ 70 %), preuve 2 à 5, offre ≤ 3.
+Mix éditorial sur la semaine (14 créneaux) : utile ≥ 9 (≈ 70 %), preuve 2 à 4, offre ≤ 2.
+TikTok : la légende invite à s'abonner (« Abonnez-vous… »), décision du 11/11/2026.
 Variante B (A/B TikTok) : entrée distincte avec "ab": "B", même slug que sa vidéo A, creneau_nominal "12:30", textes {"tiktok": …} seulement.
 """
 import datetime as dt, glob, itertools, json, os, re, sys, unicodedata
@@ -43,8 +44,10 @@ ANGLES = {'peur-de-perdre', 'gain-de-temps', 'preuve'}
 TONS = {'question', 'constat', 'scene', 'avant-apres', 'contre-intuitif', 'pendant-que', 'replique'}
 INTENTIONS = {'utile', 'preuve', 'offre'}
 FORMATS = {'texte': {'conseil', 'test', 'constat', 'idee-recue', 'preuve'}, 'visuel': {'avant-apres', 'conseil', 'question'}, 'video': {'recherche', 'fiche', 'avis', 'journee', 'libre'}}
-CANAUX = {'texte': {'x', 'facebook'}, 'visuel': {'instagram', 'facebook'}, 'video': {'tiktok', 'instagram', 'youtube', 'facebook'}}
-HEURES = {'texte': '06:30', 'visuel': '13:00', 'video': '19:00'}
+CANAUX = {'visuel': {'instagram'}, 'video': {'tiktok', 'instagram', 'youtube', 'facebook'}}
+HEURES = {'visuel': '13:00', 'video': '19:00'}
+JOURS_LINKEDIN = {1, 3}   # mardi et jeudi (décision du 11/11/2026 : LinkedIn allégé)
+UTILE_MIN, PREUVE_MIN, PREUVE_MAX, OFFRE_MAX, TON_MAX = 9, 2, 4, 2, 4
 TOLERANCE_MIN = 45
 LIMITES = {'x': 280, 'tiktok': 2000, 'instagram': 2200, 'linkedin': 3000}
 PRIX = regles_texte.PRIX
@@ -70,7 +73,7 @@ def debut(txt, n=5):
 
 def canaux_attendus(typ, date):
     c = set(CANAUX[typ])
-    if typ == 'visuel' and dt.date.fromisoformat(date).weekday() < 5:
+    if typ == 'visuel' and dt.date.fromisoformat(date).weekday() in JOURS_LINKEDIN:
         c.add('linkedin')
     return c
 
@@ -87,6 +90,8 @@ def verifier(plan, medias=True):
         typ = c.get('creneau')
         nominal = c.get('creneau_nominal') or HEURES.get(typ)
         ref = f"{c.get('date')} {nominal}"
+        if typ == 'texte':
+            pb.append(f'{ref} : créneau texte de 06:30 supprimé depuis la semaine du 16/11/2026 (X et Facebook texte sans audience)'); continue
         if typ not in CANAUX:
             pb.append(f'{ref} : creneau inconnu « {typ} »'); continue
         variante_b = c.get('ab') == 'B'
@@ -125,6 +130,7 @@ def verifier(plan, medias=True):
         if not pc: pb.append(f'{ref} : premier_commentaire manquant')
         elif len(pc) > 300: pb.append(f'{ref} : premier_commentaire > 300 caractères')
         elif PRIX.search(pc): pb.append(f'{ref} : prix dans le premier commentaire')
+        elif '?' in pc: pb.append(f'{ref} : premier_commentaire en question — c\'est un complément d\'information (la question va dans le texte)')
         textes = c.get('textes', {})
         attendus = {'tiktok'} if variante_b else canaux_attendus(typ, c['date'])
         if set(textes) != attendus:
@@ -135,8 +141,10 @@ def verifier(plan, medias=True):
             if 'google' not in t.split('\n')[0].lower(): pb.append(f'{ref} {canal} : première ligne sans « Google »')
             if PRIX.search(t): pb.append(f'{ref} {canal} : prix, « mois » ou « centime » dans le texte')
             if c.get('intention') == 'offre' and not ('gratuit' in t.lower() or '30 jours' in t.lower()): pb.append(f'{ref} {canal} : intention offre sans « gratuitement »')
-            if c.get('intention') == 'utile' and canal != 'x' and '?' not in t and '?' not in pc:
-                pb.append(f'{ref} {canal} : contenu utile sans question (ni dans le texte ni dans le premier commentaire)')
+            if c.get('intention') == 'utile' and canal not in ('x', 'tiktok') and '?' not in t:
+                pb.append(f'{ref} {canal} : contenu utile sans question dans le texte')
+            if canal == 'tiktok' and not re.search(r'abonnez-vous', t, re.I):
+                pb.append(f'{ref} tiktok : la légende doit inviter à s\'abonner (« Abonnez-vous … »)')
             if t.count('✅') > 3: pb.append(f'{ref} {canal} : plus de 3 ✅')
             if canal in LIMITES and len(t) > LIMITES[canal]: pb.append(f'{ref} {canal} : {len(t)} caractères (> {LIMITES[canal]})')
             if re.search(r"\b(la|votre|sa|cette) fiche\b(?! google)", t, re.I) and t.lower().count('fiche google') < 2:
@@ -146,7 +154,8 @@ def verifier(plan, medias=True):
                 if re.search(r'https?://|www\.|lien en bio', t, re.I): pb.append(f'{ref} linkedin : lien externe ou « lien en bio »')
                 if 'google' not in t[:220].lower(): pb.append(f'{ref} linkedin : « Google » absent des ~200 premiers caractères')
                 if len(t) < 500: pb.append(f'{ref} linkedin : texte trop court ({len(t)} < 500), viser 700 à 1 300')
-                if 'facebook' in textes and t.strip() == (textes['facebook'] or '').strip(): pb.append(f'{ref} linkedin : copie exacte du texte Facebook')
+                for autre in ('facebook', 'instagram'):
+                    if autre in textes and t.strip() == (textes[autre] or '').strip(): pb.append(f'{ref} linkedin : copie exacte du texte {autre}')
             if canal != 'linkedin' and re.search(r'lien en bio', t, re.I) and canal in ('facebook', 'youtube', 'x'):
                 pb.append(f'{ref} {canal} : « lien en bio » n\'a pas de sens sur ce canal')
         if typ == 'video':
@@ -203,17 +212,17 @@ def verifier(plan, medias=True):
     for a, b in zip(visuels, visuels[1:]):
         if a.get('format') == b.get('format'): pb.append(f'{a["date"]} et {b["date"]} 13:00 : même gabarit visuel deux jours de suite')
     grille = [c for c in cr if c.get('ab') != 'B']
-    if len(grille) >= 15:
+    if len(grille) >= 10:
         cr = grille
         nb_metiers = len({c['metier'] for c in cr if c.get('metier') != 'general'})
         if nb_metiers < 6: pb.append(f'seulement {nb_metiers} métiers différents sur la semaine (minimum 6)')
         it = Counter(c.get('intention') for c in cr)
-        if it['utile'] < 13: pb.append(f'mix éditorial : {it["utile"]} contenus utiles sur {len(cr)} (minimum 13, ≈ 70 %)')
-        if it['offre'] > 3: pb.append(f'mix éditorial : {it["offre"]} contenus « offre » (maximum 3)')
-        if not 2 <= it['preuve'] <= 5: pb.append(f'mix éditorial : {it["preuve"]} contenus « preuve » (2 à 5 attendus)')
+        if it['utile'] < UTILE_MIN: pb.append(f'mix éditorial : {it["utile"]} contenus utiles sur {len(cr)} (minimum {UTILE_MIN}, ≈ 70 %)')
+        if it['offre'] > OFFRE_MAX: pb.append(f'mix éditorial : {it["offre"]} contenus « offre » (maximum {OFFRE_MAX})')
+        if not PREUVE_MIN <= it['preuve'] <= PREUVE_MAX: pb.append(f'mix éditorial : {it["preuve"]} contenus « preuve » ({PREUVE_MIN} à {PREUVE_MAX} attendus)')
         tons = Counter(c.get('ton') for c in cr)
         for t, n in tons.items():
-            if n > 5: pb.append(f'ton « {t} » utilisé {n} fois (maximum 5 par semaine)')
+            if n > TON_MAX: pb.append(f'ton « {t} » utilisé {n} fois (maximum {TON_MAX} par semaine)')
         ab = [c for c in cr if c.get('creneau') == 'video' and c.get('ab')]
         if len(ab) < 2: pb.append('A/B : au moins 2 vidéos de la semaine doivent porter une variante B (champ "ab")')
     doubl = [k for k, n in Counter((c.get('date'), c.get('creneau_nominal', c.get('heure'))) for c in cr).items() if n > 1]

@@ -1,5 +1,5 @@
 {
- "releve_le": "2026-11-06T08:41:57.248Z",
+ "releve_le": "2026-11-06T13:01:03.722Z",
  "source": "2026-11-06.json",
  "posts": [
   {
@@ -10,14 +10,17 @@
    "enregistrements": 0,
    "likes": 0,
    "commentaires": 0,
-   "partages": 0
+   "partages": 0,
+   "commentaires_bruts": 0,
+   "commentaires_maison": 0
   },
   {
    "postiz_id": "cmvwm8ppv0006kb7zqwx8v1rh",
    "canal": "facebook",
    "vues": 2,
    "likes": 0,
-   "engagement_total": 0
+   "engagement_total": 0,
+   "engagement_total_brut": 0
   },
   {
    "postiz_id": "cmvwm8pog0005kb7z54kpm83z",
@@ -27,7 +30,9 @@
    "enregistrements": 0,
    "likes": 0,
    "commentaires": 0,
-   "partages": 0
+   "partages": 0,
+   "commentaires_bruts": 0,
+   "commentaires_maison": 0
   },
   {
    "postiz_id": "cmvwmarjg0009kb7z3a3a0qpg",
@@ -35,7 +40,9 @@
    "vues": 778,
    "likes": 2,
    "commentaires": 0,
-   "partages": 0
+   "partages": 0,
+   "commentaires_bruts": 0,
+   "commentaires_maison": 0
   },
   {
    "postiz_id": "cmvwm8prg0007kb7z6jff27hx",
@@ -43,7 +50,9 @@
    "vues": 2,
    "likes": 0,
    "commentaires": 0,
-   "enregistrements": 0
+   "enregistrements": 0,
+   "commentaires_bruts": 0,
+   "commentaires_maison": 0
   },
   {
    "postiz_id": "cmvybfl3e0079kb7zriij96ax",
@@ -52,8 +61,10 @@
    "portee": 2,
    "enregistrements": 0,
    "likes": 0,
-   "commentaires": 1,
-   "partages": 0
+   "commentaires": 0,
+   "partages": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
   },
   {
    "postiz_id": "cmvybgwnx007lkb7zf2xrl16u",
@@ -69,23 +80,28 @@
    "portee": 0,
    "enregistrements": 0,
    "likes": 0,
-   "commentaires": 1,
-   "partages": 0
+   "commentaires": 0,
+   "partages": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
   },
   {
    "postiz_id": "cmvybgwto007tkb7zmb0oni74",
    "canal": "youtube",
-   "vues": 61,
+   "vues": 63,
    "likes": 0,
    "commentaires": 0,
-   "enregistrements": 0
+   "enregistrements": 0,
+   "commentaires_bruts": 0,
+   "commentaires_maison": 0
   },
   {
    "postiz_id": "cmvybgwur007vkb7zqmwn5yqe",
    "canal": "facebook",
    "vues": 0,
    "likes": 0,
-   "engagement_total": 1
+   "engagement_total": 0,
+   "engagement_total_brut": 1
   },
   {
    "postiz_id": "cmvybibp70083kb7z092qlgf7",
@@ -94,8 +110,10 @@
    "portee": 0,
    "enregistrements": 0,
    "likes": 0,
-   "commentaires": 1,
-   "partages": 0
+   "commentaires": 0,
+   "partages": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
   },
   {
    "postiz_id": "cmvybibw9008dkb7zfifpdir6",
@@ -103,14 +121,37 @@
    "vues": 0,
    "likes": 0,
    "commentaires": 0,
-   "enregistrements": 0
+   "enregistrements": 0,
+   "commentaires_bruts": 0,
+   "commentaires_maison": 0
   },
   {
    "postiz_id": "cmvybibxi008fkb7zkvrwh4iv",
    "canal": "facebook",
    "vues": 0,
    "likes": 0,
-   "engagement_total": 1
+   "engagement_total": 0,
+   "engagement_total_brut": 1
+  },
+  {
+   "postiz_id": "cmvybjrmt008pkb7zbev1ufdt",
+   "canal": "linkedin",
+   "likes": 0,
+   "commentaires": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
+  },
+  {
+   "postiz_id": "cmvybjri9008lkb7z3azra8w2",
+   "canal": "instagram",
+   "vues": 0,
+   "portee": 0,
+   "enregistrements": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "partages": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
   },
   {
    "postiz_id": "cmvybe43u006hkb7z8cn2cmc0",
@@ -130,7 +171,9 @@
    "postiz_id": "cmvybe48l006nkb7zxgqac8v9",
    "canal": "linkedin",
    "likes": 0,
-   "commentaires": 1
+   "commentaires": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
   },
   {
    "postiz_id": "cmvybe45b006jkb7z4fshdqcy",
@@ -139,8 +182,10 @@
    "portee": 0,
    "enregistrements": 0,
    "likes": 0,
-   "commentaires": 1,
-   "partages": 0
+   "commentaires": 0,
+   "partages": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
   },
   {
    "postiz_id": "cmvybe4co006tkb7zur20zuxl",
@@ -148,14 +193,17 @@
    "vues": 117,
    "likes": 0,
    "commentaires": 0,
-   "enregistrements": 0
+   "enregistrements": 0,
+   "commentaires_bruts": 0,
+   "commentaires_maison": 0
   },
   {
    "postiz_id": "cmvybe4fl006vkb7ztfypeb8z",
    "canal": "facebook",
    "vues": 0,
    "likes": 0,
-   "engagement_total": 1
+   "engagement_total": 0,
+   "engagement_total_brut": 1
   },
   {
    "postiz_id": "cmvybe4bb006rkb7z14nnai5t",
@@ -164,8 +212,10 @@
    "portee": 7,
    "enregistrements": 0,
    "likes": 0,
-   "commentaires": 1,
-   "partages": 0
+   "commentaires": 0,
+   "partages": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
   },
   {
    "postiz_id": "cmvybgwk7007hkb7z7ao228ea",
@@ -179,7 +229,8 @@
    "canal": "facebook",
    "vues": 0,
    "likes": 0,
-   "engagement_total": 1
+   "engagement_total": 0,
+   "engagement_total_brut": 1
   },
   {
    "postiz_id": "cmvybfkw0006zkb7zi1x7480b",
@@ -199,7 +250,9 @@
    "postiz_id": "cmvybfkz60075kb7zddwqarz5",
    "canal": "linkedin",
    "likes": 0,
-   "commentaires": 1
+   "commentaires": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
   },
   {
    "postiz_id": "cmvybfkx20071kb7z95e8z4m3",
@@ -208,8 +261,10 @@
    "portee": 0,
    "enregistrements": 0,
    "likes": 0,
-   "commentaires": 1,
-   "partages": 0
+   "commentaires": 0,
+   "partages": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
   },
   {
    "postiz_id": "cmvybfl4z007bkb7z190jwst5",
@@ -217,13 +272,17 @@
    "vues": 83,
    "likes": 0,
    "commentaires": 0,
-   "enregistrements": 0
+   "enregistrements": 0,
+   "commentaires_bruts": 0,
+   "commentaires_maison": 0
   },
   {
    "postiz_id": "cmvybgwpf007nkb7zinxcfl0f",
    "canal": "linkedin",
    "likes": 0,
-   "commentaires": 1
+   "commentaires": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
   },
   {
    "postiz_id": "cmvybgwsl007rkb7ziinpnajt",
@@ -232,15 +291,18 @@
    "portee": 2,
    "enregistrements": 0,
    "likes": 0,
-   "commentaires": 1,
-   "partages": 0
+   "commentaires": 0,
+   "partages": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
   },
   {
    "postiz_id": "cmw2ii03m00bpkb7z6clgzo6l",
    "canal": "facebook",
    "vues": 0,
    "likes": 0,
-   "engagement_total": 1
+   "engagement_total": 0,
+   "engagement_total_brut": 1
   },
   {
    "postiz_id": "cmw2ii05d00brkb7zcavcug6m",
@@ -249,8 +311,30 @@
    "portee": 4,
    "enregistrements": 0,
    "likes": 0,
-   "commentaires": 1,
-   "partages": 0
+   "commentaires": 0,
+   "partages": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
+  },
+  {
+   "postiz_id": "cmw2iinrf00c1kb7zb4234q7w",
+   "canal": "facebook",
+   "vues": 3,
+   "likes": 0,
+   "engagement_total": 0,
+   "engagement_total_brut": 1
+  },
+  {
+   "postiz_id": "cmw2iinsu00c3kb7zver5s6dm",
+   "canal": "instagram",
+   "vues": 4,
+   "portee": 4,
+   "enregistrements": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "partages": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
   },
   {
    "postiz_id": "cmvybibm5007zkb7z3ksiamxo",
@@ -262,23 +346,28 @@
   {
    "postiz_id": "cmw2ihhpq00bjkb7zsqiq9i4v",
    "canal": "youtube",
-   "vues": 32,
+   "vues": 34,
    "likes": 0,
    "commentaires": 0,
-   "enregistrements": 0
+   "enregistrements": 0,
+   "commentaires_bruts": 0,
+   "commentaires_maison": 0
   },
   {
    "postiz_id": "cmw2ihhk700bdkb7zz8i7ibav",
    "canal": "facebook",
    "vues": 0,
    "likes": 0,
-   "engagement_total": 1
+   "engagement_total": 0,
+   "engagement_total_brut": 1
   },
   {
    "postiz_id": "cmw2ihhra00blkb7zoyquuj31",
    "canal": "linkedin",
    "likes": 0,
-   "commentaires": 1
+   "commentaires": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
   },
   {
    "postiz_id": "cmw2ihhmd00bfkb7zwrlhvtkg",
@@ -287,8 +376,10 @@
    "portee": 18,
    "enregistrements": 0,
    "likes": 0,
-   "commentaires": 1,
-   "partages": 0
+   "commentaires": 0,
+   "partages": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
   },
   {
    "postiz_id": "cmvybibqk0085kb7zscatef49",
@@ -301,7 +392,9 @@
    "postiz_id": "cmvybibrp0087kb7z0vez1koq",
    "canal": "linkedin",
    "likes": 0,
-   "commentaires": 1
+   "commentaires": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
   },
   {
    "postiz_id": "cmw2ihhhy00bbkb7zznu93tdg",
@@ -309,21 +402,27 @@
    "vues": 766,
    "likes": 2,
    "commentaires": 0,
-   "partages": 0
+   "partages": 0,
+   "commentaires_bruts": 0,
+   "commentaires_maison": 0
   },
   {
    "postiz_id": "cmw2ii09m00bvkb7zrqw7wmbk",
    "canal": "youtube",
-   "vues": 37,
+   "vues": 38,
    "likes": 0,
    "commentaires": 0,
-   "enregistrements": 0
+   "enregistrements": 0,
+   "commentaires_bruts": 0,
+   "commentaires_maison": 0
   },
   {
    "postiz_id": "cmw2ii0b700bxkb7z0k4lbmha",
    "canal": "linkedin",
    "likes": 0,
-   "commentaires": 1
+   "commentaires": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
   },
   {
    "postiz_id": "cmvybibv2008bkb7z7tchkj6t",
@@ -332,11 +431,38 @@
    "portee": 3,
    "enregistrements": 0,
    "likes": 0,
-   "commentaires": 1,
-   "partages": 0
+   "commentaires": 0,
+   "partages": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
   },
   {
    "postiz_id": "cmvybjrfo008jkb7zmchha4r1",
+   "canal": "facebook",
+   "vues": 1,
+   "likes": 0,
+   "clics": 0
+  },
+  {
+   "postiz_id": "cmw2iinvi00c7kb7zkh5ztrps",
+   "canal": "youtube",
+   "vues": 7,
+   "likes": 0,
+   "commentaires": 0,
+   "enregistrements": 0,
+   "commentaires_bruts": 0,
+   "commentaires_maison": 0
+  },
+  {
+   "postiz_id": "cmw2iinwy00c9kb7zvxh53b8f",
+   "canal": "linkedin",
+   "likes": 0,
+   "commentaires": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
+  },
+  {
+   "postiz_id": "cmvybjrld008nkb7zm8hsntjz",
    "canal": "facebook",
    "vues": 0,
    "likes": 0,
@@ -415,6 +541,16 @@
    "raison": "Aucune statistique renvoyée par la plateforme"
   },
   {
+   "postiz_id": "cmw2iinub00c5kb7zlukbamhe",
+   "canal": "x",
+   "raison": "Aucune statistique renvoyée par la plateforme"
+  },
+  {
+   "postiz_id": "cmw2iinph00bzkb7zt2otcg72",
+   "canal": "tiktok",
+   "raison": "Postiz ne connaît pas l'ID du post sur la plateforme"
+  },
+  {
    "postiz_id": "cmw2ihhoc00bhkb7z12i491py",
    "canal": "x",
    "raison": "Aucune statistique renvoyée par la plateforme"
@@ -425,6 +561,11 @@
    "raison": "Aucune statistique renvoyée par la plateforme"
   },
   {
+   "postiz_id": "cmw3ly7xv00mbkb7z3i0ss5va",
+   "canal": "tiktok",
+   "raison": "Postiz ne connaît pas l'ID du post sur la plateforme"
+  },
+  {
    "postiz_id": "cmvybjre6008hkb7zmrin1un7",
    "canal": "x",
    "raison": "Aucune statistique renvoyée par la plateforme"
@@ -432,23 +573,13 @@
  ],
  "comptes": {
   "facebook": {
-   "Page Impressions": 9,
-   "Media views": 48,
-   "Posts Engagement": 18,
+   "Page Impressions": 11,
+   "Media views": 52,
+   "Posts Engagement": 20,
    "Page followers": 0
   },
   "instagram": {},
   "x": {},
-  "tiktok": {
-   "Followers": 0,
-   "Following": 6,
-   "Total Likes": 13,
-   "Videos": 7,
-   "Views": 3865,
-   "Recent Likes": 13,
-   "Recent Comments": 0,
-   "Recent Shares": 0
-  },
   "youtube": {
    "Estimated Minutes Watched": 15,
    "Average View Duration": 95,
@@ -456,6 +587,16 @@
    "Subscribers Gained": 0,
    "Subscribers Lost": 0,
    "Likes": 1
+  },
+  "tiktok": {
+   "Followers": 0,
+   "Following": 6,
+   "Total Likes": 14,
+   "Videos": 11,
+   "Views": 4151,
+   "Recent Likes": 14,
+   "Recent Comments": 0,
+   "Recent Shares": 0
   },
   "linkedin": {
    "Page Views": 7,

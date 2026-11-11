@@ -25,6 +25,7 @@ Un verdict pour **chaque** id marqué `a_relire: true`, sans exception (ids reco
 8. **Ton** : on parle à un artisan, pas à un marketeur ; pas de condescendance, pas de culpabilisation (« vous négligez », « honte »), pas de peur gratuite ; une question honnête plutôt qu'une injonction.
 9. **Cohérence du personnage** : noms fictifs seulement (Weber, Martin, Durand, Bernard, Petit), jamais le même nom fictif dans deux posts d'un même jour ; les prénoms d'avis sont inventés.
 10. **Français** : accords, ponctuation, typographie (« », espace avant ? ! : ;), pas d'anglicisme inutile.
-11. **Question finale** d'un contenu utile : elle est concrète, on peut y répondre en une ligne.
+11. **Question finale** d'un contenu utile : elle est dans le texte, concrète, on peut y répondre en une ligne.
+12. **Premier commentaire et légende TikTok** (depuis le 16/11/2026) : le premier commentaire est un complément d'information utile (astuce de plus, précision, exemple, « 30 jours offerts, le lien est en bio »), jamais une question ni une redite du texte ; la légende TikTok invite à s'abonner avec une raison crédible (« Abonnez-vous pour d'autres astuces sur votre fiche Google »), sans promesse invérifiable (pas de « une astuce par jour » si ce n'est pas vrai).
 
-Refuse dès qu'un critère nommé échoue : un texte refusé est réécrit, un texte publié ne se rattrape pas. Mais chaque refus doit citer le critère (1 à 11) : une simple préférence de formulation n'est pas un motif, et un texte accepté à une passe n'est pas relu à la suivante.
+Refuse dès qu'un critère nommé échoue : un texte refusé est réécrit, un texte publié ne se rattrape pas. Mais chaque refus doit citer le critère (1 à 12) : une simple préférence de formulation n'est pas un motif, et un texte accepté à une passe n'est pas relu à la suivante.

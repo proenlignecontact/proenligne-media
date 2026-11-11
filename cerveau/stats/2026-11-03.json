@@ -1,5 +1,5 @@
 {
- "releve_le": "2026-11-03T08:55:11.859Z",
+ "releve_le": "2026-11-03T12:51:57.357Z",
  "source": "2026-11-03.json",
  "posts": [
   {
@@ -8,14 +8,17 @@
    "vues": 778,
    "likes": 2,
    "commentaires": 0,
-   "partages": 0
+   "partages": 0,
+   "commentaires_bruts": 0,
+   "commentaires_maison": 0
   },
   {
    "postiz_id": "cmvwm8ppv0006kb7zqwx8v1rh",
    "canal": "facebook",
    "vues": 2,
    "likes": 0,
-   "engagement_total": 0
+   "engagement_total": 0,
+   "engagement_total_brut": 0
   },
   {
    "postiz_id": "cmvybe43u006hkb7z8cn2cmc0",
@@ -36,7 +39,8 @@
    "canal": "facebook",
    "vues": 0,
    "likes": 0,
-   "engagement_total": 1
+   "engagement_total": 0,
+   "engagement_total_brut": 1
   },
   {
    "postiz_id": "cmvybfkw0006zkb7zi1x7480b",
@@ -46,10 +50,27 @@
    "clics": 0
   },
   {
+   "postiz_id": "cmvybfky30073kb7ziqtgmmsj",
+   "canal": "facebook",
+   "vues": 0,
+   "likes": 0,
+   "clics": 0
+  },
+  {
    "postiz_id": "cmvybe48l006nkb7zxgqac8v9",
    "canal": "linkedin",
    "likes": 0,
-   "commentaires": 1
+   "commentaires": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
+  },
+  {
+   "postiz_id": "cmvybfkz60075kb7zddwqarz5",
+   "canal": "linkedin",
+   "likes": 0,
+   "commentaires": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
   },
   {
    "postiz_id": "cmvscsk3y0001o77z79evxv7h",
@@ -59,7 +80,9 @@
    "enregistrements": 0,
    "likes": 0,
    "commentaires": 0,
-   "partages": 0
+   "partages": 0,
+   "commentaires_bruts": 0,
+   "commentaires_maison": 0
   },
   {
    "postiz_id": "cmvwm8pog0005kb7z54kpm83z",
@@ -69,7 +92,9 @@
    "enregistrements": 0,
    "likes": 0,
    "commentaires": 0,
-   "partages": 0
+   "partages": 0,
+   "commentaires_bruts": 0,
+   "commentaires_maison": 0
   },
   {
    "postiz_id": "cmvybe45b006jkb7z4fshdqcy",
@@ -78,8 +103,10 @@
    "portee": 0,
    "enregistrements": 0,
    "likes": 0,
-   "commentaires": 1,
-   "partages": 0
+   "commentaires": 0,
+   "partages": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
   },
   {
    "postiz_id": "cmvybe4bb006rkb7z14nnai5t",
@@ -88,8 +115,22 @@
    "portee": 6,
    "enregistrements": 0,
    "likes": 0,
-   "commentaires": 1,
-   "partages": 0
+   "commentaires": 0,
+   "partages": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
+  },
+  {
+   "postiz_id": "cmvybfkx20071kb7z95e8z4m3",
+   "canal": "instagram",
+   "vues": 0,
+   "portee": 0,
+   "enregistrements": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "partages": 0,
+   "commentaires_bruts": 1,
+   "commentaires_maison": 1
   },
   {
    "postiz_id": "cmvwm8prg0007kb7z6jff27hx",
@@ -97,7 +138,9 @@
    "vues": 2,
    "likes": 0,
    "commentaires": 0,
-   "enregistrements": 0
+   "enregistrements": 0,
+   "commentaires_bruts": 0,
+   "commentaires_maison": 0
   },
   {
    "postiz_id": "cmvybe4co006tkb7zur20zuxl",
@@ -105,7 +148,9 @@
    "vues": 79,
    "likes": 0,
    "commentaires": 0,
-   "enregistrements": 0
+   "enregistrements": 0,
+   "commentaires_bruts": 0,
+   "commentaires_maison": 0
   }
  ],
  "indisponibles": [
@@ -151,7 +196,7 @@
    "Following": 6,
    "Total Likes": 5,
    "Videos": 3,
-   "Views": 1366,
+   "Views": 1617,
    "Recent Likes": 5,
    "Recent Comments": 0,
    "Recent Shares": 0
@@ -159,7 +204,7 @@
   "facebook": {
    "Page Impressions": 7,
    "Media views": 45,
-   "Posts Engagement": 7,
+   "Posts Engagement": 8,
    "Page followers": 0
   },
   "linkedin": {

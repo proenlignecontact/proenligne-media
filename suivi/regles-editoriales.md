@@ -49,22 +49,28 @@ Le vérificateur contrôle des règles mécaniques ; il ne sait pas si une phras
 
 Exemples de phrases refusées : « Nouveauté tue sur votre fiche Google, clients partis » (télégraphique, incompréhensible seule) ; « Vous trouvez les fuites sans casser. Votre fiche Google ne le dit à personne » (jargon non expliqué en accroche) ; un quiz dont la 1re slide coche déjà la bonne réponse alors que le texte dit « réponse dans le carrousel » ; un texte qui dit « il regarde 3 choses » quand le visuel n'en retient qu'une.
 
-## Grille quotidienne (heure de Paris)
+## Grille quotidienne (heure de Paris) — depuis la semaine du 16 novembre 2026
 
 | Créneau nominal | Type | Canaux Postiz | Média |
 |---|---|---|---|
-| **06:30** | Texte + image | X + Facebook | 1 image 1080×1350 (`outils/visuel.py`, gabarit `conseil` ou `question`) — sur Facebook un texte seul est le format le moins diffusé |
-| **13:00** | Carrousel | Instagram + Facebook, **+ LinkedIn du lundi au vendredi** | carrousel de 3 à 5 images (`outils/visuel.py --carrousel`), le même pour les 3 canaux ; LinkedIn en mode carrousel (`post_as_images_carousel: true`) |
-| **10:00** et **16:30** | Vidéos supplémentaires (depuis le 9 novembre 2026) | TikTok + Instagram + Facebook + YouTube + X + LinkedIn (7 jours sur 7) | 2 vidéos par jour, même méthode que la vidéo de 19:00 ; tâche dédiée « Vidéos supplémentaires Proenligne » (`suivi/consignes/videos-supplementaires.md`, `outils/videos-supp.py`) |
-| **19:00** | Vidéo verticale | TikTok + Instagram (Reel) + YouTube (Short) + Facebook (Reel) | pub motion 15 s (skill `pub-motion-proenligne`), **toujours la version verticale 9:16** sur les 4 canaux. La version horizontale n'est plus publiée. |
+| **13:00** | Carrousel | Instagram (7 jours sur 7), **+ LinkedIn le mardi et le jeudi** | carrousel de 3 à 5 images (`outils/visuel.py --carrousel`), le même pour les 2 canaux ; LinkedIn en mode carrousel (`post_as_images_carousel: true`) |
+| **10:00** et **16:30** | Vidéos supplémentaires (depuis le 9 novembre 2026) | TikTok + Instagram + Facebook + YouTube + X (7 jours sur 7) | 2 vidéos par jour, même méthode que la vidéo de 19:00 ; tâche dédiée « Vidéos supplémentaires Proenligne » (`suivi/consignes/videos-supplementaires.md`, `outils/videos-supp.py`) |
+| **19:00** | Vidéo verticale | TikTok + Instagram (Reel) + YouTube (Short) + Facebook (Reel) | vidéo 9:16 des skills swipe / cinétique / plan-séquence (voir « Vidéos 19:00 »), la même sur les 4 canaux |
 
-3 créneaux par jour, 7 jours sur 7 : 21 créneaux, soit 7 × (2 + 2 + 4) + 5 LinkedIn = **61 posts par semaine**, plus 2 variantes A/B TikTok (voir plus bas). S'y ajoutent les **14 vidéos supplémentaires** (10:00 et 16:30) sur les 6 réseaux, soit 84 posts : **147 posts par semaine** au total, 3 vidéos par jour.
+2 créneaux par jour, 7 jours sur 7 : **14 créneaux**, soit 7 × (1 + 4) + 2 LinkedIn = **37 posts par semaine**, plus 2 variantes A/B TikTok (voir plus bas) : 39. S'y ajoutent les **14 vidéos supplémentaires** (10:00 et 16:30) sur 5 réseaux, soit 70 posts : **109 posts par semaine** au total, 3 vidéos par jour.
 
-**Heures réelles variées.** Chaque créneau part à ± 45 min de son heure nominale (06:00 à 07:15, 12:30 à 13:45, 18:30 à 19:45), tirées par `python3 outils/heure_utc.py <lundi> --varier`. C'est ce qui permet d'apprendre quels horaires marchent ; le créneau nominal reste la référence des fiches. Un créneau est « occupé » si un post existe sur ce canal à ± 75 min du nominal.
+**Décision du 11 novembre 2026 (réallocation vers la vidéo).** Sur la première semaine et demie, presque toute l'audience vient de la vidéo courte (TikTok 11 723 vues pour 19 vidéos, YouTube Shorts ≈ 50 vues par vidéo) ; Facebook a fait 4 vues sur 29 posts, LinkedIn 0 vue mesurée, X ne renvoie rien. Donc :
+- le créneau **06:30 (X + Facebook, texte + image) est supprimé** ; X et Facebook ne reçoivent plus que des vidéos ;
+- le carrousel de 13:00 ne part **plus sur Facebook**, et sur **LinkedIn seulement le mardi et le jeudi** (LinkedIn allégé) ;
+- les vidéos supplémentaires ne partent **plus sur LinkedIn** ;
+- le temps de production gagné va à la qualité des vidéos (accroches, voix, relecture).
+Les posts déjà programmés avant le 16/11 ne sont ni supprimés ni modifiés. À revoir quand X ou Facebook montreront une audience au niveau du compte (section « Comptes » de l'analyse).
 
-**Premier commentaire.** Chaque post part avec un premier commentaire (2e élément de `postsAndComments`, sans média) : une question, un complément ou le « où en savoir plus », jamais un prix. C'est là que va l'appel à l'action des contenus utiles.
+**Heures réelles variées.** Chaque créneau part à ± 45 min de son heure nominale (12:30 à 13:45, 18:30 à 19:45), tirées par `python3 outils/heure_utc.py <lundi> --varier`. C'est ce qui permet d'apprendre quels horaires marchent ; le créneau nominal reste la référence des fiches. Un créneau est « occupé » si un post existe sur ce canal à ± 75 min du nominal.
 
-**LinkedIn : le carrousel de 13:00 seulement en semaine ; les vidéos supplémentaires de 10:00 et 16:30 y partent aussi, 7 jours sur 7 (décision du 4 novembre 2026).** Pas le week-end (audience quasi nulle sur une page entreprise), pas à 06:30 ni à 19:00 (l'engagement chute après 17h). 5 posts par semaine : la fréquence optimale pour une page de PME.
+**Premier commentaire (décision du 11 novembre 2026).** Chaque post part avec un premier commentaire (2e élément de `postsAndComments`, sans média). C'est un **complément d'information**, jamais une question : une astuce de plus, une précision, un exemple, le « où en savoir plus » (« 30 jours offerts, le lien est en bio »). Jamais de prix. Personne ne répondait aux questions posées en premier commentaire, et ces commentaires faussaient les stats : la **question va désormais dans le texte** du post (en fin de texte). Le vérificateur refuse un premier commentaire qui contient « ? ». Les stats ne comptent jamais ce commentaire (voir « Mesure »).
+
+**LinkedIn : le carrousel de 13:00 le mardi et le jeudi seulement (décision du 11 novembre 2026).** Pas de vidéo supplémentaire sur LinkedIn, pas le week-end. 2 posts par semaine, pour garder une page vivante sans y mettre de production : 0 vue mesurée par post sur la période du 2 au 11 novembre.
 
 **Heure UTC à passer à Postiz** : toujours celle donnée par `outils/heure_utc.py` (heure d'été et d'hiver gérées). Ne jamais calculer le décalage à la main.
 
@@ -74,16 +80,16 @@ Les algorithmes distribuent peu les publicités. Chaque créneau porte une **int
 
 | Intention | Part de la semaine | Ce que c'est | Appel à l'action |
 |---|---|---|---|
-| `utile` | **au moins 13 créneaux sur 21** | Le lecteur repart avec quelque chose : un test à faire sur sa fiche Google, une astuce concrète, une erreur à éviter, une idée reçue démontée, une scène où il se reconnaît. Proenligne est cité une fois au plus, en passant. | **Une question** qui fait commenter (dans le texte ou le premier commentaire). « Essayez gratuitement » autorisé mais pas obligatoire, et jamais dans le visuel. |
-| `preuve` | 2 à 5 créneaux | Une **démonstration** : avant / après descriptif d'une fiche Google (ce qu'il y avait, ce qu'il y a maintenant), scène où le client compare deux fiches, ce que Google affiche et pourquoi ça rassure. **Jamais un chiffre de résultat** (règle n°3). | Question ou « Essayez gratuitement », discret, en fin de texte. |
-| `offre` | **3 créneaux au plus** | Ce que fait Proenligne (photo le lundi, publication le jeudi, réponse aux avis) et l'essai gratuit. | « Essayez Proenligne gratuitement, sans engagement. » Les 3 ✅ ne sont autorisés **que** dans ces posts. |
+| `utile` | **au moins 9 créneaux sur 14** | Le lecteur repart avec quelque chose : un test à faire sur sa fiche Google, une astuce concrète, une erreur à éviter, une idée reçue démontée, une scène où il se reconnaît. Proenligne est cité une fois au plus, en passant. | **Une question** qui fait commenter, **dans le texte** (le premier commentaire est un complément, jamais une question). « Essayez gratuitement » autorisé mais pas obligatoire, et jamais dans le visuel. |
+| `preuve` | 2 à 4 créneaux | Une **démonstration** : avant / après descriptif d'une fiche Google (ce qu'il y avait, ce qu'il y a maintenant), scène où le client compare deux fiches, ce que Google affiche et pourquoi ça rassure. **Jamais un chiffre de résultat** (règle n°3). | Question ou « Essayez gratuitement », discret, en fin de texte. |
+| `offre` | **2 créneaux au plus** | Ce que fait Proenligne (photo le lundi, publication le jeudi, réponse aux avis) et l'essai gratuit. | « Essayez Proenligne gratuitement, sans engagement. » Les 3 ✅ ne sont autorisés **que** dans ces posts. |
 
 Règles transverses : jamais plus de 3 ✅ ; la règle n°1 « fiche Google » s'applique à toutes les intentions ; aucun prix nulle part (règle n°2) ; aucune statistique client (règle n°3) ; relecture de chaque élément (règle n°4) ; aucun « : » (règle n°5) ; un contenu utile se termine par une question, pas par une promesse.
 
 ## A/B et amplification
 
 - **A/B TikTok** : chaque semaine, 2 vidéos (mardi et jeudi) sont rendues en deux variantes d'accroche (`render.py lot-ab`). La variante A part dans la grille à 19:00 ; la variante B part sur TikTok seulement, **le surlendemain à 12:30** (poste supplémentaire, hors grille). Le champ `ab` du plan vaut "A" sur le créneau et une entrée séparée porte "B". L'analyse compare A et B sur TikTok.
-- **Amplification** (tâche quotidienne) : un post dont l'audience dépasse 2 fois la médiane de son canal sur 14 jours (au moins 5 posts mesurés) est noté dans `suivi/amplifier.json` : sujet, angle, ton, métier, accroche. La tâche hebdomadaire suivante **reprend obligatoirement** ces sujets : une déclinaison en carrousel, une variante vidéo avec une autre accroche, le même angle sur un autre métier.
+- **Amplification** (tâche quotidienne) : un post dont l'audience dépasse 2 fois la médiane de son canal sur 14 jours (au moins 5 posts mesurés) **et atteint au moins 50 vues** (plancher absolu, décision du 11/11/2026 : 15 vues contre une médiane de 2,5 était du bruit) est noté dans `suivi/amplifier.json` : sujet, angle, ton, métier, accroche. La tâche hebdomadaire suivante **reprend obligatoirement** ces sujets : une déclinaison en carrousel, une variante vidéo avec une autre accroche, le même angle sur un autre métier.
 - **Gardien** (tâche quotidienne) : un post en état d'erreur dans Postiz est recréé une fois à l'identique (heure + 2 h si l'heure est passée) et signalé.
 
 ## Connecteur Postiz
@@ -105,8 +111,8 @@ Toujours le connecteur personnalisé « postiz » (outils `mcp__postiz__*`, en m
 
 | Plateforme | Limite texte | Réglages à passer |
 |---|---|---|
-| X | **280 caractères**, espaces, emojis et hashtags compris ; l'image de 06:30 en pièce jointe | `post_type: post`, `who_can_reply_post: everyone` |
-| Facebook | pratiquement illimitée | `post_type: post` ; à 06:30 avec l'image, à 13:00 avec le carrousel (plusieurs images), à 19:00 avec la vidéo verticale (Reel) |
+| X | **280 caractères**, espaces, emojis et hashtags compris ; vidéos supplémentaires seulement depuis le 16/11/2026 | `post_type: post`, `who_can_reply_post: everyone` |
+| Facebook | pratiquement illimitée | `post_type: post` ; vidéos seulement depuis le 16/11/2026 (19:00 et vidéos supplémentaires, en Reel) |
 | Instagram | 2 200 caractères, au moins 1 média | `post_type: post` |
 | TikTok | 2 000 caractères, 1 vidéo obligatoire | `content_posting_method: UPLOAD` (**provisoire, depuis le 04/11/2026** : la vidéo est téléversée dans la boîte de réception TikTok sans être publiée, à finaliser à la main dans l'appli ; l'application TikTok n'est pas encore validée et refuse la publication directe. Repasser en `DIRECT_POST` dès sa validation), `privacy_level: PUBLIC_TO_EVERYONE`, `duet: false`, `stitch: false`, `comment: true`, `autoAddMusic: no`, `brand_content_toggle: false`, `brand_organic_toggle: false`, `video_made_with_ai: false`, `title` ≤ 90 |
 | YouTube | titre ≤ 100, description ≤ 5 000, 1 vidéo obligatoire, **verticale 9:16 et ≤ 60 s → publiée en Short** | `title`, `type: public`, `selfDeclaredMadeForKids: no` |
@@ -120,24 +126,31 @@ Un même message se décline par plateforme, jamais copié tel quel :
 - **X** : accroche + promesse + appel à l'action, ≤ 280 caractères. Garder l'accroche, c'est elle qui arrête le scroll. Pas de phrase coupée.
 - **Facebook** : version complète (accroche, développement, 3 puces ✅, offre, 4-6 hashtags).
 - **Instagram** : version complète, hashtags en fin de texte.
-- **TikTok** : légende courte et directe, la vidéo porte le message ; le premier commentaire pose la question.
+- **TikTok** : légende courte et directe, la vidéo porte le message. Elle se termine par l'**invitation à s'abonner** puis l'offre, par exemple « Abonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio. » (voir « Conversion TikTok »). Le premier commentaire est un complément d'information.
 - **YouTube** : titre accrocheur (≤ 100), description complète.
 - **LinkedIn** : on parle à des **gérants d'entreprise**, pas à leurs clients. Ton professionnel, vouvoiement, phrases courtes, une idée par paragraphe.
   - Les **2 premières lignes (≈ 200 caractères)** sont les seules visibles avant « … voir plus » : elles portent l'accroche avec « fiche Google ».
   - Corps de 700 à 1 300 caractères : un constat du métier, ce que ça coûte en clients, ce que fait Proenligne (les 3 promesses), l'appel à l'action « Essayez Proenligne gratuitement, 30 jours offerts, sans engagement » (page Proenligne, pas de lien).
   - 3 à 5 hashtags maximum en fin de texte (#FicheGoogle #GoogleBusinessProfile #ReferencementLocal + métier ou #TPE / #Artisanat). Pas d'avalanche d'emojis : 3 ✅ au plus.
   - Jamais de lien externe dans le texte (LinkedIn réduit leur portée) ; « lien en bio » n'a pas de sens sur LinkedIn : renvoyer vers la page Proenligne ou ne rien dire.
-  - Ne pas recopier le texte Facebook : reprendre l'idée du créneau, réécrite pour un décideur.
+  - Ne pas recopier le texte Instagram : reprendre l'idée du créneau, réécrite pour un décideur.
 
-## Formats du créneau texte (06:30), en rotation
+## Rotation
 
-1. **Conseil pratique** : une action concrète sur sa fiche Google.
-2. **Test** : « Tapez votre métier + votre ville… » ou équivalent, qui fait vérifier sa position.
-3. **Constat métier** : une scène vraie pour un métier précis (fuite du soir, panne, rendez-vous coiffure…).
-4. **Idée reçue** : « On croit que… En réalité… ».
-5. **Démonstration** (format `preuve`) : un avant / après descriptif ou une scène de comparaison, sans aucun chiffre de résultat (règle n°3).
+Le créneau texte de 06:30 est supprimé depuis la semaine du 16/11/2026. Le **ton** ne se répète jamais deux créneaux de suite (4 fois par semaine au plus) et le **gabarit visuel** de 13:00 alterne (`avant-apres`, `conseil`, `question`), jamais le même deux jours de suite.
 
-Ne pas utiliser deux fois le même format le même jour, ni le même format deux jours de suite au même créneau. Même règle pour le **ton** (jamais le même deux créneaux de suite, 5 fois par semaine au plus) et pour le **gabarit visuel** de 13:00 (`avant-apres`, `conseil`, `question`, en alternance).
+## Conversion TikTok (décision du 11 novembre 2026)
+
+Au 11/11, TikTok a 11 723 vues pour 19 vidéos mais **1 seul abonné** : les vidéos sont vues, personne ne reste. Objectif : faire monter le ratio abonnés pour 1 000 vues (section « Conversion » de `cerveau/analyse.py`, suivie chaque semaine dans `decisions.md`).
+- **Légende** : chaque légende TikTok (grille, variantes B, amplificateur, vidéos supplémentaires) contient « Abonnez-vous… » avec une raison de le faire (« pour d'autres astuces sur votre fiche Google », « pour voir les autres métiers »), puis « 30 jours offerts, lien en bio. ». Contrôlé par `cerveau/verifier.py` et `outils/videos-supp.py`.
+- **Lien de bio suivi** (réglage manuel de Maxime dans chaque appli, une seule fois) : le lien de bio de chaque réseau porte un marqueur de provenance, `?utm_source=<tiktok|instagram|youtube|facebook|x>&utm_medium=bio&utm_campaign=organique`, pour savoir dans l'outil d'analyse du site combien de visites et d'essais viennent de chaque réseau. Les stats Postiz ne voient pas ces clics.
+- **Bio TikTok** : une phrase qui dit ce qu'on gagne à s'abonner (« Une astuce fiche Google par jour pour les artisans »), puis le lien.
+- Les vidéos elles-mêmes ne changent pas (écran final « 14,99 € / mois · 30 jours offerts » + « Lien en bio → ») tant que le ratio n'a pas été mesuré deux semaines.
+
+## Mesure (décision du 11 novembre 2026)
+
+- Les **commentaires de la maison ne comptent pas** : `cerveau/convertir_stats.py` retire de chaque post le premier commentaire posté par Proenligne, ainsi que les commentaires que Maxime déclare dans `cerveau/commentaires-maison.json` ({"<postiz_id>": <nombre en plus>}, pour ses réponses ou relances). Au 11/11, une fois ces commentaires retirés, il restait **1 seul commentaire venu de l'extérieur** sur toute la période : les décisions « 70 / 30 » du 08/11 (ton réplique, format conseil, avis sans réponse, Instagram…) reposaient sur nos propres commentaires et sont annulées (voir `cerveau/decisions.md`).
+- Tant que l'engagement médian est nul, on décide sur l'**indice vues** (audience rapportée à la médiane du canal) que donne `cerveau/analyse.py`, pas sur l'indice d'engagement.
 
 ## Règles de contenu (non négociables, reprises du skill)
 
@@ -153,7 +166,7 @@ Ne pas utiliser deux fois le même format le même jour, ni le même format deux
 
 - 11 métiers : plombier, électricien, chauffagiste, serrurier, paysagiste, maçon, coiffeur, esthéticienne, auto-école, boulangerie, garage. Pas le même métier deux créneaux de suite, et au moins 6 métiers différents par semaine.
 - Lire les fiches de `cerveau/productions/` : ne pas reprendre une accroche déjà publiée ni un trio métier + angle + format des 3 dernières semaines.
-- **Ouvertures variées** : alterner question directe, réplique de client entre guillemets, scène au présent (« Il est 20 h… »), constat qui pique, idée contre-intuitive, « pendant que vous… ». Deux textes de la semaine ne commencent jamais par les mêmes 5 mots ; la structure accroche + 3 ✅ + CTA est réservée aux 3 posts « offre ».
+- **Ouvertures variées** : alterner question directe, réplique de client entre guillemets, scène au présent (« Il est 20 h… »), constat qui pique, idée contre-intuitive, « pendant que vous… ». Deux textes de la semaine ne commencent jamais par les mêmes 5 mots ; la structure accroche + 3 ✅ + CTA est réservée aux 2 posts « offre ».
 - **Vidéos** : varier la mise en scène (recherche, fiche, avis, journée) et l'ambiance sonore (`PUB_AMBIANCE=0|1|2`, jamais la même deux jours de suite).
 - Lire `suivi/amplifier.json` : les sujets qui ont décollé sont repris en priorité (voir « A/B et amplification »). Suivre aussi les orientations de la dernière analyse (`cerveau/analyses/`) et de `cerveau/decisions.md`.
 - Les 7 vidéos de la semaine passent par le tirage du skill avec `suivi/historique-pubs.json`.
@@ -189,4 +202,4 @@ Ne pas utiliser deux fois le même format le même jour, ni le même format deux
 - **Variété** : jamais le même moteur + angle à moins de 3 jours d'écart (tirage avec `--eviter` sur l'autre tirage de la semaine). Le tirage applique tout cela.
 
 ## « fiche Google » dans les visuels (depuis le 4 novembre 2026)
-Dans tout visuel (images 06:30, carrousels 13:00, vidéos), le mot « fiche » est TOUJOURS écrit « fiche Google », sans exception (« À fiche Google aussi vivante… », jamais « À fiche égale »). Contrôlé par `regles_texte.fiche_seule`, appelé par `outils/visuel.py`, `cerveau/verifier.py` et `outils/pub-video.py` (y compris sur le texte réellement affiché dans la vidéo).
+Dans tout visuel (carrousels 13:00, vidéos), le mot « fiche » est TOUJOURS écrit « fiche Google », sans exception (« À fiche Google aussi vivante… », jamais « À fiche égale »). Contrôlé par `regles_texte.fiche_seule`, appelé par `outils/visuel.py`, `cerveau/verifier.py` et `outils/pub-video.py` (y compris sur le texte réellement affiché dans la vidéo).

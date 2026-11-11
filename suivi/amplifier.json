@@ -1,6 +1,7 @@
 {
- "_lisezmoi": "Posts qui ont décollé (audience > 2 × médiane du canal sur 14 jours). Écrit par la tâche quotidienne, lu et vidé par la tâche hebdomadaire après reprise.",
- "a_reprendre": [
+ "_lisezmoi": "Posts qui ont décollé (audience ≥ 50 vues ET > 2 × médiane du canal sur 14 jours, cerveau/amplifier.py). Écrit par la tâche quotidienne, lu et vidé par la tâche hebdomadaire après reprise.",
+ "a_reprendre": [],
+ "repris": [
   {
    "fiche": "2026-11-02_1900_paysagiste-fiche-endormie-hiver",
    "canal": "instagram",
@@ -20,7 +21,9 @@
     "date": "2026-11-06",
     "postiz_id": "cmw3ly7xv00mbkb7z3i0ss5va",
     "ab": "B"
-   }
+   },
+   "repris_le": "2026-11-11",
+   "note": "Variante déjà programmée par le gardien ; sous le plancher de 50 vues instauré le 11/11/2026 (bruit statistique), clos sans reprise hebdomadaire."
   },
   {
    "fiche": "2026-11-03_1900_garage-avis-sans-reponse-soir",
@@ -41,7 +44,9 @@
     "date": "2026-11-08",
     "postiz_id": "cmw6ot54d00mxkb7z966jyz0r",
     "ab": "B"
-   }
+   },
+   "repris_le": "2026-11-11",
+   "note": "Variante déjà programmée par le gardien ; sous le plancher de 50 vues instauré le 11/11/2026 (bruit statistique), clos sans reprise hebdomadaire."
   },
   {
    "fiche": "2026-10-31_1900_electricien-panne-du-soir",
@@ -62,7 +67,9 @@
     "date": "2026-11-07",
     "postiz_id": "cmw4qc0sp00mhkb7zqefbavlh",
     "ab": "B"
-   }
+   },
+   "repris_le": "2026-11-11",
+   "note": "Variante déjà programmée par le gardien ; sous le plancher de 50 vues instauré le 11/11/2026 (bruit statistique), clos sans reprise hebdomadaire."
   },
   {
    "fiche": "2026-11-06_1900_serrurier-avis-negatif-en-haut",
@@ -83,7 +90,9 @@
     "date": "2026-11-11",
     "postiz_id": "cmwadfi8000nfkb7z0nanb10b",
     "ab": "B"
-   }
+   },
+   "repris_le": "2026-11-11",
+   "note": "Variante déjà programmée par le gardien ; sous le plancher de 50 vues instauré le 11/11/2026 (bruit statistique), clos sans reprise hebdomadaire."
   },
   {
    "fiche": "2026-11-07_1300_offre-fiche-google-sans-soiree",
@@ -100,7 +109,9 @@
    "creneau": "visuel",
    "accroche": "Votre fiche Google peut rester active sans vous prendre vos soirées. C'est le principe de Proenligne.",
    "detecte_le": "2026-11-10",
-   "variante_programmee": "hebdo"
+   "variante_programmee": "hebdo",
+   "repris_le": "2026-11-11",
+   "note": "Non repris : sous le plancher de 50 vues instauré le 11/11/2026 (bruit statistique), clos sans reprise hebdomadaire."
   },
   {
    "fiche": "2026-11-09_1900_electricien-classement-le-mans",
@@ -121,8 +132,9 @@
     "date": "2026-11-12",
     "postiz_id": "cmwbt1qd500npkb7z2plei6xd",
     "ab": "B"
-   }
+   },
+   "repris_le": "2026-11-11",
+   "note": "Variante déjà programmée par le gardien ; sous le plancher de 50 vues instauré le 11/11/2026 (bruit statistique), clos sans reprise hebdomadaire."
   }
- ],
- "repris": []
+ ]
 }

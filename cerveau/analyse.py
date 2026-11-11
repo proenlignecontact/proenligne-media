@@ -11,6 +11,12 @@ usage : python3 cerveau/analyse.py [--sortie cerveau/analyses/AAAA-MM-JJ.md] [--
   (indice 1,0 = dans la moyenne du canal), car un taux TikTok ne se compare pas à un taux Instagram.
 - Une valeur de dimension n'est classée que si elle a au moins --min publications mesurées.
 - X et Facebook texte ne renvoient pas de stats par post : ils se pilotent au niveau du compte (section « Comptes »).
+- Les commentaires sont ceux venus de l'EXTÉRIEUR : cerveau/convertir_stats.py retire le premier commentaire posté par
+  Proenligne et ceux déclarés dans cerveau/commentaires-maison.json (décision du 11/11/2026).
+- « indice vues » : audience rapportée à l'audience médiane du canal (médiane par valeur). Tant que l'engagement médian
+  est nul, c'est lui qui décide (décision du 11/11/2026).
+- Section « Conversion » : abonnés gagnés pour 1 000 vues (TikTok, YouTube) entre les deux derniers relevés de compte,
+  et clics quand la plateforme les donne. C'est l'indicateur de l'action « faire convertir TikTok ».
 """
 import argparse, datetime as dt, glob, json, os, statistics
 from collections import defaultdict
@@ -67,6 +73,11 @@ def lignes(fiches, stats, delai_h):
         med[canal] = statistics.median(t) if t else 0
     for r in out:
         r['indice'] = (r['taux'] / med[r['canal']]) if med[r['canal']] else (1.0 if r['taux'] == 0 else 2.0)
+    # indice vues : audience rapportée à l'audience médiane du canal (seul signal tant que l'engagement est nul)
+    med_aud = {c: statistics.median([r['audience'] for r in out if r['canal'] == c]) for c in med}
+    for r in out:
+        m = med_aud[r['canal']]
+        r['indice_vues'] = (r['audience'] / m) if m else (1.0 if r['audience'] == 0 else 2.0)
     return out, non_mesurees, sans_stats, med
 
 
@@ -76,7 +87,7 @@ def tableau(rows, dim, mini):
         if r.get(dim) is not None:
             g[r[dim]].append(r)
     res = [(val, len(rs), statistics.median(r['audience'] for r in rs), statistics.mean(r['taux'] for r in rs),
-            statistics.mean(r['indice'] for r in rs)) for val, rs in g.items()]
+            statistics.mean(r['indice'] for r in rs), statistics.median(r['indice_vues'] for r in rs)) for val, rs in g.items()]
     res.sort(key=lambda x: (x[1] >= mini, x[4]), reverse=True)
     return res
 
@@ -103,6 +114,30 @@ def section_comptes(comptes):
     return L
 
 
+def section_conversion(comptes):
+    """Abonnés gagnés pour 1 000 vues, par plateforme, entre le premier et le dernier relevé de compte, et sur le dernier intervalle."""
+    if not comptes:
+        return ['_Aucun relevé de compte._']
+    REG = {'tiktok': ('Views', 'Followers'), 'youtube': (None, 'Subscribers Gained')}
+    L = ['| plateforme | vues (cumul) | abonnés | abonnés / 1 000 vues | depuis le relevé précédent |', '|---|---|---|---|---|']
+    (q0, c0), (q1, c1) = comptes[0], comptes[-1]
+    prec = comptes[-2][1] if len(comptes) > 1 else {}
+    for plat, (kv, ka) in REG.items():
+        m1 = c1.get(plat) or {}
+        if ka not in m1:
+            continue
+        vues, ab = m1.get(kv) if kv else None, m1.get(ka)
+        ratio = f'{1000 * ab / vues:.2f}' if vues and ab is not None else 'n/d'
+        p = prec.get(plat) or {}
+        dv = (vues - p[kv]) if kv and vues is not None and p.get(kv) is not None else None
+        da = (ab - p[ka]) if ab is not None and p.get(ka) is not None else None
+        evo = f'{da:+} abonnés pour {dv:+} vues' if dv is not None and da is not None else (f'{da:+} abonnés' if da is not None else '')
+        L.append(f'| {plat} | {"" if vues is None else vues} | {ab} | {ratio} | {evo} |')
+    L.append('\n_Objectif : faire monter le ratio abonnés / 1 000 vues de TikTok (1 abonné pour 11 723 vues au 11/11/2026). '
+             'Les clics sur le lien de bio se lisent dans l\'outil de suivi du lien (UTM utm_source=tiktok…), pas ici._')
+    return L
+
+
 def rapport(fiches, rows, non_mesurees, sans_stats, med, comptes, mini):
     aujourd = dt.date.today().isoformat()
     L = [f'# Analyse du {aujourd}', '',
@@ -110,14 +145,19 @@ def rapport(fiches, rows, non_mesurees, sans_stats, med, comptes, mini):
          f'- Publications mesurées : {len(rows)} · trop récentes ou sans relevé : {non_mesurees} · sans stats par post : '
          + (', '.join(f'{k} {v}' for k, v in sans_stats.items()) or '0'),
          f'- Seuil de fiabilité : {mini} publications mesurées par valeur ; verdicts normalisés par canal (indice 1,0 = médiane du canal)',
-         '- Engagement pondéré : like ×1 · enregistrement ×1,5 · commentaire ×2 · partage ×3, rapporté à l\'audience (vues, ou portée)', '']
+         '- Engagement pondéré : like ×1 · enregistrement ×1,5 · commentaire ×2 · partage ×3, rapporté à l\'audience (vues, ou portée)',
+         '- Commentaires comptés : **venus de l\'extérieur seulement** (premier commentaire de Proenligne et commentaires de la maison retirés)', '']
     total = len(rows)
     if total < 30:
         L += [f'**Phase de démarrage ({total} < 30 publications mesurées) : exploration à 50 / 50**, pas de pondération 70 / 30.', '']
     L += ['## Comptes', ''] + section_comptes(comptes) + ['']
+    L += ['## Conversion', ''] + section_conversion(comptes) + ['']
     if not rows:
         L += ['**Pas encore de statistiques par post exploitables.** Continuer la rotation équilibrée prévue par les règles éditoriales.']
         return '\n'.join(L)
+    if all(m == 0 for c, m in med.items() if sum(1 for r in rows if r['canal'] == c) >= mini):
+        L += ['**Engagement médian nul sur tous les canaux mesurés : les verdicts d\'engagement ne disent rien. '
+              'Décider sur l\'« indice vues » (audience rapportée à la médiane du canal, médiane par valeur).**', '']
     L += ['## Médianes par canal', '', '| canal | publications | engagement médian |', '|---|---|---|']
     for canal, m in sorted(med.items()):
         L.append(f'| {canal} | {sum(1 for r in rows if r["canal"] == canal)} | {m:.2%} |')
@@ -126,9 +166,9 @@ def rapport(fiches, rows, non_mesurees, sans_stats, med, comptes, mini):
         t = tableau(rows, dim, mini)
         if not t:
             continue
-        L += [f'## {dim}', '', '| valeur | posts | audience médiane | engagement | indice | verdict |', '|---|---|---|---|---|---|']
-        for val, n, aud, taux, ind in t:
-            L.append(f'| {val} | {n} | {aud:.0f} | {taux:.2%} | {ind:.2f} | {verdict(n, ind, mini)} |')
+        L += [f'## {dim}', '', '| valeur | posts | audience médiane | engagement | indice | verdict | indice vues | verdict vues |', '|---|---|---|---|---|---|---|---|']
+        for val, n, aud, taux, ind, iv in t:
+            L.append(f'| {val} | {n} | {aud:.0f} | {taux:.2%} | {ind:.2f} | {verdict(n, ind, mini)} | {iv:.2f} | {verdict(n, iv, mini)} |')
         L.append('')
     top = sorted(rows, key=lambda r: r['indice'], reverse=True)[:5]
     L += ['## Meilleures publications (indice canal)', '']

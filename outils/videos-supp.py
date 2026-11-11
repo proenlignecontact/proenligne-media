@@ -1,6 +1,7 @@
-"""Vidéos supplémentaires de la semaine : 2 par jour, vers 10:00 et 16:30 (heure de Paris), sur les 6 réseaux Postiz
-(TikTok, Instagram, Facebook, YouTube, X, LinkedIn page, LinkedIn compris le week-end), en plus de la grille habituelle
-(06:30 image, 13:00 carrousel, 19:00 vidéo). Utilisé par la tâche « Vidéos supplémentaires Proenligne »
+"""Vidéos supplémentaires de la semaine : 2 par jour, vers 10:00 et 16:30 (heure de Paris), sur 5 réseaux Postiz
+(TikTok, Instagram, Facebook, YouTube, X), en plus de la grille habituelle (13:00 carrousel, 19:00 vidéo).
+Depuis la semaine du 16/11/2026 (décision du 11/11) : plus de LinkedIn (aucune vue mesurée), la légende TikTok invite à
+s'abonner, et le premier commentaire est un complément d'information, jamais une question. Utilisé par la tâche « Vidéos supplémentaires Proenligne »
 (consigne : suivi/consignes/videos-supplementaires.md).
 
 usage :
@@ -11,13 +12,13 @@ usage :
       et, avec --briefs, les briefs vidéo (outils/pub-video.py valider). Doit répondre « plan supp OK ».
   python3 outils/videos-supp.py postiz <plan.json> <slug>
       écrit /tmp/videos-supp-<slug>.json : le tableau socialPost à passer TEL QUEL à
-      mcp__postiz__integrationSchedulePostTool (6 réseaux, premier commentaire, réglages des règles éditoriales).
+      mcp__postiz__integrationSchedulePostTool (5 réseaux, premier commentaire, réglages des règles éditoriales).
       Le plan doit porter media.postiz_vertical (URL media.glidy.uk renvoyée par uploadFromUrlTool).
 
 Plan (suivi/plan/<lundi>-supp.json) : une liste, une entrée par vidéo :
   {"slug", "utc", "heure_paris", "intention": "utile|preuve|offre", "tiktok_title" (≤ 90), "youtube_title" (≤ 100, avec
-   « fiche Google »), "textes": {"tiktok", "instagram", "facebook", "youtube", "x" (≤ 280), "linkedin" (700 à 1 300)},
-   "premier_commentaire", "media": {"postiz_vertical": "…"}}
+   « fiche Google »), "textes": {"tiktok" (avec « Abonnez-vous … »), "instagram", "facebook", "youtube", "x" (≤ 280)},
+   "premier_commentaire" (complément, sans « ? »), "media": {"postiz_vertical": "…"}}
 Le brief vidéo de chaque entrée est suivi/briefs/<lundi>-supp/<slug>.json (format de outils/pub-video.py).
 """
 import datetime as dt, glob, html, json, os, re, subprocess, sys, zoneinfo
@@ -28,7 +29,7 @@ sys.path.insert(0, os.path.join(REPO, 'cerveau'))
 import regles_texte  # noqa: E402
 
 CANAUX = {'tiktok': 'cmvsaqnzu0001pj8d4gk1ojzz', 'facebook': 'cmvs9p6ky0001mq8gkj2c0a82', 'instagram': 'cmvs9xsx80003mq8gnh6baz7n',
-          'x': 'cmvsbfk2y0001nr8eba2fo36u', 'youtube': 'cmvsbyqw20001jv87195lx18q', 'linkedin': 'cmvxyqbk4001vkb7zbrwvu9pt'}
+          'x': 'cmvsbfk2y0001nr8eba2fo36u', 'youtube': 'cmvsbyqw20001jv87195lx18q'}
 PARIS = zoneinfo.ZoneInfo('Europe/Paris')
 # décalages (minutes) appliqués à 10:00 et 16:30 selon le jour : jamais deux jours à la même minute, jamais à ±45 min d'un autre créneau
 DECALAGES = [(15, 0), (0, 15), (-15, -15), (30, -30), (-30, 30), (15, -15), (0, 0)]
@@ -51,16 +52,15 @@ def verifier(plan_f, briefs=None):
     pb = []
     for p in P:
         s = p.get('slug', '?')
-        for k in ('tiktok', 'instagram', 'facebook', 'youtube', 'x', 'linkedin'):
+        for k in CANAUX:
             t = (p.get('textes') or {}).get(k, '')
             if not t: pb.append(f'{s} texte {k} manquant'); continue
             pb += regles_texte.problemes(t, f'{s} {k}') + regles_texte.fiche_seule(t, f'{s} {k}')
             if not re.search(r'fiches? google', t, re.I): pb.append(f'{s} {k} : « fiche Google » absent')
-        x, li = p['textes'].get('x', ''), p['textes'].get('linkedin', '')
+        x = p['textes'].get('x', '')
         if len(x) > 280: pb.append(f'{s} x : {len(x)} caractères (max 280)')
-        if not 700 <= len(li) <= 1300: pb.append(f'{s} linkedin : {len(li)} caractères (700 à 1 300)')
-        if li.count('#') > 5: pb.append(f'{s} linkedin : plus de 5 hashtags')
-        if 'http' in li or 'lien en bio' in li.lower(): pb.append(f'{s} linkedin : lien interdit')
+        if 'linkedin' in (p.get('textes') or {}): pb.append(f'{s} : plus de LinkedIn sur les vidéos supplémentaires depuis le 16/11/2026')
+        if not re.search(r'abonnez-vous', p['textes'].get('tiktok', ''), re.I): pb.append(f'{s} tiktok : la légende doit inviter à s\'abonner (« Abonnez-vous … »)')
         for k, n in (('tiktok_title', 90), ('youtube_title', 100)):
             t = p.get(k, '')
             if not t or len(t) > n: pb.append(f'{s} {k} : vide ou > {n} caractères')
@@ -68,6 +68,7 @@ def verifier(plan_f, briefs=None):
         if not re.search(r'fiches? google', p.get('youtube_title', ''), re.I): pb.append(f'{s} youtube_title : « fiche Google » absent')
         c = p.get('premier_commentaire', '')
         if not c or len(c) > 300: pb.append(f'{s} premier_commentaire vide ou > 300 caractères')
+        if '?' in c: pb.append(f'{s} premier_commentaire : complément d\'information, pas une question (la question va dans le texte)')
         pb += regles_texte.problemes(c, f'{s} commentaire') + regles_texte.fiche_seule(c, f'{s} commentaire')
         if p.get('intention') != 'offre' and '✅' in json.dumps(p, ensure_ascii=False): pb.append(f'{s} : ✅ réservés aux posts offre')
     if briefs:
@@ -109,8 +110,7 @@ def postiz(plan_f, slug):
                    ('title', p['tiktok_title'])],
         'facebook': [('post_type', 'post')], 'instagram': [('post_type', 'post')],
         'x': [('post_type', 'post'), ('who_can_reply_post', 'everyone')],
-        'youtube': [('title', p['youtube_title']), ('type', 'public'), ('selfDeclaredMadeForKids', 'no')],
-        'linkedin': [('post_as_images_carousel', False)]}
+        'youtube': [('title', p['youtube_title']), ('type', 'public'), ('selfDeclaredMadeForKids', 'no')]}
     S = [{'integrationId': iid, 'isPremium': False, 'date': p['utc'], 'shortLink': False, 'type': 'schedule',
           'postsAndComments': [{'content': h(p['textes'][c]), 'attachments': [m]}, {'content': h(p['premier_commentaire']), 'attachments': []}],
           'settings': [{'key': k, 'value': v} for k, v in reglages[c]]} for c, iid in CANAUX.items()]
