@@ -116,7 +116,12 @@
    "format": "recherche",
    "creneau": "video",
    "accroche": "Tapez « électricien Le Mans » sur Google. Où apparaît votre fiche Google ?",
-   "detecte_le": "2026-11-11"
+   "detecte_le": "2026-11-11",
+   "variante_programmee": {
+    "date": "2026-11-12",
+    "postiz_id": "cmwbt1qd500npkb7z2plei6xd",
+    "ab": "B"
+   }
   }
  ],
  "repris": []

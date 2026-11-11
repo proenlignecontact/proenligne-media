@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-12_1245_electricien-classement-le-mans-amplif",
+ "date_paris": "2026-11-12",
+ "heure_paris": "12:45",
+ "creneau_nominal": "12:45",
+ "intention": "utile",
+ "ab": "B",
+ "premier_commentaire": "Électriciens, vous avez fait le test ? Où apparaît votre fiche Google quand on tape votre métier et votre ville ?",
+ "jour_semaine": "jeudi",
+ "creneau": "video",
+ "metier": "electricien",
+ "angle": "peur-de-perdre",
+ "format": "recherche",
+ "ton": "scene",
+ "symptome": "classement",
+ "offre": "essai",
+ "accroche": "Un client tape « électricien Le Mans ». Vous êtes où sur Google ?",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Electricien",
+  "#FicheGoogle",
+  "#LeMans"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [
+   "medias/2026-11-12/electricien-classement-le-mans-amplif.mp4"
+  ],
+  "postiz": [
+   "https://media.glidy.uk/nEtcEpC0MN.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmwbt1qd500npkb7z2plei6xd",
+   "caracteres": 198,
+   "texte": "Un client tape « électricien Le Mans ». Vous êtes où sur Google ?\nIl appelle souvent l'une des premières fiches Google de la liste.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Electricien #LeMans"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "Variante amplifiée de 2026-11-09_1900_electricien-classement-le-mans (Instagram 15 vs médiane 2,5). Décalée à 12:45 : le créneau 12:30 du 12/11 est déjà pris par maçon swipe B.",
+ "moteur": "plan-sequence",
+ "angle_video": "Plus de clients",
+ "ville_video": "Le Mans",
+ "duree_video": 17.5,
+ "musique": true
+}
