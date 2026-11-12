@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-12T07:24:45.100Z",
+    "generatedAt": "2026-11-12T13:50:52.632Z",
     "days": 60,
     "channels": [
         {
@@ -13,20 +13,20 @@
                 "metrics": [
                     {
                         "metric": "Page Impressions",
-                        "latest": 0,
-                        "sum": 11,
+                        "latest": 1,
+                        "sum": 12,
                         "percentageChange": 5
                     },
                     {
                         "metric": "Media views",
-                        "latest": 0,
-                        "sum": 52,
+                        "latest": 1,
+                        "sum": 53,
                         "percentageChange": 5
                     },
                     {
                         "metric": "Posts Engagement",
-                        "latest": 0,
-                        "sum": 48,
+                        "latest": 2,
+                        "sum": 50,
                         "percentageChange": 5
                     },
                     {
@@ -58,66 +58,6 @@
             "stats": {
                 "available": false,
                 "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
-            }
-        },
-        {
-            "id": "cmvsaqnzu0001pj8d4gk1ojzz",
-            "name": "Proenligne",
-            "platform": "tiktok",
-            "profile": "proenligne",
-            "disabled": false,
-            "stats": {
-                "available": true,
-                "metrics": [
-                    {
-                        "metric": "Followers",
-                        "latest": 2,
-                        "sum": 2,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Following",
-                        "latest": 15,
-                        "sum": 15,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Total Likes",
-                        "latest": 57,
-                        "sum": 57,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Videos",
-                        "latest": 20,
-                        "sum": 20,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Views",
-                        "latest": 12514,
-                        "sum": 12514,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Recent Likes",
-                        "latest": 57,
-                        "sum": 57,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Recent Comments",
-                        "latest": 0,
-                        "sum": 0,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Recent Shares",
-                        "latest": 0,
-                        "sum": 0,
-                        "percentageChange": 0
-                    }
-                ]
             }
         },
         {
@@ -164,6 +104,66 @@
                         "latest": 0,
                         "sum": 5,
                         "percentageChange": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "name": "Proenligne",
+            "platform": "tiktok",
+            "profile": "proenligne",
+            "disabled": false,
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Followers",
+                        "latest": 2,
+                        "sum": 2,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Following",
+                        "latest": 16,
+                        "sum": 16,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Total Likes",
+                        "latest": 57,
+                        "sum": 57,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Videos",
+                        "latest": 21,
+                        "sum": 21,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Views",
+                        "latest": 12660,
+                        "sum": 12660,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Recent Likes",
+                        "latest": 56,
+                        "sum": 56,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Recent Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Recent Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
                     }
                 ]
             }
@@ -492,6 +492,19 @@
             "state": "PUBLISHED",
             "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7706843356793686038",
             "content": "Ma\u00e7on \u00e0 Tours, m\u00eame note Google que le voisin, et c'est lui qu'on appelle.\nSa fiche Google, l'encadr\u00e9 que Google affiche avec la note et les photos, montre ses chantiers de la semaine. La v\u00f4tre montre une fa\u00e7ade d'il y a longtemps.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Macon #Tours",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmwbt1qd500npkb7z2plei6xd",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-12T11:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7707249326791198742",
+            "content": "Un client tape \u00ab \u00e9lectricien Le Mans \u00bb. Vous \u00eates o\u00f9 sur Google ?\nIl appelle souvent l'une des premi\u00e8res fiches Google de la liste.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Electricien #LeMans",
             "stats": {
                 "available": false,
                 "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
@@ -1135,8 +1148,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 40,
-                        "sum": 40,
+                        "latest": 43,
+                        "sum": 43,
                         "percentageChange": 0
                     },
                     {
@@ -1415,6 +1428,76 @@
             }
         },
         {
+            "id": "cmw2mc1we00ifkb7zg0omtt6n",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-12T12:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/122101312257531668/posts/122109850623531668",
+            "content": "Avant, la fiche Google de l'auto-\u00e9cole n'avait rien publi\u00e9 depuis la rentr\u00e9e. Apr\u00e8s, les parents voient l'\u00e9cole vivre.\n\nUn parent cherche une auto-\u00e9cole pour son fils. Sur Google Maps, il ouvre les fiches Google des \u00e9coles du quartier, avec leur note, leurs photos et leurs avis.\n\nVoici une auto-\u00e9cole imaginaire, l'auto-\u00e9cole Durand, en deux versions.\nAvant, une bonne note et plus rien depuis septembre.\nApr\u00e8s, une photo le lundi, un mot sur le code le jeudi, une r\u00e9ponse sous chaque avis.\n\nLaquelle des deux appelleriez-vous pour une inscription ?\n\n#FicheGoogle #AutoEcole #Permis #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Impressions",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks by Type",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2mc1y100ihkb7zjqesvhqw",
+            "platform": "linkedin-page",
+            "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "publishDate": "2026-11-12T12:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7526622504501547009",
+            "content": "Deux versions de la m\u00eame fiche Google d'auto-\u00e9cole, et une seule donne envie d'inscrire son enfant.\nLa fiche Google, c'est l'encadr\u00e9 que Google affiche avec la note, les photos et les avis quand un parent cherche une auto-\u00e9cole.\n\nPrenons une auto-\u00e9cole imaginaire.\n\nDans la premi\u00e8re version, la note est bonne, mais rien n'a \u00e9t\u00e9 publi\u00e9 depuis la rentr\u00e9e. Le parent qui compare se demande si l'\u00e9cole accepte encore des \u00e9l\u00e8ves, ou si elle est d\u00e9bord\u00e9e.\n\nDans la seconde, une photo de la voiture \u00e9cole est publi\u00e9e le lundi, un mot sur le code le jeudi, et chaque avis re\u00e7oit une r\u00e9ponse.\n\nL'\u00e9quipe est la m\u00eame, la note aussi. Ce qui change, c'est l'impression d'une \u00e9cole active et joignable.\n\nC'est ce rythme que Proenligne assure pour les auto-\u00e9coles qui lui confient leur fiche Google.\n\nQu'aimeriez-vous que les parents voient d'abord de votre \u00e9cole ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #AutoEcole #TPE",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
             "id": "cmvybibt10089kb7zjeebapkx",
             "platform": "tiktok",
             "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
@@ -1516,8 +1599,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 6,
-                        "sum": 6,
+                        "latest": 8,
+                        "sum": 8,
                         "percentageChange": 0
                     },
                     {
@@ -1807,8 +1890,8 @@
                     },
                     {
                         "metric": "Reach",
-                        "latest": 5,
-                        "sum": 5,
+                        "latest": 6,
+                        "sum": 6,
                         "percentageChange": 0
                     },
                     {
@@ -2776,6 +2859,44 @@
             }
         },
         {
+            "id": "cmw2mb6vm00hrkb7z3wbvzoia",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-12T09:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=IIuqhES6dMk",
+            "content": "Carrossier \u00e0 Toulouse, la fiche Google prend-elle vos soir\u00e9es ?\n\nAvant de vous confier sa voiture, le client ouvre votre fiche Google sur Google Maps et lit les avis, les horaires et vos r\u00e9ponses.\n\nApr\u00e8s l'atelier, il reste les avis \u00e0 lire, les photos de r\u00e9paration \u00e0 trier, une nouvelle \u00e0 publier. Le soir, l'atelier est ferm\u00e9, mais le travail continue.\n\nProenligne s'en occupe en journ\u00e9e. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis. 30 jours offerts, lien en bio.\n\nQuand avez-vous publi\u00e9 la derni\u00e8re photo de r\u00e9paration sur votre fiche Google ?\n\n#FicheGoogle #Carrossier #Carrosserie #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 9,
+                        "sum": 9,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
             "id": "cmvybgwk7007hkb7z7ao228ea",
             "platform": "facebook",
             "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
@@ -3391,8 +3512,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 30,
-                        "sum": 30,
+                        "latest": 31,
+                        "sum": 31,
                         "percentageChange": 0
                     },
                     {
@@ -4491,6 +4612,82 @@
             }
         },
         {
+            "id": "cmw2mb6xd00htkb7zhgoh2d4y",
+            "platform": "linkedin-page",
+            "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "publishDate": "2026-11-12T09:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7526577213039636480",
+            "content": "G\u00e9rant d'une carrosserie, vous fermez l'atelier le soir. La fiche Google, elle, attend encore.\n\nLa fiche Google est ce que Google montre quand un automobiliste cherche un carrossier pr\u00e8s de chez lui, avec les photos, la note, les avis et le bouton Appeler.\n\nApr\u00e8s un accrochage, le client compare vite. Il lit les avis, regarde si l'entreprise r\u00e9pond, cherche des photos de r\u00e9parations. Ce travail d'entretien revient souvent au g\u00e9rant, en fin de journ\u00e9e.\n\nProenligne s'en charge en journ\u00e9e. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis, avec votre validation pour les avis n\u00e9gatifs.\n\nEssayez Proenligne gratuitement, 30 jours offerts, sans engagement. Tout est expliqu\u00e9 sur la page Proenligne.\n\nCombien de temps votre carrosserie consacre-t-elle chaque semaine \u00e0 sa fiche Google ?\n\n#FicheGoogle #GoogleBusinessProfile #Carrossier #TPE",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2mb6rk00hnkb7zggrkqfzh",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-12T09:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DfovQ3zClJz/",
+            "content": "Carrossier \u00e0 Toulouse, la fiche Google prend-elle vos soir\u00e9es ?\n\nAvant de vous confier sa voiture, le client ouvre votre fiche Google sur Google Maps et lit les avis, les horaires et vos r\u00e9ponses.\n\nApr\u00e8s l'atelier, il reste les avis \u00e0 lire, les photos de r\u00e9paration \u00e0 trier, une nouvelle \u00e0 publier. Le soir, l'atelier est ferm\u00e9, mais le travail continue.\n\nProenligne s'en occupe en journ\u00e9e. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis. 30 jours offerts, lien en bio.\n\nQuand avez-vous publi\u00e9 la derni\u00e8re photo de r\u00e9paration sur votre fiche Google ?\n\n#FicheGoogle #Carrossier #Carrosserie #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 8,
+                        "sum": 8,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 8,
+                        "sum": 8,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
             "id": "cmw2m8p3100fhkb7zu1r098is",
             "platform": "facebook",
             "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
@@ -4769,8 +4966,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 66,
-                        "sum": 66,
+                        "latest": 68,
+                        "sum": 68,
                         "percentageChange": 0
                     },
                     {
@@ -5025,14 +5222,14 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 2,
-                        "sum": 2,
+                        "latest": 3,
+                        "sum": 3,
                         "percentageChange": 0
                     },
                     {
                         "metric": "Reach",
-                        "latest": 2,
-                        "sum": 2,
+                        "latest": 3,
+                        "sum": 3,
                         "percentageChange": 0
                     },
                     {
@@ -5102,6 +5299,77 @@
             "state": "PUBLISHED",
             "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7706982637659342870",
             "content": "Coiffeuse \u00e0 Caen, encore vos avis Google \u00e0 cette heure-ci ?\nLe salon est ferm\u00e9, et votre fiche Google, celle que voient les clientes sur Google Maps, attend encore ses photos et ses r\u00e9ponses.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Coiffeuse #Caen",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmw2mb6nv00hjkb7zbjej86fz",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-12T09:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7707214465401636886",
+            "content": "L'atelier est ferm\u00e9, mais votre fiche Google vous attend encore ? Proenligne s'en occupe en journ\u00e9e. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Carrossier #Carrosserie #ReferencementLocal",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmw2mb6po00hlkb7zptv299se",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-12T09:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/990611516901236",
+            "content": "Carrossier \u00e0 Toulouse, la fiche Google prend-elle vos soir\u00e9es ?\n\nAvant de vous confier sa voiture, le client ouvre votre fiche Google sur Google Maps et lit les avis, les horaires et vos r\u00e9ponses.\n\nApr\u00e8s l'atelier, il reste les avis \u00e0 lire, les photos de r\u00e9paration \u00e0 trier, une nouvelle \u00e0 publier. Le soir, l'atelier est ferm\u00e9, mais le travail continue.\n\nProenligne s'en occupe en journ\u00e9e. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis. 30 jours offerts, lien en bio.\n\nQuand avez-vous publi\u00e9 la derni\u00e8re photo de r\u00e9paration sur votre fiche Google ?\n\n#FicheGoogle #Carrossier #Carrosserie #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2mb6t700hpkb7zu1xdkm2c",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-12T09:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2120811525061464441",
+            "content": "Carrossier \u00e0 Toulouse, l'atelier ferme, mais la fiche Google attend ses photos et ses r\u00e9ponses aux avis ? Proenligne s'en occupe en journ\u00e9e. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Carrossier",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmw2mc1ti00ibkb7z34ak723d",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-12T11:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7707245547551344662",
+            "content": "Ma\u00e7on \u00e0 Tours, comparez votre fiche Google \u00e0 celle d'en face.\nVotre fiche Google, c'est ce qu'on voit sur Google Maps en cherchant \u00ab ma\u00e7on \u00bb. Votre concurrent a la m\u00eame note que vous, mais il montre ses chantiers de la semaine.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Macon #Tours",
             "stats": {
                 "available": false,
                 "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
@@ -5999,8 +6267,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 26,
-                        "sum": 26,
+                        "latest": 29,
+                        "sum": 29,
                         "percentageChange": 0
                     },
                     {
