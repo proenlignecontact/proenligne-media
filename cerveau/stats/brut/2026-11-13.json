@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-13T07:25:03.342Z",
+    "generatedAt": "2026-11-13T13:13:08.763Z",
     "days": 60,
     "channels": [
         {
@@ -25,8 +25,8 @@
                     },
                     {
                         "metric": "Posts Engagement",
-                        "latest": 0,
-                        "sum": 53,
+                        "latest": 2,
+                        "sum": 55,
                         "percentageChange": 5
                     },
                     {
@@ -95,8 +95,8 @@
                     },
                     {
                         "metric": "Views",
-                        "latest": 12560,
-                        "sum": 12560,
+                        "latest": 12693,
+                        "sum": 12693,
                         "percentageChange": 0
                     },
                     {
@@ -1180,8 +1180,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 94,
-                        "sum": 94,
+                        "latest": 100,
+                        "sum": 100,
                         "percentageChange": 0
                     },
                     {
@@ -2200,6 +2200,50 @@
             }
         },
         {
+            "id": "cmw2md2yv00j9kb7zujc4z41e",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-13T12:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/122101312257531668/posts/122110259733531668",
+            "content": "\u00ab Vous intervenez chez les particuliers ? \u00bb Votre fiche Google peut r\u00e9pondre avant m\u00eame l'appel.\n\nSur Google Maps, chaque \u00e9lectricien a sa fiche Google, avec la note, les photos et le bouton Appeler. C'est elle qu'on regarde avant de vous appeler, et elle peut d\u00e9j\u00e0 r\u00e9pondre aux questions les plus courantes.\n\nTrois \u00e9l\u00e9ments y rassurent souvent un client. Il y a les photos de chantiers r\u00e9cents, les r\u00e9ponses sous les avis et la liste de vos services, du d\u00e9pannage \u00e0 la borne de recharge.\n\nC'est le petit sondage du vendredi. Pour vous, lequel de ces trois \u00e9l\u00e9ments fait le plus appeler ?\n\n#FicheGoogle #Electricien #Electricite #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks by Type",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
             "id": "cmvybm7zc009jkb7znfyedmhh",
             "platform": "facebook",
             "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
@@ -2254,6 +2298,32 @@
             "stats": {
                 "available": false,
                 "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmw2md30b00jbkb7zvoe52kxu",
+            "platform": "linkedin-page",
+            "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "publishDate": "2026-11-13T12:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7526984891629223939",
+            "content": "\u00ab Vous intervenez chez les particuliers ? \u00bb Sur Google, la fiche Google de votre entreprise peut r\u00e9pondre \u00e0 cette question.\nElle le fait avant m\u00eame que le t\u00e9l\u00e9phone sonne.\n\nLa fiche Google, c'est l'encadr\u00e9 qui pr\u00e9sente l'entreprise sur Google et Google Maps, avec la note, les photos, les services et le num\u00e9ro.\n\nTrois \u00e9l\u00e9ments y rassurent particuli\u00e8rement un client.\nDes photos de chantiers r\u00e9cents, qui montrent le travail r\u00e9el.\nDes r\u00e9ponses aux avis, qui montrent une entreprise \u00e0 l'\u00e9coute.\nUne liste de services pr\u00e9cise, du d\u00e9pannage \u00e0 l'installation de bornes de recharge.\n\nUne fiche Google bien tenue filtre aussi les appels. Le client sait d\u00e9j\u00e0 ce que fait l'entreprise quand il appelle.\n\nProenligne s'occupe chaque semaine d'une partie de ce travail pour les artisans, avec une photo le lundi, une publication le jeudi et une r\u00e9ponse \u00e0 chaque avis.\n\nDans votre entreprise, quelle question revient le plus souvent au t\u00e9l\u00e9phone ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Electricien #Artisanat",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
             }
         },
         {
@@ -2903,8 +2973,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 13,
-                        "sum": 13,
+                        "latest": 16,
+                        "sum": 16,
                         "percentageChange": 0
                     },
                     {
@@ -5515,8 +5585,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 25,
-                        "sum": 25,
+                        "latest": 27,
+                        "sum": 27,
                         "percentageChange": 0
                     },
                     {
@@ -5538,6 +5608,51 @@
                         "percentageChange": 0
                     }
                 ]
+            }
+        },
+        {
+            "id": "cmw2mcj1b00itkb7zb560g1hi",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-13T08:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/1817171979581123",
+            "content": "Carreleur \u00e0 Rennes, votre fiche Google fait-elle sonner le t\u00e9l\u00e9phone ?\n\nVotre fiche Google, c'est ce que vos clients voient en premier quand ils cherchent \u00ab carreleur \u00bb sur Google Maps, avec vos photos, vos avis et votre t\u00e9l\u00e9phone.\n\nAvant, pas une photo de vos sols depuis longtemps, et le client appelait l'entreprise suivante. Apr\u00e8s, une salle de bain ou une terrasse publi\u00e9e chaque semaine, et il peut juger votre travail avant de d\u00e9crocher.\n\nC'est ce que fait Proenligne. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis. 30 jours offerts, lien en bio.\n\nQuel chantier de carrelage aimeriez-vous voir en premier sur votre fiche Google ?\n\n#FicheGoogle #Carreleur #Carrelage #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2mcj0300irkb7z0vd73b8u",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-13T08:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7707569908347078678",
+            "content": "Avant d'appeler un carreleur, on regarde ses sols sur sa fiche Google. Les v\u00f4tres y sont ? Proenligne les montre chaque semaine. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Carreleur #Carrelage #ReferencementLocal",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
             }
         },
         {
@@ -5671,6 +5786,69 @@
             "stats": {
                 "available": false,
                 "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmw2mcj2l00ivkb7ztwgi8nco",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-13T08:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DfrNI73FcvP/",
+            "content": "Carreleur \u00e0 Rennes, votre fiche Google fait-elle sonner le t\u00e9l\u00e9phone ?\n\nVotre fiche Google, c'est ce que vos clients voient en premier quand ils cherchent \u00ab carreleur \u00bb sur Google Maps, avec vos photos, vos avis et votre t\u00e9l\u00e9phone.\n\nAvant, pas une photo de vos sols depuis longtemps, et le client appelait l'entreprise suivante. Apr\u00e8s, une salle de bain ou une terrasse publi\u00e9e chaque semaine, et il peut juger votre travail avant de d\u00e9crocher.\n\nC'est ce que fait Proenligne. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis. 30 jours offerts, lien en bio.\n\nQuel chantier de carrelage aimeriez-vous voir en premier sur votre fiche Google ?\n\n#FicheGoogle #Carreleur #Carrelage #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 2,
+                        "sum": 2,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2mcj4s00ixkb7zzd7bdrmh",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-13T08:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2121158803441811538",
+            "content": "Carreleur \u00e0 Rennes, avant d'appeler, on lit votre fiche Google. Pas une photo de vos sols ? On appelle le suivant. Proenligne les montre chaque semaine. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Carreleur",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
             }
         },
         {
@@ -6565,8 +6743,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 42,
-                        "sum": 42,
+                        "latest": 43,
+                        "sum": 43,
                         "percentageChange": 0
                     },
                     {
@@ -6679,8 +6857,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 13,
-                        "sum": 13,
+                        "latest": 16,
+                        "sum": 16,
                         "percentageChange": 0
                     },
                     {
@@ -6712,6 +6890,70 @@
             "state": "PUBLISHED",
             "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7526660257742262273",
             "content": "Une vitre cass\u00e9e ne se pr\u00e9voit pas. Le client cherche un vitrier dans l'urgence et choisit en quelques secondes, en faisant d\u00e9filer les fiches Google.\n\nLa fiche Google, c'est l'encadr\u00e9 que Google affiche avec les photos, la note, les avis et le bouton Appeler de chaque entreprise.\n\nAvant, une fiche Google sans photo r\u00e9cente et avec des avis sans r\u00e9ponse. Le client la passe sans s'arr\u00eater.\n\nApr\u00e8s, des vitrages pos\u00e9s publi\u00e9s chaque semaine et une r\u00e9ponse sous chaque avis. Le client voit une entreprise active, et c'est elle qu'il appelle.\n\nC'est le travail de Proenligne. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis.\n\nEssayez Proenligne gratuitement, 30 jours offerts, sans engagement. Tout est expliqu\u00e9 sur la page Proenligne.\n\nQuelle photo de chantier montrerait le mieux le s\u00e9rieux de votre entreprise ?\n\n#FicheGoogle #GoogleBusinessProfile #Vitrier #Artisanat",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2mcj6800izkb7zhqxcglaq",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-13T08:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=ky49-jFYCG4",
+            "content": "Carreleur \u00e0 Rennes, votre fiche Google fait-elle sonner le t\u00e9l\u00e9phone ?\n\nVotre fiche Google, c'est ce que vos clients voient en premier quand ils cherchent \u00ab carreleur \u00bb sur Google Maps, avec vos photos, vos avis et votre t\u00e9l\u00e9phone.\n\nAvant, pas une photo de vos sols depuis longtemps, et le client appelait l'entreprise suivante. Apr\u00e8s, une salle de bain ou une terrasse publi\u00e9e chaque semaine, et il peut juger votre travail avant de d\u00e9crocher.\n\nC'est ce que fait Proenligne. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis. 30 jours offerts, lien en bio.\n\nQuel chantier de carrelage aimeriez-vous voir en premier sur votre fiche Google ?\n\n#FicheGoogle #Carreleur #Carrelage #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 15,
+                        "sum": 15,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2mcj7j00j1kb7z7uy089zw",
+            "platform": "linkedin-page",
+            "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "publishDate": "2026-11-13T08:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7526924494981038080",
+            "content": "Avant d'appeler un carreleur, un particulier veut voir des sols pos\u00e9s. Il les cherche sur la fiche Google de l'entreprise.\n\nLa fiche Google est ce que Google affiche quand on cherche un carreleur pr\u00e8s de chez soi, avec les photos, la note, les avis et le bouton Appeler.\n\nAvant, une fiche Google sans photo r\u00e9cente. Le client ne peut pas juger la qualit\u00e9 des finitions, alors il passe \u00e0 l'entreprise suivante.\n\nApr\u00e8s, une salle de bain, une terrasse, une cuisine publi\u00e9es chaque semaine. Le travail se voit avant m\u00eame le premier appel.\n\nProenligne s'en charge pour les artisans. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis.\n\nEssayez Proenligne gratuitement, 30 jours offerts, sans engagement. Tout est expliqu\u00e9 sur la page Proenligne.\n\nVos derniers chantiers sont-ils visibles sur votre fiche Google aujourd'hui ?\n\n#FicheGoogle #GoogleBusinessProfile #Carreleur #Artisanat",
             "stats": {
                 "available": true,
                 "metrics": [
