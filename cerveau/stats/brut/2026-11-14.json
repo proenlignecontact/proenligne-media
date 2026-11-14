@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-14T07:25:11.572Z",
+    "generatedAt": "2026-11-14T12:17:43.439Z",
     "days": 60,
     "channels": [
         {
@@ -25,8 +25,8 @@
                     },
                     {
                         "metric": "Posts Engagement",
-                        "latest": 0,
-                        "sum": 58,
+                        "latest": 1,
+                        "sum": 59,
                         "percentageChange": 5
                     },
                     {
@@ -83,8 +83,8 @@
                     },
                     {
                         "metric": "Total Likes",
-                        "latest": 57,
-                        "sum": 57,
+                        "latest": 58,
+                        "sum": 58,
                         "percentageChange": 0
                     },
                     {
@@ -95,14 +95,14 @@
                     },
                     {
                         "metric": "Views",
-                        "latest": 12184,
-                        "sum": 12184,
+                        "latest": 12388,
+                        "sum": 12388,
                         "percentageChange": 0
                     },
                     {
                         "metric": "Recent Likes",
-                        "latest": 53,
-                        "sum": 53,
+                        "latest": 54,
+                        "sum": 54,
                         "percentageChange": 0
                     },
                     {
@@ -1288,8 +1288,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 37,
-                        "sum": 37,
+                        "latest": 36,
+                        "sum": 36,
                         "percentageChange": 0
                     },
                     {
@@ -3151,8 +3151,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 29,
-                        "sum": 29,
+                        "latest": 33,
+                        "sum": 33,
                         "percentageChange": 0
                     },
                     {
@@ -4397,6 +4397,44 @@
             }
         },
         {
+            "id": "cmw2mdvq600k5kb7z22zmak0i",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-14T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=GbcZSwL60kI",
+            "content": "Ramoneur \u00e0 Lorient, en pleine saison, qui s'occupe de votre fiche Google ?\n\nAvant d'appeler un ramoneur, le client ouvre sa fiche Google sur Google Maps et lit les avis, les horaires et vos r\u00e9ponses.\n\nEn automne, les chemin\u00e9es s'encha\u00eenent du matin au soir. Pendant ce temps, les avis s'accumulent sans r\u00e9ponse et les photos datent de l'an dernier.\n\nProenligne s'en charge chaque semaine. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis. 30 jours offerts, lien en bio.\n\nCombien d'avis attendent une r\u00e9ponse sur votre fiche Google en ce moment ?\n\n#FicheGoogle #Ramoneur #Ramonage #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 4,
+                        "sum": 4,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
             "id": "cmw2illbt00dvkb7zhq015r1l",
             "platform": "youtube",
             "integrationId": "cmvsbyqw20001jv87195lx18q",
@@ -4574,6 +4612,56 @@
             }
         },
         {
+            "id": "cmw2mdvmc00k1kb7zdxnvjjp2",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-14T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/Dft3Fb_DFDI/",
+            "content": "Ramoneur \u00e0 Lorient, en pleine saison, qui s'occupe de votre fiche Google ?\n\nAvant d'appeler un ramoneur, le client ouvre sa fiche Google sur Google Maps et lit les avis, les horaires et vos r\u00e9ponses.\n\nEn automne, les chemin\u00e9es s'encha\u00eenent du matin au soir. Pendant ce temps, les avis s'accumulent sans r\u00e9ponse et les photos datent de l'an dernier.\n\nProenligne s'en charge chaque semaine. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis. 30 jours offerts, lien en bio.\n\nCombien d'avis attendent une r\u00e9ponse sur votre fiche Google en ce moment ?\n\n#FicheGoogle #Ramoneur #Ramonage #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 11,
+                        "sum": 11,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 11,
+                        "sum": 11,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
             "id": "cmw2m78fk00e7kb7zpmfz2xhg",
             "platform": "x",
             "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
@@ -4607,6 +4695,19 @@
             "state": "PUBLISHED",
             "url": "https://twitter.com/Proenligne/status/2119814951233597538",
             "content": "Fleuriste \u00e0 Tours, votre fiche Google montre-t-elle vos bouquets de la semaine ? Sans photo r\u00e9cente, le client passe \u00e0 la boutique suivante. Proenligne s'en charge. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Fleuriste",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmwg2z9os00ohkb7z2ifdutiu",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-14T09:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2121536207679029344",
+            "content": "En hiver, les chantiers ralentissent, et la fiche Google d'un ma\u00e7on s'arr\u00eate souvent avec eux.\n\nC'est pourtant l'encadr\u00e9 que les clients regardent sur Google Maps pour pr\u00e9parer leurs travaux du printemps.\n\nVous publiez quoi en hiver ?\n\n#FicheGoogle #Macon",
             "stats": {
                 "available": false,
                 "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
@@ -4692,6 +4793,19 @@
                         "percentageChange": 0
                     }
                 ]
+            }
+        },
+        {
+            "id": "cmw2me1gp00kdkb7zjiix22oe",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-14T11:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7707987723164223510",
+            "content": "Un client tape \u00ab plombier Bordeaux \u00bb. Votre nom est-il sur Google ?\nIl compare votre fiche Google \u00e0 deux ou trois autres, puis il appelle.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Plombier #Bordeaux",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
             }
         },
         {
@@ -4781,6 +4895,50 @@
             "stats": {
                 "available": false,
                 "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmw2me1ko00khkb7zggh1t76c",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-14T12:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/122101312257531668/posts/122110655367531668",
+            "content": "Votre garage n'a pas besoin de plus de publicit\u00e9. Sa fiche Google a surtout besoin de vivre.\n\nAvant de confier sa voiture, le client ouvre votre fiche Google sur Google Maps. Il regarde la note, les photos et vos r\u00e9ponses aux avis. C'est elle qui parle pour vous.\n\n\u2705 Une photo de l'atelier chaque lundi\n\u2705 Une publication chaque jeudi\n\u2705 Une r\u00e9ponse \u00e0 chaque avis, valid\u00e9e par vous pour les avis n\u00e9gatifs\n\nEssayez Proenligne gratuitement, 30 jours offerts, sans engagement.\n\n#FicheGoogle #Garage #Garagiste #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks by Type",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
             }
         },
         {
@@ -5763,8 +5921,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 33,
-                        "sum": 33,
+                        "latest": 40,
+                        "sum": 40,
                         "percentageChange": 0
                     },
                     {
@@ -6211,6 +6369,90 @@
             "stats": {
                 "available": false,
                 "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmw2mdvjl00jxkb7z9em895tc",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-14T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7707952958646126594",
+            "content": "Les chemin\u00e9es s'encha\u00eenent, les avis s'accumulent sur votre fiche Google. Proenligne s'en charge, et vos soir\u00e9es restent au coin du feu. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Ramoneur #Ramonage #ReferencementLocal",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmw2mdvkv00jzkb7zpmyoxfm8",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-14T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/2825248831205677",
+            "content": "Ramoneur \u00e0 Lorient, en pleine saison, qui s'occupe de votre fiche Google ?\n\nAvant d'appeler un ramoneur, le client ouvre sa fiche Google sur Google Maps et lit les avis, les horaires et vos r\u00e9ponses.\n\nEn automne, les chemin\u00e9es s'encha\u00eenent du matin au soir. Pendant ce temps, les avis s'accumulent sans r\u00e9ponse et les photos datent de l'an dernier.\n\nProenligne s'en charge chaque semaine. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis. 30 jours offerts, lien en bio.\n\nCombien d'avis attendent une r\u00e9ponse sur votre fiche Google en ce moment ?\n\n#FicheGoogle #Ramoneur #Ramonage #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2mdvo400k3kb7zgi8jdker",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-14T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2121532518671245377",
+            "content": "Ramoneur \u00e0 Lorient, en pleine saison, les avis s'accumulent sur votre fiche Google ? Proenligne y r\u00e9pond et publie pour vous chaque semaine. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Ramoneur",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmw2mdvrj00k7kb7z27nzgq9m",
+            "platform": "linkedin-page",
+            "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "publishDate": "2026-11-14T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7527298209262608385",
+            "content": "Pour un ramoneur, l'automne est la saison la plus charg\u00e9e. C'est aussi le moment o\u00f9 la fiche Google compte le plus.\n\nLa fiche Google est ce que Google affiche quand un particulier cherche un ramoneur pr\u00e8s de chez lui, avec la note, les avis, les photos et le bouton Appeler.\n\nQuand les interventions s'encha\u00eenent, les avis restent sans r\u00e9ponse et les photos vieillissent. Le client qui compare en novembre voit une entreprise silencieuse au moment o\u00f9 il a besoin d'elle.\n\nProenligne tient la fiche Google \u00e0 jour pendant la saison. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis.\n\nEssayez Proenligne gratuitement, 30 jours offerts, sans engagement. Tout est expliqu\u00e9 sur la page Proenligne.\n\nEn pleine saison, \u00e0 quel moment trouvez-vous le temps de r\u00e9pondre aux avis ?\n\n#FicheGoogle #GoogleBusinessProfile #Ramoneur #TPE",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
             }
         },
         {
@@ -7206,8 +7448,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 30,
-                        "sum": 30,
+                        "latest": 35,
+                        "sum": 35,
                         "percentageChange": 0
                     },
                     {
@@ -7270,8 +7512,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 44,
-                        "sum": 44,
+                        "latest": 48,
+                        "sum": 48,
                         "percentageChange": 0
                     },
                     {
