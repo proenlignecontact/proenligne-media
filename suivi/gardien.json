@@ -44,6 +44,24 @@
    "erreur": "Instagram blocked your request",
    "prevu": "2026-11-12T13:35:00Z",
    "reprogramme": "2026-11-13T09:30:00Z"
+  },
+  {
+   "date": "2026-11-14",
+   "ancien_id": "cmw2md2xh00j7kb7zz3d91l23",
+   "nouvel_id": "cmwg2z9qi00ojkb7zgur72b3k",
+   "canal": "instagram",
+   "erreur": "Instagram blocked your request",
+   "prevu": "2026-11-13T12:30:00Z",
+   "reprogramme": "2026-11-14T09:30:00Z"
+  },
+  {
+   "date": "2026-11-14",
+   "ancien_id": "cmw2me1dl00k9kb7zey2gb8et",
+   "nouvel_id": "cmwg2z9os00ohkb7z2ifdutiu",
+   "canal": "x",
+   "erreur": "state ERROR, champ error vide",
+   "prevu": "2026-11-14T05:00:00Z",
+   "reprogramme": "2026-11-14T09:30:00Z"
   }
  ],
  "echecs": [
@@ -54,6 +72,14 @@
    "publie_prevu": "2026-11-02T19:29:00Z",
    "erreur": "App not approved for public posting, contact support",
    "note": "Non recréé : réglage content_posting_method UPLOAD et refus TikTok lié à l'application (recréer à l'identique échouerait pareil). À traiter manuellement."
+  },
+  {
+   "date": "2026-11-14",
+   "postiz_id": "cmwenj5gl00o9kb7zopk79uah",
+   "canal": "instagram",
+   "publie_prevu": "2026-11-13T09:30:00Z",
+   "erreur": "Instagram blocked your request",
+   "note": "Déjà recréé (ancien cmw2mc1ut00idkb7z9ix6a8ll, carrousel auto-école), échoue encore : non recréé."
   }
  ]
 }
