@@ -1,0 +1,34 @@
+{
+ "slug": "supp-couvreur-appels-nantes",
+ "moteur": "cinetique",
+ "angle": "Plus d'appels",
+ "metier": "couvreur",
+ "ville": "Nantes",
+ "ambiance": 1,
+ "valeur": "0",
+ "accroches": [
+  "Couvreur à Nantes, après l'orage, on lit votre *fiche Google*.",
+  "Couvreur à Nantes, votre *fiche Google* montre vos toitures ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Sans photo de toiture, on hésite à appeler."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne publie vos toitures chaque lundi."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et c'est votre numéro qu'on compose.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts, le lien vous attend en bio."
+  }
+ ],
+ "offre_ligne": "Vos toitures, *en photo chaque lundi.*",
+ "musique": true
+}

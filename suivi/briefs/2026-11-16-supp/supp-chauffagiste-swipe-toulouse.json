@@ -1,0 +1,34 @@
+{
+ "slug": "supp-chauffagiste-swipe-toulouse",
+ "moteur": "swipe",
+ "angle": "Du temps libre",
+ "metier": "chauffagiste",
+ "ville": "Toulouse",
+ "ambiance": 2,
+ "entreprise": "",
+ "accroches": [
+  "Chauffagiste à Toulouse, le soir, votre fiche Google attend encore.",
+  "Chauffagiste à Toulouse, après les dépannages, qui répond sur votre fiche Google ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Les chaudières le jour, les avis le soir."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne s'occupe des photos et des réponses."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et vos soirées d'hiver restent au chaud.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Testez trente jours offerts, lien en bio."
+  }
+ ],
+ "offre_ligne": "Les soirées d'hiver, *au chaud.*",
+ "musique": true
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "supp-fromager-swipe-vannes",
+ "moteur": "swipe",
+ "angle": "Face au concurrent",
+ "metier": "fromager",
+ "ville": "Vannes",
+ "ambiance": 1,
+ "entreprise": "",
+ "accroches": [
+  "Fromager à Vannes, votre fiche Google tient face au voisin ?",
+  "Fromager à Vannes, entre deux fiches Google, laquelle donne envie d'entrer ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Lui montre ses plateaux, vous, rien du tout."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne montre vos fromages chaque semaine."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Cette fois, on fait le détour jusqu'à vous.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts, lien en bio."
+  }
+ ],
+ "offre_ligne": "Votre comptoir, *vu depuis Google.*",
+ "musique": true
+}

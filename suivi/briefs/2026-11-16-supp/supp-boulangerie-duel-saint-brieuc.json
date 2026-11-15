@@ -1,0 +1,35 @@
+{
+ "slug": "supp-boulangerie-duel-saint-brieuc",
+ "moteur": "plan-sequence",
+ "angle": "Face au concurrent",
+ "metier": "boulangerie",
+ "ville": "Saint-Brieuc",
+ "ambiance": 0,
+ "entreprise": "",
+ "lieu": "",
+ "accroches": [
+  "Boulangerie à Saint-Brieuc, et la *fiche Google* d'en face ?",
+  "Boulangerie à Saint-Brieuc, votre *fiche Google* donne faim ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "En face, on voit la vitrine du matin."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne montre vos viennoiseries chaque semaine."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et le matin, c'est chez vous qu'on entre.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Profitez-en, trente jours offerts, lien en bio."
+  }
+ ],
+ "offre_ligne": "Vos viennoiseries, *vues dès le matin.*",
+ "musique": true
+}

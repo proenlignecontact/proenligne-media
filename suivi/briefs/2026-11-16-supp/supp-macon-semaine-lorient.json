@@ -1,0 +1,35 @@
+{
+ "slug": "supp-macon-semaine-lorient",
+ "moteur": "plan-sequence",
+ "angle": "Du temps libre",
+ "metier": "maçon",
+ "ville": "Lorient",
+ "ambiance": 0,
+ "entreprise": "",
+ "lieu": "",
+ "accroches": [
+  "Maçon à Lorient, combien de soirées pour la *fiche Google ?*",
+  "Maçon à Lorient, la *fiche Google* vous prend vos soirées ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Après le chantier, restent les photos à publier."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne s'en charge pendant vos chantiers."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Le soir, la truelle reste rangée.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Profitez de trente jours offerts, lien en bio."
+  }
+ ],
+ "offre_ligne": "La truelle rangée, *la soirée à vous.*",
+ "musique": true
+}

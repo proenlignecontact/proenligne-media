@@ -1,0 +1,114 @@
+[
+ {
+  "date": "2026-11-16",
+  "moteur": "swipe",
+  "angle": "Plus de clients",
+  "metier": "plombier",
+  "ville": "Le Mans",
+  "ambiance": 2
+ },
+ {
+  "date": "2026-11-16",
+  "moteur": "cinetique",
+  "angle": "Face au concurrent",
+  "metier": "fleuriste",
+  "ville": "Lyon",
+  "ambiance": 0
+ },
+ {
+  "date": "2026-11-17",
+  "moteur": "cinetique",
+  "angle": "Plus d'appels",
+  "metier": "couvreur",
+  "ville": "Nantes",
+  "ambiance": 1
+ },
+ {
+  "date": "2026-11-17",
+  "moteur": "plan-sequence",
+  "angle": "Plus de clients",
+  "metier": "esthéticienne",
+  "ville": "Lille",
+  "ambiance": 2
+ },
+ {
+  "date": "2026-11-18",
+  "moteur": "plan-sequence",
+  "angle": "Du temps libre",
+  "metier": "maçon",
+  "ville": "Lorient",
+  "ambiance": 0
+ },
+ {
+  "date": "2026-11-18",
+  "moteur": "swipe",
+  "angle": "Face au concurrent",
+  "metier": "fromager",
+  "ville": "Vannes",
+  "ambiance": 1
+ },
+ {
+  "date": "2026-11-19",
+  "moteur": "swipe",
+  "angle": "Du temps libre",
+  "metier": "chauffagiste",
+  "ville": "Toulouse",
+  "ambiance": 2
+ },
+ {
+  "date": "2026-11-19",
+  "moteur": "cinetique",
+  "angle": "Face au concurrent",
+  "metier": "toiletteur",
+  "ville": "Brest",
+  "ambiance": 0
+ },
+ {
+  "date": "2026-11-20",
+  "moteur": "cinetique",
+  "angle": "Plus d'appels",
+  "metier": "serrurier",
+  "ville": "Quimper",
+  "ambiance": 1
+ },
+ {
+  "date": "2026-11-20",
+  "moteur": "swipe",
+  "angle": "Plus de clients",
+  "metier": "pressing",
+  "ville": "Angers",
+  "ambiance": 2
+ },
+ {
+  "date": "2026-11-21",
+  "moteur": "plan-sequence",
+  "angle": "Du temps libre",
+  "metier": "paysagiste",
+  "ville": "Caen",
+  "ambiance": 0
+ },
+ {
+  "date": "2026-11-21",
+  "moteur": "swipe",
+  "angle": "Face au concurrent",
+  "metier": "carrossier",
+  "ville": "Tours",
+  "ambiance": 1
+ },
+ {
+  "date": "2026-11-22",
+  "moteur": "cinetique",
+  "angle": "Du temps libre",
+  "metier": "menuisier",
+  "ville": "Bordeaux",
+  "ambiance": 2
+ },
+ {
+  "date": "2026-11-22",
+  "moteur": "plan-sequence",
+  "angle": "Face au concurrent",
+  "metier": "boulangerie",
+  "ville": "Saint-Brieuc",
+  "ambiance": 0
+ }
+]

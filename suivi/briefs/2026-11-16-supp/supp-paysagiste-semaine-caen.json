@@ -1,0 +1,35 @@
+{
+ "slug": "supp-paysagiste-semaine-caen",
+ "moteur": "plan-sequence",
+ "angle": "Du temps libre",
+ "metier": "paysagiste",
+ "ville": "Caen",
+ "ambiance": 0,
+ "entreprise": "",
+ "lieu": "",
+ "accroches": [
+  "Paysagiste à Caen, la *fiche Google* mange vos soirées ?",
+  "Paysagiste à Caen, le soir, qui tient la *fiche Google ?*"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "La nuit tombe tôt, et les avis attendent."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne publie vos jardins et répond aux avis."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Le soir, vous rangez enfin les gants.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts, le lien attend en bio."
+  }
+ ],
+ "offre_ligne": "Le sécateur rangé, *le soir à vous.*",
+ "musique": true
+}

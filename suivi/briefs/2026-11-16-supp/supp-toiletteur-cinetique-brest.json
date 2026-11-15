@@ -1,0 +1,34 @@
+{
+ "slug": "supp-toiletteur-cinetique-brest",
+ "moteur": "cinetique",
+ "angle": "Face au concurrent",
+ "metier": "toiletteur",
+ "ville": "Brest",
+ "ambiance": 0,
+ "valeur": "Le salon voisin",
+ "accroches": [
+  "Toiletteur à Brest, sa *fiche Google* montre ses toilettages.",
+  "Toiletteur à Brest, votre *fiche Google* rassure les maîtres ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Chez lui, on voit les chiens avant et après."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne montre vos toilettages chaque semaine."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et les maîtres vous confient leur chien.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts, le lien se trouve en bio."
+  }
+ ],
+ "offre_ligne": "Vos toilettages, *avant et après.*",
+ "musique": true
+}

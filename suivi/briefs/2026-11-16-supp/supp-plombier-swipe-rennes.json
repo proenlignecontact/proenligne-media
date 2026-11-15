@@ -1,0 +1,34 @@
+{
+ "slug": "supp-plombier-swipe-rennes",
+ "moteur": "swipe",
+ "angle": "Plus de clients",
+ "metier": "plombier",
+ "ville": "Rennes",
+ "ambiance": 2,
+ "entreprise": "",
+ "accroches": [
+  "Plombier à Rennes, une fuite, et on fait glisser votre fiche Google.",
+  "Plombier à Rennes, votre fiche Google retient-elle le client pressé ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Sans photo récente, on passe au suivant."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne publie vos chantiers chaque lundi."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Cette fois, le client s'arrête sur vous.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts, lien en bio."
+  }
+ ],
+ "offre_ligne": "Vos chantiers, *chaque lundi sur Google.*",
+ "musique": true
+}
