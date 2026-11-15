@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-15T08:36:23.961Z",
+    "generatedAt": "2026-11-15T12:50:06.448Z",
     "days": 60,
     "channels": [
         {
@@ -25,8 +25,8 @@
                     },
                     {
                         "metric": "Posts Engagement",
-                        "latest": 0,
-                        "sum": 63,
+                        "latest": 2,
+                        "sum": 65,
                         "percentageChange": 5
                     },
                     {
@@ -492,6 +492,19 @@
             "state": "PUBLISHED",
             "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7706843356793686038",
             "content": "Ma\u00e7on \u00e0 Tours, m\u00eame note Google que le voisin, et c'est lui qu'on appelle.\nSa fiche Google, l'encadr\u00e9 que Google affiche avec la note et les photos, montre ses chantiers de la semaine. La v\u00f4tre montre une fa\u00e7ade d'il y a longtemps.\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Macon #Tours",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmwhieoqj00otkb7zdh2nv25h",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-15T09:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7708327766223505430",
+            "content": "Aucun chantier r\u00e9cent sur votre fiche Google ? Le client ne voit pas votre travail avant d'appeler. Proenligne publie vos chantiers chaque lundi. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Plaquiste #Renovation #ReferencementLocal",
             "stats": {
                 "available": false,
                 "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
@@ -4409,8 +4422,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 26,
-                        "sum": 26,
+                        "latest": 27,
+                        "sum": 27,
                         "percentageChange": 0
                     },
                     {
@@ -5693,6 +5706,44 @@
             }
         },
         {
+            "id": "cmw2mf6ox00lrkb7zc6gd95tu",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-15T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=8zp4zhv6mtQ",
+            "content": "Tapez \u00ab charpentier Brest \u00bb sur Google. Votre fiche Google est-elle dans la liste ?\n\nSur Google Maps, chaque charpentier a sa fiche Google, avec la note, les photos et le bouton Appeler. C'est elle qu'on regarde avant de vous contacter.\n\nLe client s'arr\u00eate souvent sur les premiers noms qu'il voit, surtout ceux qui montrent des charpentes et des avis r\u00e9cents.\n\nProenligne montre vos charpentes chaque semaine. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis. 30 jours offerts, lien en bio.\n\nAvez-vous fait le test ? \u00c0 quelle place \u00eates-vous apparu ?\n\n#FicheGoogle #Charpentier #Charpente #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 7,
+                        "sum": 7,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
             "id": "cmw2maikk00grkb7z5puirroj",
             "platform": "facebook",
             "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
@@ -5758,6 +5809,82 @@
                         "metric": "Reach",
                         "latest": 3,
                         "sum": 3,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2mf6q800ltkb7zranvwusc",
+            "platform": "linkedin-page",
+            "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "publishDate": "2026-11-15T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7527656825886982144",
+            "content": "Un exercice simple pour un g\u00e9rant d'entreprise de charpente. Tapez \u00ab charpentier \u00bb et votre ville sur Google, et regardez o\u00f9 appara\u00eet votre fiche Google.\n\nLa fiche Google est l'encadr\u00e9 que Google montre avec les photos, la note, les avis et le bouton Appeler de chaque entreprise.\n\nUn particulier qui pr\u00e9pare une extension ou une r\u00e9novation de toiture s'arr\u00eate souvent sur les premiers noms. Il regarde les photos de charpentes, lit quelques avis, puis contacte une ou deux entreprises.\n\nProenligne fait vivre la fiche Google des artisans. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis.\n\nEssayez Proenligne gratuitement, 30 jours offerts, sans engagement. Tout est expliqu\u00e9 sur la page Proenligne.\n\nAvez-vous d\u00e9j\u00e0 fait ce test pour votre entreprise ?\n\n#FicheGoogle #GoogleBusinessProfile #Charpentier #Artisanat",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2mf6lf00lnkb7zxn53enws",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-15T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DfwaP-8jcMy/",
+            "content": "Tapez \u00ab charpentier Brest \u00bb sur Google. Votre fiche Google est-elle dans la liste ?\n\nSur Google Maps, chaque charpentier a sa fiche Google, avec la note, les photos et le bouton Appeler. C'est elle qu'on regarde avant de vous contacter.\n\nLe client s'arr\u00eate souvent sur les premiers noms qu'il voit, surtout ceux qui montrent des charpentes et des avis r\u00e9cents.\n\nProenligne montre vos charpentes chaque semaine. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis. 30 jours offerts, lien en bio.\n\nAvez-vous fait le test ? \u00c0 quelle place \u00eates-vous apparu ?\n\n#FicheGoogle #Charpentier #Charpente #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 6,
+                        "sum": 6,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 4,
+                        "sum": 4,
                         "percentageChange": 0
                     },
                     {
@@ -5998,8 +6125,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 41,
-                        "sum": 41,
+                        "latest": 42,
+                        "sum": 42,
                         "percentageChange": 0
                     },
                     {
@@ -6577,8 +6704,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 14,
-                        "sum": 14,
+                        "latest": 15,
+                        "sum": 15,
                         "percentageChange": 0
                     },
                     {
@@ -6647,14 +6774,14 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 5,
-                        "sum": 5,
+                        "latest": 8,
+                        "sum": 8,
                         "percentageChange": 0
                     },
                     {
                         "metric": "Reach",
-                        "latest": 4,
-                        "sum": 4,
+                        "latest": 8,
+                        "sum": 8,
                         "percentageChange": 0
                     },
                     {
@@ -6802,6 +6929,64 @@
             "stats": {
                 "available": false,
                 "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmw2mf6jl00llkb7zoz53c085",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-15T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/1157048710213854",
+            "content": "Tapez \u00ab charpentier Brest \u00bb sur Google. Votre fiche Google est-elle dans la liste ?\n\nSur Google Maps, chaque charpentier a sa fiche Google, avec la note, les photos et le bouton Appeler. C'est elle qu'on regarde avant de vous contacter.\n\nLe client s'arr\u00eate souvent sur les premiers noms qu'il voit, surtout ceux qui montrent des charpentes et des avis r\u00e9cents.\n\nProenligne montre vos charpentes chaque semaine. Une photo le lundi, une publication le jeudi, une r\u00e9ponse \u00e0 chaque avis. 30 jours offerts, lien en bio.\n\nAvez-vous fait le test ? \u00c0 quelle place \u00eates-vous apparu ?\n\n#FicheGoogle #Charpentier #Charpente #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2mf6nf00lpkb7z300rhd2c",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-15T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2121891137216446913",
+            "content": "Charpentier \u00e0 Brest, tapez votre m\u00e9tier et votre ville sur Google. Votre fiche Google appara\u00eet-elle ? Proenligne montre vos charpentes chaque semaine. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Charpentier",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmw2mf6hu00ljkb7z2hmvrmwa",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-15T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7708319972430350358",
+            "content": "Tapez votre m\u00e9tier et votre ville sur Google. Votre fiche Google est-elle dans la liste ? Proenligne montre vos charpentes chaque semaine. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Charpentier #Charpente #ReferencementLocal",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
             }
         },
         {
@@ -7861,8 +8046,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 57,
-                        "sum": 57,
+                        "latest": 60,
+                        "sum": 60,
                         "percentageChange": 0
                     },
                     {
@@ -7907,6 +8092,50 @@
                         "metric": "Comments",
                         "latest": 1,
                         "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmw2mexxm00l9kb7z0vfrl46l",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-15T12:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/122101312257531668/posts/122110998393531668",
+            "content": "Avant, l'avis \u00e0 une \u00e9toile restait sans r\u00e9ponse sur la fiche Google du serrurier. Apr\u00e8s, une r\u00e9ponse calme change tout.\n\nAvant d'appeler un serrurier, le client ouvre sa fiche Google sur Google Maps et lit les avis, les horaires et vos r\u00e9ponses.\n\nVoici une serrurerie imaginaire, la serrurerie Petit.\nAvant, un avis \u00e0 une \u00e9toile sur un retard, et rien en dessous.\nApr\u00e8s, une r\u00e9ponse calme. \u00ab Bonjour Marc, d\u00e9sol\u00e9s pour l'attente ce soir-l\u00e0. Appelez-nous, nous voulons en parler. \u00bb\n\nLe reproche n'a pas disparu. Il est simplement accompagn\u00e9 d'une entreprise qui r\u00e9pond.\n\nLequel des deux appelleriez-vous en urgence ?\n\n#FicheGoogle #Serrurier #Serrurerie #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Clicks by Type",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Impressions",
+                        "latest": 0,
+                        "sum": 0,
                         "percentageChange": 0
                     }
                 ]
