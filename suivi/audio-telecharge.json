@@ -1,15 +1,20 @@
 {
- "demande": "2026-11-15T09:01:06Z",
+ "demande": "2026-11-15T12:34:32Z",
  "telecharges": [
-  "medias/audio/autoecole-swipe-appels-caen/prise-A.mp3",
-  "medias/audio/boulangerie-classement-bordeaux/prise-A.mp3",
-  "medias/audio/coiffeuse-duel-rennes/prise-A.mp3",
-  "medias/audio/electricien-soirees-saint-brieuc/prise-A.mp3",
-  "medias/audio/electricien-soirees-saint-brieuc/prise-B.mp3",
-  "medias/audio/garage-soiree-avis-angers/prise-A.mp3",
-  "medias/audio/plombier-swipe-appels-montpellier/prise-A.mp3",
-  "medias/audio/serrurier-duel-tours/prise-A.mp3",
-  "medias/audio/serrurier-duel-tours/prise-B.mp3"
+  "medias/audio/supp-boulangerie-duel-saint-brieuc/prise-A.mp3",
+  "medias/audio/supp-carrossier-swipe-tours/prise-A.mp3",
+  "medias/audio/supp-chauffagiste-swipe-toulouse/prise-A.mp3",
+  "medias/audio/supp-couvreur-appels-nantes/prise-A.mp3",
+  "medias/audio/supp-estheticienne-classement-lille/prise-A.mp3",
+  "medias/audio/supp-fleuriste-cinetique-lyon/prise-A.mp3",
+  "medias/audio/supp-fromager-swipe-vannes/prise-A.mp3",
+  "medias/audio/supp-macon-semaine-lorient/prise-A.mp3",
+  "medias/audio/supp-menuisier-cinetique-bordeaux/prise-A.mp3",
+  "medias/audio/supp-paysagiste-semaine-caen/prise-A.mp3",
+  "medias/audio/supp-plombier-swipe-rennes/prise-A.mp3",
+  "medias/audio/supp-pressing-swipe-angers/prise-A.mp3",
+  "medias/audio/supp-serrurier-appels-quimper/prise-A.mp3",
+  "medias/audio/supp-toiletteur-cinetique-brest/prise-A.mp3"
  ],
  "echecs": []
 }
