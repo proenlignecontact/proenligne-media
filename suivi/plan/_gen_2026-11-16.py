@@ -332,6 +332,11 @@ T('2026-11-22', '19:00', 'textes.tiktok', "Coiffeuse à Rennes, le salon d'à c�
 
 # ───────── Corrections après la relecture, passe 5 ─────────
 
+# ───────── Ajustements de longueur imposés par outils/visuel.py (relus à nouveau) ─────────
+T('2026-11-16', '13:00', 'visuel.slides.1.titre', 'Vos horaires évitent un appel raté')
+T('2026-11-19', '13:00', 'visuel.slides.1.texte', "Photographiez les fondations, le mur, puis le travail fini. Votre fiche Google raconte alors le chantier.")
+T('2026-11-22', '13:00', 'visuel.slides.0.titre', 'Avant, Google affichait fermé le samedi')
+
 C.sort(key=lambda c: (c['date'], c['creneau_nominal']))
 p = os.path.join(ICI, f'{LUNDI}.json')
 ancien = {}

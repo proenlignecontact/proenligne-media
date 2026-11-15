@@ -149,6 +149,8 @@ REMPLACEMENTS = [
     ('À fiche égale,', 'À fiche Google aussi vivante,'),
     ('votre fiche Google *réclame :*', 'votre fiche Google *vous réclame tout ça.*'),
     ('Les clients du coin *vous trouvent, vous.*', 'Les clients du coin *voient votre travail.*'),   # pas de promesse invérifiable
+    ('(q.length > 20 ? q : q.replace', '(q.length > 16 ? q : q.replace'),   # « Tapez « métier ville » » coupé à droite dès 17 caractères (boulangerie Bordeaux, 15/11/2026)
+    ('size={q.length > 20 ? 88 : 106}', 'size={q.length > 16 ? 88 : 106}'),
 ]
 TEXTES_DECOR = ('p4-angles.jsx', 'ps-angles.jsx', 'sw-angles.jsx', 'p4-kit.jsx', 'ps-kit.jsx', 'sw-kit.jsx')
 DEPENDANCES = 'react@18.3.1 react-dom@18.3.1 esbuild@0.23.1'
@@ -569,7 +571,7 @@ def mixer(plan, b, sortie_m4a, musique):
     else:
         filtres.append('[vox]anull[voxa]')
     filtres.append(f'{"".join(bus)}amix=inputs={len(bus)}:normalize=0,atrim=0:{total},afade=t=out:st={max(0, total - 0.3)}:d=0.3,'
-                   f'loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000[out]')
+                   f'loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000,alimiter=limit=0.75:level=false:attack=1:release=50[out]')   # limiteur de crête (crête +0,8 dB vue le 15/11/2026)
     r = subprocess.run(['ffmpeg', '-y', '-loglevel', 'error'] + entrees + ['-filter_complex', ';'.join(filtres), '-map', '[out]',
                         '-c:a', 'aac', '-b:a', '192k', '-t', str(total), sortie_m4a], capture_output=True, text=True)
     if r.returncode:

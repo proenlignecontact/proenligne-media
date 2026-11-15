@@ -39,7 +39,7 @@
      {
       "type": "point",
       "numero": "2",
-      "titre": "Des horaires justes évitent un appel raté",
+      "titre": "Vos horaires évitent un appel raté",
       "texte": "Si vous dépannez le samedi, votre fiche Google doit le dire. Sinon, le client appelle quelqu'un d'autre."
      },
      {
@@ -321,7 +321,7 @@
       "type": "point",
       "numero": "2",
       "titre": "Une photo par étape suffit",
-      "texte": "Photographiez les fondations, le mur en montage, puis le travail fini. Avec ces trois photos, votre fiche Google raconte tout le chantier."
+      "texte": "Photographiez les fondations, le mur, puis le travail fini. Votre fiche Google raconte alors le chantier."
      },
      {
       "type": "point",
@@ -594,7 +594,7 @@
      {
       "type": "point",
       "numero": "1",
-      "titre": "Avant, la fiche Google affichait fermé le samedi",
+      "titre": "Avant, Google affichait fermé le samedi",
       "texte": "Le samedi matin, la fiche Google affichait fermé. Le client qui voulait passer allait voir ailleurs."
      },
      {
