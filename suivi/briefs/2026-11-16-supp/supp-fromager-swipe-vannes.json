@@ -30,5 +30,11 @@
   }
  ],
  "offre_ligne": "Votre comptoir, *vu depuis Google.*",
- "musique": true
+ "musique": true,
+ "audio_src": {
+  "prise-A": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/kfgJFVPhUHSU07OvHc4G/4VU4YifaUAv5PuoDBZqU/content.mp3?Expires=1794754800&KeyName=assets-cdn-key-1&Signature=DfOMn2NQU6K4Zxzdvxs26uKh0cA=",
+   "duree": 13.68
+  }
+ }
 }

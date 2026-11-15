@@ -30,5 +30,11 @@
   }
  ],
  "offre_ligne": "Vos chantiers, *chaque lundi sur Google.*",
- "musique": true
+ "musique": true,
+ "audio_src": {
+  "prise-A": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/7rFSyT8j1vHxKq1ekQQS/cZrhmaVt9wpuV2bwX0TP/content.mp3?Expires=1794754800&KeyName=assets-cdn-key-1&Signature=wHYWSd0IRaIXg0r-jHQLbhafsw8=",
+   "duree": 13.84
+  }
+ }
 }

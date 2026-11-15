@@ -30,5 +30,11 @@
   }
  ],
  "offre_ligne": "Vos toilettages, *avant et après.*",
- "musique": true
+ "musique": true,
+ "audio_src": {
+  "prise-A": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/gKDnTVmMnzrS6J2Nijho/eyqLHz6lfTQfsKCmx10H/content.mp3?Expires=1794754800&KeyName=assets-cdn-key-1&Signature=8-loFpooOVslJdm2R2eeLaErN_0=",
+   "duree": 13.84
+  }
+ }
 }

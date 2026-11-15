@@ -30,5 +30,11 @@
   }
  ],
  "offre_ligne": "Votre boutique, *sur le chemin.*",
- "musique": true
+ "musique": true,
+ "audio_src": {
+  "prise-A": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/6xGhDrpkLyTO0VzlrSri/IbAhpN918F1wM22qG0RN/content.mp3?Expires=1794754800&KeyName=assets-cdn-key-1&Signature=OaKp85oMpEK5uKK02ZbCP7i4wFg=",
+   "duree": 13.76
+  }
+ }
 }

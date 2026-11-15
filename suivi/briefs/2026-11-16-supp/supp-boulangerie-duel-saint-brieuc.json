@@ -31,5 +31,11 @@
   }
  ],
  "offre_ligne": "Vos viennoiseries, *vues dès le matin.*",
- "musique": true
+ "musique": true,
+ "audio_src": {
+  "prise-A": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/vneC4Wc3WYWvgnfcFoIm/WW7U6uWOos1o2xPbl6qx/content.mp3?Expires=1794754800&KeyName=assets-cdn-key-1&Signature=ZbaTNPB8-1AdHwIFEq_MQpk649s=",
+   "duree": 13.44
+  }
+ }
 }

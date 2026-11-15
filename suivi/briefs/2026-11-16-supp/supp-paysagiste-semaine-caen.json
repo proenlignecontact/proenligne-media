@@ -31,5 +31,11 @@
   }
  ],
  "offre_ligne": "Le sécateur rangé, *le soir à vous.*",
- "musique": true
+ "musique": true,
+ "audio_src": {
+  "prise-A": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/KacYSUgiA3SUUTPa1I7U/vsAadC3d19Ijyv1ZSew6/content.mp3?Expires=1794754800&KeyName=assets-cdn-key-1&Signature=fGfscQqUYe02Ccj-TEN3Frl2uEM=",
+   "duree": 14.32
+  }
+ }
 }
