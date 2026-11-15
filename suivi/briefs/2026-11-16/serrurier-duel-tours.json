@@ -32,5 +32,14 @@
  ],
  "offre_ligne": "Une *fiche Google* qui rassure.",
  "musique": true,
- "audio_src": {}
+ "audio_src": {
+  "prise-A": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/0k5Txwpw44GbJx5aGJOE/mKvOQG9b79p2ilLD4J9C/content.mp3?Expires=1794744000&KeyName=assets-cdn-key-1&Signature=kavQYdoTN148GLXIw0Ocq1kB5Do=",
+   "duree": 14.24
+  },
+  "prise-B": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/IgqAJHzNrvzQ1Y0phehp/becWzK1vclQaHHFzL5gI/content.mp3?Expires=1794744000&KeyName=assets-cdn-key-1&Signature=RsYWtRtEQPlEjEgoiGxL-YHf8us=",
+   "duree": 14.16
+  }
+ }
 }

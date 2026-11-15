@@ -31,5 +31,14 @@
  ],
  "offre_ligne": "Le soir, *vous débranchez.*",
  "musique": true,
- "audio_src": {}
+ "audio_src": {
+  "prise-A": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/4V7YU0U6ySakE1v6opSZ/opyGecLIcVBPOIqmg4zf/content.mp3?Expires=1794744000&KeyName=assets-cdn-key-1&Signature=wd7TwVRa4Sejlcn-ooCn9EJfuKY=",
+   "duree": 13.2
+  },
+  "prise-B": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/8SKn0GRDSaoQIIuJGVq7/Yl0X3iYDwMW7Y6o4sJhU/content.mp3?Expires=1794744000&KeyName=assets-cdn-key-1&Signature=YJZiD9ZeedeyKDW3BF04ogy8mWs=",
+   "duree": 13.36
+  }
+ }
 }
