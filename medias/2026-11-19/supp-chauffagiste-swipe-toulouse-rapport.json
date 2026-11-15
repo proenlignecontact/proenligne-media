@@ -1,0 +1,201 @@
+{
+ "video": "/home/claude/proenligne-media/medias/2026-11-19/supp-chauffagiste-swipe-toulouse.mp4",
+ "planche": "/home/claude/proenligne-media/medias/2026-11-19/supp-chauffagiste-swipe-toulouse-planche.png",
+ "variante": "A",
+ "accroche": "Chauffagiste à Toulouse, le soir, votre fiche Google attend encore.",
+ "duree": 17.0,
+ "calage": {
+  "scenes": [
+   {
+    "name": "Accroche",
+    "dur": 5.0,
+    "nat": 3.0,
+    "start": 0.0
+   },
+   {
+    "name": "Probleme",
+    "dur": 3.5,
+    "nat": 4.0,
+    "start": 5.0
+   },
+   {
+    "name": "Bascule",
+    "dur": 5.5,
+    "nat": 5.0,
+    "start": 8.5
+   },
+   {
+    "name": "Offre",
+    "dur": 3.0,
+    "nat": 3.0,
+    "start": 14.0
+   }
+  ],
+  "total": 17.0,
+  "voix": [
+   {
+    "id": "vo-accroche-A",
+    "texte": "Chauffagiste à Toulouse, le soir, votre fiche Google attend encore.",
+    "at": 0.15,
+    "fin": 4.177,
+    "scene": "Accroche",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-chauffagiste-swipe-toulouse/prise-A.mp3",
+    "ss": 0.0,
+    "dur": 4.027
+   },
+   {
+    "id": "vo-1",
+    "texte": "Les chaudières le jour, les avis le soir.",
+    "at": 5.15,
+    "fin": 7.691,
+    "scene": "Probleme",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-chauffagiste-swipe-toulouse/prise-A.mp3",
+    "ss": 4.527,
+    "dur": 2.541
+   },
+   {
+    "id": "vo-2",
+    "texte": "Pro en ligne s'occupe des photos et des réponses.",
+    "at": 8.65,
+    "fin": 11.227,
+    "scene": "Bascule",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-chauffagiste-swipe-toulouse/prise-A.mp3",
+    "ss": 7.32,
+    "dur": 2.577
+   },
+   {
+    "id": "vo-3",
+    "texte": "Et vos soirées d'hiver restent au chaud.",
+    "at": 11.8,
+    "fin": 13.536,
+    "scene": "Bascule",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-chauffagiste-swipe-toulouse/prise-A.mp3",
+    "ss": 10.055,
+    "dur": 1.736
+   },
+   {
+    "id": "vo-4",
+    "texte": "Testez trente jours offerts, lien en bio.",
+    "at": 14.15,
+    "fin": 16.412,
+    "scene": "Offre",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-chauffagiste-swipe-toulouse/prise-A.mp3",
+    "ss": 12.056,
+    "dur": 2.262
+   }
+  ],
+  "sfx": [
+   {
+    "id": "swipe",
+    "at": 2.167
+   },
+   {
+    "id": "chute",
+    "at": 5.0
+   },
+   {
+    "id": "swipe",
+    "at": 5.875
+   },
+   {
+    "id": "chute",
+    "at": 6.137
+   },
+   {
+    "id": "swipe",
+    "at": 7.45
+   },
+   {
+    "id": "chute",
+    "at": 7.8
+   },
+   {
+    "id": "rafale",
+    "at": 9.16
+   },
+   {
+    "id": "blip",
+    "at": 10.7
+   },
+   {
+    "id": "feuille",
+    "at": 13.45
+   }
+  ]
+ },
+ "textes_affiches": [
+  "/ mois · 30 jours offerts",
+  "10 min",
+  "14,99 €",
+  "15 min",
+  "20 min",
+  "23",
+  "23h02 · 1 tâche pour Google",
+  "23h02 · 2 tâches pour Google",
+  "23h02 · 4 tâches pour Google",
+  "23h02 · 5 tâches pour Google",
+  "23h02 · 6 tâches pour Google",
+  "23h02 · 7 tâches pour Google",
+  "23h02 · 8 tâches pour Google",
+  "23h02 · 9 tâches pour Google",
+  "30 min",
+  "45 min",
+  "Annoncer vos horaires",
+  "Avant les fêtes",
+  "Avis",
+  "Chaque",
+  "Encore sur le téléphone",
+  "FAIT",
+  "Il",
+  "La",
+  "Les",
+  "Lien en bio →",
+  "Photo",
+  "Photo de l'équipe",
+  "Photos du dernier travail",
+  "Proenligne",
+  "Présenter un service",
+  "Publication",
+  "Publier vos photos",
+  "Répondre à Julie",
+  "Répondre à Karim",
+  "Répondre à Léa",
+  "Répondre à Marc",
+  "Répondre à Paul",
+  "Répondre à Sophie",
+  "Soirée libre",
+  "Trier, recadrer, publier",
+  "Trouver quoi dire…",
+  "Vos",
+  "Votre fiche Google est à jour.",
+  "attend.",
+  "au",
+  "charge.",
+  "chaud.",
+  "d'hiver,",
+  "elle",
+  "est",
+  "h.",
+  "pile",
+  "remplit.",
+  "s'en",
+  "se",
+  "soir,",
+  "soirées",
+  "sont",
+  "vous",
+  "vous.",
+  "« Je recommande »",
+  "« Merci encore »",
+  "« Ponctuel »",
+  "« Rapide et efficace »",
+  "« Super travail, merci ! »",
+  "« Très pro »",
+  "À mettre en ligne",
+  "À rédiger",
+  "Écrire le post de la semaine",
+  "à",
+  "✓"
+ ],
+ "problemes": []
+}

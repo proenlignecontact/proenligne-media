@@ -1,0 +1,177 @@
+{
+ "video": "/home/claude/proenligne-media/medias/2026-11-22/supp-boulangerie-duel-saint-brieuc.mp4",
+ "planche": "/home/claude/proenligne-media/medias/2026-11-22/supp-boulangerie-duel-saint-brieuc-planche.png",
+ "variante": "A",
+ "accroche": "Boulangerie à Saint-Brieuc, on compare les *fiches Google ?*",
+ "duree": 16.5,
+ "calage": {
+  "scenes": [
+   {
+    "name": "Accroche",
+    "dur": 3.5,
+    "nat": 3.0,
+    "start": 0.0
+   },
+   {
+    "name": "Probleme",
+    "dur": 3.5,
+    "nat": 4.0,
+    "start": 3.5
+   },
+   {
+    "name": "Bascule",
+    "dur": 6.0,
+    "nat": 5.0,
+    "start": 7.0
+   },
+   {
+    "name": "Offre",
+    "dur": 3.5,
+    "nat": 3.0,
+    "start": 13.0
+   }
+  ],
+  "total": 16.5,
+  "voix": [
+   {
+    "id": "vo-accroche-A",
+    "texte": "Boulangerie à Saint-Brieuc, on compare les fiches Google ?",
+    "at": 0.15,
+    "fin": 2.921,
+    "scene": "Accroche",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-boulangerie-duel-saint-brieuc/prise-A.mp3",
+    "ss": 0.0,
+    "dur": 2.771
+   },
+   {
+    "id": "vo-1",
+    "texte": "En face, on voit la vitrine du matin.",
+    "at": 3.65,
+    "fin": 5.605,
+    "scene": "Probleme",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-boulangerie-duel-saint-brieuc/prise-A.mp3",
+    "ss": 3.169,
+    "dur": 1.955
+   },
+   {
+    "id": "vo-2",
+    "texte": "Pro en ligne montre vos viennoiseries chaque semaine.",
+    "at": 7.15,
+    "fin": 9.783,
+    "scene": "Bascule",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-boulangerie-duel-saint-brieuc/prise-A.mp3",
+    "ss": 5.401,
+    "dur": 2.633
+   },
+   {
+    "id": "vo-3",
+    "texte": "Et le matin, c'est chez vous qu'on entre.",
+    "at": 10.3,
+    "fin": 12.26,
+    "scene": "Bascule",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-boulangerie-duel-saint-brieuc/prise-A.mp3",
+    "ss": 8.164,
+    "dur": 1.96
+   },
+   {
+    "id": "vo-4",
+    "texte": "Profitez-en, trente jours offerts, lien en bio.",
+    "at": 13.15,
+    "fin": 15.978,
+    "scene": "Offre",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-boulangerie-duel-saint-brieuc/prise-A.mp3",
+    "ss": 10.365,
+    "dur": 2.828
+   }
+  ],
+  "sfx": [
+   {
+    "id": "camera",
+    "at": 3.5
+   },
+   {
+    "id": "camera",
+    "at": 7.0
+   },
+   {
+    "id": "blip",
+    "at": 7.96
+   },
+   {
+    "id": "blip",
+    "at": 8.56
+   },
+   {
+    "id": "blip",
+    "at": 9.16
+   },
+   {
+    "id": "tampon",
+    "at": 11.56
+   },
+   {
+    "id": "feuille",
+    "at": 12.46
+   }
+  ]
+ },
+ "textes_affiches": [
+  "/ mois · 30 jours offerts",
+  "14,99 €",
+  "19 / 19",
+  "2 / 19",
+  "2021",
+  "2021.",
+  "?",
+  "Appels cette semaine",
+  "Avis répondus",
+  "Boulangerie",
+  "Boulangerie Weber",
+  "CHOISI",
+  "Google",
+  "LUI",
+  "La",
+  "Lien en bio →",
+  "Photo",
+  "Proenligne",
+  "Publication",
+  "Sa",
+  "Sa fiche Google bouge chaque semaine.",
+  "Saint-Brieuc,",
+  "Sans",
+  "VOUS",
+  "Vos",
+  "Votre entreprise",
+  "aucune",
+  "aussi",
+  "bouge",
+  "chaque",
+  "choisit,",
+  "compare",
+  "depuis",
+  "dort",
+  "dès",
+  "fiches Google ?",
+  "jeudi",
+  "la",
+  "le",
+  "les",
+  "lundi",
+  "matin.",
+  "on",
+  "réveille.",
+  "semaine.",
+  "viennoiseries,",
+  "vivante,",
+  "vous",
+  "vous.",
+  "vues",
+  "vôtre",
+  "À",
+  "À fiche Google aussi vivante, on vous choisit, vous.",
+  "à",
+  "★★★★★",
+  "✓"
+ ],
+ "problemes": []
+}

@@ -1,0 +1,183 @@
+{
+ "video": "/home/claude/proenligne-media/medias/2026-11-20/supp-pressing-swipe-angers.mp4",
+ "planche": "/home/claude/proenligne-media/medias/2026-11-20/supp-pressing-swipe-angers-planche.png",
+ "variante": "A",
+ "accroche": "Pressing à Angers, on fait glisser votre fiche Google ?",
+ "duree": 17.0,
+ "calage": {
+  "scenes": [
+   {
+    "name": "Accroche",
+    "dur": 3.5,
+    "nat": 3.0,
+    "start": 0.0
+   },
+   {
+    "name": "Probleme",
+    "dur": 3.5,
+    "nat": 4.0,
+    "start": 3.5
+   },
+   {
+    "name": "Bascule",
+    "dur": 7.0,
+    "nat": 5.0,
+    "start": 7.0
+   },
+   {
+    "name": "Offre",
+    "dur": 3.0,
+    "nat": 3.0,
+    "start": 14.0
+   }
+  ],
+  "total": 17.0,
+  "voix": [
+   {
+    "id": "vo-accroche-A",
+    "texte": "Pressing à Angers, on fait glisser votre fiche Google ?",
+    "at": 0.15,
+    "fin": 2.819,
+    "scene": "Accroche",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-pressing-swipe-angers/prise-A.mp3",
+    "ss": 0.0,
+    "dur": 2.669
+   },
+   {
+    "id": "vo-1",
+    "texte": "Pas d'horaires, pas de photo, on passe.",
+    "at": 3.65,
+    "fin": 5.324,
+    "scene": "Probleme",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-pressing-swipe-angers/prise-A.mp3",
+    "ss": 3.591,
+    "dur": 1.674
+   },
+   {
+    "id": "vo-2",
+    "texte": "Pro en ligne montre votre boutique chaque semaine.",
+    "at": 7.15,
+    "fin": 10.589,
+    "scene": "Bascule",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-pressing-swipe-angers/prise-A.mp3",
+    "ss": 5.439,
+    "dur": 3.439
+   },
+   {
+    "id": "vo-3",
+    "texte": "Et cette fois, on garde votre fiche Google.",
+    "at": 11.2,
+    "fin": 13.542,
+    "scene": "Bascule",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-pressing-swipe-angers/prise-A.mp3",
+    "ss": 9.039,
+    "dur": 2.342
+   },
+   {
+    "id": "vo-4",
+    "texte": "Trente jours offerts, le lien est en bio.",
+    "at": 14.15,
+    "fin": 16.318,
+    "scene": "Offre",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-pressing-swipe-angers/prise-A.mp3",
+    "ss": 11.625,
+    "dur": 2.168
+   }
+  ],
+  "sfx": [
+   {
+    "id": "swipe",
+    "at": 1.283
+   },
+   {
+    "id": "tampon",
+    "at": 2.8
+   },
+   {
+    "id": "swipe",
+    "at": 2.917
+   },
+   {
+    "id": "blip",
+    "at": 7.56
+   },
+   {
+    "id": "blip",
+    "at": 8.26
+   },
+   {
+    "id": "blip",
+    "at": 8.96
+   },
+   {
+    "id": "swipe",
+    "at": 11.2
+   },
+   {
+    "id": "appel",
+    "at": 11.34
+   },
+   {
+    "id": "feuille",
+    "at": 13.3
+   }
+  ]
+ },
+ "textes_affiches": [
+  "/ mois · 30 jours offerts",
+  "14,99 €",
+  "7 avis sans réponse",
+  "APPELER",
+  "Appel entrant",
+  "Appeler",
+  "Aucune publication",
+  "Cette",
+  "Chaque avis a sa réponse",
+  "Dernière photo en 2021",
+  "Google",
+  "Google.",
+  "Ils",
+  "Ils voient une fiche Google qui dort.",
+  "Lien en bio →",
+  "Nouveau client",
+  "Nouvelle photo lundi",
+  "Photo · 2021",
+  "Photo · lundi",
+  "Pressing Weber",
+  "Proenligne",
+  "Publication jeudi",
+  "SUIVANT",
+  "Voilà",
+  "Voilà ce que vos clients font de votre fiche Google.",
+  "Votre",
+  "Votre entreprise",
+  "appelle.",
+  "boutique,",
+  "ce",
+  "chaque",
+  "chemin.",
+  "clients",
+  "de",
+  "dort.",
+  "fois,",
+  "font",
+  "la",
+  "le",
+  "on",
+  "que",
+  "qui",
+  "réveille,",
+  "semaine.",
+  "sur",
+  "une",
+  "voient",
+  "vos",
+  "votre",
+  "vous",
+  "★★★★☆",
+  "★★★★☆ 4,2 · pressing",
+  "★★★★☆ 4,2 · pressing · Angers",
+  "✓"
+ ],
+ "problemes": []
+}

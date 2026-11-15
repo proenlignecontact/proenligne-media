@@ -1,0 +1,164 @@
+{
+ "video": "/home/claude/proenligne-media/medias/2026-11-22/supp-menuisier-cinetique-bordeaux.mp4",
+ "planche": "/home/claude/proenligne-media/medias/2026-11-22/supp-menuisier-cinetique-bordeaux-planche.png",
+ "variante": "A",
+ "accroche": "Menuisier à Bordeaux, vous êtes encore sur la *fiche Google ?*",
+ "duree": 16.5,
+ "calage": {
+  "scenes": [
+   {
+    "name": "Accroche",
+    "dur": 3.5,
+    "nat": 3.0,
+    "start": 0.0
+   },
+   {
+    "name": "Probleme",
+    "dur": 3.5,
+    "nat": 4.0,
+    "start": 3.5
+   },
+   {
+    "name": "Bascule",
+    "dur": 6.5,
+    "nat": 5.0,
+    "start": 7.0
+   },
+   {
+    "name": "Offre",
+    "dur": 3.0,
+    "nat": 3.0,
+    "start": 13.5
+   }
+  ],
+  "total": 16.5,
+  "voix": [
+   {
+    "id": "vo-accroche-A",
+    "texte": "Menuisier à Bordeaux, vous êtes encore sur la fiche Google ?",
+    "at": 0.15,
+    "fin": 3.089,
+    "scene": "Accroche",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-menuisier-cinetique-bordeaux/prise-A.mp3",
+    "ss": 0.0,
+    "dur": 2.939
+   },
+   {
+    "id": "vo-1",
+    "texte": "L'atelier est propre, restent les photos et les avis.",
+    "at": 3.65,
+    "fin": 6.636,
+    "scene": "Probleme",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-menuisier-cinetique-bordeaux/prise-A.mp3",
+    "ss": 3.876,
+    "dur": 2.986
+   },
+   {
+    "id": "vo-2",
+    "texte": "Pro en ligne s'en occupe en journée.",
+    "at": 7.15,
+    "fin": 8.909,
+    "scene": "Bascule",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-menuisier-cinetique-bordeaux/prise-A.mp3",
+    "ss": 7.173,
+    "dur": 1.759
+   },
+   {
+    "id": "vo-3",
+    "texte": "Le soir, vous dînez enfin à votre table.",
+    "at": 10.3,
+    "fin": 12.919,
+    "scene": "Bascule",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-menuisier-cinetique-bordeaux/prise-A.mp3",
+    "ss": 9.068,
+    "dur": 2.619
+   },
+   {
+    "id": "vo-4",
+    "texte": "Trente jours offerts, le lien est en bio.",
+    "at": 13.65,
+    "fin": 15.925,
+    "scene": "Offre",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-menuisier-cinetique-bordeaux/prise-A.mp3",
+    "ss": 11.936,
+    "dur": 2.275
+   }
+  ],
+  "sfx": [
+   {
+    "id": "transition",
+    "at": 3.325
+   },
+   {
+    "id": "transition",
+    "at": 6.869
+   },
+   {
+    "id": "rafale",
+    "at": 7.52
+   },
+   {
+    "id": "blip",
+    "at": 10.12
+   },
+   {
+    "id": "feuille",
+    "at": 13.305
+   }
+  ]
+ },
+ "textes_affiches": [
+  "/ mois · 30 jours offerts",
+  "1 h 09",
+  "1 h 18",
+  "1 h 31",
+  "1 h 32",
+  "1 h 35",
+  "14,99 €",
+  "20 min",
+  "22 h",
+  "24 min",
+  "3 min",
+  "30 min",
+  "40 min",
+  "45 min",
+  "5 min",
+  "?",
+  "Après une longue journée de travail.",
+  "Bordeaux,",
+  "Chaque",
+  "Chaque semaine, votre fiche Google vous réclame tout ça.",
+  "Google",
+  "L'atelier",
+  "Lien en bio →",
+  "Menuisier",
+  "Proenligne",
+  "Publier des photos",
+  "Répondre aux avis",
+  "Votre temps, chaque semaine",
+  "encore",
+  "fait",
+  "fermé,",
+  "fiche Google ?",
+  "la",
+  "occupe.",
+  "place.",
+  "pour jeter un œil et valider.",
+  "réclame",
+  "s'en",
+  "semaine,",
+  "soirée",
+  "sur",
+  "table.",
+  "tout",
+  "votre",
+  "vous",
+  "À",
+  "Écrire une publication",
+  "à",
+  "ça.",
+  "êtes",
+  "✓"
+ ],
+ "problemes": []
+}

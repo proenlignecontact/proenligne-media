@@ -1,0 +1,196 @@
+{
+ "video": "/home/claude/proenligne-media/medias/2026-11-18/supp-fromager-swipe-vannes.mp4",
+ "planche": "/home/claude/proenligne-media/medias/2026-11-18/supp-fromager-swipe-vannes-planche.png",
+ "variante": "A",
+ "accroche": "Fromager à Vannes, votre fiche Google tient face au voisin ?",
+ "duree": 16.5,
+ "calage": {
+  "scenes": [
+   {
+    "name": "Accroche",
+    "dur": 4.0,
+    "nat": 3.0,
+    "start": 0.0
+   },
+   {
+    "name": "Probleme",
+    "dur": 3.5,
+    "nat": 4.0,
+    "start": 4.0
+   },
+   {
+    "name": "Bascule",
+    "dur": 6.0,
+    "nat": 5.0,
+    "start": 7.5
+   },
+   {
+    "name": "Offre",
+    "dur": 3.0,
+    "nat": 3.0,
+    "start": 13.5
+   }
+  ],
+  "total": 16.5,
+  "voix": [
+   {
+    "id": "vo-accroche-A",
+    "texte": "Fromager à Vannes, votre fiche Google tient face au voisin ?",
+    "at": 0.15,
+    "fin": 3.333,
+    "scene": "Accroche",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-fromager-swipe-vannes/prise-A.mp3",
+    "ss": 0.0,
+    "dur": 3.183
+   },
+   {
+    "id": "vo-1",
+    "texte": "Lui montre ses plateaux, vous, rien du tout.",
+    "at": 4.15,
+    "fin": 6.951,
+    "scene": "Probleme",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-fromager-swipe-vannes/prise-A.mp3",
+    "ss": 3.898,
+    "dur": 2.801
+   },
+   {
+    "id": "vo-2",
+    "texte": "Pro en ligne montre vos fromages chaque semaine.",
+    "at": 7.65,
+    "fin": 10.063,
+    "scene": "Bascule",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-fromager-swipe-vannes/prise-A.mp3",
+    "ss": 6.984,
+    "dur": 2.413
+   },
+   {
+    "id": "vo-3",
+    "texte": "Cette fois, on fait le détour jusqu'à vous.",
+    "at": 10.8,
+    "fin": 12.819,
+    "scene": "Bascule",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-fromager-swipe-vannes/prise-A.mp3",
+    "ss": 9.49,
+    "dur": 2.019
+   },
+   {
+    "id": "vo-4",
+    "texte": "Trente jours offerts, lien en bio.",
+    "at": 13.65,
+    "fin": 15.613,
+    "scene": "Offre",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-fromager-swipe-vannes/prise-A.mp3",
+    "ss": 11.751,
+    "dur": 1.963
+   }
+  ],
+  "sfx": [
+   {
+    "id": "tic",
+    "at": 0.267
+   },
+   {
+    "id": "tic",
+    "at": 1.467
+   },
+   {
+    "id": "tic",
+    "at": 2.667
+   },
+   {
+    "id": "tap",
+    "at": 3.667
+   },
+   {
+    "id": "chute",
+    "at": 3.867
+   },
+   {
+    "id": "blip",
+    "at": 7.98
+   },
+   {
+    "id": "blip",
+    "at": 8.58
+   },
+   {
+    "id": "blip",
+    "at": 9.18
+   },
+   {
+    "id": "tic",
+    "at": 9.54
+   },
+   {
+    "id": "tic",
+    "at": 10.26
+   },
+   {
+    "id": "tap",
+    "at": 10.98
+   },
+   {
+    "id": "chute",
+    "at": 11.34
+   },
+   {
+    "id": "feuille",
+    "at": 12.9
+   }
+  ]
+ },
+ "textes_affiches": [
+  "/ mois · 30 jours offerts",
+  "1",
+  "14,99 €",
+  "19 / 19",
+  "2",
+  "2 / 19",
+  "2021",
+  "3",
+  "?",
+  "Avis répondus",
+  "CHOISI",
+  "Fromager Weber",
+  "Google",
+  "Google.",
+  "LUI",
+  "La",
+  "Le",
+  "Lien en bio →",
+  "Lui",
+  "Photo",
+  "Proenligne",
+  "Publication",
+  "Sa",
+  "Sa fiche Google vit. La vôtre dort.",
+  "VOUS",
+  "Votre",
+  "Votre entreprise",
+  "aucune",
+  "choisit",
+  "choisit.",
+  "client",
+  "comptoir,",
+  "depuis",
+  "dort.",
+  "en",
+  "jeudi",
+  "la",
+  "lundi",
+  "on",
+  "ou",
+  "réveille",
+  "secondes.",
+  "vit.",
+  "vous",
+  "vu",
+  "vôtre",
+  "vôtre.",
+  "À",
+  "À fiche Google égale, on vous choisit.",
+  "égale,",
+  "✓"
+ ],
+ "problemes": []
+}

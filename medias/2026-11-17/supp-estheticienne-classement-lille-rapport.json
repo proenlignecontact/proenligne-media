@@ -1,0 +1,194 @@
+{
+ "video": "/home/claude/proenligne-media/medias/2026-11-17/supp-estheticienne-classement-lille.mp4",
+ "planche": "/home/claude/proenligne-media/medias/2026-11-17/supp-estheticienne-classement-lille-planche.png",
+ "variante": "A",
+ "accroche": "Où êtes-vous sur *Google ?*",
+ "duree": 17.0,
+ "calage": {
+  "scenes": [
+   {
+    "name": "Accroche",
+    "dur": 4.0,
+    "nat": 3.0,
+    "start": 0.0
+   },
+   {
+    "name": "Probleme",
+    "dur": 3.5,
+    "nat": 4.0,
+    "start": 4.0
+   },
+   {
+    "name": "Bascule",
+    "dur": 6.5,
+    "nat": 5.0,
+    "start": 7.5
+   },
+   {
+    "name": "Offre",
+    "dur": 3.0,
+    "nat": 3.0,
+    "start": 14.0
+   }
+  ],
+  "total": 17.0,
+  "voix": [
+   {
+    "id": "vo-accroche-A",
+    "texte": "Tapez esthéticienne Lille. Où êtes-vous sur Google ?",
+    "at": 0.15,
+    "fin": 3.316,
+    "scene": "Accroche",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-estheticienne-classement-lille/prise-A.mp3",
+    "ss": 0.164,
+    "dur": 3.166
+   },
+   {
+    "id": "vo-1",
+    "texte": "On réserve souvent l'institut qu'on voit en premier.",
+    "at": 4.15,
+    "fin": 6.631,
+    "scene": "Probleme",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-estheticienne-classement-lille/prise-A.mp3",
+    "ss": 4.08,
+    "dur": 2.481
+   },
+   {
+    "id": "vo-2",
+    "texte": "Pro en ligne montre vos soins chaque semaine.",
+    "at": 7.65,
+    "fin": 10.001,
+    "scene": "Bascule",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-estheticienne-classement-lille/prise-A.mp3",
+    "ss": 6.8,
+    "dur": 2.351
+   },
+   {
+    "id": "vo-3",
+    "texte": "Et les clientes découvrent enfin votre institut.",
+    "at": 11.1,
+    "fin": 13.674,
+    "scene": "Bascule",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-estheticienne-classement-lille/prise-A.mp3",
+    "ss": 9.273,
+    "dur": 2.574
+   },
+   {
+    "id": "vo-4",
+    "texte": "Trente jours offerts, c'est le lien en bio.",
+    "at": 14.15,
+    "fin": 16.339,
+    "scene": "Offre",
+    "src": "/home/claude/proenligne-media/medias/audio/supp-estheticienne-classement-lille/prise-A.mp3",
+    "ss": 12.1,
+    "dur": 2.189
+   }
+  ],
+  "sfx": [
+   {
+    "id": "camera",
+    "at": 4.0
+   },
+   {
+    "id": "camera",
+    "at": 7.5
+   },
+   {
+    "id": "blip",
+    "at": 8.54
+   },
+   {
+    "id": "blip",
+    "at": 9.19
+   },
+   {
+    "id": "blip",
+    "at": 9.84
+   },
+   {
+    "id": "tampon",
+    "at": 11.92
+   },
+   {
+    "id": "feuille",
+    "at": 13.415
+   }
+  ]
+ },
+ "textes_affiches": [
+  "/ mois · 30 jours offerts",
+  "1",
+  "10",
+  "14,99 €",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9",
+  "?",
+  "Esthéticienne Bernard",
+  "Esthéticienne Dupont",
+  "Esthéticienne Fournier",
+  "Esthéticienne Girard",
+  "Esthéticienne Lefèvre",
+  "Esthéticienne Martin",
+  "Esthéticienne Moreau",
+  "Esthéticienne Roux",
+  "Esthéticienne Weber",
+  "Et",
+  "Google",
+  "Google,",
+  "Les",
+  "Lien en bio →",
+  "Lille ».",
+  "N° 1",
+  "Où",
+  "Proenligne",
+  "Proenligne fait vivre votre fiche Google, chaque semaine.",
+  "Tapez",
+  "Tout",
+  "Vos",
+  "Votre entreprise",
+  "appels.",
+  "avant",
+  "bas.",
+  "chaque",
+  "clients",
+  "coin",
+  "du",
+  "en",
+  "esthéticienne Lille",
+  "fait",
+  "le",
+  "les",
+  "premiers",
+  "rendez-vous.",
+  "reçoivent",
+  "semaine.",
+  "soins,",
+  "sur",
+  "travail.",
+  "vivre",
+  "voient",
+  "votre",
+  "vous",
+  "vus",
+  "« esthéticienne",
+  "êtes-vous",
+  "★ 4,1 · dernière photo en 2021",
+  "★ 4,1 · fiche Google active cette semaine",
+  "★ 4,4 · avis récents",
+  "★ 4,5 · avis récents",
+  "★ 4,6 · avis récents",
+  "★ 4,7 · avis récents",
+  "★ 4,8 · photo cette semaine",
+  "✓",
+  "✓ Avis répondus",
+  "✓ Photo lundi",
+  "✓ Publication jeudi"
+ ],
+ "problemes": []
+}
