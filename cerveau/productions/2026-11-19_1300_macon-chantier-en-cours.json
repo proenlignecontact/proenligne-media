@@ -1,0 +1,54 @@
+{
+ "id": "2026-11-19_1300_macon-chantier-en-cours",
+ "date_paris": "2026-11-19",
+ "heure_paris": "13:45",
+ "creneau_nominal": "13:00",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Pensez à demander l'accord du client avant de publier une photo prise chez lui, surtout si la maison ou la rue sont reconnaissables.",
+ "jour_semaine": "jeudi",
+ "creneau": "visuel",
+ "metier": "macon",
+ "angle": "gain-de-temps",
+ "format": "conseil",
+ "ton": "contre-intuitif",
+ "symptome": "pas-de-nouveaute",
+ "offre": "essai",
+ "accroche": "Un chantier n'a pas besoin d'être fini pour se montrer sur votre fiche Google.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Artisanat",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#Macon",
+  "#Maconnerie",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "image",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/5asIqkZz9X.png",
+   "https://media.glidy.uk/LPUp9nsc0x.png",
+   "https://media.glidy.uk/QyLyHDI07Y.png",
+   "https://media.glidy.uk/BFZBy7x9wE.png",
+   "https://media.glidy.uk/CqA0Nv9Qrq.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "instagram",
+   "postiz_id": "cmwhmb39o00pvkb7zygt6nmm6",
+   "caracteres": 705,
+   "texte": "Un chantier n'a pas besoin d'être fini pour se montrer sur votre fiche Google.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche « maçon » sur Google ou Google Maps, avec vos photos, vos avis et vos horaires. Beaucoup de maçons n'y mettent que des chantiers terminés, et parfois rien pendant longtemps.\n\nUn chantier en cours parle aussi. Il montre votre façon de travailler.\n1. Photographiez les fondations avant de couler la dalle.\n2. Montrez le mur en cours de montage, chantier rangé.\n3. Publiez la photo finale quand tout est terminé.\n\nVous sortez le téléphone pendant vos chantiers, ou seulement à la fin ?\n\n#FicheGoogle #Macon #Maconnerie #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "canal": "linkedin",
+   "postiz_id": "cmwhmb3bg00pxkb7zhlqjo3mq",
+   "caracteres": 1070,
+   "texte": "Pour une entreprise de maçonnerie, la fiche Google n'a pas besoin d'attendre la fin d'un chantier.\nUn chantier en cours peut rassurer un futur client autant qu'une réalisation terminée.\n\nLa fiche Google, c'est l'encadré qui présente l'entreprise sur Google et Google Maps, avec la note, les photos et le téléphone. Beaucoup d'entreprises n'y publient que des chantiers finis, donc rarement.\n\nUne autre méthode consiste à photographier chaque étape.\nLes fondations, avant de couler la dalle.\nLe mur en cours de montage, sur un chantier rangé.\nLe résultat final, une fois le chantier terminé.\n\nTrois photos suffisent pour raconter un chantier. Le client y voit une méthode, une propreté et un suivi, des critères qu'il a du mal à juger autrement avant de signer un devis.\n\nProenligne s'occupe de la fiche Google des artisans chaque semaine, avec une photo le lundi, une publication le jeudi et une réponse à chaque avis.\n\nDans vos équipes, qui pense à prendre les photos pendant les travaux ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Maconnerie #Artisanat"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

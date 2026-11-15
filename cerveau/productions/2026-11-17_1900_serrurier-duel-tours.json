@@ -1,0 +1,67 @@
+{
+ "id": "2026-11-17_1900_serrurier-duel-tours",
+ "date_paris": "2026-11-17",
+ "heure_paris": "18:45",
+ "creneau_nominal": "19:00",
+ "intention": "utile",
+ "ab": "A",
+ "premier_commentaire": "Le client bloqué dehors lit vite. Une réponse polie sous un avis difficile le rassure souvent plus qu'une note parfaite sans aucune réponse.",
+ "jour_semaine": "mardi",
+ "creneau": "video",
+ "metier": "serrurier",
+ "angle": "peur-de-perdre",
+ "format": "fiche",
+ "ton": "question",
+ "symptome": "concurrent-plus-riche",
+ "offre": "essai",
+ "accroche": "Serrurier à Tours, pourquoi on appelle l'autre sur Google ?",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#ReferencementLocal",
+  "#Serrurerie",
+  "#Serrurier",
+  "#Tours"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/RAaF32Wh0o.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmwhm9jjo00pbkb7zagbmnwc7",
+   "caracteres": 313,
+   "texte": "Serrurier à Tours, pourquoi on appelle l'autre sur Google ?\nBloqué dehors, le client compare deux fiches Google sur Google Maps. Celle de l'autre serrurier répond aux avis, la vôtre se tait.\n\n#FicheGoogle #Serrurier #Tours\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio."
+  },
+  {
+   "canal": "instagram",
+   "postiz_id": "cmwhm9jkz00pdkb7z9p97bihn",
+   "caracteres": 644,
+   "texte": "Serrurier à Tours, pourquoi on appelle l'autre sur Google ?\n\nUn soir, une cliente claque sa porte avec les clés à l'intérieur. Elle ouvre Google Maps et tape « serrurier ». Deux fiches Google apparaissent, ces encadrés avec la note, les avis et le bouton Appeler. Votre fiche Google est l'une des deux.\n\nMême note pour les deux. Mais sous chaque avis de l'autre serrurier, il y a une réponse. Sous les vôtres, rien.\n\nElle est pressée, elle a froid, elle ne connaît personne. Elle appelle celui qui a l'air présent.\n\nVous, vous répondez à vos avis ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Serrurier #Serrurerie #Tours #ReferencementLocal"
+  },
+  {
+   "canal": "youtube",
+   "postiz_id": "cmwhm9jmh00pfkb7zghlxsbea",
+   "caracteres": 574,
+   "texte": "Serrurier à Tours, pourquoi le client appelle-t-il l'autre sur Google ?\n\nLa fiche Google, c'est l'encadré qui présente chaque serrurier sur Google et Google Maps, avec sa note, ses avis et ses horaires. Avant d'appeler, le client y lit les avis, et les réponses que le serrurier leur a faites. À note égale, une fiche Google où chaque avis a une réponse inspire confiance.\n\nProenligne répond à chacun de vos avis, publie une photo le lundi et une publication le jeudi.\n\nEt sur votre fiche Google, combien d'avis attendent encore une réponse ?\n\n#FicheGoogle #Serrurier #Tours"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmwhm9jno00phkb7zqxswjd11",
+   "caracteres": 611,
+   "texte": "Serrurier à Tours, pourquoi on appelle l'autre sur Google ?\n\nBloqué dehors, le client prend son téléphone. Sur Google Maps, chaque serrurier a sa fiche Google, avec la note, les photos et le bouton Appeler. C'est elle qu'on regarde avant de choisir.\n\nDeux fiches Google, la même note. D'un côté, chaque avis a reçu une réponse. De l'autre, des avis restés sans un mot.\n\nDans l'urgence, le client appelle celui qui a l'air de répondre.\n\nSur votre fiche Google, le dernier avis a-t-il sa réponse ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Serrurier #Serrurerie #Tours #ReferencementLocal"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "",
+ "moteur": "plan-sequence",
+ "angle_video": "Face au concurrent",
+ "ville_video": "Tours",
+ "duree_video": 17.0,
+ "voix": "Marcel - French touch",
+ "musique": true
+}

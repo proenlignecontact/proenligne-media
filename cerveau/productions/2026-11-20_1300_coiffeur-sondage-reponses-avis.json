@@ -1,0 +1,47 @@
+{
+ "id": "2026-11-20_1300_coiffeur-sondage-reponses-avis",
+ "date_paris": "2026-11-20",
+ "heure_paris": "13:00",
+ "creneau_nominal": "13:00",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Une réponse courte suffit. Remerciez, citez la prestation, et invitez la cliente à revenir pour sa prochaine coupe.",
+ "jour_semaine": "vendredi",
+ "creneau": "visuel",
+ "metier": "coiffeur",
+ "angle": "gain-de-temps",
+ "format": "question",
+ "ton": "question",
+ "symptome": "avis-sans-reponse",
+ "offre": "essai",
+ "accroche": "Répondez-vous aux avis de votre fiche Google, ou seulement quand ils sont mauvais ?",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Coiffeur",
+  "#Coiffure",
+  "#FicheGoogle",
+  "#ReferencementLocal",
+  "#Salon"
+ ],
+ "media": {
+  "type": "image",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/4V8A03nbvT.png",
+   "https://media.glidy.uk/XBxy0fmftp.png",
+   "https://media.glidy.uk/VRhwqXf3J9.png",
+   "https://media.glidy.uk/EvdjLh25cR.png",
+   "https://media.glidy.uk/612aXAcGuF.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "instagram",
+   "postiz_id": "cmwhmbngk00q7kb7zl7pve27t",
+   "caracteres": 564,
+   "texte": "Répondez-vous aux avis de votre fiche Google, ou seulement quand ils sont mauvais ?\n\nSur Google Maps, chaque salon a sa fiche Google, avec la note, les photos et les avis. C'est elle qu'une cliente regarde avant de réserver, et elle lit souvent les réponses du salon autant que les avis.\n\nLe sondage du vendredi.\nA. Oui, à chaque avis.\nB. Seulement aux mauvais.\nC. Rarement, faute de temps.\n\nPas de bonne ou de mauvaise réponse, on est curieux de savoir comment vous faites. Vous êtes plutôt A, B ou C ?\n\n#FicheGoogle #Coiffeur #Coiffure #Salon #ReferencementLocal"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

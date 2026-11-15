@@ -158,3 +158,14 @@ Chaque lot hebdomadaire ajoute ici ses décisions, avec le chiffre qui les justi
 - **Conversion TikTok** : 1 abonné pour 11 723 vues (0,09 pour 1 000). Chaque légende TikTok invite à s'abonner (contrôlé par les vérificateurs). Liens de bio marqués `utm_source=<réseau>&utm_medium=bio&utm_campaign=organique` (réglage manuel). Ratio suivi chaque semaine dans la section « Conversion » de l'analyse. Point de départ : 1 abonné, 11 723 vues.
 - **Premier commentaire** : devient un complément d'information, jamais une question (le vérificateur refuse « ? ») ; la question d'un contenu utile va dans le texte.
 - **Non fait, en attente** : validation de l'application TikTok (action n°3, hors process) — tant qu'elle manque, TikTok reste en UPLOAD et ses vidéos ne sont pas mesurables une par une.
+
+## 2026-11-15 (dimanche) — Tâche hebdomadaire, semaine du 16/11
+
+- **Relevé frais du 15/11 (action réussie, 08 h 36 UTC)** : 71 publications mesurées sur 54 fiches. Engagement médian toujours nul sur tous les canaux : décision sur l'« indice vues ». Aucune valeur n'atteint 1,2 avec au moins 5 publications (meilleur signal : format « recherche », 6 posts, indice d'engagement 1,17, indice vues 1,00). Aucune réorientation de la grille ; la vidéo « recherche » est gardée dans le tirage (boulangerie Bordeaux, plombier Montpellier).
+- **Conversion TikTok** : 2 abonnés pour 12 866 vues, soit **0,16 pour 1 000** (contre 0,09 le 11/11, 1 abonné pour 11 723 vues). +1 abonné pour +1 143 vues depuis le 11/11 : trop peu pour conclure, à suivre la semaine prochaine (première semaine complète avec « Abonnez-vous » dans chaque légende).
+- **Comptes** : TikTok +682 vues sur le dernier relevé ; Facebook 63 engagements (+5) ; YouTube 79 min regardées (+4) ; LinkedIn 30 commentaires (+2, hors maison non distinguable au niveau compte).
+- **Amplification** : `a_reprendre` vide (plancher de 50 vues), rien à reprendre.
+- **Moteurs vidéo** : aucune vidéo swipe / cinétique / plan-séquence mesurable par post (TikTok en UPLOAD), rotation des trois moteurs conservée telle que tirée.
+- **Mix** : 11 utiles, 2 preuves (paysagiste avant/après, garage horaires), 1 offre (samedi). Tons : question 3, constat 2, scène 2, avant-après 2, réplique 2, contre-intuitif 2, pendant-que 1.
+- **Écarts au tirage** : coiffeuse du dimanche tirée « Le Mans », passée à **Rennes** (l'outil exige « à <ville> » dans l'accroche, « au Mans » ne passe pas, et « sur Le Mans » a été refusé en relecture).
+- **Outil** (`outils/pub-video.py`) : limiteur de crête après la normalisation finale (la vidéo serrurier sortait à +0,8 dB de crête) ; ligne « Tapez « métier ville » » du plan-séquence « Plus de clients » passée en petite taille dès 17 caractères (elle était coupée à droite pour « boulangerie Bordeaux »).

@@ -1,0 +1,67 @@
+{
+ "id": "2026-11-22_1900_coiffeuse-duel-rennes",
+ "date_paris": "2026-11-22",
+ "heure_paris": "19:30",
+ "creneau_nominal": "19:00",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Une photo de coupe se prend en quelques secondes, à la lumière du jour, avec l'accord de la cliente. Prise de dos, elle montre le travail sans montrer le visage.",
+ "jour_semaine": "dimanche",
+ "creneau": "video",
+ "metier": "coiffeur",
+ "angle": "peur-de-perdre",
+ "format": "fiche",
+ "ton": "question",
+ "symptome": "concurrent-plus-riche",
+ "offre": "essai",
+ "accroche": "Coiffeuse à Rennes, le salon d'à côté montre ses coupes sur sa fiche Google. Et vous ?",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Coiffeuse",
+  "#Coiffure",
+  "#FicheGoogle",
+  "#ReferencementLocal",
+  "#Rennes"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/teOJ3NiSvP.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmwhmd2ju00qvkb7zqgh0txhd",
+   "caracteres": 389,
+   "texte": "Coiffeuse à Rennes, le salon d'à côté montre ses coupes sur sa fiche Google. Et vous ?\nSur Google Maps, chaque salon a sa fiche Google, avec la note, les photos et les avis. Une cliente qui compare s'arrête souvent sur le salon qui montre son travail de la semaine.\n\n#FicheGoogle #Coiffeuse #Rennes\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio."
+  },
+  {
+   "canal": "instagram",
+   "postiz_id": "cmwhmd2l900qxkb7zlgzba9z6",
+   "caracteres": 667,
+   "texte": "Coiffeuse à Rennes, le salon d'à côté montre ses coupes sur sa fiche Google. Et vous ?\n\nUne cliente vient d'emménager. Elle cherche « coiffeur » sur Google Maps et compare deux fiches Google, ces encadrés avec la note, les photos et les avis.\n\nSur la fiche Google de l'autre salon, il y a un balayage de la semaine, une coupe courte, un chignon de mariage. Sur la vôtre, il y a la devanture, et plus rien depuis l'été.\n\nLe talent est peut-être le même. Mais elle ne peut juger que ce qu'elle voit.\n\nQuelle coupe de la semaine aimeriez-vous montrer sur votre fiche Google ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Coiffeuse #Coiffure #Rennes #ReferencementLocal"
+  },
+  {
+   "canal": "youtube",
+   "postiz_id": "cmwhmd2n100qzkb7zk26y0e8a",
+   "caracteres": 490,
+   "texte": "Coiffeuse à Rennes, pourquoi la cliente choisit-elle le salon d'à côté sur Google ?\n\nQuand on tape « coiffeur près de moi », Google affiche des fiches Google avec photos, avis et horaires. Votre fiche Google en fait partie. Une cliente qui compare deux salons regarde surtout les coupes récentes.\n\nProenligne publie une photo de vos coupes le lundi, une publication le jeudi, et répond à chaque avis.\n\nQuelle coupe de la semaine montreriez-vous en premier ?\n\n#FicheGoogle #Coiffeuse #Rennes"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmwhmd2p500r1kb7z6zsb57rb",
+   "caracteres": 581,
+   "texte": "Coiffeuse à Rennes, le salon d'à côté montre ses coupes sur sa fiche Google. Et vous ?\n\nAvant de réserver, une cliente compare souvent deux ou trois salons sur Google Maps. Chacun a sa fiche Google, avec la note, les photos et les avis. Elle s'arrête sur celle qui montre des coupes récentes.\n\nLe talent ne se voit pas sur une devanture. Il se voit sur les photos du travail de la semaine.\n\nQuelle est la dernière coupe que vous avez montrée sur votre fiche Google ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Coiffeuse #Coiffure #Rennes #ReferencementLocal"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "",
+ "moteur": "cinetique",
+ "angle_video": "Face au concurrent",
+ "ville_video": "Rennes",
+ "duree_video": 15.0,
+ "voix": "Marcel - French touch",
+ "musique": true
+}

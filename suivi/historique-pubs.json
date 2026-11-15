@@ -1340,5 +1340,194 @@
   ],
   "ambiance": 2,
   "duree": 17.5
+ },
+ {
+  "date": "2026-11-16",
+  "slug": "garage-soiree-avis-angers",
+  "moteur": "cinetique",
+  "angle": "Du temps libre",
+  "metier": "garagiste",
+  "ville": "Angers",
+  "valeur": "22 h",
+  "accroches": [
+   "Garagiste à Angers, l'atelier ferme, pas votre *fiche Google*.",
+   "Garagiste à Angers, qui répond aux avis de la *fiche Google* ?"
+  ],
+  "voix": [
+   "Les voitures sont rendues, il reste les avis.",
+   "Pro en ligne répond à chaque avis pour vous.",
+   "Le soir, l'atelier est fermé, et vous aussi.",
+   "Trente jours offerts, le lien est en bio."
+  ],
+  "ambiance": 1,
+  "duree": 18.0
+ },
+ {
+  "date": "2026-11-17",
+  "slug": "serrurier-duel-tours",
+  "moteur": "plan-sequence",
+  "angle": "Face au concurrent",
+  "metier": "serrurier",
+  "ville": "Tours",
+  "valeur": "",
+  "accroches": [
+   "Serrurier à Tours, pourquoi on appelle l'autre sur *Google* ?",
+   "Serrurier à Tours, le client compare deux *fiches Google*."
+  ],
+  "voix": [
+   "L'autre fiche Google répond aux avis. Pas la vôtre.",
+   "Pro en ligne répond à vos avis.",
+   "Le client bloqué dehors voit que vous êtes là.",
+   "Essayez trente jours offerts, lien en bio."
+  ],
+  "ambiance": 2,
+  "duree": 17.0
+ },
+ {
+  "date": "2026-11-19",
+  "slug": "serrurier-duel-tours-b",
+  "moteur": "plan-sequence",
+  "angle": "Face au concurrent",
+  "metier": "serrurier",
+  "ville": "Tours",
+  "valeur": "",
+  "accroches": [
+   "Serrurier à Tours, le client compare deux *fiches Google*.",
+   "Serrurier à Tours, pourquoi on appelle l'autre sur *Google* ?"
+  ],
+  "voix": [
+   "L'autre fiche Google répond aux avis. Pas la vôtre.",
+   "Pro en ligne répond à vos avis.",
+   "Le client bloqué dehors voit que vous êtes là.",
+   "Essayez trente jours offerts, lien en bio."
+  ],
+  "ambiance": 2,
+  "duree": 17.0
+ },
+ {
+  "date": "2026-11-18",
+  "slug": "autoecole-swipe-appels-caen",
+  "moteur": "swipe",
+  "angle": "Plus d'appels",
+  "metier": "auto-école",
+  "ville": "Caen",
+  "valeur": "",
+  "accroches": [
+   "Auto-école à Caen, pendant vos leçons, un futur élève passe votre fiche Google.",
+   "Auto-école à Caen, un futur élève compare les fiches Google avant d'appeler."
+  ],
+  "voix": [
+   "Sans photo des voitures, on passe.",
+   "Pro en ligne montre vos voitures.",
+   "Cette fois, c'est vous qu'on appelle.",
+   "Le lien est en bio, trente jours offerts."
+  ],
+  "ambiance": 0,
+  "duree": 16.5
+ },
+ {
+  "date": "2026-11-19",
+  "slug": "electricien-soirees-saint-brieuc",
+  "moteur": "cinetique",
+  "angle": "Du temps libre",
+  "metier": "électricien",
+  "ville": "Saint-Brieuc",
+  "valeur": "23 h",
+  "accroches": [
+   "Électricien à Saint-Brieuc, la *fiche Google* vous attend ?",
+   "Électricien à Saint-Brieuc, la *fiche Google* vous retient ?"
+  ],
+  "voix": [
+   "Après le chantier, il reste vos avis.",
+   "Pro en ligne s'occupe des photos et des avis.",
+   "Le soir, vous débranchez, vous aussi.",
+   "Testez trente jours offerts, lien en bio."
+  ],
+  "ambiance": 1,
+  "duree": 16.0
+ },
+ {
+  "date": "2026-11-21",
+  "slug": "electricien-soirees-saint-brieuc-b",
+  "moteur": "cinetique",
+  "angle": "Du temps libre",
+  "metier": "électricien",
+  "ville": "Saint-Brieuc",
+  "valeur": "23 h",
+  "accroches": [
+   "Électricien à Saint-Brieuc, la *fiche Google* vous retient ?",
+   "Électricien à Saint-Brieuc, la *fiche Google* vous attend ?"
+  ],
+  "voix": [
+   "Après le chantier, il reste vos avis.",
+   "Pro en ligne s'occupe des photos et des avis.",
+   "Le soir, vous débranchez, vous aussi.",
+   "Testez trente jours offerts, lien en bio."
+  ],
+  "ambiance": 1,
+  "duree": 16.0
+ },
+ {
+  "date": "2026-11-20",
+  "slug": "boulangerie-classement-bordeaux",
+  "moteur": "plan-sequence",
+  "angle": "Plus de clients",
+  "metier": "boulangerie",
+  "ville": "Bordeaux",
+  "valeur": "",
+  "accroches": [
+   "Votre *fiche Google* plaît ?",
+   "Votre *fiche Google* dort ?"
+  ],
+  "voix": [
+   "On choisit souvent la boulangerie qui donne envie.",
+   "Pro en ligne montre votre vitrine chaque semaine.",
+   "Et c'est votre porte qu'on pousse.",
+   "C'est trente jours offerts, le lien est en bio."
+  ],
+  "ambiance": 2,
+  "duree": 16.0
+ },
+ {
+  "date": "2026-11-21",
+  "slug": "plombier-swipe-appels-montpellier",
+  "moteur": "swipe",
+  "angle": "Plus d'appels",
+  "metier": "plombier",
+  "ville": "Montpellier",
+  "valeur": "",
+  "accroches": [
+   "« On prend le suivant. » Plombier à Montpellier, on passe votre fiche Google.",
+   "Plombier à Montpellier, votre fiche Google donne-t-elle envie d'appeler ?"
+  ],
+  "voix": [
+   "Une photo ancienne, et le doigt glisse.",
+   "Pro en ligne montre vos chantiers.",
+   "Cette fois, le pouce appuie sur Appeler.",
+   "Profitez de trente jours offerts, lien en bio."
+  ],
+  "ambiance": 0,
+  "duree": 17.0
+ },
+ {
+  "date": "2026-11-22",
+  "slug": "coiffeuse-duel-rennes",
+  "moteur": "cinetique",
+  "angle": "Face au concurrent",
+  "metier": "coiffeuse",
+  "ville": "Rennes",
+  "valeur": "Le salon d'à côté",
+  "accroches": [
+   "Coiffeuse à Rennes, vos coupes sont sur votre *fiche Google* ?",
+   "Coiffeuse à Rennes, votre *fiche Google* donne envie ?"
+  ],
+  "voix": [
+   "Le salon d'à côté publie ses coupes. Et vous ?",
+   "Pro en ligne montre vos coupes.",
+   "Et la cliente pousse votre porte.",
+   "Trente jours offerts, lien en bio."
+  ],
+  "ambiance": 1,
+  "duree": 15.0
  }
 ]

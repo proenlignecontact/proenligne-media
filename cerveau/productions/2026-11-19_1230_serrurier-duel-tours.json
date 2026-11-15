@@ -1,0 +1,47 @@
+{
+ "id": "2026-11-19_1230_serrurier-duel-tours",
+ "date_paris": "2026-11-19",
+ "heure_paris": "12:30",
+ "creneau_nominal": "12:30",
+ "intention": "utile",
+ "ab": "B",
+ "premier_commentaire": "Une réponse courte suffit sous un avis. Un merci, le service rendu, et le client suivant voit que vous êtes joignable.",
+ "jour_semaine": "jeudi",
+ "creneau": "video",
+ "metier": "serrurier",
+ "angle": "peur-de-perdre",
+ "format": "fiche",
+ "ton": "question",
+ "symptome": "concurrent-plus-riche",
+ "offre": "essai",
+ "accroche": "Serrurier à Tours, le client compare deux fiches Google.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#Serrurier",
+  "#Tours"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/DwpEB3doi5.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmwhmb37v00ptkb7znicfxghm",
+   "caracteres": 337,
+   "texte": "Serrurier à Tours, le client compare deux fiches Google.\nBloqué dehors, il regarde la note, les photos et surtout les réponses aux avis. Votre fiche Google a-t-elle l'air aussi présente que celle d'en face ?\n\n#FicheGoogle #Serrurier #Tours\n\nAbonnez-vous pour voir les autres métiers face à leur concurrent. 30 jours offerts, lien en bio."
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "",
+ "moteur": "plan-sequence",
+ "angle_video": "Face au concurrent",
+ "ville_video": "Tours",
+ "duree_video": 17.0,
+ "voix": "Marcel - French touch",
+ "musique": true
+}

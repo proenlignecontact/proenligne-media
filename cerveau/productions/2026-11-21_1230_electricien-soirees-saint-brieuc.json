@@ -1,0 +1,47 @@
+{
+ "id": "2026-11-21_1230_electricien-soirees-saint-brieuc",
+ "date_paris": "2026-11-21",
+ "heure_paris": "12:30",
+ "creneau_nominal": "12:30",
+ "intention": "utile",
+ "ab": "B",
+ "premier_commentaire": "Une astuce. Répondez aux avis le matin, au café, plutôt que le soir. Deux minutes suffisent souvent pour un merci.",
+ "jour_semaine": "samedi",
+ "creneau": "video",
+ "metier": "electricien",
+ "angle": "gain-de-temps",
+ "format": "journee",
+ "ton": "scene",
+ "symptome": "avis-sans-reponse",
+ "offre": "essai",
+ "accroche": "Électricien à Saint-Brieuc, la journée de chantier finit, mais pas les réponses aux avis Google.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Electricien",
+  "#FicheGoogle",
+  "#SaintBrieuc"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/GakN3WJypA.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmwhmcgn100qhkb7z9sp83wia",
+   "caracteres": 353,
+   "texte": "Électricien à Saint-Brieuc, la journée de chantier finit, mais pas les réponses aux avis Google.\nLe chantier est terminé, mais votre fiche Google, celle qu'on voit sur Google Maps, attend encore ses photos et ses réponses.\n\n#FicheGoogle #Electricien #SaintBrieuc\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio."
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "",
+ "moteur": "cinetique",
+ "angle_video": "Du temps libre",
+ "ville_video": "Saint-Brieuc",
+ "duree_video": 16.0,
+ "voix": "Marcel - French touch",
+ "musique": true
+}

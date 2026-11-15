@@ -1,0 +1,67 @@
+{
+ "id": "2026-11-20_1900_boulangerie-classement-bordeaux",
+ "date_paris": "2026-11-20",
+ "heure_paris": "19:45",
+ "creneau_nominal": "19:00",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Les photos qui donnent le plus envie d'entrer sont souvent les plus simples. La vitrine du matin, une fournée qui sort du four, le comptoir garni.",
+ "jour_semaine": "vendredi",
+ "creneau": "video",
+ "metier": "boulangerie",
+ "angle": "peur-de-perdre",
+ "format": "recherche",
+ "ton": "constat",
+ "symptome": "fiche-oubliee",
+ "offre": "essai",
+ "accroche": "Boulangerie à Bordeaux, votre pain est sur Google ?",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Bordeaux",
+  "#Boulanger",
+  "#Boulangerie",
+  "#FicheGoogle",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/LzCem83IB3.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmwhmbni400q9kb7z7ikdjg5p",
+   "caracteres": 311,
+   "texte": "Boulangerie à Bordeaux, votre pain est sur Google ?\nOn cherche une boulangerie près de chez soi, Google montre des fiches Google, et on entre souvent dans la première qui donne envie.\n\n#FicheGoogle #Boulangerie #Bordeaux\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio."
+  },
+  {
+   "canal": "instagram",
+   "postiz_id": "cmwhmbnjr00qbkb7zrqws6bp4",
+   "caracteres": 607,
+   "texte": "Boulangerie à Bordeaux, votre pain est sur Google ?\n\nUn dimanche matin, dans un quartier qu'on connaît mal, on tape « boulangerie » sur son téléphone. Les encadrés avec une note, des photos et un itinéraire sont des fiches Google. On en regarde deux ou trois, rarement plus.\n\nUne fiche Google qui montre la vitrine du matin, les viennoiseries et les horaires du dimanche donne envie de faire le détour. Une fiche Google sans photo, on la passe.\n\nVotre fiche Google montre-t-elle votre vitrine, aujourd'hui ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Boulangerie #Boulanger #Bordeaux #ReferencementLocal"
+  },
+  {
+   "canal": "youtube",
+   "postiz_id": "cmwhmbnkw00qdkb7zpe7y5b9f",
+   "caracteres": 508,
+   "texte": "Boulangerie à Bordeaux, votre pain est-il sur Google ?\n\nCherchez « boulangerie » dans votre ville. Les encadrés avec une note et des photos sont des fiches Google. Votre fiche Google en fait partie. Avant de pousser une porte, beaucoup de passants y regardent la vitrine, les horaires et l'itinéraire.\n\nProenligne publie une photo le lundi, une publication le jeudi, et répond à chaque avis de votre boulangerie.\n\nQuelle photo de votre boutique mettriez-vous en premier ?\n\n#FicheGoogle #Boulangerie #Bordeaux"
+  },
+  {
+   "canal": "facebook",
+   "postiz_id": "cmwhmbnmg00qfkb7z6xmpoo0q",
+   "caracteres": 574,
+   "texte": "Boulangerie à Bordeaux, votre pain est sur Google ?\n\nQuand on arrive dans un quartier, on cherche souvent la boulangerie sur son téléphone. Google affiche alors des fiches Google, avec la note, les photos, les horaires et l'itinéraire. La vôtre en fait partie.\n\nSi elle montre une vitrine bien garnie et des horaires justes, on fait le détour. Si elle ne montre rien, on entre dans celle d'à côté.\n\nQue voit-on aujourd'hui en ouvrant votre fiche Google ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Boulangerie #Boulanger #Bordeaux #ReferencementLocal"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "",
+ "moteur": "plan-sequence",
+ "angle_video": "Plus de clients",
+ "ville_video": "Bordeaux",
+ "duree_video": 16.0,
+ "voix": "Marcel - French touch",
+ "musique": true
+}

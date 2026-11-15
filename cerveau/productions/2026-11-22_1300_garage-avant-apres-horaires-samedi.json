@@ -1,0 +1,47 @@
+{
+ "id": "2026-11-22_1300_garage-avant-apres-horaires-samedi",
+ "date_paris": "2026-11-22",
+ "heure_paris": "13:30",
+ "creneau_nominal": "13:00",
+ "intention": "preuve",
+ "ab": null,
+ "premier_commentaire": "Pensez aussi aux horaires exceptionnels. Noël et le jour de l'An arrivent vite, et Google prévoit une rubrique pour les annoncer à l'avance.",
+ "jour_semaine": "dimanche",
+ "creneau": "visuel",
+ "metier": "garage",
+ "angle": "preuve",
+ "format": "avant-apres",
+ "ton": "avant-apres",
+ "symptome": "horaires-faux",
+ "offre": "essai",
+ "accroche": "Le samedi matin, la fiche Google du garage Bernard affichait fermé. Après correction, elle dit enfin vrai.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#FicheGoogle",
+  "#Garage",
+  "#Garagiste",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "image",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/Xby8pZsE15.png",
+   "https://media.glidy.uk/49Ingi7LXl.png",
+   "https://media.glidy.uk/2BEJJM6oCQ.png",
+   "https://media.glidy.uk/m72biLzgVe.png",
+   "https://media.glidy.uk/ofc5FwM3Ru.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "instagram",
+   "postiz_id": "cmwhmd2im00qtkb7zg8nyqbss",
+   "caracteres": 748,
+   "texte": "Le samedi matin, la fiche Google du garage Bernard affichait fermé. Après correction, elle dit enfin vrai.\n\nLe garage est imaginaire, la situation l'est beaucoup moins. Sur Google Maps, chaque garage a sa fiche Google, avec la note, les photos et les horaires. C'est elle qu'on regarde avant de passer.\n\nAvant, l'atelier était ouvert le samedi matin, mais Google disait fermé. Le client qui voulait faire contrôler ses pneus allait ailleurs, sans rien dire.\n\nAprès, les horaires sont corrigés et une photo de l'atelier ouvert le confirme. Le client vient sans même appeler pour vérifier.\n\nQuand avez-vous vérifié vos horaires sur votre fiche Google pour la dernière fois ?\n\n#FicheGoogle #Garage #Garagiste #ReferencementLocal #GoogleBusinessProfile"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

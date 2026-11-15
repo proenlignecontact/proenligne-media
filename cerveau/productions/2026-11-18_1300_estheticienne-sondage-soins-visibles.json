@@ -1,0 +1,47 @@
+{
+ "id": "2026-11-18_1300_estheticienne-sondage-soins-visibles",
+ "date_paris": "2026-11-18",
+ "heure_paris": "13:15",
+ "creneau_nominal": "13:00",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Dans la rubrique Services de votre fiche Google, chaque soin peut avoir sa propre description. Une ou deux phrases simples suffisent, avec le nom que vos clientes utilisent.",
+ "jour_semaine": "mercredi",
+ "creneau": "visuel",
+ "metier": "estheticienne",
+ "angle": "peur-de-perdre",
+ "format": "question",
+ "ton": "replique",
+ "symptome": "service-invisible",
+ "offre": "essai",
+ "accroche": "« Ah, vous faites aussi les soins du visage ? » Votre fiche Google ne le disait pas.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Estheticienne",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#InstitutDeBeaute",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "image",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/gRDdmitbaF.png",
+   "https://media.glidy.uk/r6Nabj54PK.png",
+   "https://media.glidy.uk/IdH37HGvDp.png",
+   "https://media.glidy.uk/K6efIHxnfS.png",
+   "https://media.glidy.uk/jfierALe0N.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "instagram",
+   "postiz_id": "cmwhma68q00pjkb7zyewnppvj",
+   "caracteres": 831,
+   "texte": "« Ah, vous faites aussi les soins du visage ? » Votre fiche Google ne le disait pas.\n\nCette phrase, beaucoup d'esthéticiennes l'entendent de la bouche de clientes fidèles. Les nouvelles clientes, elles, ne la prononcent jamais. Elles ne savent pas que vous proposez ce soin, et le réservent souvent ailleurs.\n\nQuand on tape « soin du visage » et sa ville, Google affiche des fiches Google avec photos, avis et services. La vôtre en fait partie. Mais un soin que vous n'y avez pas ajouté, la cliente a peu de chances de le voir.\n\nPetit sondage du mercredi. Vos soins sont-ils visibles sur votre fiche Google ?\nA. Oui, tous, avec des photos.\nB. Quelques-uns, pas les nouveaux.\nC. Non, seulement le nom de l'institut.\n\nVous répondez A, B ou C ?\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #ReferencementLocal #GoogleBusinessProfile"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

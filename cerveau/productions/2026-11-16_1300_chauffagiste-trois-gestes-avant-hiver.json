@@ -1,0 +1,47 @@
+{
+ "id": "2026-11-16_1300_chauffagiste-trois-gestes-avant-hiver",
+ "date_paris": "2026-11-16",
+ "heure_paris": "13:00",
+ "creneau_nominal": "13:00",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Une astuce de plus. Prenez la photo de la chaudière juste après la pose, à la lumière du jour, avec le local bien rangé autour.",
+ "jour_semaine": "lundi",
+ "creneau": "visuel",
+ "metier": "chauffagiste",
+ "angle": "peur-de-perdre",
+ "format": "conseil",
+ "ton": "constat",
+ "symptome": "photos-anciennes",
+ "offre": "essai",
+ "accroche": "Les premiers froids arrivent, et c'est souvent sur Google qu'on cherche un chauffagiste en urgence.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Chauffage",
+  "#Chauffagiste",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "image",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/Br7j440IG2.png",
+   "https://media.glidy.uk/F42cVLZnie.png",
+   "https://media.glidy.uk/rkg1uI9Wae.png",
+   "https://media.glidy.uk/dg5ErzOVoq.png",
+   "https://media.glidy.uk/s8L1gVV5yS.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "instagram",
+   "postiz_id": "cmwhm8s1q00oxkb7z042anvzl",
+   "caracteres": 705,
+   "texte": "Les premiers froids arrivent, et c'est souvent sur Google qu'on cherche un chauffagiste en urgence.\n\nLa chaudière s'arrête un soir, le client prend son téléphone et tape « chauffagiste » avec sa ville. Google lui montre des fiches Google, ces encadrés avec la note, les photos, les horaires et le bouton Appeler. Votre fiche Google en fait partie.\n\nTrois gestes pour la réveiller avant les grands froids.\n1. Publiez la photo d'une chaudière que vous venez de poser.\n2. Vérifiez que vos horaires de dépannage sont bien affichés.\n3. Répondez aux derniers avis, même aux plus courts.\n\nPar lequel commencez-vous cette semaine ?\n\n#FicheGoogle #Chauffagiste #Chauffage #ReferencementLocal #GoogleBusinessProfile"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}
