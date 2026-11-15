@@ -1,0 +1,257 @@
+{
+ "empreinte": "5563de2026f54640",
+ "verdicts": [
+  {
+   "id": "ea395e1",
+   "verdict": "ok"
+  },
+  {
+   "id": "e67d90e",
+   "verdict": "ok"
+  },
+  {
+   "id": "e17798d",
+   "verdict": "ok"
+  },
+  {
+   "id": "e3449ba",
+   "verdict": "ok"
+  },
+  {
+   "id": "e86ed79",
+   "verdict": "ok"
+  },
+  {
+   "id": "e5ec07f",
+   "verdict": "refuse",
+   "motif": "Critère 3, « elle ne montre que ce que vous y avez mis » est faux, la fiche Google affiche aussi les avis et des photos de clients, cités juste avant dans la même phrase.",
+   "proposition": "« Ah, vous faites aussi les soins du visage ? » Votre fiche Google ne le disait pas.\n\nCette phrase, beaucoup d'esthéticiennes l'entendent de la bouche de clientes fidèles. Les nouvelles clientes, elles, ne la prononcent jamais. Elles ne savent pas que vous proposez ce soin, et le réservent souvent ailleurs.\n\nQuand on tape « soin du visage » et sa ville, Google affiche des fiches Google avec photos, avis et services. La vôtre en fait partie. Mais un soin que vous n'y avez pas ajouté, la cliente a peu de chances de le voir.\n\nPetit sondage du mercredi. Vos soins sont-ils visibles sur votre fiche Google ?\nA. Oui, tous, avec des photos.\nB. Quelques-uns, pas les nouveaux.\nC. Non, seulement le nom de l'institut.\n\nVous répondez A, B ou C ?\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "id": "e1abbee",
+   "verdict": "ok"
+  },
+  {
+   "id": "e442f8c",
+   "verdict": "refuse",
+   "motif": "Critère 10, « voiture école » s'écrit avec un trait d'union, « voiture-école ».",
+   "proposition": "Pour commencer, deux photos suffisent. Prenez la voiture-école devant l'agence, puis le moniteur avec un élève qui vient d'avoir son permis, si l'élève est d'accord."
+  },
+  {
+   "id": "e0c7db5",
+   "verdict": "ok"
+  },
+  {
+   "id": "e591234",
+   "verdict": "ok"
+  },
+  {
+   "id": "ec921f0",
+   "verdict": "refuse",
+   "motif": "Critère 10, « voiture école » s'écrit avec un trait d'union, « voiture-école ».",
+   "proposition": "Auto-école à Caen, pendant que vous êtes en leçon, un futur élève passe votre fiche Google sans s'arrêter.\n\nUn lycéen et sa mère cherchent une auto-école. Ils tapent « auto-école » sur Google Maps. Chaque école a sa fiche Google, avec la note, les photos et le bouton Appeler.\n\nIls font défiler. Une fiche Google sans photo des voitures ni nouvelles récentes, ils la passent sans s'arrêter. Une autre montre la voiture-école, l'équipe, une réussite au permis. C'est là qu'ils appellent.\n\nPendant ce temps, vous êtes en leçon, et vous ne le saurez jamais.\n\nQue montre la première photo de votre fiche Google aujourd'hui ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #AutoEcole #PermisDeConduire #Caen #ReferencementLocal"
+  },
+  {
+   "id": "e0f92ca",
+   "verdict": "refuse",
+   "motif": "Critère 10, « voiture école » s'écrit avec un trait d'union, « voiture-école ».",
+   "proposition": "Auto-école à Caen, pendant que vous êtes en leçon, un futur élève passe votre fiche Google sans s'arrêter.\n\nAvant de s'inscrire, une famille compare souvent plusieurs auto-écoles sur Google Maps. Chacune a sa fiche Google, cet encadré avec la note, les photos, les horaires et le bouton Appeler.\n\nUne fiche Google sans photo de la voiture-école ni nouvelles récentes, on la fait défiler. Celle qui montre l'équipe et les élèves reçus donne envie d'appeler.\n\nEt vous, que voit une famille en ouvrant votre fiche Google ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #AutoEcole #PermisDeConduire #Caen #ReferencementLocal"
+  },
+  {
+   "id": "e916c4b",
+   "verdict": "ok"
+  },
+  {
+   "id": "eb31dd0",
+   "verdict": "ok"
+  },
+  {
+   "id": "eda9592",
+   "verdict": "ok"
+  },
+  {
+   "id": "e60f39b",
+   "verdict": "ok"
+  },
+  {
+   "id": "eca625a",
+   "verdict": "ok"
+  },
+  {
+   "id": "ec5ed29",
+   "verdict": "ok"
+  },
+  {
+   "id": "e658d81",
+   "verdict": "ok"
+  },
+  {
+   "id": "e3eba9f",
+   "verdict": "ok"
+  },
+  {
+   "id": "effbfd8",
+   "verdict": "ok"
+  },
+  {
+   "id": "e09a28b",
+   "verdict": "refuse",
+   "motif": "Critère 3, le contenu de la publication du jeudi (« sur votre métier, votre saison ou vos services ») est un trait du service qui ne figure pas dans les règles éditoriales, qui disent seulement « une publication le jeudi ».",
+   "proposition": "Chaque jeudi, une nouvelle publication paraît sur votre fiche Google."
+  },
+  {
+   "id": "e0af997",
+   "verdict": "ok"
+  },
+  {
+   "id": "e2fed80",
+   "verdict": "ok"
+  },
+  {
+   "id": "ea224ed",
+   "verdict": "refuse",
+   "motif": "Critère 1, « Coiffeuse à Rennes, sa fiche Google montre ses coupes » lu seul fait croire que « sa » désigne la coiffeuse à qui l'on parle, puis « et vous ? » devient incompréhensible ; il faut nommer le salon concurrent dès la phrase.",
+   "proposition": "Coiffeuse à Rennes, le salon d'à côté montre ses coupes sur sa fiche Google. Et vous ?"
+  },
+  {
+   "id": "e9bda3a",
+   "verdict": "ok"
+  },
+  {
+   "id": "e6dc8c3",
+   "verdict": "refuse",
+   "motif": "Critère 1, « Coiffeuse à Rennes, sa fiche Google montre ses coupes » lu seul fait croire que « sa » désigne la coiffeuse à qui l'on parle, puis « et vous ? » devient incompréhensible ; il faut nommer le salon concurrent dès la phrase.",
+   "proposition": "Coiffeuse à Rennes, le salon d'à côté montre ses coupes sur sa fiche Google. Et vous ?"
+  },
+  {
+   "id": "ea7a83c",
+   "verdict": "refuse",
+   "motif": "Critère 1, « Coiffeuse à Rennes, sa fiche Google montre ses coupes » lu seul fait croire que « sa » désigne la coiffeuse à qui l'on parle, puis « et vous ? » devient incompréhensible ; il faut nommer le salon concurrent dès la phrase. (même accroche en première ligne de la légende)",
+   "proposition": "Coiffeuse à Rennes, le salon d'à côté montre ses coupes sur sa fiche Google. Et vous ?\nIl publie ses coupes chaque semaine sur sa fiche Google. La cliente compare sur Google Maps, et elle réserve chez celle qui montre son travail.\n\n#FicheGoogle #Coiffeuse #Rennes\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio."
+  },
+  {
+   "id": "e4e2999",
+   "verdict": "refuse",
+   "motif": "Critère 1, « Coiffeuse à Rennes, sa fiche Google montre ses coupes » lu seul fait croire que « sa » désigne la coiffeuse à qui l'on parle, puis « et vous ? » devient incompréhensible ; il faut nommer le salon concurrent dès la phrase. (même accroche en première ligne)",
+   "proposition": "Coiffeuse à Rennes, le salon d'à côté montre ses coupes sur sa fiche Google. Et vous ?\n\nUne cliente vient d'emménager. Elle cherche « coiffeur » sur Google Maps et compare deux fiches Google, ces encadrés avec la note, les photos et les avis.\n\nSur la fiche Google de l'autre salon, il y a un balayage de la semaine, une coupe courte, un chignon de mariage. Sur la vôtre, il y a la devanture, et plus rien depuis l'été.\n\nLe talent est peut-être le même. Mais elle ne peut juger que ce qu'elle voit.\n\nQuelle coupe de la semaine aimeriez-vous montrer sur votre fiche Google ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Coiffeuse #Coiffure #Rennes #ReferencementLocal"
+  },
+  {
+   "id": "ea28449",
+   "verdict": "ok"
+  },
+  {
+   "id": "ef0ced2",
+   "verdict": "refuse",
+   "motif": "Critère 1, « Coiffeuse à Rennes, sa fiche Google montre ses coupes » lu seul fait croire que « sa » désigne la coiffeuse à qui l'on parle, puis « et vous ? » devient incompréhensible ; il faut nommer le salon concurrent dès la phrase. (même accroche en première ligne)",
+   "proposition": "Coiffeuse à Rennes, le salon d'à côté montre ses coupes sur sa fiche Google. Et vous ?\n\nAvant de réserver, une cliente compare souvent deux ou trois salons sur Google Maps. Chacun a sa fiche Google, avec la note, les photos et les avis. Elle s'arrête sur celle qui montre des coupes récentes.\n\nLe talent ne se voit pas sur une devanture. Il se voit sur les photos du travail de la semaine.\n\nQuelle est la dernière coupe que vous avez montrée sur votre fiche Google ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Coiffeuse #Coiffure #Rennes #ReferencementLocal"
+  },
+  {
+   "id": "e0dd049",
+   "verdict": "ok"
+  },
+  {
+   "id": "eb83360",
+   "verdict": "ok"
+  },
+  {
+   "id": "ece41e7",
+   "verdict": "ok"
+  },
+  {
+   "id": "e4179f1",
+   "verdict": "ok"
+  },
+  {
+   "id": "e20fa65",
+   "verdict": "refuse",
+   "motif": "Critère 1, « Votre fiche Google vit ? » est une ellipse obscure, on ne comprend pas à la première lecture ce que veut dire une fiche Google qui « vit ».",
+   "proposition": "Votre *fiche Google* dort ?"
+  },
+  {
+   "id": "e229b7e",
+   "verdict": "ok"
+  },
+  {
+   "id": "e33a317",
+   "verdict": "refuse",
+   "motif": "Critère 1, « Votre fiche Google vit-elle ? » est obscur à l'oreille ; et elle doit suivre la nouvelle accroche B affichée.",
+   "proposition": "On cherche une boulangerie à Bordeaux. Votre fiche Google dort-elle ?"
+  },
+  {
+   "id": "e01d035",
+   "verdict": "ok"
+  },
+  {
+   "id": "e6f4ab1",
+   "verdict": "refuse",
+   "motif": "Critère 1, l'accroche est aussi dite ; entendue sans l'étiquette « Le salon d'à côté », « Coiffeuse à Rennes, sa fiche Google montre ses coupes » laisse croire que « sa » désigne la coiffeuse à qui l'on parle.",
+   "proposition": "Coiffeuse à Rennes, l'autre *fiche Google* montre ses coupes."
+  },
+  {
+   "id": "eb04e66",
+   "verdict": "ok"
+  },
+  {
+   "id": "ec36407",
+   "verdict": "ok"
+  },
+  {
+   "id": "e1c5211",
+   "verdict": "ok"
+  },
+  {
+   "id": "ee7729e",
+   "verdict": "ok"
+  },
+  {
+   "id": "ef46da2",
+   "verdict": "ok"
+  },
+  {
+   "id": "e42a438",
+   "verdict": "ok"
+  },
+  {
+   "id": "ead0f5a",
+   "verdict": "refuse",
+   "motif": "Critère 1, « votre fiche Google finit tard » n'a pas de sens, ce n'est pas la fiche Google qui finit tard mais l'artisan qui s'en occupe tard.",
+   "proposition": "Électricien à Saint-Brieuc, encore sur votre *fiche Google* ?"
+  },
+  {
+   "id": "e9c22f4",
+   "verdict": "ok"
+  },
+  {
+   "id": "e79ad36",
+   "verdict": "refuse",
+   "motif": "Critère 1, « publie » sans complément est une ellipse, à l'oreille on ne sait pas ce qui est publié.",
+   "proposition": "Pro en ligne publie vos photos, répond aux avis."
+  },
+  {
+   "id": "e06f509",
+   "verdict": "refuse",
+   "motif": "Critère 10, il manque le déterminant, « aux avis de fiche Google » doit devenir « aux avis de la fiche Google ».",
+   "proposition": "Garagiste à Angers, qui répond aux avis de la *fiche Google* ?"
+  },
+  {
+   "id": "eda17a2",
+   "verdict": "ok"
+  },
+  {
+   "id": "ead3f62",
+   "verdict": "ok"
+  },
+  {
+   "id": "ebe63f2",
+   "verdict": "ok"
+  },
+  {
+   "id": "e049001",
+   "verdict": "ok"
+  },
+  {
+   "id": "ec1ca77",
+   "verdict": "ok"
+  }
+ ]
+}

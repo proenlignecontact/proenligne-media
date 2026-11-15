@@ -234,8 +234,8 @@
    "quand": "2026-11-15T08:48:37+00:00"
   },
   "2026-11-17 19:00|brief:serrurier-duel-tours|voix 2 (Bascule, dite)": {
-   "h": "67a0b626320a",
-   "quand": "2026-11-15T08:48:37+00:00"
+   "h": "da1466df2f4e",
+   "quand": "2026-11-15T08:53:53+00:00"
   },
   "2026-11-17 19:00|brief:serrurier-duel-tours|voix 4 (Offre, dite)": {
    "h": "0c29505704b4",
@@ -406,16 +406,16 @@
    "quand": "2026-11-15T08:48:37+00:00"
   },
   "2026-11-18 19:00|brief:autoecole-swipe-appels-caen|voix 1 (Probleme, dite)": {
-   "h": "b89205702bd9",
-   "quand": "2026-11-15T08:48:37+00:00"
+   "h": "9bd6d6a5a6a6",
+   "quand": "2026-11-15T08:53:53+00:00"
   },
   "2026-11-18 19:00|brief:autoecole-swipe-appels-caen|voix 2 (Bascule, dite)": {
    "h": "628c8ce238da",
    "quand": "2026-11-15T08:48:37+00:00"
   },
   "2026-11-18 19:00|brief:autoecole-swipe-appels-caen|voix 3 (Bascule, dite)": {
-   "h": "ee19e963d180",
-   "quand": "2026-11-15T08:48:37+00:00"
+   "h": "f6ce82feca6d",
+   "quand": "2026-11-15T08:53:53+00:00"
   },
   "2026-11-18 19:00|brief:autoecole-swipe-appels-caen|voix 4 (Offre, dite)": {
    "h": "b548bb4b5b11",
@@ -689,37 +689,17 @@
    "h": "cc35a66b70e5",
    "quand": "2026-11-15T08:48:37+00:00"
   },
-  "2026-11-22 19:00|plan|accroche": {
-   "h": "c39dc4db34db",
-   "quand": "2026-11-15T08:48:37+00:00"
-  },
   "2026-11-22 19:00|plan|youtube_title": {
    "h": "ee0c578c1595",
    "quand": "2026-11-15T08:48:37+00:00"
   },
-  "2026-11-22 19:00|plan|tiktok_title": {
-   "h": "c39dc4db34db",
-   "quand": "2026-11-15T08:48:37+00:00"
-  },
-  "2026-11-22 19:00|plan|texte tiktok": {
-   "h": "c98e7e317a4a",
-   "quand": "2026-11-15T08:48:37+00:00"
-  },
-  "2026-11-22 19:00|plan|texte instagram": {
-   "h": "2b532ddb2931",
-   "quand": "2026-11-15T08:48:37+00:00"
-  },
   "2026-11-22 19:00|plan|texte youtube": {
-   "h": "d237ae9d0a7a",
-   "quand": "2026-11-15T08:48:37+00:00"
-  },
-  "2026-11-22 19:00|plan|texte facebook": {
-   "h": "f60c1dd67221",
-   "quand": "2026-11-15T08:48:37+00:00"
+   "h": "c21531aa4047",
+   "quand": "2026-11-15T08:53:53+00:00"
   },
   "2026-11-20 19:00|brief:boulangerie-classement-bordeaux|accroche dite A": {
-   "h": "992c4814b4e4",
-   "quand": "2026-11-15T08:48:37+00:00"
+   "h": "6ac2deaaf6a0",
+   "quand": "2026-11-15T08:53:53+00:00"
   },
   "2026-11-20 19:00|brief:boulangerie-classement-bordeaux|voix 2 (Bascule, dite)": {
    "h": "d31414f085e1",
@@ -768,6 +748,142 @@
   "2026-11-21 19:00|brief:plombier-swipe-appels-montpellier|voix 4 (Offre, dite)": {
    "h": "758c98a7c8dd",
    "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 19:00|plan|texte tiktok": {
+   "h": "57226c88f926",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-17 13:00|plan|texte linkedin": {
+   "h": "627af0be96e3",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-17 13:00|plan|visuel carte apres": {
+   "h": "701f560672aa",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-17 19:00|plan|texte tiktok": {
+   "h": "b9887f6669fa",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-17 19:00|plan|texte youtube": {
+   "h": "458695dc5f53",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-18 19:00|plan|accroche": {
+   "h": "cab3fff338b6",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-18 19:00|plan|tiktok_title": {
+   "h": "20f47f927b3b",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-18 19:00|plan|texte tiktok": {
+   "h": "002e81ad055e",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-19 13:00|plan|visuel slide 3 texte": {
+   "h": "ee8de83b3d4c",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-19 19:00|plan|premier_commentaire": {
+   "h": "a2fa0be51b61",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-19 19:00|plan|texte tiktok": {
+   "h": "3a0442555bfa",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-19 19:00|plan|texte instagram": {
+   "h": "7129182fef70",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-19 19:00|plan|texte youtube": {
+   "h": "ee59ac5c5250",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-19 19:00|plan|texte facebook": {
+   "h": "6558dfae19c7",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-21 12:30|plan|tiktok_title": {
+   "h": "592f26f62f73",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-21 12:30|plan|texte tiktok": {
+   "h": "a67b32ac70a3",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-21 13:00|plan|visuel point 3": {
+   "h": "9e862e4af29f",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-21 19:00|plan|texte tiktok": {
+   "h": "7623b28b246a",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-22 13:00|plan|visuel slide 2 titre": {
+   "h": "3177ba90b885",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-22 19:00|plan|premier_commentaire": {
+   "h": "a9d373278a8f",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-18 19:00|brief:autoecole-swipe-appels-caen|accroche A": {
+   "h": "3cc1b239d99f",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-20 19:00|brief:boulangerie-classement-bordeaux|accroche A": {
+   "h": "2821f2d7cf8d",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-20 19:00|brief:boulangerie-classement-bordeaux|voix 1 (Probleme, dite)": {
+   "h": "75600e214d69",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-22 19:00|brief:coiffeuse-duel-rennes|accroche B": {
+   "h": "e063089605da",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-22 19:00|brief:coiffeuse-duel-rennes|valeur": {
+   "h": "ebd1fc37f0b7",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-22 19:00|brief:coiffeuse-duel-rennes|voix 1 (Probleme, dite)": {
+   "h": "0cf3e4dd5cda",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-22 19:00|brief:coiffeuse-duel-rennes|voix 2 (Bascule, dite)": {
+   "h": "f33cf90a3312",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-22 19:00|brief:coiffeuse-duel-rennes|voix 3 (Bascule, dite)": {
+   "h": "79d6b929379f",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-22 19:00|brief:coiffeuse-duel-rennes|voix 4 (Offre, dite)": {
+   "h": "1a7ab56bb426",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-19 19:00|brief:electricien-soirees-saint-brieuc|valeur": {
+   "h": "dd452a0010dd",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-16 19:00|brief:garage-soiree-avis-angers|valeur": {
+   "h": "da1741ff7baf",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-21 19:00|brief:plombier-swipe-appels-montpellier|accroche A": {
+   "h": "b9475023bc51",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-17 19:00|brief:serrurier-duel-tours|voix 1 (Probleme, dite)": {
+   "h": "341db53e54b1",
+   "quand": "2026-11-15T08:53:53+00:00"
+  },
+  "2026-11-17 19:00|brief:serrurier-duel-tours|voix 3 (Bascule, dite)": {
+   "h": "a34065c219d3",
+   "quand": "2026-11-15T08:53:53+00:00"
   }
  }
 }
