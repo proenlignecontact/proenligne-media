@@ -1,0 +1,31 @@
+{
+ "empreinte": "287b6c1bf314db57",
+ "verdicts": [
+  {
+   "id": "e442f8c",
+   "verdict": "ok"
+  },
+  {
+   "id": "ea7a83c",
+   "verdict": "ok"
+  },
+  {
+   "id": "e33a317",
+   "verdict": "ok"
+  },
+  {
+   "id": "e6f4ab1",
+   "verdict": "ok"
+  },
+  {
+   "id": "ead0f5a",
+   "verdict": "refuse",
+   "motif": "Critère 1, « la fiche Google vous retient ? » est ambigu à la première lecture et à l'écoute, on peut comprendre « elle retient votre attention » au lieu de « elle vous garde debout tard le soir ».",
+   "proposition": "Électricien à Saint-Brieuc, encore sur votre *fiche Google* ?"
+  },
+  {
+   "id": "e79ad36",
+   "verdict": "ok"
+  }
+ ]
+}

@@ -328,6 +328,10 @@ T('2026-11-22', '19:00', 'textes.facebook', "Coiffeuse à Rennes, le salon d'à 
 T('2026-11-18', '19:00', 'premier_commentaire', "Pour démarrer votre fiche Google, deux photos suffisent. Photographiez la voiture-école devant l'agence, puis le moniteur avec un élève qui vient d'avoir son permis, si l'élève est d'accord.")  # e442f8c
 T('2026-11-22', '19:00', 'textes.tiktok', "Coiffeuse à Rennes, le salon d'à côté montre ses coupes sur sa fiche Google. Et vous ?\nSur Google Maps, chaque salon a sa fiche Google, avec la note, les photos et les avis. Une cliente qui compare s'arrête souvent sur le salon qui montre son travail de la semaine.\n\n#FicheGoogle #Coiffeuse #Rennes\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio.")  # ea7a83c
 
+# ───────── Corrections après la relecture, passe 4 ─────────
+
+# ───────── Corrections après la relecture, passe 5 ─────────
+
 C.sort(key=lambda c: (c['date'], c['creneau_nominal']))
 p = os.path.join(ICI, f'{LUNDI}.json')
 ancien = {}

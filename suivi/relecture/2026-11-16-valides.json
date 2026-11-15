@@ -924,6 +924,30 @@
   "2026-11-16 19:00|brief:garage-soiree-avis-angers|accroche B": {
    "h": "d37135116e33",
    "quand": "2026-11-15T08:56:58+00:00"
+  },
+  "2026-11-18 19:00|plan|premier_commentaire": {
+   "h": "6c3026f03a31",
+   "quand": "2026-11-15T08:58:29+00:00"
+  },
+  "2026-11-22 19:00|plan|texte tiktok": {
+   "h": "74a6b7eb76ef",
+   "quand": "2026-11-15T08:58:29+00:00"
+  },
+  "2026-11-20 19:00|brief:boulangerie-classement-bordeaux|accroche dite B": {
+   "h": "7950d75030f1",
+   "quand": "2026-11-15T08:58:29+00:00"
+  },
+  "2026-11-22 19:00|brief:coiffeuse-duel-rennes|accroche A": {
+   "h": "b195fec92516",
+   "quand": "2026-11-15T08:58:29+00:00"
+  },
+  "2026-11-19 19:00|brief:electricien-soirees-saint-brieuc|voix 2 (Bascule, dite)": {
+   "h": "b99a7a716214",
+   "quand": "2026-11-15T08:58:29+00:00"
+  },
+  "2026-11-19 19:00|brief:electricien-soirees-saint-brieuc|accroche B": {
+   "h": "06a5bb1e9f31",
+   "quand": "2026-11-15T08:59:57+00:00"
   }
  }
 }

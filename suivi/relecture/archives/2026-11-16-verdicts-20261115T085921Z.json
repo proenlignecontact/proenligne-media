@@ -1,0 +1,11 @@
+{
+ "empreinte": "b48ec6918314b178",
+ "verdicts": [
+  {
+   "id": "ead0f5a",
+   "verdict": "refuse",
+   "motif": "Critère 1, la phrase n'a pas de verbe (« encore sur votre fiche Google ? ») et se lit comme une ellipse, surtout à voix haute.",
+   "proposition": "Électricien à Saint-Brieuc, la *fiche Google* vous retient ?"
+  }
+ ]
+}
