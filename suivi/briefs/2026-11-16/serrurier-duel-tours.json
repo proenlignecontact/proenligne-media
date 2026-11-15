@@ -14,15 +14,15 @@
  "voix": [
   {
    "scene": "Probleme",
-   "texte": "Sa fiche Google répond aux avis. La vôtre, non."
+   "texte": "L'autre fiche Google répond aux avis. Pas la vôtre."
   },
   {
    "scene": "Bascule",
-   "texte": "Pro en ligne répond à chacun de vos avis."
+   "texte": "Pro en ligne répond à vos avis."
   },
   {
    "scene": "Bascule",
-   "texte": "Et le client bloqué dehors vous appelle, vous.",
+   "texte": "Le client bloqué dehors voit que vous êtes là.",
    "ancre": 3.0
   },
   {

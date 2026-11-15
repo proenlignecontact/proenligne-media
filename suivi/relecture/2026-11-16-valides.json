@@ -1,0 +1,773 @@
+{
+ "lundi": "2026-11-16",
+ "valides": {
+  "2026-11-16 13:00|plan|accroche": {
+   "h": "2d6dcd418811",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 13:00|plan|premier_commentaire": {
+   "h": "bfb12ca31b56",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 13:00|plan|texte instagram": {
+   "h": "f0febfc75d55",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 13:00|plan|visuel surtitre": {
+   "h": "c6cf6364dfba",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 13:00|plan|visuel titre": {
+   "h": "92101fa8a35a",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 13:00|plan|visuel question": {
+   "h": "08a3a69f9176",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 13:00|plan|visuel point 1": {
+   "h": "2a9ab41755e9",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 13:00|plan|visuel point 2": {
+   "h": "7cc55030dd89",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 13:00|plan|visuel point 3": {
+   "h": "fe55206b8bcf",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 13:00|plan|visuel slide 2 titre": {
+   "h": "79da1356db4e",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 13:00|plan|visuel slide 2 texte": {
+   "h": "5733981d440c",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 13:00|plan|visuel slide 3 titre": {
+   "h": "2eb4a1922902",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 13:00|plan|visuel slide 3 texte": {
+   "h": "377e6f306324",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 13:00|plan|visuel slide 4 titre": {
+   "h": "42e3b234d6fe",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 13:00|plan|visuel slide 4 texte": {
+   "h": "9f5ab0846f30",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 13:00|plan|visuel slide 5 titre": {
+   "h": "a185956a0cf3",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 13:00|plan|visuel slide 5 texte": {
+   "h": "395db76eb8d5",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 19:00|plan|accroche": {
+   "h": "ede6b174e649",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 19:00|plan|premier_commentaire": {
+   "h": "6158e3233ebd",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 19:00|plan|youtube_title": {
+   "h": "e7f57cbc0df4",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 19:00|plan|tiktok_title": {
+   "h": "49170ff700b1",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 19:00|plan|texte instagram": {
+   "h": "921b005b9d88",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 19:00|plan|texte youtube": {
+   "h": "a1003fa26c0a",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 19:00|plan|texte facebook": {
+   "h": "bafe928acfe0",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 13:00|plan|accroche": {
+   "h": "09bd065cbb37",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 13:00|plan|premier_commentaire": {
+   "h": "a4e8db24ee13",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 13:00|plan|texte instagram": {
+   "h": "26c06f9c7ef1",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 13:00|plan|visuel surtitre": {
+   "h": "a4a21cb7ec10",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 13:00|plan|visuel titre": {
+   "h": "87961589ac17",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 13:00|plan|visuel question": {
+   "h": "7d9da1972c34",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 13:00|plan|visuel carte enseigne": {
+   "h": "72c106540722",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 13:00|plan|visuel carte metier": {
+   "h": "8ef69ad3c131",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 13:00|plan|visuel carte avant": {
+   "h": "b721926ffe81",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 13:00|plan|visuel slide 2 titre": {
+   "h": "acca7f9118d9",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 13:00|plan|visuel slide 2 texte": {
+   "h": "e046b1d6570b",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 13:00|plan|visuel slide 3 titre": {
+   "h": "531fc58b3425",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 13:00|plan|visuel slide 3 texte": {
+   "h": "500e9f603900",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 13:00|plan|visuel slide 4 titre": {
+   "h": "398f3a6cc532",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 13:00|plan|visuel slide 4 texte": {
+   "h": "a786bd91bcbc",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 13:00|plan|visuel slide 5 titre": {
+   "h": "570344e0ad7f",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 13:00|plan|visuel slide 5 texte": {
+   "h": "993d2cde037b",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 19:00|plan|accroche": {
+   "h": "c0132da8872b",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 19:00|plan|premier_commentaire": {
+   "h": "3210ce3d5220",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 19:00|plan|youtube_title": {
+   "h": "d7229d167ee7",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 19:00|plan|tiktok_title": {
+   "h": "c0132da8872b",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 19:00|plan|texte instagram": {
+   "h": "4b3491e15e38",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 19:00|plan|texte facebook": {
+   "h": "3edbd7f64ead",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 12:30|plan|accroche": {
+   "h": "6357449905e2",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 12:30|plan|premier_commentaire": {
+   "h": "f417b171ed76",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 12:30|plan|tiktok_title": {
+   "h": "de1498b277ff",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 12:30|plan|texte tiktok": {
+   "h": "615adadc8c45",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 19:00|brief:garage-soiree-avis-angers|accroche A": {
+   "h": "ecdc6ced6935",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 19:00|brief:garage-soiree-avis-angers|voix 1 (Probleme, dite)": {
+   "h": "8512dbd8be80",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 19:00|brief:garage-soiree-avis-angers|voix 2 (Bascule, dite)": {
+   "h": "5b72efb3240a",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 19:00|brief:garage-soiree-avis-angers|voix 3 (Bascule, dite)": {
+   "h": "e326593d9ca6",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-16 19:00|brief:garage-soiree-avis-angers|voix 4 (Offre, dite)": {
+   "h": "286220c51666",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 19:00|brief:serrurier-duel-tours|accroche A": {
+   "h": "f72041dd2c55",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 19:00|brief:serrurier-duel-tours|accroche B": {
+   "h": "b61acea2b24f",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 19:00|brief:serrurier-duel-tours|voix 2 (Bascule, dite)": {
+   "h": "67a0b626320a",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-17 19:00|brief:serrurier-duel-tours|voix 4 (Offre, dite)": {
+   "h": "0c29505704b4",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-18 13:00|plan|accroche": {
+   "h": "06bef91c935e",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-18 13:00|plan|premier_commentaire": {
+   "h": "ff2e120a76e1",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-18 13:00|plan|visuel surtitre": {
+   "h": "bc64d3e0700f",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-18 13:00|plan|visuel titre": {
+   "h": "3961581cd98f",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-18 13:00|plan|visuel question": {
+   "h": "48fd04698573",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-18 13:00|plan|visuel réponse 1": {
+   "h": "9bacbb6a59d9",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-18 13:00|plan|visuel réponse 2": {
+   "h": "ca7484a27c52",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-18 13:00|plan|visuel réponse 3": {
+   "h": "a9a98cb3d4be",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-18 13:00|plan|visuel slide 2 titre": {
+   "h": "b524c8aceba3",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-18 13:00|plan|visuel slide 2 texte": {
+   "h": "6242e4b7b308",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-18 13:00|plan|visuel slide 3 titre": {
+   "h": "1641e86c0ea0",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-18 13:00|plan|visuel slide 3 texte": {
+   "h": "320ec8a4393a",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-18 13:00|plan|visuel slide 4 titre": {
+   "h": "cc648048a38e",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-18 13:00|plan|visuel slide 4 texte": {
+   "h": "13fe772f95b3",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-18 13:00|plan|visuel slide 5 titre": {
+   "h": "3ef8fccbe632",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-18 13:00|plan|visuel slide 5 texte": {
+   "h": "4ed7b685ddc6",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-18 19:00|plan|youtube_title": {
+   "h": "522e1f70c566",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-18 19:00|plan|texte youtube": {
+   "h": "e2358c17519b",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 13:00|plan|accroche": {
+   "h": "6ab3fa1e61c8",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 13:00|plan|premier_commentaire": {
+   "h": "29d4ddd3e288",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 13:00|plan|texte instagram": {
+   "h": "2e3af71daa15",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 13:00|plan|texte linkedin": {
+   "h": "698eccd97166",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 13:00|plan|visuel surtitre": {
+   "h": "b7b52c1f7e18",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 13:00|plan|visuel titre": {
+   "h": "6ce6a17557aa",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 13:00|plan|visuel question": {
+   "h": "2d1b919dd361",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 13:00|plan|visuel point 1": {
+   "h": "d23245ffeb08",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 13:00|plan|visuel point 2": {
+   "h": "88612c547d46",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 13:00|plan|visuel point 3": {
+   "h": "2e88ee0bd6cb",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 13:00|plan|visuel slide 2 titre": {
+   "h": "73971762ae6c",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 13:00|plan|visuel slide 2 texte": {
+   "h": "6b07fff202eb",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 13:00|plan|visuel slide 3 titre": {
+   "h": "2ede6a347753",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 13:00|plan|visuel slide 4 titre": {
+   "h": "fe1cd00156cf",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 13:00|plan|visuel slide 4 texte": {
+   "h": "e4f078a62644",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 13:00|plan|visuel slide 5 titre": {
+   "h": "89444156dcc6",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 13:00|plan|visuel slide 5 texte": {
+   "h": "dcd50cf7f30c",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 19:00|plan|accroche": {
+   "h": "09cfb65b3c62",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 19:00|plan|youtube_title": {
+   "h": "64d83a8785bb",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 19:00|plan|tiktok_title": {
+   "h": "f4b66ed292c6",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 12:30|plan|accroche": {
+   "h": "dde0f0943b7a",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 12:30|plan|premier_commentaire": {
+   "h": "845c0cc1cf6c",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-18 19:00|brief:autoecole-swipe-appels-caen|accroche B": {
+   "h": "31f085d58077",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-18 19:00|brief:autoecole-swipe-appels-caen|voix 1 (Probleme, dite)": {
+   "h": "b89205702bd9",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-18 19:00|brief:autoecole-swipe-appels-caen|voix 2 (Bascule, dite)": {
+   "h": "628c8ce238da",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-18 19:00|brief:autoecole-swipe-appels-caen|voix 3 (Bascule, dite)": {
+   "h": "ee19e963d180",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-18 19:00|brief:autoecole-swipe-appels-caen|voix 4 (Offre, dite)": {
+   "h": "b548bb4b5b11",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 19:00|brief:electricien-soirees-saint-brieuc|accroche A": {
+   "h": "300a6af504e7",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 19:00|brief:electricien-soirees-saint-brieuc|voix 1 (Probleme, dite)": {
+   "h": "bc5cbde1d03b",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 19:00|brief:electricien-soirees-saint-brieuc|voix 3 (Bascule, dite)": {
+   "h": "0adbb648a2c0",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-19 19:00|brief:electricien-soirees-saint-brieuc|voix 4 (Offre, dite)": {
+   "h": "762a3c1cf589",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 13:00|plan|accroche": {
+   "h": "14d3b145b91e",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 13:00|plan|premier_commentaire": {
+   "h": "6d2a3c6a13eb",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 13:00|plan|texte instagram": {
+   "h": "b2ad4e1d2f33",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 13:00|plan|visuel surtitre": {
+   "h": "07c4fa52b3c1",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 13:00|plan|visuel titre": {
+   "h": "11dcf7adb064",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 13:00|plan|visuel question": {
+   "h": "28ea3dc073b6",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 13:00|plan|visuel réponse 1": {
+   "h": "45b69071b513",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 13:00|plan|visuel réponse 2": {
+   "h": "2a2460c42c07",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 13:00|plan|visuel réponse 3": {
+   "h": "8e6e0d2a35f3",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 13:00|plan|visuel slide 2 titre": {
+   "h": "d83084c054d8",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 13:00|plan|visuel slide 2 texte": {
+   "h": "05820d99ec3c",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 13:00|plan|visuel slide 3 titre": {
+   "h": "117d3a955821",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 13:00|plan|visuel slide 3 texte": {
+   "h": "f076e84caa48",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 13:00|plan|visuel slide 4 titre": {
+   "h": "ad78b6b4a8f2",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 13:00|plan|visuel slide 4 texte": {
+   "h": "1b65968066d8",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 13:00|plan|visuel slide 5 titre": {
+   "h": "d59bac5f0dcf",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 13:00|plan|visuel slide 5 texte": {
+   "h": "c69946a64a34",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 19:00|plan|accroche": {
+   "h": "992c4814b4e4",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 19:00|plan|premier_commentaire": {
+   "h": "edcb9b78e264",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 19:00|plan|youtube_title": {
+   "h": "c66be2fea7e3",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 19:00|plan|tiktok_title": {
+   "h": "992c4814b4e4",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 19:00|plan|texte tiktok": {
+   "h": "c47e0e794cf4",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 19:00|plan|texte instagram": {
+   "h": "6188074f7be8",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 19:00|plan|texte youtube": {
+   "h": "91b033c9d403",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 19:00|plan|texte facebook": {
+   "h": "1d26ea33c138",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 13:00|plan|accroche": {
+   "h": "ef51609090dd",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 13:00|plan|premier_commentaire": {
+   "h": "6398f43ad1a4",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 13:00|plan|texte instagram": {
+   "h": "b76d934e6d05",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 13:00|plan|visuel surtitre": {
+   "h": "1eec298aec15",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 13:00|plan|visuel titre": {
+   "h": "943f3a0513e5",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 13:00|plan|visuel point 1": {
+   "h": "e0fceab7b60b",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 13:00|plan|visuel point 2": {
+   "h": "53b80ab8abf6",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 13:00|plan|visuel slide 2 titre": {
+   "h": "d2e4226ec337",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 13:00|plan|visuel slide 2 texte": {
+   "h": "f7ef6671d112",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 13:00|plan|visuel slide 3 titre": {
+   "h": "2d558e8825fa",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 13:00|plan|visuel slide 4 titre": {
+   "h": "d912cfaad58f",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 13:00|plan|visuel slide 4 texte": {
+   "h": "dfd032829459",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 13:00|plan|visuel slide 5 titre": {
+   "h": "ceca8e3b5c77",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 13:00|plan|visuel slide 5 texte": {
+   "h": "882ee2bfae1c",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 19:00|plan|accroche": {
+   "h": "2b04ec8b86f1",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 19:00|plan|premier_commentaire": {
+   "h": "96b9104a686b",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 19:00|plan|youtube_title": {
+   "h": "fd651921718d",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 19:00|plan|tiktok_title": {
+   "h": "819ab2fb3315",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 19:00|plan|texte instagram": {
+   "h": "7ede9205b435",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 19:00|plan|texte youtube": {
+   "h": "dd59c7120050",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 19:00|plan|texte facebook": {
+   "h": "f7ede9c1edc4",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 13:00|plan|accroche": {
+   "h": "58d0ec0e679c",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 13:00|plan|premier_commentaire": {
+   "h": "d6bc57cf4495",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 13:00|plan|texte instagram": {
+   "h": "89b3cb2b3de5",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 13:00|plan|visuel surtitre": {
+   "h": "d1a2080951d9",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 13:00|plan|visuel titre": {
+   "h": "5aab971a340f",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 13:00|plan|visuel question": {
+   "h": "9569c3cfecd6",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 13:00|plan|visuel carte enseigne": {
+   "h": "582c28e2fe54",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 13:00|plan|visuel carte metier": {
+   "h": "b15f62535196",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 13:00|plan|visuel carte avant": {
+   "h": "b4e7d9ea9f3b",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 13:00|plan|visuel carte apres": {
+   "h": "0a63c82ae6d0",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 13:00|plan|visuel slide 2 texte": {
+   "h": "a554eec364d0",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 13:00|plan|visuel slide 3 titre": {
+   "h": "a3cafe64cc88",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 13:00|plan|visuel slide 3 texte": {
+   "h": "d259a9c97f3e",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 13:00|plan|visuel slide 4 titre": {
+   "h": "0ade09f86bac",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 13:00|plan|visuel slide 4 texte": {
+   "h": "0cc08d51ce91",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 13:00|plan|visuel slide 5 titre": {
+   "h": "7eb07a411647",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 13:00|plan|visuel slide 5 texte": {
+   "h": "cc35a66b70e5",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 19:00|plan|accroche": {
+   "h": "c39dc4db34db",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 19:00|plan|youtube_title": {
+   "h": "ee0c578c1595",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 19:00|plan|tiktok_title": {
+   "h": "c39dc4db34db",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 19:00|plan|texte tiktok": {
+   "h": "c98e7e317a4a",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 19:00|plan|texte instagram": {
+   "h": "2b532ddb2931",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 19:00|plan|texte youtube": {
+   "h": "d237ae9d0a7a",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 19:00|plan|texte facebook": {
+   "h": "f60c1dd67221",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 19:00|brief:boulangerie-classement-bordeaux|accroche dite A": {
+   "h": "992c4814b4e4",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 19:00|brief:boulangerie-classement-bordeaux|voix 2 (Bascule, dite)": {
+   "h": "d31414f085e1",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 19:00|brief:boulangerie-classement-bordeaux|voix 3 (Bascule, dite)": {
+   "h": "5d0b45fa1121",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-20 19:00|brief:boulangerie-classement-bordeaux|voix 4 (Offre, dite)": {
+   "h": "fdc3de1bd827",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 19:00|brief:coiffeuse-duel-le-mans|valeur": {
+   "h": "ebd1fc37f0b7",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 19:00|brief:coiffeuse-duel-le-mans|voix 2 (Bascule, dite)": {
+   "h": "f33cf90a3312",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 19:00|brief:coiffeuse-duel-le-mans|voix 3 (Bascule, dite)": {
+   "h": "79d6b929379f",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-22 19:00|brief:coiffeuse-duel-le-mans|voix 4 (Offre, dite)": {
+   "h": "1a7ab56bb426",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 19:00|brief:plombier-swipe-appels-montpellier|accroche B": {
+   "h": "ecaa303542ef",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 19:00|brief:plombier-swipe-appels-montpellier|voix 1 (Probleme, dite)": {
+   "h": "048386bc8c4d",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 19:00|brief:plombier-swipe-appels-montpellier|voix 2 (Bascule, dite)": {
+   "h": "b8a13c57ed2a",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 19:00|brief:plombier-swipe-appels-montpellier|voix 3 (Bascule, dite)": {
+   "h": "491df99ac949",
+   "quand": "2026-11-15T08:48:37+00:00"
+  },
+  "2026-11-21 19:00|brief:plombier-swipe-appels-montpellier|voix 4 (Offre, dite)": {
+   "h": "758c98a7c8dd",
+   "quand": "2026-11-15T08:48:37+00:00"
+  }
+ }
+}

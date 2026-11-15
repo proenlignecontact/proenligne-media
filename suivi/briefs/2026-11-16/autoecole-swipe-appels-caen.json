@@ -7,13 +7,13 @@
  "ambiance": 0,
  "entreprise": "",
  "accroches": [
-  "Auto-école à Caen, en pleine leçon, on passe votre fiche Google.",
+  "Auto-école à Caen, pendant vos leçons, un futur élève passe votre fiche Google.",
   "Auto-école à Caen, un futur élève compare les fiches Google avant d'appeler."
  ],
  "voix": [
   {
    "scene": "Probleme",
-   "texte": "Pas de photo des voitures, on passe."
+   "texte": "Sans photo des voitures, on passe."
   },
   {
    "scene": "Bascule",
@@ -21,7 +21,7 @@
   },
   {
    "scene": "Bascule",
-   "texte": "Et ce coup-ci, c'est vous qu'on appelle.",
+   "texte": "Cette fois, c'est vous qu'on appelle.",
    "ancre": 3.0
   },
   {

@@ -8,17 +8,17 @@
  "entreprise": "",
  "lieu": "",
  "accroches": [
-  "Votre pain, sur *Google ?*",
-  "Et vous, sur *Google ?*"
+  "Votre *fiche Google* plaît ?",
+  "Votre *fiche Google* vit ?"
  ],
  "accroches_dites": [
-  "Boulangerie à Bordeaux, votre pain est sur Google ?",
-  "On cherche une boulangerie à Bordeaux. Et vous, sur Google ?"
+  "Boulangerie à Bordeaux, votre fiche Google donne envie d'entrer ?",
+  "On cherche une boulangerie à Bordeaux. Votre fiche Google vit-elle ?"
  ],
  "voix": [
   {
    "scene": "Probleme",
-   "texte": "On entre souvent dans la première qu'on voit."
+   "texte": "On choisit souvent la boulangerie qui donne envie."
   },
   {
    "scene": "Bascule",

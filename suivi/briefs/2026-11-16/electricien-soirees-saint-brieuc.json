@@ -5,10 +5,10 @@
  "metier": "électricien",
  "ville": "Saint-Brieuc",
  "ambiance": 1,
- "valeur": "23h05",
+ "valeur": "23 h",
  "accroches": [
   "Électricien à Saint-Brieuc, la *fiche Google* vous attend ?",
-  "Électricien à Saint-Brieuc, *Google* vous garde tard ?"
+  "Électricien à Saint-Brieuc, votre *fiche Google* finit tard ?"
  ],
  "voix": [
   {
@@ -17,7 +17,7 @@
   },
   {
    "scene": "Bascule",
-   "texte": "Pro en ligne publie et répond en journée."
+   "texte": "Pro en ligne publie et répond à votre place."
   },
   {
    "scene": "Bascule",
