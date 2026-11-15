@@ -1,0 +1,163 @@
+[
+ {
+  "slug": "supp-macon-semaine-lorient",
+  "champ": "accroche A",
+  "critere": "1 (compréhensible seul, la phrase a un sujet et un verbe)",
+  "motif": "« combien de soirées pour la fiche Google ? » n'a pas de verbe. Les règles éditoriales demandent que chaque accroche ait un sujet et un verbe, et une formule semblable a été refusée la semaine dernière.",
+  "proposition": "Maçon à Lorient, vos soirées passent sur la *fiche Google ?*"
+ },
+ {
+  "slug": "supp-macon-semaine-lorient",
+  "champ": "tiktok_title",
+  "critere": "1 (compréhensible seul, la phrase a un sujet et un verbe)",
+  "motif": "Le titre reprend la même question sans verbe (« combien de soirées pour votre fiche Google ? »).",
+  "proposition": "Maçon à Lorient, combien de soirées passez-vous sur votre fiche Google ?"
+ },
+ {
+  "slug": "supp-macon-semaine-lorient",
+  "champ": "youtube_title",
+  "critere": "1 (compréhensible seul, la phrase a un sujet et un verbe)",
+  "motif": "La question « combien de soirées par semaine pour votre fiche Google ? » n'a pas de verbe.",
+  "proposition": "Maçon à Lorient, combien de soirées par semaine passez-vous sur votre fiche Google ?"
+ },
+ {
+  "slug": "supp-macon-semaine-lorient",
+  "champ": "textes.tiktok",
+  "critere": "1 (compréhensible seul, la phrase a un sujet et un verbe)",
+  "motif": "La première ligne de la légende est la question sans verbe de l'accroche.",
+  "proposition": "Maçon à Lorient, combien de soirées passez-vous sur votre fiche Google ?\nAprès le chantier, il reste les photos à trier et à publier, les avis à lire. Tout ça finit souvent le soir.\n\n#FicheGoogle #Macon #Lorient\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio."
+ },
+ {
+  "slug": "supp-macon-semaine-lorient",
+  "champ": "textes.x",
+  "critere": "1 (compréhensible seul, la phrase a un sujet et un verbe)",
+  "motif": "Le texte s'ouvre sur la question sans verbe de l'accroche.",
+  "proposition": "Maçon à Lorient, combien de soirées passez-vous sur votre fiche Google ? Photos du chantier, avis à lire… Proenligne s'en charge pendant vos chantiers. Le soir, la truelle reste rangée. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Macon"
+ },
+ {
+  "slug": "supp-macon-semaine-lorient",
+  "champ": "textes.facebook",
+  "critere": "1 et 10 (compréhensible seul, français)",
+  "motif": "La question finale « Le soir, vous la faites plutôt tout de suite, ou le week-end ? » ne tient pas. « la » ne renvoie à rien de féminin (« ce travail »), et la phrase commence par « le soir » pour proposer ensuite « tout de suite ou le week-end ». On ne sait pas quoi répondre.",
+  "proposition": "Maçon à Lorient, votre fiche Google vous prend-elle vos soirées ?\n\nSur Google Maps, chaque maçon a sa fiche Google, avec la note, les photos et le bouton Appeler. Pour qu'elle montre vos chantiers, il faut publier, et répondre aux avis.\n\nDans une petite entreprise de maçonnerie, ce travail tombe presque toujours le soir, après la journée sur le chantier.\n\nVous vous en occupez plutôt le soir même, ou le week-end ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Macon #Lorient #ReferencementLocal"
+ },
+ {
+  "slug": "supp-menuisier-cinetique-bordeaux",
+  "champ": "accroche A",
+  "critere": "1 (compréhensible seul, la phrase a un sujet et un verbe)",
+  "motif": "« encore sur la fiche Google ? » est une phrase sans sujet ni verbe. Les règles éditoriales l'exigent pour chaque accroche, même lue avec la valeur « 22 h ».",
+  "proposition": "Menuisier à Bordeaux, vous êtes encore sur la *fiche Google ?*"
+ },
+ {
+  "slug": "supp-menuisier-cinetique-bordeaux",
+  "champ": "tiktok_title",
+  "critere": "1 (compréhensible seul, la phrase a un sujet et un verbe)",
+  "motif": "Le titre est la même question sans sujet ni verbe.",
+  "proposition": "Menuisier à Bordeaux, vous êtes encore sur votre fiche Google à 22 h ?"
+ },
+ {
+  "slug": "supp-menuisier-cinetique-bordeaux",
+  "champ": "youtube_title",
+  "critere": "1 (compréhensible seul, la phrase a un sujet et un verbe)",
+  "motif": "Le titre est la même question sans sujet ni verbe.",
+  "proposition": "Menuisier à Bordeaux, vous êtes encore sur votre fiche Google à 22 h ?"
+ },
+ {
+  "slug": "supp-menuisier-cinetique-bordeaux",
+  "champ": "textes.tiktok",
+  "critere": "1 (compréhensible seul, la phrase a un sujet et un verbe)",
+  "motif": "La première ligne est la question sans sujet ni verbe de l'accroche (« encore sur votre fiche Google à 22 h ? »).",
+  "proposition": "Menuisier à Bordeaux, vous êtes encore sur votre fiche Google à 22 h ?\nL'atelier est balayé, mais il reste les photos et les avis sur votre fiche Google, celle que vos clients voient sur Google Maps.\n\n#FicheGoogle #Menuisier #Bordeaux\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio."
+ },
+ {
+  "slug": "supp-menuisier-cinetique-bordeaux",
+  "champ": "textes.instagram",
+  "critere": "1 (compréhensible seul, la phrase a un sujet et un verbe)",
+  "motif": "La première ligne est la question sans sujet ni verbe de l'accroche (« encore sur votre fiche Google à 22 h ? »).",
+  "proposition": "Menuisier à Bordeaux, vous êtes encore sur votre fiche Google à 22 h ?\n\nL'atelier est propre, les machines sont coupées. À la maison, vous ouvrez votre fiche Google, l'encadré qu'un client regarde sur Google Maps avant de vous demander un placard ou un escalier.\n\nIl faudrait publier la photo de l'escalier livré cette semaine, et remercier le client pour son avis. Ça attendra encore un soir.\n\nProenligne s'en occupe en journée, avec une photo le lundi, une publication le jeudi et une réponse à chaque avis. Le soir, vous dînez enfin à votre table.\n\nLa dernière réalisation que vous avez publiée, c'était quoi ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Menuisier #Bordeaux #ReferencementLocal"
+ },
+ {
+  "slug": "supp-menuisier-cinetique-bordeaux",
+  "champ": "textes.youtube",
+  "critere": "1 (compréhensible seul, la phrase a un sujet et un verbe)",
+  "motif": "La première ligne est la question sans sujet ni verbe de l'accroche (« encore sur votre fiche Google à 22 h ? »).",
+  "proposition": "Menuisier à Bordeaux, vous êtes encore sur votre fiche Google à 22 h ?\n\nLa fiche Google, c'est l'encadré qui présente votre atelier sur Google et Google Maps, avec vos photos, vos avis et votre numéro. La tenir à jour finit souvent le soir.\n\nProenligne publie une photo le lundi, une publication le jeudi, et répond à chaque avis, pendant que vous êtes à l'atelier.\n\nQuelle réalisation de l'année montreriez-vous en premier ?\n\n#FicheGoogle #Menuisier #Bordeaux #ReferencementLocal"
+ },
+ {
+  "slug": "supp-menuisier-cinetique-bordeaux",
+  "champ": "textes.x",
+  "critere": "1 (compréhensible seul, la phrase a un sujet et un verbe)",
+  "motif": "La première ligne est la question sans sujet ni verbe de l'accroche (« encore sur votre fiche Google à 22 h ? »).",
+  "proposition": "Menuisier à Bordeaux, vous êtes encore sur votre fiche Google à 22 h ? Photos, avis… Proenligne s'en occupe en journée. Le soir, vous dînez enfin à votre table. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Menuisier"
+ },
+ {
+  "slug": "supp-boulangerie-duel-saint-brieuc",
+  "champ": "accroche A",
+  "critere": "1 (compréhensible seul, la phrase a un sujet et un verbe)",
+  "motif": "« et la fiche Google d'en face ? » n'a pas de verbe et ne dit pas ce qu'on demande au boulanger. C'est une ellipse que les règles éditoriales refusent en accroche.",
+  "proposition": "Boulangerie à Saint-Brieuc, on compare les *fiches Google ?*"
+ },
+ {
+  "slug": "supp-boulangerie-duel-saint-brieuc",
+  "champ": "tiktok_title",
+  "critere": "1 (compréhensible seul, la phrase a un sujet et un verbe)",
+  "motif": "Le titre reprend la question sans verbe de l'accroche.",
+  "proposition": "Boulangerie à Saint-Brieuc, avez-vous vu la fiche Google d'en face ?"
+ },
+ {
+  "slug": "supp-boulangerie-duel-saint-brieuc",
+  "champ": "youtube_title",
+  "critere": "1 (compréhensible seul, la phrase a un sujet et un verbe)",
+  "motif": "« votre fiche Google face à celle d'en face » n'a pas de verbe, et la répétition « face à celle d'en face » fait buter.",
+  "proposition": "Boulangerie à Saint-Brieuc, la fiche Google d'en face montre sa vitrine, et la vôtre ?"
+ },
+ {
+  "slug": "supp-boulangerie-duel-saint-brieuc",
+  "champ": "textes.tiktok",
+  "critere": "1 (compréhensible seul, la phrase a un sujet et un verbe)",
+  "motif": "La première ligne est la question sans verbe de l'accroche.",
+  "proposition": "Boulangerie à Saint-Brieuc, avez-vous vu la fiche Google d'en face ?\nEn face, on voit la vitrine du matin sur sa fiche Google. Proenligne montre vos viennoiseries chaque semaine.\n\n#FicheGoogle #Boulangerie #SaintBrieuc\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio."
+ },
+ {
+  "slug": "supp-boulangerie-duel-saint-brieuc",
+  "champ": "textes.instagram",
+  "critere": "1 (compréhensible seul, la phrase a un sujet et un verbe)",
+  "motif": "La première ligne est la question sans verbe de l'accroche.",
+  "proposition": "Boulangerie à Saint-Brieuc, avez-vous vu la fiche Google d'en face ?\n\nSur Google Maps, chaque boulangerie a sa fiche Google, avec la note, les photos, les horaires et l'itinéraire. En face, on voit la vitrine du matin. Chez vous, on ne voit pas encore vos viennoiseries.\n\nAvec Proenligne, chaque semaine\n✅ une photo de votre vitrine ou de vos pains est publiée le lundi\n✅ une publication paraît le jeudi\n✅ chaque avis reçoit une réponse, et vous validez celles aux avis négatifs\n\nEssayez Proenligne gratuitement, 30 jours offerts, sans engagement. Lien en bio.\n\n#FicheGoogle #Boulangerie #SaintBrieuc #ReferencementLocal"
+ },
+ {
+  "slug": "supp-boulangerie-duel-saint-brieuc",
+  "champ": "textes.youtube",
+  "critere": "1 (compréhensible seul, la phrase a un sujet et un verbe)",
+  "motif": "La première ligne est la question sans verbe de l'accroche.",
+  "proposition": "Boulangerie à Saint-Brieuc, avez-vous vu la fiche Google d'en face ?\n\nCherchez « boulangerie » dans votre ville. Les encadrés avec une note et des photos sont des fiches Google. Celle qui montre sa vitrine du matin donne envie d'entrer.\n\nProenligne publie une photo de vos viennoiseries le lundi, une publication le jeudi, et répond à chaque avis. Essayez gratuitement, 30 jours offerts, sans engagement.\n\n#FicheGoogle #Boulangerie #SaintBrieuc #ReferencementLocal"
+ },
+ {
+  "slug": "supp-boulangerie-duel-saint-brieuc",
+  "champ": "textes.x",
+  "critere": "1 (compréhensible seul, la phrase a un sujet et un verbe)",
+  "motif": "Le texte s'ouvre sur la question sans verbe de l'accroche.",
+  "proposition": "Boulangerie à Saint-Brieuc, avez-vous vu la fiche Google d'en face ? Elle montre sa vitrine du matin. Proenligne montre vos viennoiseries chaque semaine et répond à vos avis. 30 jours offerts, sans engagement, lien en bio.\n\n#FicheGoogle"
+ },
+ {
+  "slug": "supp-pressing-swipe-angers",
+  "champ": "accroche B",
+  "critere": "1 et 2 (compréhensible seul, cohérence avec la voix)",
+  "motif": "Dans une vidéo où l'on fait glisser les fiches Google, « envie de passer » se comprend comme « passer à la suivante ». La voix dit juste après « on passe », dans le sens contraire. La même formule a été refusée la semaine dernière pour un swipe.",
+  "proposition": "Pressing à Angers, votre fiche Google donne-t-elle envie d'entrer ?"
+ },
+ {
+  "slug": "supp-pressing-swipe-angers",
+  "champ": "youtube_title",
+  "critere": "1 et 2 (compréhensible seul, cohérence avec la voix)",
+  "motif": "Le titre reprend « envie de passer », que la voix de la vidéo (« on passe ») contredit.",
+  "proposition": "Pressing à Angers, votre fiche Google donne-t-elle envie d'entrer ?"
+ },
+ {
+  "slug": "supp-pressing-swipe-angers",
+  "champ": "textes.facebook",
+  "critere": "1 (compréhensible seul)",
+  "motif": "Le texte emploie « passer » dans deux sens opposés, « envie de passer » à la première ligne puis « on passe au suivant » à la fin. Le lecteur ne sait plus si passer veut dire venir ou ignorer.",
+  "proposition": "Pressing à Angers, votre fiche Google donne-t-elle envie d'entrer ?\n\nCherchez « pressing » dans votre ville. Les encadrés avec une note, des photos et un itinéraire sont des fiches Google. On y vérifie surtout les horaires avant de se déplacer.\n\nUne fiche Google avec des horaires justes et une photo de la boutique donne envie de faire le détour. Sans cela, on passe au suivant.\n\nQuand avez-vous vérifié vos horaires sur votre fiche Google ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Pressing #Angers #ReferencementLocal"
+ }
+]
