@@ -1,0 +1,87 @@
+{
+ "empreinte": "52c42cbe14fdcfdc",
+ "verdicts": [
+  {
+   "id": "e5ec07f",
+   "verdict": "ok"
+  },
+  {
+   "id": "e442f8c",
+   "verdict": "refuse",
+   "critere": 1,
+   "motif": "Critère 1. « Pour commencer, deux photos suffisent » ne dit pas pour quoi faire (la fiche Google n'est pas nommée), et pour une auto-école « Prenez la voiture-école » se lit d'abord comme « conduisez-la », pas « photographiez-la ».",
+   "proposition": "Pour démarrer votre fiche Google, deux photos suffisent. Photographiez la voiture-école devant l'agence, puis le moniteur avec un élève qui vient d'avoir son permis, si l'élève est d'accord."
+  },
+  {
+   "id": "ec921f0",
+   "verdict": "ok"
+  },
+  {
+   "id": "e0f92ca",
+   "verdict": "ok"
+  },
+  {
+   "id": "e09a28b",
+   "verdict": "ok"
+  },
+  {
+   "id": "ea224ed",
+   "verdict": "ok"
+  },
+  {
+   "id": "e6dc8c3",
+   "verdict": "ok"
+  },
+  {
+   "id": "ea7a83c",
+   "verdict": "refuse",
+   "critere": 1,
+   "motif": "Critère 1. Référent incohérent, « Il publie » renvoie au salon puis « chez celle qui montre son travail » passe au féminin sans qu'on sache de qui on parle ; la phrase se relit pour être comprise.",
+   "proposition": "Coiffeuse à Rennes, le salon d'à côté montre ses coupes sur sa fiche Google. Et vous ?\nSur Google Maps, chaque salon a sa fiche Google, avec la note, les photos et les avis. Une cliente qui compare s'arrête souvent sur le salon qui montre son travail de la semaine.\n\n#FicheGoogle #Coiffeuse #Rennes\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio."
+  },
+  {
+   "id": "e4e2999",
+   "verdict": "ok"
+  },
+  {
+   "id": "ef0ced2",
+   "verdict": "ok"
+  },
+  {
+   "id": "e20fa65",
+   "verdict": "ok"
+  },
+  {
+   "id": "e33a317",
+   "verdict": "refuse",
+   "critere": 1,
+   "motif": "Critère 1. Dite seule à l'oral, « On cherche une boulangerie à Bordeaux » s'entend comme une annonce (on recherche une boulangerie à reprendre) et son lien avec la question suivante n'est pas explicite ; la phrase dite doit aussi porter le métier et la ville clairement.",
+   "proposition": "Boulangerie à Bordeaux, votre fiche Google dort ?"
+  },
+  {
+   "id": "e6f4ab1",
+   "verdict": "refuse",
+   "critere": 1,
+   "motif": "Critère 1. Dite et lue seule, « l'autre fiche Google » est une ellipse obscure (quelle autre ?) et une fiche Google ne montre pas « ses » coupes ; l'artisan ne comprend pas à la première écoute.",
+   "proposition": "Coiffeuse à Rennes, vos coupes sont sur votre *fiche Google* ?"
+  },
+  {
+   "id": "ead0f5a",
+   "verdict": "refuse",
+   "critere": 1,
+   "motif": "Critère 1. Phrase sans verbe ; « encore sur votre fiche Google » ne dit pas ce que fait l'électricien, à l'écoute comme à la lecture.",
+   "proposition": "Électricien à Saint-Brieuc, votre *fiche Google* vous retient ?"
+  },
+  {
+   "id": "e79ad36",
+   "verdict": "refuse",
+   "critere": 1,
+   "motif": "Critère 1. Dite à voix haute, la juxtaposition « publie vos photos, répond aux avis » sonne comme une liste télégraphique et fait buter la voix au milieu de la phrase.",
+   "proposition": "Pro en ligne s'occupe des photos et des avis."
+  },
+  {
+   "id": "e06f509",
+   "verdict": "ok"
+  }
+ ]
+}

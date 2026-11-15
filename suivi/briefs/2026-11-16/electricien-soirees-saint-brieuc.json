@@ -8,7 +8,7 @@
  "valeur": "23 h",
  "accroches": [
   "Électricien à Saint-Brieuc, la *fiche Google* vous attend ?",
-  "Électricien à Saint-Brieuc, encore sur votre *fiche Google* ?"
+  "Électricien à Saint-Brieuc, la *fiche Google* vous retient ?"
  ],
  "voix": [
   {
@@ -17,7 +17,7 @@
   },
   {
    "scene": "Bascule",
-   "texte": "Pro en ligne publie vos photos, répond aux avis."
+   "texte": "Pro en ligne s'occupe des photos et des avis."
   },
   {
    "scene": "Bascule",
