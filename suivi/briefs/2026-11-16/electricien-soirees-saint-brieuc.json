@@ -1,0 +1,35 @@
+{
+ "slug": "electricien-soirees-saint-brieuc",
+ "moteur": "cinetique",
+ "angle": "Du temps libre",
+ "metier": "électricien",
+ "ville": "Saint-Brieuc",
+ "ambiance": 1,
+ "valeur": "23h05",
+ "accroches": [
+  "Électricien à Saint-Brieuc, la *fiche Google* vous attend ?",
+  "Électricien à Saint-Brieuc, *Google* vous garde tard ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Après le chantier, il reste vos avis."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne publie et répond en journée."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Le soir, vous débranchez, vous aussi.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Testez trente jours offerts, lien en bio."
+  }
+ ],
+ "offre_ligne": "Le soir, *vous débranchez.*",
+ "musique": true,
+ "audio_src": {}
+}

@@ -1,0 +1,35 @@
+{
+ "slug": "plombier-swipe-appels-montpellier",
+ "moteur": "swipe",
+ "angle": "Plus d'appels",
+ "metier": "plombier",
+ "ville": "Montpellier",
+ "ambiance": 0,
+ "entreprise": "",
+ "accroches": [
+  "« Au suivant. » Plombier à Montpellier, on passe votre fiche Google.",
+  "Plombier à Montpellier, votre fiche Google donne-t-elle envie d'appeler ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Une photo ancienne, et le doigt glisse."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne montre vos chantiers."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Cette fois, le pouce appuie sur Appeler.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Profitez de trente jours offerts, lien en bio."
+  }
+ ],
+ "offre_ligne": "Des chantiers *qui se voient.*",
+ "musique": true,
+ "audio_src": {}
+}

@@ -1,0 +1,35 @@
+{
+ "slug": "autoecole-swipe-appels-caen",
+ "moteur": "swipe",
+ "angle": "Plus d'appels",
+ "metier": "auto-école",
+ "ville": "Caen",
+ "ambiance": 0,
+ "entreprise": "",
+ "accroches": [
+  "Auto-école à Caen, en pleine leçon, on passe votre fiche Google.",
+  "Auto-école à Caen, un futur élève compare les fiches Google avant d'appeler."
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Pas de photo des voitures, on passe."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne montre vos voitures."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et ce coup-ci, c'est vous qu'on appelle.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Le lien est en bio, trente jours offerts."
+  }
+ ],
+ "offre_ligne": "Votre auto-école, *bien en vue.*",
+ "musique": true,
+ "audio_src": {}
+}

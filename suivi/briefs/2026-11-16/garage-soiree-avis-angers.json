@@ -1,0 +1,35 @@
+{
+ "slug": "garage-soiree-avis-angers",
+ "moteur": "cinetique",
+ "angle": "Du temps libre",
+ "metier": "garagiste",
+ "ville": "Angers",
+ "ambiance": 1,
+ "valeur": "21h52",
+ "accroches": [
+  "Garagiste à Angers, l'atelier ferme, pas votre *fiche Google*.",
+  "Garagiste à Angers, qui répond à vos *avis Google* le soir ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Les voitures sont rendues, il reste les avis."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne répond à chaque avis pour vous."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Le soir, l'atelier est fermé, et vous aussi.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts, le lien est en bio."
+  }
+ ],
+ "offre_ligne": "Vos soirées, *loin de l'atelier.*",
+ "musique": true,
+ "audio_src": {}
+}

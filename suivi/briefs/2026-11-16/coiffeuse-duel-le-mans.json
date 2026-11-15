@@ -1,0 +1,35 @@
+{
+ "slug": "coiffeuse-duel-le-mans",
+ "moteur": "cinetique",
+ "angle": "Face au concurrent",
+ "metier": "coiffeuse",
+ "ville": "Le Mans",
+ "ambiance": 1,
+ "valeur": "Le salon d'à côté",
+ "accroches": [
+  "Coiffeuse sur Le Mans, sa *fiche Google* montre ses coupes.",
+  "Coiffeuse sur Le Mans, on réserve à côté sur *Google* ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Elle publie ses coupes. Vous, rien depuis l'été."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne montre vos coupes."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et la cliente pousse votre porte.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts, lien en bio."
+  }
+ ],
+ "offre_ligne": "Vos plus belles coupes, *en vitrine.*",
+ "musique": true,
+ "audio_src": {}
+}

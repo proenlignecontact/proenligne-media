@@ -1,0 +1,36 @@
+{
+ "slug": "serrurier-duel-tours",
+ "moteur": "plan-sequence",
+ "angle": "Face au concurrent",
+ "metier": "serrurier",
+ "ville": "Tours",
+ "ambiance": 2,
+ "entreprise": "",
+ "lieu": "",
+ "accroches": [
+  "Serrurier à Tours, pourquoi on appelle l'autre sur *Google* ?",
+  "Serrurier à Tours, le client compare deux *fiches Google*."
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Sa fiche Google répond aux avis. La vôtre, non."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne répond à chacun de vos avis."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et le client bloqué dehors vous appelle, vous.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Essayez trente jours offerts, lien en bio."
+  }
+ ],
+ "offre_ligne": "Une *fiche Google* qui rassure.",
+ "musique": true,
+ "audio_src": {}
+}

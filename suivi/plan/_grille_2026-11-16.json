@@ -1,0 +1,114 @@
+[
+ {
+  "date": "2026-11-16",
+  "creneau_nominal": "13:00",
+  "heure": "13:00",
+  "utc": "2026-11-16T12:00:00Z",
+  "type": "visuel",
+  "canaux": "instagram (+ linkedin mardi et jeudi)"
+ },
+ {
+  "date": "2026-11-16",
+  "creneau_nominal": "19:00",
+  "heure": "18:45",
+  "utc": "2026-11-16T17:45:00Z",
+  "type": "video",
+  "canaux": "tiktok + instagram + youtube + facebook"
+ },
+ {
+  "date": "2026-11-17",
+  "creneau_nominal": "13:00",
+  "heure": "13:15",
+  "utc": "2026-11-17T12:15:00Z",
+  "type": "visuel",
+  "canaux": "instagram (+ linkedin mardi et jeudi)"
+ },
+ {
+  "date": "2026-11-17",
+  "creneau_nominal": "19:00",
+  "heure": "18:45",
+  "utc": "2026-11-17T17:45:00Z",
+  "type": "video",
+  "canaux": "tiktok + instagram + youtube + facebook"
+ },
+ {
+  "date": "2026-11-18",
+  "creneau_nominal": "13:00",
+  "heure": "13:15",
+  "utc": "2026-11-18T12:15:00Z",
+  "type": "visuel",
+  "canaux": "instagram (+ linkedin mardi et jeudi)"
+ },
+ {
+  "date": "2026-11-18",
+  "creneau_nominal": "19:00",
+  "heure": "19:00",
+  "utc": "2026-11-18T18:00:00Z",
+  "type": "video",
+  "canaux": "tiktok + instagram + youtube + facebook"
+ },
+ {
+  "date": "2026-11-19",
+  "creneau_nominal": "13:00",
+  "heure": "13:45",
+  "utc": "2026-11-19T12:45:00Z",
+  "type": "visuel",
+  "canaux": "instagram (+ linkedin mardi et jeudi)"
+ },
+ {
+  "date": "2026-11-19",
+  "creneau_nominal": "19:00",
+  "heure": "19:30",
+  "utc": "2026-11-19T18:30:00Z",
+  "type": "video",
+  "canaux": "tiktok + instagram + youtube + facebook"
+ },
+ {
+  "date": "2026-11-20",
+  "creneau_nominal": "13:00",
+  "heure": "13:00",
+  "utc": "2026-11-20T12:00:00Z",
+  "type": "visuel",
+  "canaux": "instagram (+ linkedin mardi et jeudi)"
+ },
+ {
+  "date": "2026-11-20",
+  "creneau_nominal": "19:00",
+  "heure": "19:45",
+  "utc": "2026-11-20T18:45:00Z",
+  "type": "video",
+  "canaux": "tiktok + instagram + youtube + facebook"
+ },
+ {
+  "date": "2026-11-21",
+  "creneau_nominal": "13:00",
+  "heure": "13:30",
+  "utc": "2026-11-21T12:30:00Z",
+  "type": "visuel",
+  "canaux": "instagram (+ linkedin mardi et jeudi)"
+ },
+ {
+  "date": "2026-11-21",
+  "creneau_nominal": "19:00",
+  "heure": "19:30",
+  "utc": "2026-11-21T18:30:00Z",
+  "type": "video",
+  "canaux": "tiktok + instagram + youtube + facebook"
+ },
+ {
+  "date": "2026-11-22",
+  "creneau_nominal": "13:00",
+  "heure": "13:30",
+  "utc": "2026-11-22T12:30:00Z",
+  "type": "visuel",
+  "canaux": "instagram (+ linkedin mardi et jeudi)"
+ },
+ {
+  "date": "2026-11-22",
+  "creneau_nominal": "19:00",
+  "heure": "19:30",
+  "utc": "2026-11-22T18:30:00Z",
+  "type": "video",
+  "canaux": "tiktok + instagram + youtube + facebook"
+ }
+]

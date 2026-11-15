@@ -1,0 +1,58 @@
+[
+ {
+  "date": "2026-11-16",
+  "moteur": "cinetique",
+  "angle": "Du temps libre",
+  "metier": "garage",
+  "ville": "Angers",
+  "ambiance": 1
+ },
+ {
+  "date": "2026-11-17",
+  "moteur": "plan-sequence",
+  "angle": "Face au concurrent",
+  "metier": "serrurier",
+  "ville": "Tours",
+  "ambiance": 2
+ },
+ {
+  "date": "2026-11-18",
+  "moteur": "swipe",
+  "angle": "Plus d'appels",
+  "metier": "autoecole",
+  "ville": "Caen",
+  "ambiance": 0
+ },
+ {
+  "date": "2026-11-19",
+  "moteur": "cinetique",
+  "angle": "Du temps libre",
+  "metier": "electricien",
+  "ville": "Saint-Brieuc",
+  "ambiance": 1
+ },
+ {
+  "date": "2026-11-20",
+  "moteur": "plan-sequence",
+  "angle": "Plus de clients",
+  "metier": "boulangerie",
+  "ville": "Bordeaux",
+  "ambiance": 2
+ },
+ {
+  "date": "2026-11-21",
+  "moteur": "swipe",
+  "angle": "Plus d'appels",
+  "metier": "plombier",
+  "ville": "Montpellier",
+  "ambiance": 0
+ },
+ {
+  "date": "2026-11-22",
+  "moteur": "cinetique",
+  "angle": "Face au concurrent",
+  "metier": "coiffeur",
+  "ville": "Le Mans",
+  "ambiance": 1
+ }
+]

@@ -1,0 +1,40 @@
+{
+ "slug": "boulangerie-classement-bordeaux",
+ "moteur": "plan-sequence",
+ "angle": "Plus de clients",
+ "metier": "boulangerie",
+ "ville": "Bordeaux",
+ "ambiance": 2,
+ "entreprise": "",
+ "lieu": "",
+ "accroches": [
+  "Votre pain, sur *Google ?*",
+  "Et vous, sur *Google ?*"
+ ],
+ "accroches_dites": [
+  "Boulangerie à Bordeaux, votre pain est sur Google ?",
+  "On cherche une boulangerie à Bordeaux. Et vous, sur Google ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "On entre souvent dans la première qu'on voit."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne montre votre vitrine chaque semaine."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et c'est votre porte qu'on pousse.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "C'est trente jours offerts, le lien est en bio."
+  }
+ ],
+ "offre_ligne": "Votre vitrine, *aussi sur Google.*",
+ "musique": true,
+ "audio_src": {}
+}
