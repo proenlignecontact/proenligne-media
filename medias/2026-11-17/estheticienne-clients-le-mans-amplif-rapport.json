@@ -1,0 +1,183 @@
+{
+ "video": "/home/claude/proenligne-media/medias/2026-11-17/estheticienne-clients-le-mans-amplif.mp4",
+ "planche": "/home/claude/proenligne-media/medias/2026-11-17/estheticienne-clients-le-mans-amplif-planche.png",
+ "variante": "B",
+ "accroche": "Esthéticienne sur Le Mans, votre nouveau soin est absent de votre fiche Google.",
+ "duree": 16.5,
+ "calage": {
+  "scenes": [
+   {
+    "name": "Accroche",
+    "dur": 5.0,
+    "nat": 3.0,
+    "start": 0.0
+   },
+   {
+    "name": "Probleme",
+    "dur": 3.5,
+    "nat": 4.0,
+    "start": 5.0
+   },
+   {
+    "name": "Bascule",
+    "dur": 5.0,
+    "nat": 5.0,
+    "start": 8.5
+   },
+   {
+    "name": "Offre",
+    "dur": 3.0,
+    "nat": 3.0,
+    "start": 13.5
+   }
+  ],
+  "total": 16.5,
+  "voix": [
+   {
+    "id": "vo-accroche-B",
+    "texte": "Esthéticienne sur Le Mans, votre nouveau soin est absent de votre fiche Google.",
+    "at": 0.15,
+    "fin": 4.165,
+    "scene": "Accroche",
+    "src": "/home/claude/proenligne-media/medias/audio/estheticienne-clients-le-mans/prise-B.mp3",
+    "ss": 0.0,
+    "dur": 4.015
+   },
+   {
+    "id": "vo-1",
+    "texte": "Sans nouveauté, on passe au suivant.",
+    "at": 5.15,
+    "fin": 7.108,
+    "scene": "Probleme",
+    "src": "/home/claude/proenligne-media/medias/audio/estheticienne-clients-le-mans/prise-B.mp3",
+    "ss": 4.575,
+    "dur": 1.958
+   },
+   {
+    "id": "vo-2",
+    "texte": "Pro en ligne montre vos soins chaque semaine.",
+    "at": 8.65,
+    "fin": 10.973,
+    "scene": "Bascule",
+    "src": "/home/claude/proenligne-media/medias/audio/estheticienne-clients-le-mans/prise-B.mp3",
+    "ss": 6.922,
+    "dur": 2.323
+   },
+   {
+    "id": "vo-3",
+    "texte": "Et cette fois, on réserve.",
+    "at": 11.5,
+    "fin": 13.034,
+    "scene": "Bascule",
+    "src": "/home/claude/proenligne-media/medias/audio/estheticienne-clients-le-mans/prise-B.mp3",
+    "ss": 9.365,
+    "dur": 1.534
+   },
+   {
+    "id": "vo-4",
+    "texte": "Trente jours offerts, lien en bio.",
+    "at": 13.65,
+    "fin": 15.582,
+    "scene": "Offre",
+    "src": "/home/claude/proenligne-media/medias/audio/estheticienne-clients-le-mans/prise-B.mp3",
+    "ss": 11.135,
+    "dur": 1.932
+   }
+  ],
+  "sfx": [
+   {
+    "id": "swipe",
+    "at": 1.833
+   },
+   {
+    "id": "tampon",
+    "at": 4.0
+   },
+   {
+    "id": "swipe",
+    "at": 4.167
+   },
+   {
+    "id": "blip",
+    "at": 8.9
+   },
+   {
+    "id": "blip",
+    "at": 9.4
+   },
+   {
+    "id": "blip",
+    "at": 9.9
+   },
+   {
+    "id": "swipe",
+    "at": 11.5
+   },
+   {
+    "id": "appel",
+    "at": 11.6
+   },
+   {
+    "id": "feuille",
+    "at": 13.0
+   }
+  ]
+ },
+ "textes_affiches": [
+  "/ mois · 30 jours offerts",
+  "14,99 €",
+  "7 avis sans réponse",
+  "APPELER",
+  "Appel entrant",
+  "Appeler",
+  "Aucune publication",
+  "Cette",
+  "Chaque avis a sa réponse",
+  "Dernière photo en 2021",
+  "Esthéticienne Weber",
+  "Google",
+  "Google.",
+  "Ils",
+  "Ils voient une fiche Google qui dort.",
+  "Lien en bio →",
+  "Nouveau client",
+  "Nouvelle photo lundi",
+  "Photo · 2021",
+  "Photo · lundi",
+  "Proenligne",
+  "Publication jeudi",
+  "SUIVANT",
+  "Voilà",
+  "Voilà ce que vos clients font de votre fiche Google.",
+  "Vos",
+  "Votre entreprise",
+  "appelle.",
+  "ce",
+  "chaque",
+  "clients",
+  "de",
+  "dort.",
+  "enfin",
+  "fois,",
+  "font",
+  "la",
+  "on",
+  "que",
+  "qui",
+  "réveille,",
+  "semaine.",
+  "soins,",
+  "sur",
+  "une",
+  "visibles",
+  "voient",
+  "vos",
+  "votre",
+  "vous",
+  "★★★★☆",
+  "★★★★☆ 4,2 · esthéticienne",
+  "★★★★☆ 4,2 · esthéticienne · Le Mans",
+  "✓"
+ ],
+ "problemes": []
+}

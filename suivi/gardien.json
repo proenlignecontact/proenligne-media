@@ -80,6 +80,15 @@
    "erreur": "Failed to upload the video to TikTok",
    "prevu": "2026-11-14T15:15:00Z",
    "reprogramme": "2026-11-15T09:30:00Z"
+  },
+  {
+   "date": "2026-11-16",
+   "ancien_id": "cmw2mexuv00l7kb7z3qg1vr36",
+   "nouvel_id": "cmwixu4uq00v5kb7z165fq37z",
+   "canal": "instagram",
+   "erreur": "Instagram blocked your request",
+   "prevu": "2026-11-15T12:15:00Z",
+   "reprogramme": "2026-11-16T09:30:00Z"
   }
  ],
  "echecs": [
@@ -106,6 +115,13 @@
    "publie_prevu": "2026-11-14T09:30:00Z",
    "erreur": "Instagram blocked your request",
    "note": "Déjà recréé (ancien cmw2md2xh00j7kb7zz3d91l23, électricien), échoue encore : non recréé."
+  },
+  {
+   "date": "2026-11-16",
+   "postiz_id": "cmwhieoo600orkb7z1qlenr6k",
+   "canal": "instagram",
+   "publie_prevu": "2026-11-15T09:30:00Z",
+   "erreur": "Instagram blocked your request (déjà recréé une fois, carrousel garage)"
   }
  ]
 }

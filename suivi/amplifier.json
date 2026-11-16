@@ -1,6 +1,23 @@
 {
  "_lisezmoi": "Posts qui ont décollé (audience ≥ 50 vues ET > 2 × médiane du canal sur 14 jours, cerveau/amplifier.py). Écrit par la tâche quotidienne, lu et vidé par la tâche hebdomadaire après reprise.",
- "a_reprendre": [],
+ "a_reprendre": [
+  {
+   "fiche": "2026-11-07_1900_estheticienne-nouveau-soin-cache",
+   "canal": "youtube",
+   "audience": 98,
+   "mediane_canal": 43,
+   "partages": null,
+   "commentaires": 0,
+   "metier": "estheticienne",
+   "angle": "peur-de-perdre",
+   "ton": "scene",
+   "intention": "utile",
+   "format": "journee",
+   "creneau": "video",
+   "accroche": "Il est 22 h. La cabine est rangée, mais votre nouveau soin manque sur votre fiche Google.",
+   "detecte_le": "2026-11-16"
+  }
+ ],
  "repris": [
   {
    "fiche": "2026-11-02_1900_paysagiste-fiche-endormie-hiver",
