@@ -1963,5 +1963,32 @@
    "youtube": "cmwhu0q4600v1kb7z4gl0p4y9"
   },
   "serie": "supp"
+ },
+ {
+  "date": "2026-11-17",
+  "slug": "estheticienne-clients-le-mans-amplif",
+  "moteur": "swipe",
+  "angle": "Plus de clients",
+  "metier": "estheticienne",
+  "ville": "Le Mans",
+  "valeur": "",
+  "accroches": [
+   "Esthéticienne sur Le Mans, votre nouveau soin manque sur votre fiche Google.",
+   "Esthéticienne sur Le Mans, votre nouveau soin est absent de votre fiche Google."
+  ],
+  "voix": [
+   "Sans nouveauté, on passe au suivant.",
+   "Pro en ligne montre vos soins chaque semaine.",
+   "Et cette fois, on réserve.",
+   "Trente jours offerts, lien en bio."
+  ],
+  "ambiance": 1,
+  "duree": 16.5,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmwiymymg00v7kb7zm3t73ks5"
+  },
+  "serie": "amplif"
  }
 ]

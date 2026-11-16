@@ -15,7 +15,12 @@
    "format": "journee",
    "creneau": "video",
    "accroche": "Il est 22 h. La cabine est rangée, mais votre nouveau soin manque sur votre fiche Google.",
-   "detecte_le": "2026-11-16"
+   "detecte_le": "2026-11-16",
+   "variante_programmee": {
+    "date": "2026-11-17",
+    "postiz_id": "cmwiymymg00v7kb7zm3t73ks5",
+    "ab": "B"
+   }
   }
  ],
  "repris": [

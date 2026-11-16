@@ -1,0 +1,31 @@
+{
+ "creneaux": [
+  {
+   "date": "2026-11-17",
+   "creneau_nominal": "12:30",
+   "heure": "12:30",
+   "utc": "2026-11-17T11:30:00Z",
+   "creneau": "video",
+   "offre": "essai",
+   "intention": "utile",
+   "ab": "B",
+   "metier": "estheticienne",
+   "angle": "peur-de-perdre",
+   "format": "journee",
+   "ton": "scene",
+   "symptome": "pas-de-nouveaute",
+   "slug": "estheticienne-clients-le-mans-amplif",
+   "accroche": "Esthéticienne sur Le Mans, votre nouveau soin est absent de votre fiche Google.",
+   "premier_commentaire": "Une photo du nouveau soin et une publication qui l'annonce suffisent pour qu'il apparaisse sur votre fiche Google, avec son nom et son prix en institut.",
+   "tiktok_title": "Esthéticienne au Mans, votre nouveau soin est-il sur Google ?",
+   "textes": {
+    "tiktok": "Esthéticienne sur Le Mans, votre nouveau soin est absent de votre fiche Google.\nUne cliente qui cherche un soin passe à l'institut suivant si elle ne le voit pas.\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Estheticienne #LeMans"
+   },
+   "media": {
+    "video": "https://media.glidy.uk/lK6sJOh3VF.mp4",
+    "fichier": "medias/2026-11-17/estheticienne-clients-le-mans-amplif.mp4"
+   },
+   "notes": "Variante amplifiée de 2026-11-07_1900_estheticienne-nouveau-soin-cache (YouTube 98 vs médiane 43)."
+  }
+ ]
+}

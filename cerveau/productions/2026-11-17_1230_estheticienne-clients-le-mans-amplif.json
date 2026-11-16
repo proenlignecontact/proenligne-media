@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-17_1230_estheticienne-clients-le-mans-amplif",
+ "date_paris": "2026-11-17",
+ "heure_paris": "12:30",
+ "creneau_nominal": "12:30",
+ "intention": "utile",
+ "ab": "B",
+ "premier_commentaire": "Une photo du nouveau soin et une publication qui l'annonce suffisent pour qu'il apparaisse sur votre fiche Google, avec son nom et son prix en institut.",
+ "jour_semaine": "mardi",
+ "creneau": "video",
+ "metier": "estheticienne",
+ "angle": "peur-de-perdre",
+ "format": "journee",
+ "ton": "scene",
+ "symptome": "pas-de-nouveaute",
+ "offre": "essai",
+ "accroche": "Esthéticienne sur Le Mans, votre nouveau soin est absent de votre fiche Google.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Estheticienne",
+  "#FicheGoogle",
+  "#LeMans"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [
+   "medias/2026-11-17/estheticienne-clients-le-mans-amplif.mp4"
+  ],
+  "postiz": [
+   "https://media.glidy.uk/lK6sJOh3VF.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmwiymymg00v7kb7zm3t73ks5",
+   "caracteres": 290,
+   "texte": "Esthéticienne sur Le Mans, votre nouveau soin est absent de votre fiche Google.\nUne cliente qui cherche un soin passe à l'institut suivant si elle ne le voit pas.\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Estheticienne #LeMans"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "Variante amplifiée de 2026-11-07_1900_estheticienne-nouveau-soin-cache (YouTube 98 vs médiane 43).",
+ "moteur": "swipe",
+ "angle_video": "Plus de clients",
+ "ville_video": "Le Mans",
+ "duree_video": 16.5,
+ "musique": "ambiance-1"
+}
