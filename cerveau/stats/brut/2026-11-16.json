@@ -1,7 +1,54 @@
 {
-    "generatedAt": "2026-11-16T07:24:56.237Z",
+    "generatedAt": "2026-11-16T13:46:26.587Z",
     "days": 60,
     "channels": [
+        {
+            "id": "cmvs9p6ky0001mq8gkj2c0a82",
+            "name": "Proenligne",
+            "platform": "facebook",
+            "profile": "",
+            "disabled": false,
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Page Impressions",
+                        "latest": 0,
+                        "sum": 12,
+                        "percentageChange": 5
+                    },
+                    {
+                        "metric": "Media views",
+                        "latest": 0,
+                        "sum": 53,
+                        "percentageChange": 5
+                    },
+                    {
+                        "metric": "Posts Engagement",
+                        "latest": 1,
+                        "sum": 68,
+                        "percentageChange": 5
+                    },
+                    {
+                        "metric": "Page followers",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 5
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvs9xsx80003mq8gnh6baz7n",
+            "name": "Proenligne",
+            "platform": "instagram",
+            "profile": "proenligne",
+            "disabled": false,
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
         {
             "id": "cmvsbyqw20001jv87195lx18q",
             "name": "Alexandre | Google My Business",
@@ -48,53 +95,6 @@
                         "percentageChange": null
                     }
                 ]
-            }
-        },
-        {
-            "id": "cmvs9p6ky0001mq8gkj2c0a82",
-            "name": "Proenligne",
-            "platform": "facebook",
-            "profile": "",
-            "disabled": false,
-            "stats": {
-                "available": true,
-                "metrics": [
-                    {
-                        "metric": "Page Impressions",
-                        "latest": 0,
-                        "sum": 12,
-                        "percentageChange": 5
-                    },
-                    {
-                        "metric": "Media views",
-                        "latest": 0,
-                        "sum": 53,
-                        "percentageChange": 5
-                    },
-                    {
-                        "metric": "Posts Engagement",
-                        "latest": 0,
-                        "sum": 67,
-                        "percentageChange": 5
-                    },
-                    {
-                        "metric": "Page followers",
-                        "latest": 0,
-                        "sum": 0,
-                        "percentageChange": 5
-                    }
-                ]
-            }
-        },
-        {
-            "id": "cmvs9xsx80003mq8gnh6baz7n",
-            "name": "Proenligne",
-            "platform": "instagram",
-            "profile": "proenligne",
-            "disabled": false,
-            "stats": {
-                "available": false,
-                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
             }
         },
         {
@@ -4193,8 +4193,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 168,
-                        "sum": 168,
+                        "latest": 169,
+                        "sum": 169,
                         "percentageChange": 0
                     },
                     {
@@ -5151,8 +5151,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 30,
-                        "sum": 30,
+                        "latest": 31,
+                        "sum": 31,
                         "percentageChange": 0
                     },
                     {
@@ -5877,14 +5877,14 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 9,
-                        "sum": 9,
+                        "latest": 10,
+                        "sum": 10,
                         "percentageChange": 0
                     },
                     {
                         "metric": "Reach",
-                        "latest": 6,
-                        "sum": 6,
+                        "latest": 7,
+                        "sum": 7,
                         "percentageChange": 0
                     },
                     {
@@ -5923,27 +5923,8 @@
             "url": "https://www.facebook.com/reel/2541421630022046",
             "content": "Coiffeuse \u00e0 Caen, encore vos avis Google \u00e0 cette heure-ci ?\n\nLe salon est ferm\u00e9 depuis longtemps. Sur votre t\u00e9l\u00e9phone, votre fiche Google, celle que voient les clientes sur Google Maps avec vos photos et vos avis, attend encore une r\u00e9ponse.\n\nCe n'est pas grand-chose, un soir. Mais tous les soirs, \u00e7a finit par compter.\n\nEt vous, vous r\u00e9pondez \u00e0 vos avis plut\u00f4t le soir, le midi, ou quand vous y pensez ?\n\n#FicheGoogle #Coiffeuse #Coiffure #ReferencementLocal",
             "stats": {
-                "available": true,
-                "metrics": [
-                    {
-                        "metric": "Plays",
-                        "latest": 0,
-                        "sum": 0,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Reactions",
-                        "latest": 0,
-                        "sum": 0,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Engagement",
-                        "latest": 1,
-                        "sum": 1,
-                        "percentageChange": 0
-                    }
-                ]
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
             }
         },
         {
@@ -6125,8 +6106,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 40,
-                        "sum": 40,
+                        "latest": 42,
+                        "sum": 42,
                         "percentageChange": 0
                     },
                     {
@@ -6704,8 +6685,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 24,
-                        "sum": 24,
+                        "latest": 28,
+                        "sum": 28,
                         "percentageChange": 0
                     },
                     {
@@ -6944,8 +6925,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 17,
-                        "sum": 17,
+                        "latest": 18,
+                        "sum": 18,
                         "percentageChange": 0
                     },
                     {
@@ -8377,6 +8358,69 @@
             }
         },
         {
+            "id": "cmwhttl5d00r9kb7zzig9443e",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-16T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2122257296658964711",
+            "content": "Plombier \u00e0 Rennes, une fuite, et on fait glisser votre fiche Google. Sans photo r\u00e9cente, le client passe au suivant. Proenligne publie vos chantiers chaque lundi. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Plombier",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmwhttl3n00r7kb7zdmt970ub",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-16T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DfzArIZkUhW/",
+            "content": "Plombier \u00e0 Rennes, une fuite, et on fait glisser votre fiche Google.\n\nUn lundi matin, l'eau coule sous l'\u00e9vier. Le client tape \u00ab plombier \u00bb sur Google Maps et fait d\u00e9filer les fiches Google, ces encadr\u00e9s avec la note, les photos et le bouton Appeler.\n\nIl ne lit pas tout. Une fiche Google sans photo r\u00e9cente, il la fait glisser. Celle qui montre un chantier de la semaine, il s'y arr\u00eate.\n\nProenligne publie une photo de vos chantiers chaque lundi, une publication le jeudi, et r\u00e9pond \u00e0 vos avis.\n\nDe quand date la derni\u00e8re photo de chantier sur votre fiche Google ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Plombier #Rennes #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 7,
+                        "sum": 7,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 7,
+                        "sum": 7,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
             "id": "cmw2mfuon00m3kb7z980kdd76",
             "platform": "youtube",
             "integrationId": "cmvsbyqw20001jv87195lx18q",
@@ -8423,6 +8467,57 @@
             "url": "https://www.facebook.com/reel/3006644603027196",
             "content": "Chauffagiste \u00e0 Toulouse, vos soir\u00e9es partent sur votre fiche Google ?\n\nPendant que les d\u00e9pannages s'encha\u00eenent, votre fiche Google, l'encadr\u00e9 que les clients ouvrent sur Google Maps, attend ses photos et ses r\u00e9ponses aux avis.\n\nAlors \u00e7a se fait le soir, apr\u00e8s le dernier client. Un moment par-ci, un moment par-l\u00e0, tout l'hiver.\n\nEt vous, en plein hiver, \u00e0 quel moment r\u00e9pondez-vous \u00e0 vos avis ?\n\n#FicheGoogle #Chauffagiste #Chauffage #ReferencementLocal",
             "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmwhttl6z00rbkb7zniaa9xpx",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-16T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=fW5Ff6U5SOY",
+            "content": "Plombier \u00e0 Rennes, une fuite, et le client fait d\u00e9filer les fiches Google sur son t\u00e9l\u00e9phone.\n\nLa fiche Google, c'est ce qui s'affiche quand on cherche \u00ab plombier \u00bb sur Google ou Google Maps, avec vos photos, vos avis et vos horaires. Sans photo r\u00e9cente, on passe \u00e0 la suivante.\n\nProenligne publie une photo de vos chantiers chaque lundi, une publication le jeudi, et r\u00e9pond \u00e0 chaque avis.\n\nQuelle photo de chantier mettriez-vous en premier ?\n\n#FicheGoogle #Plombier #Rennes #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 3,
+                        "sum": 3,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwhttl1x00r5kb7zs9vzooy7",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-16T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/1175419705051381",
+            "content": "Plombier \u00e0 Rennes, le client press\u00e9 fait glisser votre fiche Google sans s'arr\u00eater.\n\nEn urgence, on ne compare pas longtemps. Sur Google Maps, chaque plombier a sa fiche Google, avec la note, les photos et le bouton Appeler. Le pouce d\u00e9cide en une seconde.\n\nUne photo de chantier r\u00e9cente suffit souvent \u00e0 faire s'arr\u00eater le client. Une fiche Google sans photo, il la passe.\n\nCombien de photos de chantiers r\u00e9cents montre votre fiche Google aujourd'hui ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Plombier #Rennes #ReferencementLocal",
+            "stats": {
                 "available": true,
                 "metrics": [
                     {
@@ -8444,6 +8539,19 @@
                         "percentageChange": 0
                     }
                 ]
+            }
+        },
+        {
+            "id": "cmwhttl0400r3kb7zqsiu2zuz",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-16T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7708695035134429206",
+            "content": "Plombier \u00e0 Rennes, une fuite, et on fait glisser votre fiche Google.\nLe client press\u00e9 fait d\u00e9filer les fiches Google sur Google Maps. Sans photo r\u00e9cente de chantier, il passe \u00e0 la suivante.\n\n#FicheGoogle #Plombier #Rennes\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio.",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
             }
         }
     ]
