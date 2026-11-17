@@ -89,6 +89,15 @@
    "erreur": "Instagram blocked your request",
    "prevu": "2026-11-15T12:15:00Z",
    "reprogramme": "2026-11-16T09:30:00Z"
+  },
+  {
+   "date": "2026-11-17",
+   "ancien_id": "cmwhm8s1q00oxkb7z042anvzl",
+   "nouvel_id": "cmwkd9yfc00vfkb7z8jf5uxnw",
+   "canal": "instagram",
+   "erreur": "Instagram blocked your request",
+   "prevu": "2026-11-16T12:00:00Z",
+   "reprogramme": "2026-11-17T09:30:00Z"
   }
  ],
  "echecs": [
@@ -122,6 +131,14 @@
    "canal": "instagram",
    "publie_prevu": "2026-11-15T09:30:00Z",
    "erreur": "Instagram blocked your request (déjà recréé une fois, carrousel garage)"
+  },
+  {
+   "date": "2026-11-17",
+   "postiz_id": "cmwixu4uq00v5kb7z165fq37z",
+   "canal": "instagram",
+   "publie_prevu": "2026-11-16T09:30:00Z",
+   "erreur": "Instagram blocked your request",
+   "note": "Déjà recréé (ancien cmw2mexuv00l7kb7z3qg1vr36, serrurier avant/après), échoue encore : non recréé."
   }
  ]
 }
