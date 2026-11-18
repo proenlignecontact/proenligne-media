@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-18T07:25:51.968Z",
+    "generatedAt": "2026-11-18T14:15:01.493Z",
     "days": 60,
     "channels": [
         {
@@ -25,8 +25,8 @@
                     },
                     {
                         "metric": "Posts Engagement",
-                        "latest": 0,
-                        "sum": 73,
+                        "latest": 1,
+                        "sum": 74,
                         "percentageChange": 5
                     },
                     {
@@ -4422,8 +4422,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 34,
-                        "sum": 34,
+                        "latest": 33,
+                        "sum": 33,
                         "percentageChange": 0
                     },
                     {
@@ -5151,8 +5151,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 33,
-                        "sum": 33,
+                        "latest": 32,
+                        "sum": 32,
                         "percentageChange": 0
                     },
                     {
@@ -6704,8 +6704,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 43,
-                        "sum": 43,
+                        "latest": 42,
+                        "sum": 42,
                         "percentageChange": 0
                     },
                     {
@@ -8294,8 +8294,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 58,
-                        "sum": 58,
+                        "latest": 55,
+                        "sum": 55,
                         "percentageChange": 0
                     },
                     {
@@ -8637,6 +8637,51 @@
             }
         },
         {
+            "id": "cmwhtvsih00s9kb7zp9fdjlo1",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-18T08:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/1853643012500717",
+            "content": "Ma\u00e7on \u00e0 Lorient, votre fiche Google vous prend-elle vos soir\u00e9es ?\n\nSur Google Maps, chaque ma\u00e7on a sa fiche Google, avec la note, les photos et le bouton Appeler. Pour qu'elle montre vos chantiers, il faut publier, et r\u00e9pondre aux avis.\n\nDans une petite entreprise de ma\u00e7onnerie, ce travail tombe presque toujours le soir, apr\u00e8s la journ\u00e9e sur le chantier.\n\nVous vous en occupez plut\u00f4t le soir m\u00eame, ou le week-end ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Macon #Lorient #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwhtvshg00s7kb7zttgw14f0",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-18T08:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7709429494481750038",
+            "content": "Ma\u00e7on \u00e0 Lorient, combien de soir\u00e9es passez-vous sur votre fiche Google ?\nApr\u00e8s le chantier, il reste les photos \u00e0 trier et \u00e0 publier, les avis \u00e0 lire. Tout \u00e7a finit souvent le soir.\n\n#FicheGoogle #Macon #Lorient\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio.",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
             "id": "cmwhtv6x900s5kb7zijiqelew",
             "platform": "youtube",
             "integrationId": "cmvsbyqw20001jv87195lx18q",
@@ -8649,8 +8694,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 34,
-                        "sum": 34,
+                        "latest": 39,
+                        "sum": 39,
                         "percentageChange": 0
                     },
                     {
@@ -8770,6 +8815,57 @@
             }
         },
         {
+            "id": "cmwhtvsmh00sfkb7zx7my87w5",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-18T08:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=MwO8QhAg3Rg",
+            "content": "Ma\u00e7on \u00e0 Lorient, combien de soir\u00e9es passez-vous sur votre fiche Google ?\n\nLa fiche Google, c'est ce qui appara\u00eet quand un client cherche un ma\u00e7on sur Google ou Google Maps, avec vos photos, vos avis et vos horaires. La tenir \u00e0 jour finit souvent tard, apr\u00e8s le chantier.\n\nProenligne publie une photo le lundi, une publication le jeudi, et r\u00e9pond \u00e0 chaque avis, pendant que vous \u00eates sur le chantier.\n\nEt vous, qui s'occupe de la fiche Google dans votre entreprise ?\n\n#FicheGoogle #Macon #Lorient #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 32,
+                        "sum": 32,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwhtvsl100sdkb7zogb3834d",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-18T08:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2122974520893943917",
+            "content": "Ma\u00e7on \u00e0 Lorient, combien de soir\u00e9es passez-vous sur votre fiche Google ? Photos du chantier, avis \u00e0 lire\u2026 Proenligne s'en charge pendant vos chantiers. Le soir, la truelle reste rang\u00e9e. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Macon",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
             "id": "cmw2mfuon00m3kb7z980kdd76",
             "platform": "youtube",
             "integrationId": "cmvsbyqw20001jv87195lx18q",
@@ -8852,8 +8948,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 40,
-                        "sum": 40,
+                        "latest": 41,
+                        "sum": 41,
                         "percentageChange": 0
                     },
                     {
@@ -8948,8 +9044,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 35,
-                        "sum": 35,
+                        "latest": 37,
+                        "sum": 37,
                         "percentageChange": 0
                     },
                     {
@@ -8999,8 +9095,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 68,
-                        "sum": 68,
+                        "latest": 72,
+                        "sum": 72,
                         "percentageChange": 0
                     },
                     {
@@ -9132,8 +9228,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 40,
-                        "sum": 40,
+                        "latest": 43,
+                        "sum": 43,
                         "percentageChange": 0
                     },
                     {
@@ -9190,6 +9286,56 @@
             }
         },
         {
+            "id": "cmwhtvsjn00sbkb7zn146du6v",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-18T08:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/Df4G1E8DEqk/",
+            "content": "Ma\u00e7on \u00e0 Lorient, combien de soir\u00e9es passez-vous sur votre fiche Google ?\n\nIl est 22 h. La b\u00e9tonni\u00e8re est lav\u00e9e, les outils sont dans le camion. Sur le canap\u00e9, vous ouvrez votre fiche Google, l'encadr\u00e9 que les clients voient sur Google Maps avant de demander un devis.\n\nIl faut choisir une photo du mur mont\u00e9 aujourd'hui, l'envoyer, r\u00e9pondre \u00e0 l'avis d'un client content. Un peu chaque soir, et la semaine y passe.\n\nProenligne s'en charge pendant vos chantiers, avec une photo le lundi, une publication le jeudi et une r\u00e9ponse \u00e0 chaque avis.\n\n\u00c0 quel moment de la journ\u00e9e vous occupez-vous de votre fiche Google ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Macon #Lorient #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
             "id": "cmwhm9jhu00p9kb7z0riie5zm",
             "platform": "linkedin-page",
             "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
@@ -9228,8 +9374,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 35,
-                        "sum": 35,
+                        "latest": 38,
+                        "sum": 38,
                         "percentageChange": 0
                     },
                     {
