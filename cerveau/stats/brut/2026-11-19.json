@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-19T07:24:57.552Z",
+    "generatedAt": "2026-11-19T14:30:47.441Z",
     "days": 60,
     "channels": [
         {
@@ -25,8 +25,8 @@
                     },
                     {
                         "metric": "Posts Engagement",
-                        "latest": 0,
-                        "sum": 76,
+                        "latest": 1,
+                        "sum": 77,
                         "percentageChange": 5
                     },
                     {
@@ -5877,8 +5877,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 50,
-                        "sum": 50,
+                        "latest": 58,
+                        "sum": 58,
                         "percentageChange": 0
                     },
                     {
@@ -8999,6 +8999,64 @@
             }
         },
         {
+            "id": "cmwhtwtr200srkb7zd3cfhysh",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-19T09:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7709812283136215062",
+            "content": "Chauffagiste \u00e0 Toulouse, le soir, votre fiche Google attend encore.\nLes chaudi\u00e8res le jour, les avis et les photos le soir. En pleine saison, la pile ne descend jamais.\n\n#FicheGoogle #Chauffagiste #Toulouse\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio.",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmwhtwtsc00stkb7z57wjhz30",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-19T09:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/1681131333570508",
+            "content": "Chauffagiste \u00e0 Toulouse, en pleine saison, qui r\u00e9pond aux avis de votre fiche Google ?\n\nQuand la chaudi\u00e8re tombe en panne, le client ouvre Google Maps. Chaque chauffagiste y a sa fiche Google, avec la note, les avis et le bouton Appeler.\n\nC'est justement quand vous avez le moins de temps que les avis arrivent. Et un avis sans r\u00e9ponse reste visible longtemps.\n\nVous r\u00e9pondez \u00e0 vos avis le soir, ou vous attendez la fin de la saison ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Chauffagiste #Toulouse #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwhtwtvf00sxkb7z0ot864pn",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-19T09:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2123348232226894127",
+            "content": "Chauffagiste \u00e0 Toulouse, le soir, votre fiche Google attend encore. Les chaudi\u00e8res le jour, les avis le soir. Proenligne s'occupe des photos et des r\u00e9ponses. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Chauffagiste",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
             "id": "cmw2mfuon00m3kb7z980kdd76",
             "platform": "youtube",
             "integrationId": "cmvsbyqw20001jv87195lx18q",
@@ -9361,8 +9419,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 55,
-                        "sum": 55,
+                        "latest": 57,
+                        "sum": 57,
                         "percentageChange": 0
                     },
                     {
@@ -9758,6 +9816,133 @@
             "stats": {
                 "available": false,
                 "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmwhtwtxn00szkb7ztpi23lv4",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-19T09:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=XaQQ_6MdleI",
+            "content": "Chauffagiste \u00e0 Toulouse, le soir, votre fiche Google attend encore.\n\nSur Google Maps, chaque chauffagiste a sa fiche Google, avec la note, les photos et le bouton Appeler. C'est elle qu'on regarde avant de vous appeler. La tenir \u00e0 jour en pleine saison prend vite des soir\u00e9es.\n\nProenligne publie une photo le lundi, une publication le jeudi, et r\u00e9pond \u00e0 chaque avis \u00e0 votre place.\n\nCombien de soir\u00e9es par semaine y passez-vous en ce moment ?\n\n#FicheGoogle #Chauffagiste #Toulouse #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 35,
+                        "sum": 35,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwhtwttx00svkb7zgyqjkjmv",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-19T09:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/Df6w4tCipyp/",
+            "content": "Chauffagiste \u00e0 Toulouse, le soir, votre fiche Google attend encore.\n\nNovembre, les premiers froids. Les d\u00e9pannages s'encha\u00eenent toute la journ\u00e9e. Le soir, il reste votre fiche Google, l'encadr\u00e9 que les clients ouvrent sur Google Maps quand leur chaudi\u00e8re s'arr\u00eate.\n\nUn avis \u00e0 remercier, une photo de la chaudi\u00e8re pos\u00e9e cet apr\u00e8s-midi, des horaires \u00e0 v\u00e9rifier. La pile se remplit plus vite qu'elle ne se vide.\n\nProenligne s'occupe des photos et des r\u00e9ponses \u00e0 votre place, avec une photo le lundi, une publication le jeudi et une r\u00e9ponse \u00e0 chaque avis.\n\nEn pleine saison, vous rangez le t\u00e9l\u00e9phone \u00e0 quelle heure ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Chauffagiste #Toulouse #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwhmb37v00ptkb7znicfxghm",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-19T11:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7709841995103930390",
+            "content": "Serrurier \u00e0 Tours, le client compare deux fiches Google.\nBloqu\u00e9 dehors, il regarde la note, les photos et surtout les r\u00e9ponses aux avis. Votre fiche Google a-t-elle l'air aussi pr\u00e9sente que celle d'en face ?\n\n#FicheGoogle #Serrurier #Tours\n\nAbonnez-vous pour voir les autres m\u00e9tiers face \u00e0 leur concurrent. 30 jours offerts, lien en bio.",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmwhmb3bg00pxkb7zhlqjo3mq",
+            "platform": "linkedin-page",
+            "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "publishDate": "2026-11-19T12:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7529162996091166721",
+            "content": "Pour une entreprise de ma\u00e7onnerie, la fiche Google n'a pas besoin d'attendre la fin d'un chantier.\nUn chantier en cours peut rassurer un futur client autant qu'une r\u00e9alisation termin\u00e9e.\n\nLa fiche Google, c'est l'encadr\u00e9 qui pr\u00e9sente l'entreprise sur Google et Google Maps, avec la note, les photos et le t\u00e9l\u00e9phone. Beaucoup d'entreprises n'y publient que des chantiers finis, donc rarement.\n\nUne autre m\u00e9thode consiste \u00e0 photographier chaque \u00e9tape.\nLes fondations, avant de couler la dalle.\nLe mur en cours de montage, sur un chantier rang\u00e9.\nLe r\u00e9sultat final, une fois le chantier termin\u00e9.\n\nTrois photos suffisent pour raconter un chantier. Le client y voit une m\u00e9thode, une propret\u00e9 et un suivi, des crit\u00e8res qu'il a du mal \u00e0 juger autrement avant de signer un devis.\n\nProenligne s'occupe de la fiche Google des artisans chaque semaine, avec une photo le lundi, une publication le jeudi et une r\u00e9ponse \u00e0 chaque avis.\n\nDans vos \u00e9quipes, qui pense \u00e0 prendre les photos pendant les travaux ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Maconnerie #Artisanat",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
             }
         }
     ]
