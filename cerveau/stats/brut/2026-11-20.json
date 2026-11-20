@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-20T07:25:03.383Z",
+    "generatedAt": "2026-11-20T14:08:40.340Z",
     "days": 60,
     "channels": [
         {
@@ -25,8 +25,8 @@
                     },
                     {
                         "metric": "Posts Engagement",
-                        "latest": 0,
-                        "sum": 79,
+                        "latest": 1,
+                        "sum": 80,
                         "percentageChange": 5
                     },
                     {
@@ -5877,8 +5877,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 66,
-                        "sum": 66,
+                        "latest": 68,
+                        "sum": 68,
                         "percentageChange": 0
                     },
                     {
@@ -8396,8 +8396,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 49,
-                        "sum": 49,
+                        "latest": 51,
+                        "sum": 51,
                         "percentageChange": 0
                     },
                     {
@@ -9163,6 +9163,114 @@
             "stats": {
                 "available": false,
                 "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmwhtxzzf00tbkb7zc6c2hr8a",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-20T08:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7710167419091961878",
+            "content": "Serrurier \u00e0 Quimper, votre fiche Google rassure en urgence ?\nBloqu\u00e9 dehors, le client ne conna\u00eet personne. Il appelle celui dont la fiche Google a l'air s\u00e9rieuse, avec des avis qui ont une r\u00e9ponse.\n\n#FicheGoogle #Serrurier #Quimper\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio.",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmwhty00v00tdkb7zvq7spat6",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-20T08:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/1446391540984657",
+            "content": "Serrurier \u00e0 Quimper, en urgence, le client appelle celui qui rassure sur Google.\n\nAvant d'appeler un serrurier, le client ouvre sa fiche Google sur Google Maps et lit les avis, les horaires et vos r\u00e9ponses. Dans l'urgence, il cherche surtout \u00e0 \u00e9viter une mauvaise surprise.\n\nUne fiche Google avec des photos de d\u00e9pannages et des avis qui ont une r\u00e9ponse inspire confiance. Une fiche Google vide le laisse h\u00e9siter.\n\nVos derniers avis ont-ils tous une r\u00e9ponse ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Serrurier #Quimper #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwhty03k00thkb7zavauv71i",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-20T08:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2123695521625702479",
+            "content": "Serrurier \u00e0 Quimper, votre fiche Google rassure en urgence ? Bloqu\u00e9 dehors, le client appelle celui qui a l'air s\u00e9rieux. Proenligne publie vos d\u00e9pannages et r\u00e9pond aux avis. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Serrurier",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmwhty02600tfkb7zhb5kx8ka",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-20T08:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/Df9OtJuCi3D/",
+            "content": "Serrurier \u00e0 Quimper, votre fiche Google rassure-t-elle en urgence ?\n\nIl pleut, la porte vient de claquer, les cl\u00e9s sont rest\u00e9es \u00e0 l'int\u00e9rieur. Le client tape \u00ab serrurier \u00bb sur Google Maps. Il voit des fiches Google, avec la note, les avis et le bouton Appeler.\n\nDans l'urgence, il a peur de tomber sur n'importe qui. Il cherche des photos de vrais d\u00e9pannages, des avis r\u00e9cents, des r\u00e9ponses. Il appelle celui qui rassure.\n\nProenligne publie vos d\u00e9pannages sur votre fiche Google, une photo le lundi et une publication le jeudi, et r\u00e9pond \u00e0 chaque avis.\n\nSelon vous, qu'est-ce qui rassure le plus un client bloqu\u00e9 dehors ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Serrurier #Quimper #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 4,
+                        "sum": 4,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
             }
         },
         {
@@ -10067,8 +10175,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 0,
-                        "sum": 0,
+                        "latest": 1,
+                        "sum": 1,
                         "percentageChange": 0
                     },
                     {
@@ -10105,14 +10213,14 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 5,
-                        "sum": 5,
+                        "latest": 7,
+                        "sum": 7,
                         "percentageChange": 0
                     },
                     {
                         "metric": "Reach",
-                        "latest": 5,
-                        "sum": 5,
+                        "latest": 7,
+                        "sum": 7,
                         "percentageChange": 0
                     },
                     {
@@ -10187,14 +10295,14 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 12,
-                        "sum": 12,
+                        "latest": 16,
+                        "sum": 16,
                         "percentageChange": 0
                     },
                     {
                         "metric": "Reach",
-                        "latest": 11,
-                        "sum": 11,
+                        "latest": 14,
+                        "sum": 14,
                         "percentageChange": 0
                     },
                     {
@@ -10217,6 +10325,44 @@
                     },
                     {
                         "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwhty04x00tjkb7zqqyab19u",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-20T08:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=D3HAkIO25P0",
+            "content": "Serrurier \u00e0 Quimper, votre fiche Google rassure-t-elle en urgence ?\n\nLa fiche Google, c'est l'encadr\u00e9 qui pr\u00e9sente votre entreprise sur Google et Google Maps, avec la note, les avis et le bouton Appeler. Bloqu\u00e9 dehors, le client y cherche des signes de s\u00e9rieux.\n\nProenligne publie vos d\u00e9pannages le lundi, une publication le jeudi, et r\u00e9pond \u00e0 chaque avis.\n\nQuel d\u00e9tail de votre fiche Google rassure le plus, d'apr\u00e8s vous ?\n\n#FicheGoogle #Serrurier #Quimper #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 21,
+                        "sum": 21,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
                         "latest": 0,
                         "sum": 0,
                         "percentageChange": 0
