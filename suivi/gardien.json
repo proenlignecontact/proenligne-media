@@ -116,6 +116,15 @@
    "erreur": "Instagram blocked your request",
    "prevu": "2026-11-18T12:15:00Z",
    "reprogramme": "2026-11-19T09:30:00Z"
+  },
+  {
+   "date": "2026-11-20",
+   "ancien_id": "cmwhmb39o00pvkb7zygt6nmm6",
+   "nouvel_id": "cmwonll6h00w3kb7zkjtsivor",
+   "canal": "instagram",
+   "erreur": "Instagram blocked your request",
+   "prevu": "2026-11-19T12:45:00Z",
+   "reprogramme": "2026-11-20T09:30:00Z"
   }
  ],
  "echecs": [
@@ -173,6 +182,14 @@
    "publie_prevu": "2026-11-18T09:30:00Z",
    "erreur": "Instagram blocked your request",
    "note": "Déjà recréé (ancien cmwhm9jge00p7kb7zq4ozrjbd, carrousel paysagiste avant/après), échoue encore : non recréé."
+  },
+  {
+   "date": "2026-11-20",
+   "postiz_id": "cmwn85qxx00vxkb7zqrl9ploy",
+   "canal": "instagram",
+   "publie_prevu": "2026-11-19T09:30:00Z",
+   "erreur": "Instagram blocked your request",
+   "note": "Déjà recréé (ancien cmwhma68q00pjkb7zyewnppvj, carrousel esthéticienne sondage), échoue encore : non recréé."
   }
  ]
 }
