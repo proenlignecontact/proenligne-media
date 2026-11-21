@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-21T07:25:32.273Z",
+    "generatedAt": "2026-11-21T13:33:57.842Z",
     "days": 60,
     "channels": [
         {
@@ -25,8 +25,8 @@
                     },
                     {
                         "metric": "Posts Engagement",
-                        "latest": 0,
-                        "sum": 82,
+                        "latest": 1,
+                        "sum": 83,
                         "percentageChange": 5
                     },
                     {
@@ -8396,8 +8396,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 68,
-                        "sum": 68,
+                        "latest": 73,
+                        "sum": 73,
                         "percentageChange": 0
                     },
                     {
@@ -8460,8 +8460,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 27,
-                        "sum": 27,
+                        "latest": 30,
+                        "sum": 30,
                         "percentageChange": 0
                     },
                     {
@@ -9395,14 +9395,90 @@
                 "metrics": [
                     {
                         "metric": "Views",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
                         "latest": 0,
                         "sum": 0,
                         "percentageChange": 0
                     },
                     {
-                        "metric": "Reach",
+                        "metric": "Likes",
                         "latest": 0,
                         "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwhtz16400tvkb7zkrksgi6i",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-21T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7710550571786586134",
+            "content": "Paysagiste \u00e0 Caen, la fiche Google mange vos soir\u00e9es ?\nLa nuit tombe t\u00f4t, la journ\u00e9e de chantier finit, et les avis attendent encore sur votre fiche Google.\n\n#FicheGoogle #Paysagiste #Caen\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio.",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmwhtz1bl00u1kb7zf67l6ja2",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-21T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2124069238860075426",
+            "content": "Paysagiste \u00e0 Caen, la fiche Google mange vos soir\u00e9es ? La nuit tombe t\u00f4t et les avis attendent. Proenligne publie vos jardins et r\u00e9pond aux avis \u00e0 votre place. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Paysagiste",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmwhtz19j00tzkb7z0ur66rys",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-21T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/Df_4pdDjQEJ/",
+            "content": "Paysagiste \u00e0 Caen, la fiche Google mange vos soir\u00e9es ?\n\nEn novembre, la nuit tombe t\u00f4t. Les haies sont taill\u00e9es, la remorque est vid\u00e9e. Le soir, il reste votre fiche Google, l'encadr\u00e9 qu'un client ouvre sur Google Maps avant de vous confier son jardin.\n\nUne photo de la haie du jour \u00e0 publier, deux avis auxquels r\u00e9pondre. Ce n'est jamais long, mais c'est tous les soirs.\n\nProenligne publie vos jardins et r\u00e9pond aux avis \u00e0 votre place, avec une photo le lundi et une publication le jeudi.\n\nLe soir, vous rangez les gants \u00e0 quelle heure ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Paysagiste #Caen #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 4,
+                        "sum": 4,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 3,
+                        "sum": 3,
                         "percentageChange": 0
                     },
                     {
@@ -10504,8 +10580,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 31,
-                        "sum": 31,
+                        "latest": 37,
+                        "sum": 37,
                         "percentageChange": 0
                     },
                     {
@@ -10542,8 +10618,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 8,
-                        "sum": 8,
+                        "latest": 19,
+                        "sum": 19,
                         "percentageChange": 0
                     },
                     {
@@ -10647,6 +10723,89 @@
                         "percentageChange": 0
                     }
                 ]
+            }
+        },
+        {
+            "id": "cmwhtz1d500u3kb7z13d9twih",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-21T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=62B1UT_j6gk",
+            "content": "Paysagiste \u00e0 Caen, la fiche Google mange vos soir\u00e9es ?\n\nSur Google Maps, chaque paysagiste a sa fiche Google, avec la note, les photos de jardins et le bouton Appeler. La tenir vivante prend quelques minutes, mais chaque soir.\n\nProenligne publie une photo le lundi, une publication le jeudi, et r\u00e9pond \u00e0 chaque avis \u00e0 votre place.\n\nCombien de temps passez-vous sur votre fiche Google chaque semaine ?\n\n#FicheGoogle #Paysagiste #Caen #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwhtz17p00txkb7zloojvmsz",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-21T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/1189799706842033",
+            "content": "Paysagiste \u00e0 Caen, qui tient votre fiche Google le soir ?\n\nLa fiche Google, c'est la carte de visite que Google montre \u00e0 votre place, avec vos photos, vos avis, vos horaires et votre t\u00e9l\u00e9phone. Elle demande un peu d'attention chaque semaine.\n\nDans une entreprise de paysage, cette attention tombe souvent le soir, apr\u00e8s le chantier, quand on aimerait plut\u00f4t souffler.\n\nVous vous en occupez le soir, ou plut\u00f4t le dimanche ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Paysagiste #Caen #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwhmcgn100qhkb7z9sp83wia",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-21T11:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7710585364867598358",
+            "content": "\u00c9lectricien \u00e0 Saint-Brieuc, la journ\u00e9e de chantier finit, mais pas les r\u00e9ponses aux avis Google.\nLe chantier est termin\u00e9, mais votre fiche Google, celle qu'on voit sur Google Maps, attend encore ses photos et ses r\u00e9ponses.\n\n#FicheGoogle #Electricien #SaintBrieuc\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio.",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
             }
         }
     ]
