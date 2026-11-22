@@ -1,0 +1,67 @@
+{
+  "id": "2026-11-25_1900_paysagiste-semaine-lille",
+  "date_paris": "2026-11-25",
+  "heure_paris": "19:30",
+  "creneau_nominal": "19:00",
+  "intention": "utile",
+  "ab": null,
+  "premier_commentaire": "Une façon de gagner du temps. Prenez vos photos de chantier pendant la journée, au fil du travail, puis publiez-en une seule par semaine sur votre fiche Google.",
+  "jour_semaine": "mercredi",
+  "creneau": "video",
+  "metier": "paysagiste",
+  "angle": "gain-de-temps",
+  "format": "journee",
+  "ton": "question",
+  "symptome": "avis-sans-reponse",
+  "offre": "essai",
+  "accroche": "Paysagiste à Lille, le matériel rangé, vous passez encore la soirée sur votre fiche Google ?",
+  "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+  "hashtags": [
+    "#FicheGoogle",
+    "#Jardin",
+    "#Lille",
+    "#Paysagiste",
+    "#ReferencementLocal"
+  ],
+  "media": {
+    "type": "video",
+    "fichiers": [],
+    "postiz": [
+      "https://media.glidy.uk/Xr8j0Pc9Or.mp4"
+    ]
+  },
+  "publications": [
+    {
+      "canal": "tiktok",
+      "postiz_id": "cmwrmg2hv00xdkb7z82e03g42",
+      "caracteres": 409,
+      "texte": "Paysagiste à Lille, le matériel rangé, vous passez encore la soirée sur votre fiche Google ?\nVotre fiche Google, celle que vos clients voient sur Google Maps, demande un peu de temps chaque semaine, souvent le soir, avec des photos à trier, des avis à lire et une publication à écrire.\n\n#FicheGoogle #Paysagiste #Lille\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio."
+    },
+    {
+      "canal": "instagram",
+      "postiz_id": "cmwrmg2jo00xfkb7zgou21v1k",
+      "caracteres": 746,
+      "texte": "Paysagiste à Lille, le matériel rangé, vous passez encore la soirée sur votre fiche Google ?\n\nLa journée finit tôt en hiver, mais elle ne finit pas vraiment. Une fois le camion vidé, il reste votre fiche Google, cette carte de visite que Google montre à votre place avec vos photos, vos avis et vos horaires.\n\nIl faut trier la photo de la haie taillée, remercier un client pour son avis, écrire une publication. Ce n'est jamais long, mais il y en a un peu chaque soir.\n\nProenligne s'en charge à votre place, avec une photo le lundi, une publication le jeudi et une réponse à chaque avis.\n\nEt vous, à quel moment vous occupez-vous de votre fiche Google ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Paysagiste #Jardin #Lille #ReferencementLocal"
+    },
+    {
+      "canal": "youtube",
+      "postiz_id": "cmwrmg2lb00xhkb7z5hwxjj0o",
+      "caracteres": 480,
+      "texte": "Paysagiste à Lille, combien de soirées donnez-vous à votre fiche Google ?\n\nLa fiche Google, c'est ce qui s'affiche quand un client cherche « paysagiste » sur Google ou Google Maps, avec vos photos, vos avis et vos horaires. La tenir à jour prend un peu de temps chaque semaine, souvent le soir.\n\nProenligne publie une photo le lundi, une publication le jeudi, et répond à chaque avis à votre place.\n\nCombien de temps y passez-vous chaque semaine ?\n\n#FicheGoogle #Paysagiste #Lille"
+    },
+    {
+      "canal": "facebook",
+      "postiz_id": "cmwrmg2ni00xjkb7z2odsyymt",
+      "caracteres": 761,
+      "texte": "Paysagiste à Lille, le matériel rangé, vous passez encore la soirée sur votre fiche Google ?\n\nLe chantier est fini, mais la fiche Google, elle, attend encore. C'est l'encadré qu'un client ouvre sur Google Maps avant de vous appeler, avec vos photos, vos avis et vos horaires.\n\nIl faut choisir une photo, répondre aux avis, écrire une nouvelle publication. Chaque tâche est courte, mais elles reviennent chaque semaine, souvent le soir, une fois le camion vidé.\n\nProenligne s'en occupe à votre place, avec une photo le lundi, une publication le jeudi et une réponse à chaque avis.\n\nCombien de soirées par semaine passez-vous sur votre fiche Google ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Paysagiste #Jardin #Lille #ReferencementLocal"
+    }
+  ],
+  "source": "tache-hebdo",
+  "notes": "",
+  "moteur": "plan-sequence",
+  "angle_video": "Du temps libre",
+  "ville_video": "Lille",
+  "duree_video": 16.0,
+  "voix": "Marcel - French touch",
+  "musique": true
+}

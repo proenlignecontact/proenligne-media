@@ -1990,5 +1990,260 @@
    "tiktok": "cmwiymymg00v7kb7zm3t73ks5"
   },
   "serie": "amplif"
+ },
+ {
+  "date": "2026-11-23",
+  "slug": "estheticienne-swipe-clients-lyon",
+  "moteur": "swipe",
+  "angle": "Plus de clients",
+  "metier": "esthéticienne",
+  "ville": "Lyon",
+  "valeur": "",
+  "accroches": [
+   "Esthéticienne à Lyon, votre nouveau soin est sur votre fiche Google ?",
+   "Esthéticienne à Lyon, la cliente s'arrête-t-elle sur votre fiche Google ?"
+  ],
+  "voix": [
+   "La cliente ne voit rien de neuf et passe.",
+   "Pro en ligne montre vos soins.",
+   "Et la cliente s'arrête chez vous.",
+   "Trente jours offerts, le lien est en bio."
+  ],
+  "ambiance": 1,
+  "duree": 15.0,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmwrmerhi00wrkb7zq9wm05m3",
+   "instagram": "cmwrmerjq00wtkb7zem33rq50",
+   "youtube": "cmwrmermd00wvkb7zkcg0dna2",
+   "facebook": "cmwrmeros00wxkb7zdaogyeuw"
+  }
+ },
+ {
+  "date": "2026-11-24",
+  "slug": "chauffagiste-appels-nantes",
+  "moteur": "cinetique",
+  "angle": "Plus d'appels",
+  "metier": "chauffagiste",
+  "ville": "Nantes",
+  "valeur": "0",
+  "accroches": [
+   "Chauffagiste à Nantes, on vous *appelle* depuis Google ?",
+   "Chauffagiste à Nantes, on vous trouve sur *Google* cet hiver ?"
+  ],
+  "voix": [
+   "Avant d'appeler, on regarde votre fiche Google.",
+   "Pro en ligne la fait vivre chaque semaine.",
+   "Quand il fait froid, votre fiche Google rassure le client.",
+   "Essayez trente jours offerts, lien en bio."
+  ],
+  "ambiance": 2,
+  "duree": 17.0,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmwrmfgr600x3kb7z1g5tadii",
+   "instagram": "cmwrmfgst00x5kb7z4653xrgr",
+   "youtube": "cmwrmfgue00x7kb7za1i341b0",
+   "facebook": "cmwrmfgvz00x9kb7zzi0808ya"
+  }
+ },
+ {
+  "date": "2026-11-25",
+  "slug": "paysagiste-semaine-lille",
+  "moteur": "plan-sequence",
+  "angle": "Du temps libre",
+  "metier": "paysagiste",
+  "ville": "Lille",
+  "valeur": "",
+  "accroches": [
+   "Paysagiste à Lille, le soir, vous gérez votre *fiche Google* ?",
+   "Paysagiste à Lille, la *fiche Google* prend vos soirées ?"
+  ],
+  "voix": [
+   "Après le chantier, il reste encore les avis.",
+   "Pro en ligne s'en charge à votre place.",
+   "Le soir, le jardin, c'est le vôtre.",
+   "C'est trente jours offerts, le lien est en bio."
+  ],
+  "ambiance": 0,
+  "duree": 16.0,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmwrmg2hv00xdkb7z82e03g42",
+   "instagram": "cmwrmg2jo00xfkb7zgou21v1k",
+   "youtube": "cmwrmg2lb00xhkb7z5hwxjj0o",
+   "facebook": "cmwrmg2ni00xjkb7z2odsyymt"
+  }
+ },
+ {
+  "date": "2026-11-26",
+  "slug": "plombier-swipe-concurrent-brest",
+  "moteur": "swipe",
+  "angle": "Face au concurrent",
+  "metier": "plombier",
+  "ville": "Brest",
+  "valeur": "",
+  "accroches": [
+   "Plombier à Brest, le voisin a votre note, mais sa fiche Google vit.",
+   "Plombier à Brest, entre deux fiches Google, laquelle garde-t-on ?"
+  ],
+  "voix": [
+   "Et la vôtre, elle montre quoi de neuf ?",
+   "Pro en ligne publie vos chantiers.",
+   "Cette fois, c'est le voisin qu'on passe.",
+   "Lien en bio, et trente jours offerts."
+  ],
+  "ambiance": 1,
+  "duree": 16.5,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmwrmgw5r00xrkb7zigwknjup",
+   "instagram": "cmwrmgw7300xtkb7zeccpkzcc",
+   "youtube": "cmwrmgw9300xvkb7zq2jil6nd",
+   "facebook": "cmwrmgwbm00xxkb7zmrhsmo5c"
+  }
+ },
+ {
+  "date": "2026-11-27",
+  "slug": "garage-appels-lorient",
+  "moteur": "cinetique",
+  "angle": "Plus d'appels",
+  "metier": "garagiste",
+  "ville": "Lorient",
+  "valeur": "0",
+  "accroches": [
+   "Garagiste à Lorient, on vous appelle depuis *Google* ?",
+   "Garagiste à Lorient, votre *fiche Google* rassure ?"
+  ],
+  "voix": [
+   "Une panne, et on compare les fiches Google.",
+   "Pro en ligne montre votre atelier chaque semaine.",
+   "Et votre fiche Google donne envie d'appeler.",
+   "Testez trente jours offerts, lien en bio."
+  ],
+  "ambiance": 2,
+  "duree": 16.0,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmwrmhiwx00y1kb7zwfrtrav9",
+   "instagram": "cmwrmhiyl00y3kb7z8tm2e4sg",
+   "youtube": "cmwrmhj0700y5kb7zxeqzx42i",
+   "facebook": "cmwrmhj1d00y7kb7zk4zd7vis"
+  }
+ },
+ {
+  "date": "2026-11-28",
+  "slug": "electricien-classement-vannes",
+  "moteur": "plan-sequence",
+  "angle": "Plus de clients",
+  "metier": "électricien",
+  "ville": "Vannes",
+  "valeur": "",
+  "accroches": [
+   "Et vous, sur *Google* ?",
+   "On vous voit sur *Google* ?"
+  ],
+  "voix": [
+   "Souvent, on appelle les premières fiches Google.",
+   "Pro en ligne fait vivre la vôtre chaque semaine.",
+   "Et les clients du coin voient une entreprise active.",
+   "Le lien est en bio, trente jours offerts."
+  ],
+  "ambiance": 0,
+  "duree": 17.0,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmwrmi6k300ydkb7zo5lxvvbe",
+   "instagram": "cmwrmi6m900yfkb7zdog79keh",
+   "youtube": "cmwrmi6nx00yhkb7z8v1idv85",
+   "facebook": "cmwrmi6p300yjkb7z7me2wbbz"
+  }
+ },
+ {
+  "date": "2026-11-29",
+  "slug": "autoecole-swipe-soirees-toulouse",
+  "moteur": "swipe",
+  "angle": "Du temps libre",
+  "metier": "auto-école",
+  "ville": "Toulouse",
+  "valeur": "",
+  "accroches": [
+   "Auto-école à Toulouse, après les leçons, votre fiche Google attend encore.",
+   "Auto-école à Toulouse, vos soirées passent sur votre fiche Google ?"
+  ],
+  "voix": [
+   "Les avis et les photos s'empilent.",
+   "Pro en ligne vide la pile.",
+   "Ce soir, vous restez libre.",
+   "Profitez de trente jours offerts, lien en bio."
+  ],
+  "ambiance": 1,
+  "duree": 17.0,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmwrmiskq00ynkb7z7d3s53a0",
+   "instagram": "cmwrmismd00ypkb7zc3xdpdpc",
+   "youtube": "cmwrmisny00yrkb7zhba2m3zt",
+   "facebook": "cmwrmisp800ytkb7zvndsh8hb"
+  }
+ },
+ {
+  "date": "2026-11-26",
+  "slug": "chauffagiste-appels-nantes-b",
+  "moteur": "cinetique",
+  "angle": "Plus d'appels",
+  "metier": "chauffagiste",
+  "ville": "Nantes",
+  "valeur": "0",
+  "accroches": [
+   "Chauffagiste à Nantes, on vous trouve sur *Google* cet hiver ?",
+   "Chauffagiste à Nantes, on vous *appelle* depuis Google ?"
+  ],
+  "voix": [
+   "Avant d'appeler, on regarde votre fiche Google.",
+   "Pro en ligne la fait vivre chaque semaine.",
+   "Quand il fait froid, votre fiche Google rassure le client.",
+   "Essayez trente jours offerts, lien en bio."
+  ],
+  "ambiance": 2,
+  "duree": 17.5,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmwrmgw1j00xlkb7zgw00rd4c"
+  }
+ },
+ {
+  "date": "2026-11-28",
+  "slug": "plombier-swipe-concurrent-brest-b",
+  "moteur": "swipe",
+  "angle": "Face au concurrent",
+  "metier": "plombier",
+  "ville": "Brest",
+  "valeur": "",
+  "accroches": [
+   "Plombier à Brest, entre deux fiches Google, laquelle garde-t-on ?",
+   "Plombier à Brest, le voisin a votre note, mais sa fiche Google vit."
+  ],
+  "voix": [
+   "Et la vôtre, elle montre quoi de neuf ?",
+   "Pro en ligne publie vos chantiers.",
+   "Cette fois, c'est le voisin qu'on passe.",
+   "Lien en bio, et trente jours offerts."
+  ],
+  "ambiance": 1,
+  "duree": 16.0,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmwrmi6gw00y9kb7z3uvot71p"
+  }
  }
 ]

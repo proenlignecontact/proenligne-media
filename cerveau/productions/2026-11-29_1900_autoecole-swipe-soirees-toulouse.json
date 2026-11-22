@@ -1,0 +1,67 @@
+{
+  "id": "2026-11-29_1900_autoecole-swipe-soirees-toulouse",
+  "date_paris": "2026-11-29",
+  "heure_paris": "18:30",
+  "creneau_nominal": "19:00",
+  "intention": "utile",
+  "ab": null,
+  "premier_commentaire": "Une astuce pour les auto-écoles. Après chaque permis réussi, demandez à l'élève s'il veut bien laisser un avis, car c'est le moment où il est le plus content.",
+  "jour_semaine": "dimanche",
+  "creneau": "video",
+  "metier": "autoecole",
+  "angle": "gain-de-temps",
+  "format": "journee",
+  "ton": "scene",
+  "symptome": "avis-sans-reponse",
+  "offre": "essai",
+  "accroche": "Auto-école à Toulouse, il est 22 h, la dernière leçon est finie, et votre fiche Google vous attend.",
+  "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+  "hashtags": [
+    "#AutoEcole",
+    "#FicheGoogle",
+    "#PermisDeConduire",
+    "#ReferencementLocal",
+    "#Toulouse"
+  ],
+  "media": {
+    "type": "video",
+    "fichiers": [],
+    "postiz": [
+      "https://media.glidy.uk/O8BKEBVVQh.mp4"
+    ]
+  },
+  "publications": [
+    {
+      "canal": "tiktok",
+      "postiz_id": "cmwrmiskq00ynkb7z7d3s53a0",
+      "caracteres": 356,
+      "texte": "Auto-école à Toulouse, il est 22 h, la dernière leçon est finie, et votre fiche Google vous attend.\nLes avis des élèves, les photos, les nouvelles, ça s'empile sur votre fiche Google, celle que les familles voient sur Google Maps.\n\n#FicheGoogle #AutoEcole #Toulouse\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio."
+    },
+    {
+      "canal": "instagram",
+      "postiz_id": "cmwrmismd00ypkb7zc3xdpdpc",
+      "caracteres": 684,
+      "texte": "Auto-école à Toulouse, il est 22 h, la dernière leçon est finie, et votre fiche Google vous attend.\n\nLa voiture est rangée, le planning de demain est prêt. Reste votre fiche Google, cet encadré qu'une famille ouvre sur Google Maps avant d'inscrire un élève.\n\nUn élève reçu au permis attend un merci sous son avis, et la photo de la nouvelle voiture attend d'être publiée. Rien de long, mais tout s'empile.\n\nProenligne s'en charge à votre place, avec une photo le lundi, une publication le jeudi et une réponse à chaque avis.\n\nÀ quelle heure finissez-vous vraiment votre journée ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #AutoEcole #PermisDeConduire #Toulouse #ReferencementLocal"
+    },
+    {
+      "canal": "youtube",
+      "postiz_id": "cmwrmisny00yrkb7zhba2m3zt",
+      "caracteres": 500,
+      "texte": "Auto-école à Toulouse, la dernière leçon est finie, mais votre fiche Google vous attend.\n\nLa fiche Google, c'est ce que les familles voient en premier quand elles cherchent une auto-école sur Google Maps, avec vos photos, vos avis et vos horaires. La tenir à jour se fait souvent le soir, après les leçons.\n\nProenligne publie une photo le lundi, une publication le jeudi, et répond à chaque avis à votre place.\n\nEt vous, quand répondez-vous aux avis de vos élèves ?\n\n#FicheGoogle #AutoEcole #Toulouse"
+    },
+    {
+      "canal": "facebook",
+      "postiz_id": "cmwrmisp800ytkb7zvndsh8hb",
+      "caracteres": 693,
+      "texte": "Auto-école à Toulouse, il est 22 h, la dernière leçon est finie, et votre fiche Google vous attend.\n\nAvant d'inscrire un enfant, beaucoup de parents regardent la fiche Google de l'auto-école sur Google Maps, avec la note, les photos et les avis des anciens élèves.\n\nIl faut remercier un élève reçu, publier une photo de la voiture. Chaque soir, il y a un petit quelque chose, et la soirée raccourcit.\n\nProenligne s'en occupe pour vous, avec une photo le lundi, une publication le jeudi et une réponse à chaque avis.\n\nVous gardez combien de soirées libres par semaine ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #AutoEcole #PermisDeConduire #Toulouse #ReferencementLocal"
+    }
+  ],
+  "source": "tache-hebdo",
+  "notes": "",
+  "moteur": "swipe",
+  "angle_video": "Du temps libre",
+  "ville_video": "Toulouse",
+  "duree_video": 17.0,
+  "voix": "Marcel - French touch",
+  "musique": true
+}

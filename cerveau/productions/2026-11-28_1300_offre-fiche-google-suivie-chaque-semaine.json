@@ -1,0 +1,47 @@
+{
+ "id": "2026-11-28_1300_offre-fiche-google-suivie-chaque-semaine",
+ "date_paris": "2026-11-28",
+ "heure_paris": "13:45",
+ "creneau_nominal": "13:00",
+ "intention": "offre",
+ "ab": null,
+ "premier_commentaire": "Pendant l'essai, vous continuez votre métier comme d'habitude. Vous validez seulement les réponses aux avis négatifs. 30 jours offerts, le lien est en bio.",
+ "jour_semaine": "samedi",
+ "creneau": "visuel",
+ "metier": "general",
+ "angle": "gain-de-temps",
+ "format": "conseil",
+ "ton": "constat",
+ "symptome": null,
+ "offre": "essai",
+ "accroche": "Une fiche Google active demande un peu de temps chaque semaine. Proenligne le prend pour vous.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Artisan",
+  "#Commercant",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "image",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/qB438iUlqX.png",
+   "https://media.glidy.uk/IOjkLhmDcQ.png",
+   "https://media.glidy.uk/YW14ePIRRj.png",
+   "https://media.glidy.uk/kITfAOgY7h.png",
+   "https://media.glidy.uk/CX9igtiecf.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "instagram",
+   "postiz_id": "cmwrmi6ib00ybkb7zvvum37cg",
+   "caracteres": 675,
+   "texte": "Une fiche Google active demande un peu de temps chaque semaine. Proenligne le prend pour vous.\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche votre métier sur Google ou Google Maps, avec vos photos, vos avis et vos horaires. Pour qu'elle montre une entreprise vivante, il faut la nourrir régulièrement.\n\nAvec Proenligne, chaque semaine\n✅ une photo de votre travail est publiée le lundi\n✅ une publication paraît le jeudi\n✅ chaque avis reçoit une réponse, et vous validez celles aux avis négatifs\n\nEssayez Proenligne gratuitement, 30 jours offerts, sans engagement. Lien en bio.\n\n#FicheGoogle #Artisan #Commercant #ReferencementLocal #GoogleBusinessProfile"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

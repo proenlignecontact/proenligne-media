@@ -1,0 +1,67 @@
+{
+  "id": "2026-11-23_1900_estheticienne-swipe-clients-lyon",
+  "date_paris": "2026-11-23",
+  "heure_paris": "18:30",
+  "creneau_nominal": "19:00",
+  "intention": "utile",
+  "ab": null,
+  "premier_commentaire": "Une astuce simple. Ajoutez chaque nouveau soin dans la rubrique Services de votre fiche Google le jour où vous le lancez, avec une phrase qui dit à qui il s'adresse.",
+  "jour_semaine": "lundi",
+  "creneau": "video",
+  "metier": "estheticienne",
+  "angle": "peur-de-perdre",
+  "format": "recherche",
+  "ton": "replique",
+  "symptome": "service-invisible",
+  "offre": "essai",
+  "accroche": "« Elle ne fait pas ce soin, on passe. » Esthéticienne à Lyon, votre nouveau soin manque sur votre fiche Google.",
+  "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+  "hashtags": [
+    "#Estheticienne",
+    "#FicheGoogle",
+    "#InstitutDeBeaute",
+    "#Lyon",
+    "#ReferencementLocal"
+  ],
+  "media": {
+    "type": "video",
+    "fichiers": [],
+    "postiz": [
+      "https://media.glidy.uk/0ojoMdrRQB.mp4"
+    ]
+  },
+  "publications": [
+    {
+      "canal": "tiktok",
+      "postiz_id": "cmwrmerhi00wrkb7zq9wm05m3",
+      "caracteres": 362,
+      "texte": "« Elle ne fait pas ce soin, on passe. » Esthéticienne à Lyon, votre nouveau soin manque sur votre fiche Google.\nSur Google Maps, la cliente fait défiler les fiches Google des instituts. Si votre soin n'y est pas, elle s'arrête ailleurs.\n\n#FicheGoogle #Estheticienne #Lyon\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio."
+    },
+    {
+      "canal": "instagram",
+      "postiz_id": "cmwrmerjq00wtkb7zem33rq50",
+      "caracteres": 646,
+      "texte": "« Elle ne fait pas ce soin, on passe. » Esthéticienne à Lyon, votre nouveau soin manque sur votre fiche Google.\n\nUne cliente cherche un soin précis. Elle tape le nom du soin et sa ville, et Google lui montre des fiches Google d'instituts, avec les photos, les avis et la liste des services.\n\nVous proposez ce soin depuis la rentrée. Mais sur votre fiche Google, il n'apparaît pas. Elle fait glisser son doigt et s'arrête sur l'institut d'à côté, qui l'affiche.\n\nVotre dernier soin, il est sur votre fiche Google ou seulement dans la cabine ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #Lyon #ReferencementLocal"
+    },
+    {
+      "canal": "youtube",
+      "postiz_id": "cmwrmermd00wvkb7zkcg0dna2",
+      "caracteres": 513,
+      "texte": "Esthéticienne à Lyon, votre nouveau soin est-il visible sur votre fiche Google ?\n\nLa fiche Google, c'est l'encadré qui présente votre institut sur Google et Google Maps, avec vos photos, vos avis, vos horaires et vos services. Une cliente qui cherche un soin précis compare ces fiches Google avant de réserver.\n\nProenligne publie une photo le lundi, une publication le jeudi, et répond à chaque avis.\n\nQuel soin avez-vous lancé en dernier, et se voit-il sur votre fiche Google ?\n\n#FicheGoogle #Estheticienne #Lyon"
+    },
+    {
+      "canal": "facebook",
+      "postiz_id": "cmwrmeros00wxkb7zdaogyeuw",
+      "caracteres": 606,
+      "texte": "« Elle ne fait pas ce soin, on passe. » Esthéticienne à Lyon, votre nouveau soin manque sur votre fiche Google.\n\nAvant de réserver, beaucoup de clientes regardent la fiche Google de l'institut, ce que Google affiche avec les photos, les avis et les services. C'est là qu'elles vérifient que le soin existe.\n\nUn soin lancé au salon mais absent de votre fiche Google, une nouvelle cliente ne peut pas le connaître.\n\nDepuis quand votre liste de soins n'a-t-elle pas bougé sur Google ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #Lyon #ReferencementLocal"
+    }
+  ],
+  "source": "tache-hebdo",
+  "notes": "",
+  "moteur": "swipe",
+  "angle_video": "Plus de clients",
+  "ville_video": "Lyon",
+  "duree_video": 15.0,
+  "voix": "Marcel - French touch",
+  "musique": true
+}

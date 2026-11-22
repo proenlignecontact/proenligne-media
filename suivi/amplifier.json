@@ -1,28 +1,6 @@
 {
  "_lisezmoi": "Posts qui ont décollé (audience ≥ 50 vues ET > 2 × médiane du canal sur 14 jours, cerveau/amplifier.py). Écrit par la tâche quotidienne, lu et vidé par la tâche hebdomadaire après reprise.",
- "a_reprendre": [
-  {
-   "fiche": "2026-11-07_1900_estheticienne-nouveau-soin-cache",
-   "canal": "youtube",
-   "audience": 98,
-   "mediane_canal": 43,
-   "partages": null,
-   "commentaires": 0,
-   "metier": "estheticienne",
-   "angle": "peur-de-perdre",
-   "ton": "scene",
-   "intention": "utile",
-   "format": "journee",
-   "creneau": "video",
-   "accroche": "Il est 22 h. La cabine est rangée, mais votre nouveau soin manque sur votre fiche Google.",
-   "detecte_le": "2026-11-16",
-   "variante_programmee": {
-    "date": "2026-11-17",
-    "postiz_id": "cmwiymymg00v7kb7zm3t73ks5",
-    "ab": "B"
-   }
-  }
- ],
+ "a_reprendre": [],
  "repris": [
   {
    "fiche": "2026-11-02_1900_paysagiste-fiche-endormie-hiver",
@@ -157,6 +135,29 @@
    },
    "repris_le": "2026-11-11",
    "note": "Variante déjà programmée par le gardien ; sous le plancher de 50 vues instauré le 11/11/2026 (bruit statistique), clos sans reprise hebdomadaire."
+  },
+  {
+   "fiche": "2026-11-07_1900_estheticienne-nouveau-soin-cache",
+   "canal": "youtube",
+   "audience": 98,
+   "mediane_canal": 43,
+   "partages": null,
+   "commentaires": 0,
+   "metier": "estheticienne",
+   "angle": "peur-de-perdre",
+   "ton": "scene",
+   "intention": "utile",
+   "format": "journee",
+   "creneau": "video",
+   "accroche": "Il est 22 h. La cabine est rangée, mais votre nouveau soin manque sur votre fiche Google.",
+   "detecte_le": "2026-11-16",
+   "variante_programmee": {
+    "date": "2026-11-17",
+    "postiz_id": "cmwiymymg00v7kb7zm3t73ks5",
+    "ab": "B"
+   },
+   "repris_le": "2026-11-22",
+   "note": "Repris dans la semaine du 23/11 : même angle (nouveauté absente de la fiche Google) sur un autre métier en carrousel (coiffeur, lundi 13:00), et vidéo esthéticienne avec une autre accroche (swipe Lyon, lundi 19:00)."
   }
  ]
 }

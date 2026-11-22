@@ -1,0 +1,67 @@
+{
+  "id": "2026-11-28_1900_electricien-classement-vannes",
+  "date_paris": "2026-11-28",
+  "heure_paris": "19:45",
+  "creneau_nominal": "19:00",
+  "intention": "utile",
+  "ab": null,
+  "premier_commentaire": "Une astuce de plus. Refaites la recherche avec « dépannage électrique » ou « électricien urgence », car vos clients ne tapent pas tous le même mot.",
+  "jour_semaine": "samedi",
+  "creneau": "video",
+  "metier": "electricien",
+  "angle": "peur-de-perdre",
+  "format": "recherche",
+  "ton": "question",
+  "symptome": "fiche-oubliee",
+  "offre": "essai",
+  "accroche": "Électricien à Vannes, on vous voit sur Google quand on cherche un électricien ?",
+  "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+  "hashtags": [
+    "#Electricien",
+    "#Electricite",
+    "#FicheGoogle",
+    "#ReferencementLocal",
+    "#Vannes"
+  ],
+  "media": {
+    "type": "video",
+    "fichiers": [],
+    "postiz": [
+      "https://media.glidy.uk/P3FDRovYV0.mp4"
+    ]
+  },
+  "publications": [
+    {
+      "canal": "tiktok",
+      "postiz_id": "cmwrmi6k300ydkb7zo5lxvvbe",
+      "caracteres": 374,
+      "texte": "Électricien à Vannes, on vous voit sur Google quand on cherche un électricien ?\nTapez « électricien Vannes » sur Google Maps. Les encadrés qui s'affichent sont des fiches Google, et celles du haut de la liste sont souvent celles qu'on appelle.\n\n#FicheGoogle #Electricien #Vannes\n\nAbonnez-vous pour voir les autres métiers et leur fiche Google. 30 jours offerts, lien en bio."
+    },
+    {
+      "canal": "instagram",
+      "postiz_id": "cmwrmi6m900yfkb7zdog79keh",
+      "caracteres": 596,
+      "texte": "Électricien à Vannes, on vous voit sur Google quand on cherche un électricien ?\n\nUn test simple. Tapez « électricien » et votre ville sur Google Maps. Google affiche des fiches Google, ces encadrés avec la note, les photos et le bouton Appeler.\n\nRegardez lesquelles sortent avant votre fiche Google. Souvent, elles ont des photos récentes, des publications et des avis qui ont une réponse. Ce sont des signes qu'un client voit tout de suite.\n\nVous avez fait le test ? Vous êtes où dans la liste ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Electricien #Electricite #Vannes #ReferencementLocal"
+    },
+    {
+      "canal": "youtube",
+      "postiz_id": "cmwrmi6nx00yhkb7z8v1idv85",
+      "caracteres": 489,
+      "texte": "Électricien à Vannes, quand on cherche votre métier sur Google, on vous voit ?\n\nQuand on tape « électricien près de moi », Google affiche des fiches Google avec photos, avis et horaires. La vôtre en fait partie. Le client appelle souvent l'une des premières qu'il voit.\n\nProenligne fait vivre votre fiche Google, avec une photo le lundi, une publication le jeudi et une réponse à chaque avis.\n\nAvez-vous déjà cherché votre propre métier sur Google Maps ?\n\n#FicheGoogle #Electricien #Vannes"
+    },
+    {
+      "canal": "facebook",
+      "postiz_id": "cmwrmi6p300yjkb7z7me2wbbz",
+      "caracteres": 592,
+      "texte": "Électricien à Vannes, on vous voit sur Google quand on cherche un électricien ?\n\nFaites l'essai avec le téléphone d'un proche. Tapez « électricien » et votre ville sur Google Maps. Les encadrés qui apparaissent sont des fiches Google, avec la note, les photos et le téléphone.\n\nCelles qui ont des photos récentes et des avis avec réponse donnent envie d'appeler. Une fiche Google oubliée passe inaperçue.\n\nQuand avez-vous regardé votre fiche Google pour la dernière fois ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Electricien #Electricite #Vannes #ReferencementLocal"
+    }
+  ],
+  "source": "tache-hebdo",
+  "notes": "",
+  "moteur": "plan-sequence",
+  "angle_video": "Plus de clients",
+  "ville_video": "Vannes",
+  "duree_video": 17.0,
+  "voix": "Marcel - French touch",
+  "musique": true
+}

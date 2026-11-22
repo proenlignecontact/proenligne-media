@@ -1,0 +1,67 @@
+{
+  "id": "2026-11-24_1900_chauffagiste-appels-nantes",
+  "date_paris": "2026-11-24",
+  "heure_paris": "19:15",
+  "creneau_nominal": "19:00",
+  "intention": "utile",
+  "ab": "A",
+  "premier_commentaire": "Avant l'hiver, vérifiez une chose simple. Vos horaires de dépannage et votre numéro doivent être justes sur votre fiche Google, sinon le client appelle dans le vide.",
+  "jour_semaine": "mardi",
+  "creneau": "video",
+  "metier": "chauffagiste",
+  "angle": "peur-de-perdre",
+  "format": "fiche",
+  "ton": "question",
+  "symptome": "pas-de-nouveaute",
+  "offre": "essai",
+  "accroche": "Chauffagiste à Nantes, votre fiche Google est-elle prête pour l'hiver ?",
+  "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+  "hashtags": [
+    "#Chauffage",
+    "#Chauffagiste",
+    "#FicheGoogle",
+    "#Nantes",
+    "#ReferencementLocal"
+  ],
+  "media": {
+    "type": "video",
+    "fichiers": [],
+    "postiz": [
+      "https://media.glidy.uk/r4Ew1BoEHr.mp4"
+    ]
+  },
+  "publications": [
+    {
+      "canal": "tiktok",
+      "postiz_id": "cmwrmfgr600x3kb7z1g5tadii",
+      "caracteres": 300,
+      "texte": "Chauffagiste à Nantes, votre fiche Google est-elle prête pour l'hiver ?\nUne chaudière en panne, et le client ouvre Google Maps. Il regarde les fiches Google avant d'appeler.\n\n#FicheGoogle #Chauffagiste #Nantes\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio."
+    },
+    {
+      "canal": "instagram",
+      "postiz_id": "cmwrmfgst00x5kb7z4653xrgr",
+      "caracteres": 673,
+      "texte": "Chauffagiste à Nantes, votre fiche Google est-elle prête pour l'hiver ?\n\nUn matin, la chaudière ne redémarre pas. Le client prend son téléphone et tape « chauffagiste » sur Google Maps. Il voit des fiches Google, avec la note, les photos, les horaires et le bouton Appeler.\n\nIl regarde vite. Il voit des photos récentes, des avis qui ont une réponse, des horaires justes. Ou bien il tombe sur une fiche Google qui n'a pas bougé depuis l'hiver dernier.\n\nSouvent, il appelle celui qui a l'air présent.\n\nQu'avez-vous publié sur votre fiche Google depuis le début de l'automne ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Chauffagiste #Chauffage #Nantes #ReferencementLocal"
+    },
+    {
+      "canal": "youtube",
+      "postiz_id": "cmwrmfgue00x7kb7za1i341b0",
+      "caracteres": 483,
+      "texte": "Chauffagiste à Nantes, votre fiche Google est-elle prête pour l'hiver ?\n\nQuand on cherche « chauffagiste » sur Google Maps, Google affiche des fiches Google avec photos, avis et horaires. La vôtre en fait partie. En hiver, le client pressé les compare en quelques secondes avant d'appeler.\n\nProenligne publie une photo le lundi, une publication le jeudi, et répond à chaque avis.\n\nVos horaires de dépannage sont-ils à jour sur votre fiche Google ?\n\n#FicheGoogle #Chauffagiste #Nantes"
+    },
+    {
+      "canal": "facebook",
+      "postiz_id": "cmwrmfgvz00x9kb7zzi0808ya",
+      "caracteres": 597,
+      "texte": "Chauffagiste à Nantes, votre fiche Google est-elle prête pour l'hiver ?\n\nLes premiers matins froids, les chaudières capricieuses se réveillent. Le client cherche un chauffagiste sur Google et tombe sur des fiches Google, ces encadrés avec la note, les photos et le bouton Appeler.\n\nUne fiche Google qui montre des installations récentes et des avis qui ont une réponse inspire confiance. Une fiche Google figée depuis l'an dernier fait hésiter.\n\nLa vôtre montre quoi, ce matin ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Chauffagiste #Chauffage #Nantes #ReferencementLocal"
+    }
+  ],
+  "source": "tache-hebdo",
+  "notes": "",
+  "moteur": "cinetique",
+  "angle_video": "Plus d'appels",
+  "ville_video": "Nantes",
+  "duree_video": 17.0,
+  "voix": "Marcel - French touch",
+  "musique": true
+}

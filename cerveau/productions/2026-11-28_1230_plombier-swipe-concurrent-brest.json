@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-28_1230_plombier-swipe-concurrent-brest",
+  "date_paris": "2026-11-28",
+  "heure_paris": "12:30",
+  "creneau_nominal": "12:30",
+  "intention": "utile",
+  "ab": "B",
+  "premier_commentaire": "Une seule photo de chantier par semaine suffit à montrer que votre entreprise travaille en ce moment.",
+  "jour_semaine": "samedi",
+  "creneau": "video",
+  "metier": "plombier",
+  "angle": "peur-de-perdre",
+  "format": "fiche",
+  "ton": "scene",
+  "symptome": "concurrent-plus-riche",
+  "offre": "essai",
+  "accroche": "Plombier à Brest, entre deux fiches Google, laquelle le client garde-t-il ?",
+  "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+  "hashtags": [
+    "#Brest",
+    "#FicheGoogle",
+    "#Plombier"
+  ],
+  "media": {
+    "type": "video",
+    "fichiers": [],
+    "postiz": [
+      "https://media.glidy.uk/pDrPF5bRCy.mp4"
+    ]
+  },
+  "publications": [
+    {
+      "canal": "tiktok",
+      "postiz_id": "cmwrmi6gw00y9kb7z3uvot71p",
+      "caracteres": 333,
+      "texte": "Plombier à Brest, entre deux fiches Google, laquelle le client garde-t-il ?\nSur Google Maps, ces deux fiches Google ont la même note. L'une montre des chantiers récents, l'autre n'a rien publié depuis longtemps.\n\n#FicheGoogle #Plombier #Brest\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio."
+    }
+  ],
+  "source": "tache-hebdo",
+  "notes": "",
+  "moteur": "swipe",
+  "angle_video": "Face au concurrent",
+  "ville_video": "Brest",
+  "duree_video": 16.0,
+  "voix": "Marcel - French touch",
+  "musique": true
+}

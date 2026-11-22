@@ -1,0 +1,67 @@
+{
+  "id": "2026-11-26_1900_plombier-swipe-concurrent-brest",
+  "date_paris": "2026-11-26",
+  "heure_paris": "18:45",
+  "creneau_nominal": "19:00",
+  "intention": "utile",
+  "ab": "A",
+  "premier_commentaire": "À note égale, le client regarde souvent les photos. Une salle de bains refaite ou un ballon d'eau chaude bien raccordé parlent plus qu'une photo du camion.",
+  "jour_semaine": "jeudi",
+  "creneau": "video",
+  "metier": "plombier",
+  "angle": "peur-de-perdre",
+  "format": "fiche",
+  "ton": "scene",
+  "symptome": "concurrent-plus-riche",
+  "offre": "essai",
+  "accroche": "Plombier à Brest, le voisin a la même note que vous, mais sa fiche Google montre ses chantiers.",
+  "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+  "hashtags": [
+    "#Brest",
+    "#FicheGoogle",
+    "#Plomberie",
+    "#Plombier",
+    "#ReferencementLocal"
+  ],
+  "media": {
+    "type": "video",
+    "fichiers": [],
+    "postiz": [
+      "https://media.glidy.uk/BgMGocq4SY.mp4"
+    ]
+  },
+  "publications": [
+    {
+      "canal": "tiktok",
+      "postiz_id": "cmwrmgw5r00xrkb7zigwknjup",
+      "caracteres": 322,
+      "texte": "Plombier à Brest, le voisin a la même note que vous, mais sa fiche Google montre ses chantiers.\nSur Google Maps, deux fiches Google ont la même note. Le client garde souvent celle qui a l'air vivante.\n\n#FicheGoogle #Plombier #Brest\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio."
+    },
+    {
+      "canal": "instagram",
+      "postiz_id": "cmwrmgw7300xtkb7zeccpkzcc",
+      "caracteres": 676,
+      "texte": "Plombier à Brest, le voisin a la même note que vous, mais sa fiche Google montre ses chantiers.\n\nIl est 22 h, l'eau coule sous l'évier. Le client ouvre Google Maps et compare deux fiches Google, ces encadrés avec la note, les photos et le bouton Appeler.\n\nLes deux ont la même note. Le voisin montre ses chantiers de la semaine. Si votre fiche Google ne montre rien de récent, le client ne peut pas savoir que vous travaillez.\n\nIl ne vous connaît pas. Il garde celui qui a l'air de travailler en ce moment.\n\nQuelle photo de chantier mettriez-vous en premier sur votre fiche Google ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Plombier #Plomberie #Brest #ReferencementLocal"
+    },
+    {
+      "canal": "youtube",
+      "postiz_id": "cmwrmgw9300xvkb7zq2jil6nd",
+      "caracteres": 505,
+      "texte": "Plombier à Brest, la même note que le voisin, mais sa fiche Google montre ses chantiers.\n\nLa fiche Google, c'est la carte de visite que Google montre à votre place, avec vos photos, vos avis, vos horaires et votre téléphone. Quand deux plombiers ont la même note, le client regarde ce qui est récent.\n\nProenligne publie une photo de vos chantiers le lundi, une publication le jeudi, et répond à chaque avis.\n\nVotre fiche Google montre-t-elle vos chantiers de cette semaine ?\n\n#FicheGoogle #Plombier #Brest"
+    },
+    {
+      "canal": "facebook",
+      "postiz_id": "cmwrmgwbm00xxkb7zmrhsmo5c",
+      "caracteres": 588,
+      "texte": "Plombier à Brest, le voisin a la même note que vous, mais sa fiche Google montre ses chantiers.\n\nSur Google Maps, chaque plombier a sa fiche Google, avec la note, les photos et le bouton Appeler. C'est elle qu'on regarde avant de choisir.\n\nDeux fiches Google affichent la même note. L'une montre des chantiers récents, l'autre n'a rien publié depuis longtemps. Dans l'urgence, on garde celle qui a l'air active.\n\nSur votre fiche Google, quelle est la photo la plus récente ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Plombier #Plomberie #Brest #ReferencementLocal"
+    }
+  ],
+  "source": "tache-hebdo",
+  "notes": "",
+  "moteur": "swipe",
+  "angle_video": "Face au concurrent",
+  "ville_video": "Brest",
+  "duree_video": 16.5,
+  "voix": "Marcel - French touch",
+  "musique": true
+}

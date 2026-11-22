@@ -1,0 +1,47 @@
+{
+ "id": "2026-11-25_1300_boulangerie-sondage-horaires-fetes",
+ "date_paris": "2026-11-25",
+ "heure_paris": "13:30",
+ "creneau_nominal": "13:00",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Une précision. Votre fiche Google permet d'ajouter des horaires exceptionnels pour un jour précis, comme le 24 ou le 31 décembre, sans toucher à vos horaires habituels.",
+ "jour_semaine": "mercredi",
+ "creneau": "visuel",
+ "metier": "boulangerie",
+ "angle": "peur-de-perdre",
+ "format": "question",
+ "ton": "constat",
+ "symptome": "horaires-faux",
+ "offre": "essai",
+ "accroche": "Les fêtes approchent et les horaires de votre boulangerie changent. Votre fiche Google suit-elle ?",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Boulanger",
+  "#Boulangerie",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "image",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/57F57S7XXY.png",
+   "https://media.glidy.uk/RvQuM7VHwB.png",
+   "https://media.glidy.uk/LgekbUH76O.png",
+   "https://media.glidy.uk/zrWA6eQ8WD.png",
+   "https://media.glidy.uk/Gmz045aKhx.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "instagram",
+   "postiz_id": "cmwrmg2gj00xbkb7zky0tqgv0",
+   "caracteres": 753,
+   "texte": "Les fêtes approchent et les horaires de votre boulangerie changent. Votre fiche Google suit-elle ?\n\nLe matin du 24, un client veut sa bûche. Avant de sortir, il cherche « boulangerie » sur Google Maps. Les encadrés avec une note, des photos et des horaires sont des fiches Google, et la vôtre en fait partie.\n\nSi elle affiche vos horaires habituels alors que vous ouvrez plus tôt, ou fermé alors que vous êtes là, il ira ailleurs sans même essayer.\n\nPetit sondage du mercredi. Vos horaires de fêtes seront-ils sur votre fiche Google ?\nA. Oui, je les ajoute à chaque fois.\nB. J'y pense souvent trop tard.\nC. Je ne savais pas que c'était possible.\n\nVous répondez A, B ou C ?\n\n#FicheGoogle #Boulangerie #Boulanger #ReferencementLocal #GoogleBusinessProfile"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

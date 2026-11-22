@@ -169,3 +169,13 @@ Chaque lot hebdomadaire ajoute ici ses décisions, avec le chiffre qui les justi
 - **Mix** : 11 utiles, 2 preuves (paysagiste avant/après, garage horaires), 1 offre (samedi). Tons : question 3, constat 2, scène 2, avant-après 2, réplique 2, contre-intuitif 2, pendant-que 1.
 - **Écarts au tirage** : coiffeuse du dimanche tirée « Le Mans », passée à **Rennes** (l'outil exige « à <ville> » dans l'accroche, « au Mans » ne passe pas, et « sur Le Mans » a été refusé en relecture).
 - **Outil** (`outils/pub-video.py`) : limiteur de crête après la normalisation finale (la vidéo serrurier sortait à +0,8 dB de crête) ; ligne « Tapez « métier ville » » du plan-séquence « Plus de clients » passée en petite taille dès 17 caractères (elle était coupée à droite pour « boulangerie Bordeaux »).
+
+## 2026-11-22 (dimanche) — Tâche hebdomadaire, semaine du 23/11
+
+- **Relevé frais du 22/11 (action réussie, 08 h 36 UTC)** : 97 publications mesurées (71 fiches). Engagement médian toujours nul sur tous les canaux : décision sur l'« indice vues ». Aucune valeur n'atteint 1,2 avec au moins 5 publications (signaux sous le seuil : symptômes « pas de nouveauté » 1,33 et « avis négatif seul » 1,30 sur 3 posts chacun, format vidéo « avis » 1,15 sur 6). Aucune réorientation de la grille ; exploration maintenue.
+- **Conversion TikTok** : 2 abonnés pour 12 873 vues, soit **0,16 pour 1 000**, inchangé depuis le 15/11 (+0 abonné pour +7 vues au niveau du compte). Les vues TikTok du compte n'augmentent presque plus : les vidéos en UPLOAD restent dans la boîte de réception tant qu'elles ne sont pas publiées à la main.
+- **Comptes** : Facebook 85 engagements (+3), YouTube 110 min regardées (+3), LinkedIn 34 commentaires, TikTok 23 vidéos publiées.
+- **Amplification** : 1 sujet à reprendre (esthéticienne « nouveau soin absent de la fiche Google », YouTube 98 vues pour une médiane de 43). Repris deux fois : carrousel coiffeur « nouvelle prestation invisible » (lundi 13:00, même angle sur un autre métier) et vidéo swipe esthéticienne Lyon avec une autre accroche (lundi 19:00). Passé dans `repris`.
+- **Moteurs vidéo** : toujours aucune vidéo mesurable par post sur TikTok ; rotation swipe / cinétique / plan-séquence conservée telle que tirée.
+- **Mix** : 11 utiles, 2 preuves (maçon et institut, avant / après sans chiffre), 1 offre (samedi). Tons : scène 3, question 4, avant-après 2, constat 2, réplique 2, contre-intuitif 2.
+- **Écart au tirage** : plombier du jeudi tiré « Le Mans », passé à **Brest** (« à Le Mans » ne passe pas dans l'accroche, même problème que le 15/11).

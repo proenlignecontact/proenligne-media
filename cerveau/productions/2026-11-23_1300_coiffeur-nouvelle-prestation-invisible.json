@@ -1,0 +1,47 @@
+{
+ "id": "2026-11-23_1300_coiffeur-nouvelle-prestation-invisible",
+ "date_paris": "2026-11-23",
+ "heure_paris": "13:45",
+ "creneau_nominal": "13:00",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Une précision utile. Dans la rubrique Services de votre fiche Google, donnez à la prestation le nom que vos clients emploient, par exemple « balayage » plutôt qu'un nom maison.",
+ "jour_semaine": "lundi",
+ "creneau": "visuel",
+ "metier": "coiffeur",
+ "angle": "peur-de-perdre",
+ "format": "conseil",
+ "ton": "scene",
+ "symptome": "service-invisible",
+ "offre": "essai",
+ "accroche": "Il est 22 h. Le salon est balayé, mais votre nouvelle prestation n'apparaît nulle part sur votre fiche Google.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Coiffeur",
+  "#Coiffure",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal"
+ ],
+ "media": {
+  "type": "image",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/0bUBUvwq7J.png",
+   "https://media.glidy.uk/ljRLhtcLXV.png",
+   "https://media.glidy.uk/WOBYCxuDb4.png",
+   "https://media.glidy.uk/IV77QcUMwS.png",
+   "https://media.glidy.uk/3boKU6ql6L.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "instagram",
+   "postiz_id": "cmwrmerfg00wpkb7zg8opbywj",
+   "caracteres": 725,
+   "texte": "Il est 22 h. Le salon est balayé, mais votre nouvelle prestation n'apparaît nulle part sur votre fiche Google.\n\nVous avez appris une nouvelle technique, vous en parlez à vos clients fidèles. Mais une personne qui tape « coiffeur » et sa ville sur Google Maps ne connaît de votre salon que votre fiche Google, avec vos photos, vos avis et vos services. Ce qui n'y est pas, elle ne le devine pas.\n\nTrois gestes pour la montrer.\n1. Ajoutez la prestation dans la rubrique Services.\n2. Publiez une photo du résultat, avec l'accord du client.\n3. Annoncez-la dans une publication courte.\n\nQuelle est la dernière prestation que vous avez ajoutée au salon ?\n\n#FicheGoogle #Coiffeur #Coiffure #ReferencementLocal #GoogleBusinessProfile"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

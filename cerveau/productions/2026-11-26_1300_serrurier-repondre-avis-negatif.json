@@ -1,0 +1,54 @@
+{
+ "id": "2026-11-26_1300_serrurier-repondre-avis-negatif",
+ "date_paris": "2026-11-26",
+ "heure_paris": "12:45",
+ "creneau_nominal": "13:00",
+ "intention": "utile",
+ "ab": null,
+ "premier_commentaire": "Un exemple de réponse courte. « Merci pour votre retour. Nous sommes désolés pour l'attente ce soir-là, et nous avons revu notre organisation pour les urgences. »",
+ "jour_semaine": "jeudi",
+ "creneau": "visuel",
+ "metier": "serrurier",
+ "angle": "peur-de-perdre",
+ "format": "conseil",
+ "ton": "contre-intuitif",
+ "symptome": "avis-negatif-seul",
+ "offre": "essai",
+ "accroche": "Un avis négatif sur votre fiche Google n'est pas toujours une catastrophe. Votre réponse compte souvent plus que lui.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#AvisClients",
+  "#FicheGoogle",
+  "#GoogleBusinessProfile",
+  "#ReferencementLocal",
+  "#Serrurier",
+  "#TPE"
+ ],
+ "media": {
+  "type": "image",
+  "fichiers": [],
+  "postiz": [
+   "https://media.glidy.uk/4epakmbK1X.png",
+   "https://media.glidy.uk/J8n7TOSSjI.png",
+   "https://media.glidy.uk/nUZ1VWpb34.png",
+   "https://media.glidy.uk/zFzunDPNll.png",
+   "https://media.glidy.uk/9FCNbL6Pnx.png"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "instagram",
+   "postiz_id": "cmwrmgw2w00xnkb7zcj7uzg8y",
+   "caracteres": 691,
+   "texte": "Un avis négatif sur votre fiche Google n'est pas toujours une catastrophe. Votre réponse compte souvent plus que lui.\n\nAvant d'appeler un serrurier, le client regarde votre fiche Google sur Google Maps, l'encadré où il lit vos horaires, les avis et vos réponses. Un avis sévère avec une réponse calme peut le rassurer. Un avis sévère sans réponse le fait douter.\n\nTrois règles pour répondre.\n1. Remerciez le client, même s'il est injuste.\n2. Expliquez les faits en une ou deux phrases calmes.\n3. Dites ce que vous avez changé, sans vous justifier.\n\nVous répondez plutôt tout de suite, le lendemain, ou jamais ?\n\n#FicheGoogle #Serrurier #AvisClients #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "canal": "linkedin",
+   "postiz_id": "cmwrmgw4b00xpkb7zwnto0det",
+   "caracteres": 1020,
+   "texte": "Un avis négatif sur la fiche Google d'une entreprise n'est pas toujours une catastrophe.\nLa réponse du dirigeant compte souvent davantage que l'avis lui-même.\n\nLa fiche Google, c'est l'encadré que Google affiche quand on cherche votre métier, avec la note, les avis et le téléphone. Dans les métiers d'urgence comme la serrurerie, le client la lit en quelques secondes.\n\nTrois règles simples pour répondre.\nRemercier, même quand le reproche semble injuste.\nExposer les faits en une ou deux phrases, sans polémique.\nDire ce qui a été corrigé dans l'organisation.\n\nUne réponse calme montre au prochain client une entreprise qui écoute. Un avis sans réponse laisse le doute s'installer.\n\nProenligne répond à chaque avis pour les artisans, et fait toujours valider les réponses aux avis négatifs par le dirigeant. S'y ajoutent une photo le lundi et une publication le jeudi.\n\nDans votre entreprise, qui répond aux avis négatifs, et dans quel délai ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #AvisClients #TPE"
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": ""
+}

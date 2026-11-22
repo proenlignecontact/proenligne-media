@@ -1,0 +1,67 @@
+{
+  "id": "2026-11-27_1900_garage-appels-lorient",
+  "date_paris": "2026-11-27",
+  "heure_paris": "18:30",
+  "creneau_nominal": "19:00",
+  "intention": "utile",
+  "ab": null,
+  "premier_commentaire": "Un geste qui rassure. Ajoutez sur votre fiche Google une photo de l'atelier rangé et de l'équipe, pour que l'automobiliste voie à qui il confie sa voiture.",
+  "jour_semaine": "vendredi",
+  "creneau": "video",
+  "metier": "garage",
+  "angle": "peur-de-perdre",
+  "format": "avis",
+  "ton": "replique",
+  "symptome": "avis-sans-reponse",
+  "offre": "essai",
+  "accroche": "« Je vais appeler l'autre garage. » Garagiste à Lorient, votre fiche Google y est pour quelque chose.",
+  "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+  "hashtags": [
+    "#FicheGoogle",
+    "#Garage",
+    "#Garagiste",
+    "#Lorient",
+    "#ReferencementLocal"
+  ],
+  "media": {
+    "type": "video",
+    "fichiers": [],
+    "postiz": [
+      "https://media.glidy.uk/eDEIAljnxE.mp4"
+    ]
+  },
+  "publications": [
+    {
+      "canal": "tiktok",
+      "postiz_id": "cmwrmhiwx00y1kb7zwfrtrav9",
+      "caracteres": 320,
+      "texte": "« Je vais appeler l'autre garage. » Garagiste à Lorient, votre fiche Google y est pour quelque chose.\nEn panne, on compare les fiches Google sur Google Maps, et on appelle celle qui rassure.\n\n#FicheGoogle #Garagiste #Lorient\n\nAbonnez-vous pour voir les autres métiers et leur fiche Google. 30 jours offerts, lien en bio."
+    },
+    {
+      "canal": "instagram",
+      "postiz_id": "cmwrmhiyl00y3kb7z8tm2e4sg",
+      "caracteres": 678,
+      "texte": "« Je vais appeler l'autre garage. » Garagiste à Lorient, votre fiche Google y est pour quelque chose.\n\nUn voyant s'allume sur la route. L'automobiliste se gare et tape « garage » sur Google Maps. Il voit des fiches Google, avec la note, les avis, les photos et le bouton Appeler.\n\nImaginez que vos avis n'aient aucune réponse et qu'aucune photo ne montre l'atelier. Sur la fiche Google d'à côté, on voit l'équipe, des réponses aux avis et des nouvelles récentes.\n\nIl appelle l'autre garage, presque sans hésiter.\n\nQue voit un automobiliste en panne quand il ouvre votre fiche Google ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Garagiste #Garage #Lorient #ReferencementLocal"
+    },
+    {
+      "canal": "youtube",
+      "postiz_id": "cmwrmhj0700y5kb7zxeqzx42i",
+      "caracteres": 483,
+      "texte": "Garagiste à Lorient, pourquoi l'automobiliste appelle l'autre garage sur Google ?\n\nSur Google Maps, chaque garage a sa fiche Google, avec la note, les photos et le bouton Appeler. C'est elle qu'on regarde avant d'appeler. Des avis qui ont une réponse et des photos de l'atelier rassurent l'automobiliste en panne.\n\nProenligne publie une photo le lundi, une publication le jeudi, et répond à chaque avis.\n\nVos derniers avis ont-ils reçu une réponse ?\n\n#FicheGoogle #Garagiste #Lorient"
+    },
+    {
+      "canal": "facebook",
+      "postiz_id": "cmwrmhj1d00y7kb7zk4zd7vis",
+      "caracteres": 554,
+      "texte": "« Je vais appeler l'autre garage. » Garagiste à Lorient, votre fiche Google y est pour quelque chose.\n\nEn panne, on n'a pas le temps de chercher longtemps. On ouvre Google Maps, on compare deux ou trois fiches Google, et on appelle celle qui inspire confiance.\n\nDes avis sans réponse et aucune photo de l'atelier, ça fait hésiter. Une équipe en photo et des réponses polies, ça rassure.\n\nQue montre la première photo de votre fiche Google ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Garagiste #Garage #Lorient #ReferencementLocal"
+    }
+  ],
+  "source": "tache-hebdo",
+  "notes": "",
+  "moteur": "cinetique",
+  "angle_video": "Plus d'appels",
+  "ville_video": "Lorient",
+  "duree_video": 16.0,
+  "voix": "Marcel - French touch",
+  "musique": true
+}

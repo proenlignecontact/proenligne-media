@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-26_1230_chauffagiste-appels-nantes",
+  "date_paris": "2026-11-26",
+  "heure_paris": "12:30",
+  "creneau_nominal": "12:30",
+  "intention": "utile",
+  "ab": "B",
+  "premier_commentaire": "Une photo d'une chaudière que vous venez de poser, prise à la lumière du jour, montre au client que vous travaillez en ce moment.",
+  "jour_semaine": "jeudi",
+  "creneau": "video",
+  "metier": "chauffagiste",
+  "angle": "peur-de-perdre",
+  "format": "fiche",
+  "ton": "question",
+  "symptome": "pas-de-nouveaute",
+  "offre": "essai",
+  "accroche": "Chauffagiste à Nantes, on vous trouve sur Google cet hiver ?",
+  "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+  "hashtags": [
+    "#Chauffagiste",
+    "#FicheGoogle",
+    "#Nantes"
+  ],
+  "media": {
+    "type": "video",
+    "fichiers": [],
+    "postiz": [
+      "https://media.glidy.uk/KaJQIa7FFv.mp4"
+    ]
+  },
+  "publications": [
+    {
+      "canal": "tiktok",
+      "postiz_id": "cmwrmgw1j00xlkb7zgw00rd4c",
+      "caracteres": 302,
+      "texte": "Chauffagiste à Nantes, on vous trouve sur Google cet hiver ?\nQuand la chaudière lâche, le client compare les fiches Google sur Google Maps et appelle celle qui a l'air active.\n\n#FicheGoogle #Chauffagiste #Nantes\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio."
+    }
+  ],
+  "source": "tache-hebdo",
+  "notes": "",
+  "moteur": "cinetique",
+  "angle_video": "Plus d'appels",
+  "ville_video": "Nantes",
+  "duree_video": 17.5,
+  "voix": "Marcel - French touch",
+  "musique": true
+}
