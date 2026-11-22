@@ -8,7 +8,7 @@
  "entreprise": "",
  "lieu": "",
  "accroches": [
-  "Paysagiste à Lille, vos soirées partent sur *Google* ?",
+  "Paysagiste à Lille, le soir, vous gérez votre *fiche Google* ?",
   "Paysagiste à Lille, la *fiche Google* prend vos soirées ?"
  ],
  "voix": [
@@ -18,7 +18,7 @@
   },
   {
    "scene": "Bascule",
-   "texte": "Pro en ligne s'en charge pendant la journée."
+   "texte": "Pro en ligne s'en charge à votre place."
   },
   {
    "scene": "Bascule",

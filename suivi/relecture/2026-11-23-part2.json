@@ -1,0 +1,447 @@
+{
+ "empreinte": "6748982fb17ba1a7",
+ "verdicts": [
+  {
+   "id": "ee70c20",
+   "verdict": "refuse",
+   "motif": "Critère 1 : « l'institut Petit laissait ses avis sans un mot » se lit comme si l'institut écrivait les avis, et « chaque cliente reçoit un merci » dit plus que le service (seules les clientes qui laissent un avis).",
+   "proposition": "Avant, les avis de l'institut Petit restaient sans réponse sur sa fiche Google. Désormais, chaque avis reçoit un merci."
+  },
+  {
+   "id": "e72db61",
+   "verdict": "ok"
+  },
+  {
+   "id": "e3af29a",
+   "verdict": "refuse",
+   "motif": "Critère 1 : la première ligne est ambiguë (« laissait ses avis sans un mot » laisse croire que l'institut écrit les avis) et « Aucun merci en retour. » est une phrase sans verbe.",
+   "proposition": "Avant, les avis de l'institut Petit restaient sans réponse sur sa fiche Google. Désormais, chaque avis reçoit un merci.\n\nC'est un exemple imaginaire. La fiche Google, c'est ce que vos clientes voient en premier quand elles cherchent un institut sur Google Maps, avec vos photos, vos horaires et vos avis.\n\nAvant, des clientes ravies avaient laissé un mot, et personne ne les avait remerciées. Une future cliente pouvait se demander si quelqu'un lisait.\n\nAprès, chaque avis a sa réponse, avec le prénom et le soin. Les réponses aux avis négatifs sont validées par l'institut avant d'être publiées.\n\nLa note n'a pas changé. L'impression, si.\n\nCombien d'avis attendent encore une réponse sur votre fiche Google ?\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "id": "ebf39c3",
+   "verdict": "ok"
+  },
+  {
+   "id": "e38c168",
+   "verdict": "refuse",
+   "motif": "Critère 1 : titre sans verbe, et « La même fiche Google » renvoie à une fiche que le lecteur n'a pas encore vue sur la première slide.",
+   "proposition": "Sur cette fiche Google, chaque avis a maintenant sa réponse"
+  },
+  {
+   "id": "eb6f91a",
+   "verdict": "ok"
+  },
+  {
+   "id": "ec6dabc",
+   "verdict": "ok"
+  },
+  {
+   "id": "e8abf65",
+   "verdict": "ok"
+  },
+  {
+   "id": "ecb12c9",
+   "verdict": "ok"
+  },
+  {
+   "id": "e0a2c5a",
+   "verdict": "ok"
+  },
+  {
+   "id": "e305e38",
+   "verdict": "refuse",
+   "motif": "Critère 1 : titre sans verbe (« Avant, des avis sans réponse »), contrairement au titre de la slide 3.",
+   "proposition": "Avant, les avis restaient sans réponse"
+  },
+  {
+   "id": "ef7d54d",
+   "verdict": "ok"
+  },
+  {
+   "id": "e2ba15e",
+   "verdict": "ok"
+  },
+  {
+   "id": "ea5ac4d",
+   "verdict": "refuse",
+   "motif": "Critère 1 : enchaînement de noms et de participes sans verbe conjugué.",
+   "proposition": "Chaque avis reçoit un merci personnalisé, et l'institut valide les réponses aux avis négatifs."
+  },
+  {
+   "id": "e5583bb",
+   "verdict": "ok"
+  },
+  {
+   "id": "e560032",
+   "verdict": "refuse",
+   "motif": "Critère 2 : la slide parle encore de l'exemple de l'institut mais passe déjà à « votre fiche Google », alors que la bascule vers le lecteur se fait à la slide 5 (« Et chez vous ? »).",
+   "proposition": "En lisant les réponses sur la fiche Google de l'institut, elle voit qu'il y a quelqu'un derrière la porte."
+  },
+  {
+   "id": "ecfe625",
+   "verdict": "ok"
+  },
+  {
+   "id": "e78a128",
+   "verdict": "ok"
+  },
+  {
+   "id": "edea270",
+   "verdict": "ok"
+  },
+  {
+   "id": "e06a2bf",
+   "verdict": "refuse",
+   "motif": "Critère 10 : deux propositions collées par une simple virgule (« …et de l'équipe, l'automobiliste voit… »), la phrase se lit mal à voix haute.",
+   "proposition": "Un geste qui rassure. Ajoutez sur votre fiche Google une photo de l'atelier rangé et de l'équipe, pour que l'automobiliste voie à qui il confie sa voiture."
+  },
+  {
+   "id": "e151894",
+   "verdict": "ok"
+  },
+  {
+   "id": "e104d28",
+   "verdict": "ok"
+  },
+  {
+   "id": "e0861a3",
+   "verdict": "ok"
+  },
+  {
+   "id": "e435310",
+   "verdict": "refuse",
+   "motif": "Critère 1 : « Sous vos avis, aucune réponse. Pas de photo de l'atelier. Sur la fiche Google d'à côté, l'équipe, les réponses… » est du style télégraphique sans verbe, et « sans même vous avoir comparé longtemps » se contredit (« sans même » puis « longtemps »).",
+   "proposition": "« Je vais appeler l'autre garage. » Garagiste à Lorient, votre fiche Google y est pour quelque chose.\n\nUn voyant s'allume sur la route. L'automobiliste se gare et tape « garage » sur Google Maps. Il voit des fiches Google, avec la note, les avis, les photos et le bouton Appeler.\n\nImaginez que vos avis n'aient aucune réponse et qu'aucune photo ne montre l'atelier. Sur la fiche Google d'à côté, on voit l'équipe, des réponses aux avis et des nouvelles récentes.\n\nIl appelle l'autre garage, presque sans hésiter.\n\nQue voit un automobiliste en panne quand il ouvre votre fiche Google ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Garagiste #Garage #Lorient #ReferencementLocal"
+  },
+  {
+   "id": "e7e4d36",
+   "verdict": "ok"
+  },
+  {
+   "id": "e019d2d",
+   "verdict": "ok"
+  },
+  {
+   "id": "e2b48e9",
+   "verdict": "ok"
+  },
+  {
+   "id": "e046d99",
+   "verdict": "ok"
+  },
+  {
+   "id": "e2c93e5",
+   "verdict": "ok"
+  },
+  {
+   "id": "ef68ec9",
+   "verdict": "refuse",
+   "motif": "Critère 1 : « Même note sur Google Maps. » est une phrase sans verbe, et « l'autre rien de neuf » est elliptique ; critère 4, la fiche Google n'est pas expliquée.",
+   "proposition": "Plombier à Brest, entre deux fiches Google, laquelle le client garde-t-il ?\nSur Google Maps, ces deux fiches Google ont la même note. L'une montre des chantiers récents, l'autre n'a rien publié depuis longtemps.\n\n#FicheGoogle #Plombier #Brest\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio."
+  },
+  {
+   "id": "ed835e6",
+   "verdict": "ok"
+  },
+  {
+   "id": "e5d42e3",
+   "verdict": "ok"
+  },
+  {
+   "id": "ed3ddf9",
+   "verdict": "ok"
+  },
+  {
+   "id": "e472ad1",
+   "verdict": "ok"
+  },
+  {
+   "id": "eb4d8dd",
+   "verdict": "refuse",
+   "motif": "Critère 1 : titre sans verbe conjugué ; critère 2, « sans vous » contredit le reste du post où vous validez les réponses aux avis négatifs.",
+   "proposition": "Chaque semaine, Proenligne s'occupe de votre fiche Google"
+  },
+  {
+   "id": "e9b75dd",
+   "verdict": "ok"
+  },
+  {
+   "id": "e5065c4",
+   "verdict": "ok"
+  },
+  {
+   "id": "e9cece2",
+   "verdict": "ok"
+  },
+  {
+   "id": "ed8030f",
+   "verdict": "ok"
+  },
+  {
+   "id": "ea99971",
+   "verdict": "ok"
+  },
+  {
+   "id": "e15dd6b",
+   "verdict": "ok"
+  },
+  {
+   "id": "edf49c2",
+   "verdict": "ok"
+  },
+  {
+   "id": "edf58c4",
+   "verdict": "ok"
+  },
+  {
+   "id": "eb0d855",
+   "verdict": "ok"
+  },
+  {
+   "id": "e241d6f",
+   "verdict": "ok"
+  },
+  {
+   "id": "edb9769",
+   "verdict": "ok"
+  },
+  {
+   "id": "ed1814d",
+   "verdict": "ok"
+  },
+  {
+   "id": "e4bc3f8",
+   "verdict": "refuse",
+   "motif": "Critère 12 : le premier commentaire redit le test déjà donné dans les textes Instagram et Facebook (taper « électricien » et sa ville depuis le téléphone d'un proche).",
+   "proposition": "Une astuce de plus. Refaites la recherche avec « dépannage électrique » ou « électricien urgence », car vos clients ne tapent pas tous le même mot."
+  },
+  {
+   "id": "ebeb685",
+   "verdict": "ok"
+  },
+  {
+   "id": "e594c3a",
+   "verdict": "ok"
+  },
+  {
+   "id": "e6a44df",
+   "verdict": "refuse",
+   "motif": "Critère 3 : « Les fiches Google qui apparaissent, ce sont celles qu'on appelle » est présenté comme une certitude ; critère 4, la fiche Google n'est pas expliquée.",
+   "proposition": "Électricien à Vannes, on vous voit sur Google quand on cherche un électricien ?\nTapez « électricien Vannes » sur Google Maps. Les encadrés qui s'affichent sont des fiches Google, et celles du haut de la liste sont souvent celles qu'on appelle.\n\n#FicheGoogle #Electricien #Vannes\n\nAbonnez-vous pour voir les autres métiers et leur fiche Google. 30 jours offerts, lien en bio."
+  },
+  {
+   "id": "ed33d1c",
+   "verdict": "ok"
+  },
+  {
+   "id": "e23bce6",
+   "verdict": "ok"
+  },
+  {
+   "id": "e1282f5",
+   "verdict": "ok"
+  },
+  {
+   "id": "efc7909",
+   "verdict": "ok"
+  },
+  {
+   "id": "eff81c3",
+   "verdict": "ok"
+  },
+  {
+   "id": "e5a846c",
+   "verdict": "refuse",
+   "motif": "Critère 1 : « En hiver, c'est souvent là qu'on prépare les travaux du printemps » est ambigu (on ne prépare pas les travaux sur la fiche Google) et le sujet « on » est flou.",
+   "proposition": "En hiver, le jardin dort, mais votre fiche Google n'a pas besoin de dormir avec lui. Petit quiz du dimanche.\n\nLa fiche Google, c'est la carte de visite que Google montre à votre place quand on cherche un paysagiste, avec vos photos, vos avis et votre téléphone. Certains clients préparent dès l'hiver leurs travaux du printemps et regardent déjà les fiches Google des paysagistes.\n\nQuelle photo publier en décembre ?\nA. Une pelouse de l'été dernier.\nB. Une haie taillée cette semaine.\nC. Le logo de l'entreprise.\n\nLa réponse est dans le carrousel. Et vous, quelle photo d'hiver publiez-vous cette semaine ?\n\n#FicheGoogle #Paysagiste #JardinDHiver #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "id": "e6b5dcb",
+   "verdict": "ok"
+  },
+  {
+   "id": "ef1f0c6",
+   "verdict": "ok"
+  },
+  {
+   "id": "e36298a",
+   "verdict": "ok"
+  },
+  {
+   "id": "ec44e54",
+   "verdict": "ok"
+  },
+  {
+   "id": "eb9f9fc",
+   "verdict": "ok"
+  },
+  {
+   "id": "e96fe6e",
+   "verdict": "ok"
+  },
+  {
+   "id": "e759a2f",
+   "verdict": "ok"
+  },
+  {
+   "id": "ecd0996",
+   "verdict": "ok"
+  },
+  {
+   "id": "edae2be",
+   "verdict": "refuse",
+   "motif": "Critère 1 : sans point d'interrogation, « Pourquoi pas la pelouse d'été » se lit comme une suggestion (« et pourquoi pas ? »), soit le contraire du message de la slide.",
+   "proposition": "Pourquoi la pelouse d'été ne convient pas"
+  },
+  {
+   "id": "eadbfa3",
+   "verdict": "ok"
+  },
+  {
+   "id": "e2159c6",
+   "verdict": "ok"
+  },
+  {
+   "id": "ed81e01",
+   "verdict": "ok"
+  },
+  {
+   "id": "e2ffc6e",
+   "verdict": "ok"
+  },
+  {
+   "id": "efa6406",
+   "verdict": "ok"
+  },
+  {
+   "id": "e9af42d",
+   "verdict": "ok"
+  },
+  {
+   "id": "ea4d069",
+   "verdict": "refuse",
+   "motif": "Critère 10 : deux propositions collées par une simple virgule (« …laisser un avis, c'est le moment… »).",
+   "proposition": "Une astuce pour les auto-écoles. Après chaque permis réussi, demandez à l'élève s'il veut bien laisser un avis, car c'est le moment où il est le plus content."
+  },
+  {
+   "id": "e9f841e",
+   "verdict": "ok"
+  },
+  {
+   "id": "e3be3f0",
+   "verdict": "ok"
+  },
+  {
+   "id": "ee99b88",
+   "verdict": "ok"
+  },
+  {
+   "id": "e874143",
+   "verdict": "refuse",
+   "motif": "Critère 3 : « une question restée sans réponse » suivie de « Proenligne s'en charge » laisse croire que Proenligne répond aussi aux questions, ce qui ne fait pas partie du service ; critère 1, « Un avis d'élève reçu au permis à remercier » se lit mal.",
+   "proposition": "Auto-école à Toulouse, il est 22 h, la dernière leçon est finie, et votre fiche Google vous attend.\n\nLa voiture est rangée, le planning de demain est prêt. Reste votre fiche Google, cet encadré qu'une famille ouvre sur Google Maps avant d'inscrire un élève.\n\nUn élève reçu au permis attend un merci sous son avis, et la photo de la nouvelle voiture attend d'être publiée. Rien de long, mais tout s'empile.\n\nProenligne s'en charge à votre place, avec une photo le lundi, une publication le jeudi et une réponse à chaque avis.\n\nÀ quelle heure finissez-vous vraiment votre journée ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #AutoEcole #PermisDeConduire #Toulouse #ReferencementLocal"
+  },
+  {
+   "id": "eafac2d",
+   "verdict": "ok"
+  },
+  {
+   "id": "e5c8b19",
+   "verdict": "refuse",
+   "motif": "Critère 3 : « répondre à une question » suivi de « Proenligne s'en occupe pour vous » laisse croire que Proenligne répond aux questions, ce qui ne fait pas partie du service.",
+   "proposition": "Auto-école à Toulouse, il est 22 h, la dernière leçon est finie, et votre fiche Google vous attend.\n\nAvant d'inscrire un enfant, beaucoup de parents regardent la fiche Google de l'auto-école sur Google Maps, avec la note, les photos et les avis des anciens élèves.\n\nIl faut remercier un élève reçu, publier une photo de la voiture. Chaque soir, il y a un petit quelque chose, et la soirée raccourcit.\n\nProenligne s'en occupe pour vous, avec une photo le lundi, une publication le jeudi et une réponse à chaque avis.\n\nVous gardez combien de soirées libres par semaine ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #AutoEcole #PermisDeConduire #Toulouse #ReferencementLocal"
+  },
+  {
+   "id": "ef44181",
+   "verdict": "refuse",
+   "motif": "Critère 1 : l'ellipse « la journée finit, pas votre fiche Google » est obscure, une fiche Google ne « finit » pas.",
+   "proposition": "Auto-école à Toulouse, après les leçons, votre fiche Google attend encore."
+  },
+  {
+   "id": "e711690",
+   "verdict": "ok"
+  },
+  {
+   "id": "e164fc0",
+   "verdict": "ok"
+  },
+  {
+   "id": "ed80f13",
+   "verdict": "ok"
+  },
+  {
+   "id": "eac40ee",
+   "verdict": "ok"
+  },
+  {
+   "id": "ed3ce71",
+   "verdict": "ok"
+  },
+  {
+   "id": "e2bf240",
+   "verdict": "ok"
+  },
+  {
+   "id": "e0ea38d",
+   "verdict": "ok"
+  },
+  {
+   "id": "ee66b0a",
+   "verdict": "ok"
+  },
+  {
+   "id": "eb1adbc",
+   "verdict": "ok"
+  },
+  {
+   "id": "eb09b0e",
+   "verdict": "refuse",
+   "motif": "Critère 3 : « Les premières fiches Google reçoivent les appels » est affirmé comme une certitude ; on peut seulement dire que c'est souvent le cas.",
+   "proposition": "Souvent, on appelle les premières fiches Google."
+  },
+  {
+   "id": "ec4423c",
+   "verdict": "ok"
+  },
+  {
+   "id": "efc66d0",
+   "verdict": "refuse",
+   "motif": "Critère 3 : « les clients du coin tombent sur vous » promet une visibilité sur Google comme certaine, ce qui est invérifiable.",
+   "proposition": "Et les clients du coin voient une entreprise active."
+  },
+  {
+   "id": "e83da4f",
+   "verdict": "ok"
+  },
+  {
+   "id": "e37dc6a",
+   "verdict": "ok"
+  },
+  {
+   "id": "e69e6bb",
+   "verdict": "ok"
+  },
+  {
+   "id": "e9ba8b7",
+   "verdict": "ok"
+  },
+  {
+   "id": "e21f4a4",
+   "verdict": "ok"
+  },
+  {
+   "id": "e6c4ad5",
+   "verdict": "ok"
+  },
+  {
+   "id": "e04d77a",
+   "verdict": "refuse",
+   "motif": "Critère 3 : « c'est votre numéro qu'on compose » présente un résultat comme certain, ce qui est invérifiable.",
+   "proposition": "Et votre fiche Google donne envie d'appeler."
+  },
+  {
+   "id": "eda11dc",
+   "verdict": "ok"
+  }
+ ]
+}

@@ -13,7 +13,7 @@
  "voix": [
   {
    "scene": "Probleme",
-   "texte": "La vôtre n'a rien de neuf."
+   "texte": "Et la vôtre, elle montre quoi de neuf ?"
   },
   {
    "scene": "Bascule",
@@ -21,7 +21,7 @@
   },
   {
    "scene": "Bascule",
-   "texte": "Et cette fois, c'est la sienne qui tombe.",
+   "texte": "Cette fois, c'est le voisin qu'on passe.",
    "ancre": 3.0
   },
   {

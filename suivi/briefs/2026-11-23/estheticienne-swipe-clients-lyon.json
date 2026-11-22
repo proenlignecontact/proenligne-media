@@ -8,12 +8,12 @@
  "entreprise": "",
  "accroches": [
   "Esthéticienne à Lyon, votre nouveau soin est sur votre fiche Google ?",
-  "Esthéticienne à Lyon, on passe votre fiche Google sans s'arrêter ?"
+  "Esthéticienne à Lyon, votre fiche Google arrête la cliente ?"
  ],
  "voix": [
   {
    "scene": "Probleme",
-   "texte": "Rien de nouveau, alors on passe."
+   "texte": "La cliente ne voit rien de neuf et passe."
   },
   {
    "scene": "Bascule",

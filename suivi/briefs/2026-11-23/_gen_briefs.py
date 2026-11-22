@@ -60,6 +60,30 @@ B = [
            {"scene": "Offre", "texte": "Profitez de trente jours offerts, lien en bio."}],
   "offre_ligne": "Vos soirées, *sans la fiche Google.*", "musique": True},
 ]
+
+def P(slug, path, val):
+    b = next(x for x in B if x['slug'] == slug)
+    k, i, sub = path
+    if sub: b[k][i][sub] = val
+    else: b[k][i] = val
+
+
+# ───────── CORRECTIONS ─────────
+
+# passe 1
+P('chauffagiste-appels-nantes', ('accroches', 0, None), 'Chauffagiste à Nantes, votre *fiche Google* est-elle à jour ?')  # e017731
+P('chauffagiste-appels-nantes', ('voix', 2, 'texte'), 'Quand il fait froid, votre fiche Google rassure le client.')  # eec2fa3
+P('estheticienne-swipe-clients-lyon', ('accroches', 1, None), 'Esthéticienne à Lyon, votre fiche Google arrête la cliente ?')  # e4634c5
+P('estheticienne-swipe-clients-lyon', ('voix', 0, 'texte'), 'La cliente ne voit rien de neuf et passe.')  # ebb03b1
+P('paysagiste-semaine-lille', ('accroches', 0, None), 'Paysagiste à Lille, le soir, vous gérez votre *fiche Google* ?')  # e88a3bf
+P('paysagiste-semaine-lille', ('voix', 1, 'texte'), "Pro en ligne s'en charge à votre place.")  # ee5b5ba
+P('plombier-swipe-concurrent-brest', ('voix', 0, 'texte'), 'Et la vôtre, elle montre quoi de neuf ?')  # e1015b3
+P('plombier-swipe-concurrent-brest', ('voix', 2, 'texte'), "Cette fois, c'est le voisin qu'on passe.")  # e24e5af
+P('autoecole-swipe-soirees-toulouse', ('accroches', 0, None), 'Auto-école à Toulouse, après les leçons, votre fiche Google attend encore.')  # ef44181
+P('electricien-classement-vannes', ('voix', 0, 'texte'), 'Souvent, on appelle les premières fiches Google.')  # eb09b0e
+P('electricien-classement-vannes', ('voix', 2, 'texte'), 'Et les clients du coin voient une entreprise active.')  # efc66d0
+P('garage-appels-lorient', ('voix', 2, 'texte'), "Et votre fiche Google donne envie d'appeler.")  # e04d77a
+
 for b in B:
     p = os.path.join(ICI, b['slug'] + '.json')
     if os.path.exists(p):

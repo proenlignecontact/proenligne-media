@@ -7,7 +7,7 @@
  "ambiance": 2,
  "valeur": "0",
  "accroches": [
-  "Chauffagiste à Nantes, votre *fiche Google* est prête ?",
+  "Chauffagiste à Nantes, votre *fiche Google* est-elle à jour ?",
   "Chauffagiste à Nantes, on vous trouve sur *Google* cet hiver ?"
  ],
  "voix": [
@@ -21,7 +21,7 @@
   },
   {
    "scene": "Bascule",
-   "texte": "Et quand il fait froid, c'est vous qu'on appelle.",
+   "texte": "Quand il fait froid, votre fiche Google rassure le client.",
    "ancre": 3.0
   },
   {
