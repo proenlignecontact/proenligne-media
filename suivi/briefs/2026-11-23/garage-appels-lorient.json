@@ -1,0 +1,35 @@
+{
+ "slug": "garage-appels-lorient",
+ "moteur": "cinetique",
+ "angle": "Plus d'appels",
+ "metier": "garagiste",
+ "ville": "Lorient",
+ "ambiance": 2,
+ "valeur": "0",
+ "accroches": [
+  "Garagiste à Lorient, on vous appelle depuis *Google* ?",
+  "Garagiste à Lorient, votre *fiche Google* rassure ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Une panne, et on compare les fiches Google."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne montre votre atelier chaque semaine."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et c'est votre numéro qu'on compose.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Testez trente jours offerts, lien en bio."
+  }
+ ],
+ "offre_ligne": "Le bon garage, *c'est le vôtre.*",
+ "musique": true,
+ "audio_src": {}
+}

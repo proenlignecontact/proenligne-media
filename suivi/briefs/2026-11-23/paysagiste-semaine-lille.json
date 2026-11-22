@@ -1,0 +1,36 @@
+{
+ "slug": "paysagiste-semaine-lille",
+ "moteur": "plan-sequence",
+ "angle": "Du temps libre",
+ "metier": "paysagiste",
+ "ville": "Lille",
+ "ambiance": 0,
+ "entreprise": "",
+ "lieu": "",
+ "accroches": [
+  "Paysagiste à Lille, vos soirées partent sur *Google* ?",
+  "Paysagiste à Lille, la *fiche Google* prend vos soirées ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Après le chantier, il reste encore les avis."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne s'en charge pendant la journée."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Le soir, le jardin, c'est le vôtre.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "C'est trente jours offerts, le lien est en bio."
+  }
+ ],
+ "offre_ligne": "Vos soirées *vous reviennent.*",
+ "musique": true,
+ "audio_src": {}
+}

@@ -1,0 +1,58 @@
+[
+ {
+  "date": "2026-11-23",
+  "moteur": "swipe",
+  "angle": "Plus de clients",
+  "metier": "estheticienne",
+  "ville": "Lyon",
+  "ambiance": 1
+ },
+ {
+  "date": "2026-11-24",
+  "moteur": "cinetique",
+  "angle": "Plus d'appels",
+  "metier": "chauffagiste",
+  "ville": "Nantes",
+  "ambiance": 2
+ },
+ {
+  "date": "2026-11-25",
+  "moteur": "plan-sequence",
+  "angle": "Du temps libre",
+  "metier": "paysagiste",
+  "ville": "Lille",
+  "ambiance": 0
+ },
+ {
+  "date": "2026-11-26",
+  "moteur": "swipe",
+  "angle": "Face au concurrent",
+  "metier": "plombier",
+  "ville": "Brest",
+  "ambiance": 1
+ },
+ {
+  "date": "2026-11-27",
+  "moteur": "cinetique",
+  "angle": "Plus d'appels",
+  "metier": "garage",
+  "ville": "Lorient",
+  "ambiance": 2
+ },
+ {
+  "date": "2026-11-28",
+  "moteur": "plan-sequence",
+  "angle": "Plus de clients",
+  "metier": "electricien",
+  "ville": "Vannes",
+  "ambiance": 0
+ },
+ {
+  "date": "2026-11-29",
+  "moteur": "swipe",
+  "angle": "Du temps libre",
+  "metier": "autoecole",
+  "ville": "Toulouse",
+  "ambiance": 1
+ }
+]

@@ -1,0 +1,35 @@
+{
+ "slug": "plombier-swipe-concurrent-brest",
+ "moteur": "swipe",
+ "angle": "Face au concurrent",
+ "metier": "plombier",
+ "ville": "Brest",
+ "ambiance": 1,
+ "entreprise": "",
+ "accroches": [
+  "Plombier à Brest, le voisin a votre note, mais sa fiche Google vit.",
+  "Plombier à Brest, entre deux fiches Google, laquelle garde-t-on ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "La vôtre n'a rien de neuf."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne publie vos chantiers."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et cette fois, c'est la sienne qui tombe.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Lien en bio, et trente jours offerts."
+  }
+ ],
+ "offre_ligne": "Une *fiche Google* qui tient tête.",
+ "musique": true,
+ "audio_src": {}
+}

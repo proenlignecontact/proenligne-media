@@ -1,0 +1,35 @@
+{
+ "slug": "chauffagiste-appels-nantes",
+ "moteur": "cinetique",
+ "angle": "Plus d'appels",
+ "metier": "chauffagiste",
+ "ville": "Nantes",
+ "ambiance": 2,
+ "valeur": "0",
+ "accroches": [
+  "Chauffagiste à Nantes, votre *fiche Google* est prête ?",
+  "Chauffagiste à Nantes, on vous trouve sur *Google* cet hiver ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Avant d'appeler, on regarde votre fiche Google."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne la fait vivre chaque semaine."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et quand il fait froid, c'est vous qu'on appelle.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Essayez trente jours offerts, lien en bio."
+  }
+ ],
+ "offre_ligne": "Cet hiver, *votre téléphone sonne.*",
+ "musique": true,
+ "audio_src": {}
+}

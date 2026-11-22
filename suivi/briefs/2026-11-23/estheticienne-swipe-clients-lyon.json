@@ -1,0 +1,35 @@
+{
+ "slug": "estheticienne-swipe-clients-lyon",
+ "moteur": "swipe",
+ "angle": "Plus de clients",
+ "metier": "esthéticienne",
+ "ville": "Lyon",
+ "ambiance": 1,
+ "entreprise": "",
+ "accroches": [
+  "Esthéticienne à Lyon, votre nouveau soin est sur votre fiche Google ?",
+  "Esthéticienne à Lyon, on passe votre fiche Google sans s'arrêter ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Rien de nouveau, alors on passe."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne montre vos soins."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et la cliente s'arrête chez vous.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts, le lien est en bio."
+  }
+ ],
+ "offre_ligne": "Vos soins, *enfin visibles.*",
+ "musique": true,
+ "audio_src": {}
+}

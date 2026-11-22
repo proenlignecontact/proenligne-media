@@ -1,0 +1,40 @@
+{
+ "slug": "electricien-classement-vannes",
+ "moteur": "plan-sequence",
+ "angle": "Plus de clients",
+ "metier": "électricien",
+ "ville": "Vannes",
+ "ambiance": 0,
+ "entreprise": "",
+ "lieu": "",
+ "accroches": [
+  "Et vous, sur *Google* ?",
+  "On vous voit sur *Google* ?"
+ ],
+ "accroches_dites": [
+  "Électricien à Vannes, et vous, sur Google, vous êtes où ?",
+  "Électricien à Vannes, on vous voit sur Google ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Les premières fiches Google reçoivent les appels."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne fait vivre la vôtre chaque semaine."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et les clients du coin tombent sur vous.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Le lien est en bio, trente jours offerts."
+  }
+ ],
+ "offre_ligne": "Votre fiche Google, *enfin réveillée.*",
+ "musique": true,
+ "audio_src": {}
+}

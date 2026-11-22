@@ -1,0 +1,100 @@
+[
+ {
+  "date": "2026-11-23",
+  "creneau_nominal": "13:00",
+  "heure": "13:45",
+  "utc": "2026-11-23T12:45:00Z",
+  "type": "visuel"
+ },
+ {
+  "date": "2026-11-23",
+  "creneau_nominal": "19:00",
+  "heure": "18:30",
+  "utc": "2026-11-23T17:30:00Z",
+  "type": "video"
+ },
+ {
+  "date": "2026-11-24",
+  "creneau_nominal": "13:00",
+  "heure": "12:30",
+  "utc": "2026-11-24T11:30:00Z",
+  "type": "visuel"
+ },
+ {
+  "date": "2026-11-24",
+  "creneau_nominal": "19:00",
+  "heure": "19:15",
+  "utc": "2026-11-24T18:15:00Z",
+  "type": "video"
+ },
+ {
+  "date": "2026-11-25",
+  "creneau_nominal": "13:00",
+  "heure": "13:30",
+  "utc": "2026-11-25T12:30:00Z",
+  "type": "visuel"
+ },
+ {
+  "date": "2026-11-25",
+  "creneau_nominal": "19:00",
+  "heure": "19:30",
+  "utc": "2026-11-25T18:30:00Z",
+  "type": "video"
+ },
+ {
+  "date": "2026-11-26",
+  "creneau_nominal": "13:00",
+  "heure": "12:45",
+  "utc": "2026-11-26T11:45:00Z",
+  "type": "visuel"
+ },
+ {
+  "date": "2026-11-26",
+  "creneau_nominal": "19:00",
+  "heure": "18:45",
+  "utc": "2026-11-26T17:45:00Z",
+  "type": "video"
+ },
+ {
+  "date": "2026-11-27",
+  "creneau_nominal": "13:00",
+  "heure": "13:45",
+  "utc": "2026-11-27T12:45:00Z",
+  "type": "visuel"
+ },
+ {
+  "date": "2026-11-27",
+  "creneau_nominal": "19:00",
+  "heure": "18:30",
+  "utc": "2026-11-27T17:30:00Z",
+  "type": "video"
+ },
+ {
+  "date": "2026-11-28",
+  "creneau_nominal": "13:00",
+  "heure": "13:45",
+  "utc": "2026-11-28T12:45:00Z",
+  "type": "visuel"
+ },
+ {
+  "date": "2026-11-28",
+  "creneau_nominal": "19:00",
+  "heure": "19:45",
+  "utc": "2026-11-28T18:45:00Z",
+  "type": "video"
+ },
+ {
+  "date": "2026-11-29",
+  "creneau_nominal": "13:00",
+  "heure": "13:00",
+  "utc": "2026-11-29T12:00:00Z",
+  "type": "visuel"
+ },
+ {
+  "date": "2026-11-29",
+  "creneau_nominal": "19:00",
+  "heure": "18:30",
+  "utc": "2026-11-29T17:30:00Z",
+  "type": "video"
+ }
+]
