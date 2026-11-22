@@ -1,0 +1,35 @@
+{
+ "slug": "supp-serrurier-duel-lille",
+ "moteur": "plan-sequence",
+ "angle": "Face au concurrent",
+ "metier": "serrurier",
+ "ville": "Lille",
+ "ambiance": 0,
+ "entreprise": "",
+ "lieu": "",
+ "accroches": [
+  "Serrurier à Lille, quelle *fiche Google* rassure le plus ?",
+  "Serrurier à Lille, en urgence, on compare les *fiches Google*."
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Porte claquée, on compare deux fiches Google."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne répond à chacun de vos avis."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et devant la porte, c'est vous qu'on appelle.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts, lien en bio."
+  }
+ ],
+ "offre_ligne": "Vos avis, *tous avec une réponse.*",
+ "musique": true
+}

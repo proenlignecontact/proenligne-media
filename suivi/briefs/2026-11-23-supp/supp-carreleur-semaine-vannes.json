@@ -1,0 +1,35 @@
+{
+ "slug": "supp-carreleur-semaine-vannes",
+ "moteur": "plan-sequence",
+ "angle": "Du temps libre",
+ "metier": "carreleur",
+ "ville": "Vannes",
+ "ambiance": 0,
+ "entreprise": "",
+ "lieu": "Chantier",
+ "accroches": [
+  "Carreleur à Vannes, encore le soir sur la *fiche Google ?*",
+  "Carreleur à Vannes, la *fiche Google* vous prend vos soirées ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Après les joints, restent les photos et les avis."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne publie vos carrelages en journée."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et le soir, vous posez enfin les outils.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts, lien en bio."
+  }
+ ],
+ "offre_ligne": "Les joints finis, *la soirée à vous.*",
+ "musique": true
+}

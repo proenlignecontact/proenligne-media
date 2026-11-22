@@ -1,0 +1,114 @@
+[
+ {
+  "date": "2026-11-23",
+  "moteur": "cinetique",
+  "angle": "Face au concurrent",
+  "metier": "électricien",
+  "ville": "Toulouse",
+  "ambiance": 2
+ },
+ {
+  "date": "2026-11-23",
+  "moteur": "swipe",
+  "angle": "Du temps libre",
+  "metier": "fleuriste",
+  "ville": "Quimper",
+  "ambiance": 0
+ },
+ {
+  "date": "2026-11-24",
+  "moteur": "plan-sequence",
+  "angle": "Plus de clients",
+  "metier": "ramoneur",
+  "ville": "Angers",
+  "ambiance": 1
+ },
+ {
+  "date": "2026-11-24",
+  "moteur": "cinetique",
+  "angle": "Du temps libre",
+  "metier": "coiffeuse",
+  "ville": "Montpellier",
+  "ambiance": 2
+ },
+ {
+  "date": "2026-11-25",
+  "moteur": "swipe",
+  "angle": "Plus d'appels",
+  "metier": "peintre",
+  "ville": "Caen",
+  "ambiance": 0
+ },
+ {
+  "date": "2026-11-25",
+  "moteur": "plan-sequence",
+  "angle": "Face au concurrent",
+  "metier": "boucherie",
+  "ville": "Tours",
+  "ambiance": 1
+ },
+ {
+  "date": "2026-11-26",
+  "moteur": "swipe",
+  "angle": "Du temps libre",
+  "metier": "couvreur",
+  "ville": "Rennes",
+  "ambiance": 2
+ },
+ {
+  "date": "2026-11-26",
+  "moteur": "cinetique",
+  "angle": "Face au concurrent",
+  "metier": "charpentier",
+  "ville": "Bordeaux",
+  "ambiance": 0
+ },
+ {
+  "date": "2026-11-27",
+  "moteur": "swipe",
+  "angle": "Plus de clients",
+  "metier": "vitrier",
+  "ville": "Saint-Brieuc",
+  "ambiance": 1
+ },
+ {
+  "date": "2026-11-27",
+  "moteur": "cinetique",
+  "angle": "Du temps libre",
+  "metier": "fromager",
+  "ville": "Lyon",
+  "ambiance": 2
+ },
+ {
+  "date": "2026-11-28",
+  "moteur": "plan-sequence",
+  "angle": "Face au concurrent",
+  "metier": "serrurier",
+  "ville": "Lille",
+  "ambiance": 0
+ },
+ {
+  "date": "2026-11-28",
+  "moteur": "swipe",
+  "angle": "Plus d'appels",
+  "metier": "toiletteur",
+  "ville": "Nantes",
+  "ambiance": 1
+ },
+ {
+  "date": "2026-11-29",
+  "moteur": "cinetique",
+  "angle": "Face au concurrent",
+  "metier": "menuisier",
+  "ville": "Lorient",
+  "ambiance": 2
+ },
+ {
+  "date": "2026-11-29",
+  "moteur": "plan-sequence",
+  "angle": "Du temps libre",
+  "metier": "carreleur",
+  "ville": "Vannes",
+  "ambiance": 0
+ }
+]

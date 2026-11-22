@@ -1,0 +1,34 @@
+{
+ "slug": "supp-charpentier-cinetique-bordeaux",
+ "moteur": "cinetique",
+ "angle": "Face au concurrent",
+ "metier": "charpentier",
+ "ville": "Bordeaux",
+ "ambiance": 0,
+ "valeur": "Votre concurrent",
+ "accroches": [
+  "Charpentier à Bordeaux, sa *fiche Google* montre son travail.",
+  "Charpentier à Bordeaux, quelle *fiche Google* rassure ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Chez lui, on voit ses dernières charpentes."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne montre votre savoir-faire chaque semaine."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et le devis, c'est à vous qu'on le demande.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts, lien en bio."
+  }
+ ],
+ "offre_ligne": "Vos charpentes, *vues avant le devis.*",
+ "musique": true
+}

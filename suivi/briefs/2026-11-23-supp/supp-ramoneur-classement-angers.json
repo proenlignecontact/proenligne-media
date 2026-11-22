@@ -1,0 +1,39 @@
+{
+ "slug": "supp-ramoneur-classement-angers",
+ "moteur": "plan-sequence",
+ "angle": "Plus de clients",
+ "metier": "ramoneur",
+ "ville": "Angers",
+ "ambiance": 1,
+ "entreprise": "",
+ "lieu": "",
+ "accroches": [
+  "On vous voit sur *Google ?*",
+  "Vous êtes là sur *Google ?*"
+ ],
+ "accroches_dites": [
+  "Ramoneur à Angers, l'hiver arrive. On vous voit sur Google ?",
+  "Tapez ramoneur Angers. Vous êtes là sur Google ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "Avant l'hiver, on appelle souvent les premiers."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne fait vivre votre fiche Google."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et votre entreprise se voit enfin.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Trente jours offerts, le lien est en bio."
+  }
+ ],
+ "offre_ligne": "Vos ramonages, *vus avant l'hiver.*",
+ "musique": true
+}

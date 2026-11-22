@@ -1,0 +1,35 @@
+{
+ "slug": "supp-boucherie-duel-tours",
+ "moteur": "plan-sequence",
+ "angle": "Face au concurrent",
+ "metier": "boucherie",
+ "ville": "Tours",
+ "ambiance": 1,
+ "entreprise": "",
+ "lieu": "",
+ "accroches": [
+  "Boucherie à Tours, la *fiche Google* d'en face fait envie ?",
+  "Boucherie à Tours, votre *fiche Google* montre votre vitrine ?"
+ ],
+ "voix": [
+  {
+   "scene": "Probleme",
+   "texte": "En face, on voit la vitrine du jour."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Pro en ligne montre vos produits chaque semaine."
+  },
+  {
+   "scene": "Bascule",
+   "texte": "Et pour les fêtes, on passe chez vous.",
+   "ancre": 3.0
+  },
+  {
+   "scene": "Offre",
+   "texte": "Testez trente jours offerts, lien en bio."
+  }
+ ],
+ "offre_ligne": "Votre vitrine, *vue avant les fêtes.*",
+ "musique": true
+}
