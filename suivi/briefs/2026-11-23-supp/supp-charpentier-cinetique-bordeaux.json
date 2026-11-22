@@ -30,5 +30,11 @@
   }
  ],
  "offre_ligne": "Vos charpentes, *vues avant le devis.*",
- "musique": true
+ "musique": true,
+ "audio_src": {
+  "prise-A": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/z8rFGabViNw9RIRuUDSE/mOZ9c8OkBMSZnXNvaj8i/content.mp3?Expires=1795359600&KeyName=assets-cdn-key-1&Signature=AfMtRvXFC21hdhEI9HOHD5u-Zk4=",
+   "duree": 13.84
+  }
+ }
 }

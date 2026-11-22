@@ -30,5 +30,11 @@
   }
  ],
  "offre_ligne": "Vos murs repeints, *en photo le lundi.*",
- "musique": true
+ "musique": true,
+ "audio_src": {
+  "prise-A": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/qOYhc8UoqDUs1PbFQzOe/TlPbzOI7zDEc9tFQtcgq/content.mp3?Expires=1795359600&KeyName=assets-cdn-key-1&Signature=bnUewKs0LCAv9o0E663NMFtRMZE=",
+   "duree": 12.96
+  }
+ }
 }

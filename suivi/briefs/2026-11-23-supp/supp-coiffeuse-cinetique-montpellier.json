@@ -30,5 +30,11 @@
   }
  ],
  "offre_ligne": "Le salon fermé, *le soir enfin libre.*",
- "musique": true
+ "musique": true,
+ "audio_src": {
+  "prise-A": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/Btlc4cJ7unL6QfI2OJiT/2TUoE6rugWLpT5Pt8OYf/content.mp3?Expires=1795359600&KeyName=assets-cdn-key-1&Signature=qkk6jbwX8GYSMEgOMDvJX6WiSJY=",
+   "duree": 13.68
+  }
+ }
 }
