@@ -1,0 +1,30 @@
+[
+ {
+  "slug": "supp-ramoneur-classement-angers",
+  "champ": "voix 3",
+  "critere": "3 (affirmation invérifiable sur le classement Google)",
+  "motif": "Enchaînée à « on appelle souvent les premiers » et « Pro en ligne fait vivre votre fiche Google », la ligne « votre entreprise se voit enfin » promet implicitement une meilleure place dans Google, ce qui n'est pas vérifiable.",
+  "proposition": "Et le client voit vos derniers ramonages."
+ },
+ {
+  "slug": "supp-coiffeuse-cinetique-montpellier",
+  "champ": "accroche B",
+  "critere": "1 (compréhensible seul)",
+  "motif": "« la fiche Google attend ce soir ? » n'a pas de complément, et on ne comprend pas qui ou quoi elle attend.",
+  "proposition": "Coiffeuse à Montpellier, la *fiche Google* vous attend ?"
+ },
+ {
+  "slug": "supp-electricien-cinetique-toulouse",
+  "champ": "textes.instagram",
+  "critere": "1 (compréhensible seul)",
+  "motif": "Le texte ne nomme jamais Proenligne ni ce qu'il fait, donc « 30 jours offerts » ne dit pas ce qui est offert et l'avant/après ne dit pas qui publie les photos.",
+  "proposition": "Électricien à Toulouse, sa fiche Google montre son travail. Et la vôtre ?\n\nPrenons un exemple imaginaire, l'entreprise d'électricité Durand. Avant, sa fiche Google montrait le logo et une camionnette. Un client qui cherchait un électricien ne voyait rien de ce qu'elle savait faire.\n\nAprès, chaque lundi, une photo de chantier. Un tableau électrique refait, des prises posées dans une cuisine neuve, un éclairage de jardin. Le client voit le travail avant même d'appeler.\n\nLa fiche Google, c'est l'encadré que Google affiche avec la note, les photos et le numéro de l'entreprise. C'est souvent là que le client compare.\n\nProenligne publie une photo de vos chantiers le lundi, une publication le jeudi, et répond à chaque avis.\n\nQuel chantier de la semaine montreriez-vous en premier ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Electricien #Toulouse #ReferencementLocal"
+ },
+ {
+  "slug": "supp-charpentier-cinetique-bordeaux",
+  "champ": "textes.instagram",
+  "critere": "1 (compréhensible seul)",
+  "motif": "Le texte ne nomme jamais Proenligne ni ce qu'il fait, donc « 30 jours offerts » ne dit pas ce qui est offert et l'avant/après ne dit pas qui publie les photos.",
+  "proposition": "Charpentier à Bordeaux, sa fiche Google montre son travail. Et la vôtre ?\n\nPrenons un exemple imaginaire, la charpente Bernard. Avant, sa fiche Google montrait l'entrée de l'atelier et une photo de 2021. Un client qui préparait une extension ne voyait rien du savoir-faire.\n\nAprès, chaque lundi, une photo de chantier. Une ossature bois montée, un carport, une charpente traditionnelle avant la couverture. Le client voit le travail avant de demander un devis.\n\nLa fiche Google, c'est l'encadré que Google affiche avec la note, les photos et le téléphone de l'entreprise.\n\nProenligne publie une photo de vos chantiers le lundi, une publication le jeudi, et répond à chaque avis.\n\nQuelle charpente de cette année aimeriez-vous montrer en premier ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Charpentier #Bordeaux #ReferencementLocal"
+ }
+]
