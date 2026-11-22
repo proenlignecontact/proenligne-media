@@ -1,6 +1,6 @@
 {
  "lundi": "2026-11-23",
- "empreinte": "da67419fbb8e0ea5",
+ "empreinte": "725d7def84f15e91",
  "nb": 46,
  "nb_a_relire": 3,
  "consigne": "Un verdict pour chaque élément a_relire=true (les autres sont du contexte déjà validé : verdict facultatif, mais à refuser s'ils contredisent un élément relu).",
@@ -249,9 +249,9 @@
    "ref": "2026-11-25 13:00",
    "source": "plan",
    "champ": "visuel slide 5 texte",
-   "texte": "Vous les ajoutez toujours, vous y pensez trop tard, ou vous ne saviez pas ? Dites-le en commentaire.",
+   "texte": "Vous ajoutez toujours vos horaires de fêtes, vous y pensez trop tard, ou c'est une découverte ? Dites-le en commentaire.",
    "cle": "2026-11-25 13:00|plan|visuel slide 5 texte",
-   "h": "2f470715060e",
+   "h": "7ba41e990eab",
    "id": "e1ad39f",
    "a_relire": true
   },
@@ -329,9 +329,9 @@
    "ref": "2026-11-25 19:00",
    "source": "plan",
    "champ": "texte facebook",
-   "texte": "Paysagiste à Lille, le matériel rangé, vous passez encore la soirée sur votre fiche Google ?\n\nLe chantier est fini, mais la fiche Google, elle, attend encore. C'est l'encadré qu'un client ouvre sur Google Maps avant de vous appeler, avec vos photos, vos avis et vos horaires.\n\nIl faut choisir une photo, répondre aux avis, écrire une nouvelle publication. Chaque tâche est courte, mais elles reviennent chaque soir, et la soirée finit par y passer.\n\nProenligne s'en occupe à votre place, avec une photo le lundi, une publication le jeudi et une réponse à chaque avis.\n\nCombien de soirées par semaine passez-vous sur votre fiche Google ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Paysagiste #Jardin #Lille #ReferencementLocal",
+   "texte": "Paysagiste à Lille, le matériel rangé, vous passez encore la soirée sur votre fiche Google ?\n\nLe chantier est fini, mais la fiche Google, elle, attend encore. C'est l'encadré qu'un client ouvre sur Google Maps avant de vous appeler, avec vos photos, vos avis et vos horaires.\n\nIl faut choisir une photo, répondre aux avis, écrire une nouvelle publication. Chaque tâche est courte, mais elles reviennent chaque semaine, souvent le soir, une fois le camion vidé.\n\nProenligne s'en occupe à votre place, avec une photo le lundi, une publication le jeudi et une réponse à chaque avis.\n\nCombien de soirées par semaine passez-vous sur votre fiche Google ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Paysagiste #Jardin #Lille #ReferencementLocal",
    "cle": "2026-11-25 19:00|plan|texte facebook",
-   "h": "4fb158bc1c62",
+   "h": "45e7e3460ed2",
    "id": "e6cc1ed",
    "a_relire": true
   },
@@ -339,9 +339,9 @@
    "ref": "2026-11-24 19:00",
    "source": "brief:chauffagiste-appels-nantes",
    "champ": "accroche A",
-   "texte": "Chauffagiste à Nantes, on vous appelle grâce à *Google* ?",
+   "texte": "Chauffagiste à Nantes, on vous appelle via la *fiche Google* ?",
    "cle": "2026-11-24 19:00|brief:chauffagiste-appels-nantes|accroche A",
-   "h": "1c57961784b9",
+   "h": "9f5f7adbed10",
    "id": "e017731",
    "a_relire": true
   },

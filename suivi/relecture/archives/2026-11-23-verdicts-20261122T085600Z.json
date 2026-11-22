@@ -1,0 +1,35 @@
+{
+ "empreinte": "80ffa3f8b222d9ee",
+ "verdicts": [
+  {
+   "id": "eb99f9b",
+   "verdict": "ok"
+  },
+  {
+   "id": "ea1d8ce",
+   "verdict": "ok"
+  },
+  {
+   "id": "e1ad39f",
+   "verdict": "refuse",
+   "motif": "Critère 1, lue seule sur la dernière slide, la phrase reprend « les » sans antécédent et « vous ne saviez pas » reste en suspens, on ne sait pas de quoi on parle.",
+   "proposition": "Vous ajoutez toujours vos horaires de fêtes, vous y pensez trop tard, ou c'est une découverte ? Dites-le en commentaire."
+  },
+  {
+   "id": "e6cc1ed",
+   "verdict": "refuse",
+   "motif": "Critère 2, le texte dit que photo, avis et publication « reviennent chaque soir » alors que sa propre question demande combien de soirées par semaine et que le premier commentaire conseille une seule photo par semaine.",
+   "proposition": "Paysagiste à Lille, le matériel rangé, vous passez encore la soirée sur votre fiche Google ?\n\nLe chantier est fini, mais la fiche Google, elle, attend encore. C'est l'encadré qu'un client ouvre sur Google Maps avant de vous appeler, avec vos photos, vos avis et vos horaires.\n\nIl faut choisir une photo, répondre aux avis, écrire une nouvelle publication. Chaque tâche est courte, mais elles reviennent chaque semaine, souvent le soir, une fois le camion vidé.\n\nProenligne s'en occupe à votre place, avec une photo le lundi, une publication le jeudi et une réponse à chaque avis.\n\nCombien de soirées par semaine passez-vous sur votre fiche Google ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Paysagiste #Jardin #Lille #ReferencementLocal"
+  },
+  {
+   "id": "edae2be",
+   "verdict": "ok"
+  },
+  {
+   "id": "e017731",
+   "verdict": "refuse",
+   "motif": "Critère 4, l'accroche ouvre la vidéo (affichée et dite) en parlant de « Google » en général, sans nommer la fiche Google, si bien qu'on ne sait pas d'où viendraient les appels.",
+   "proposition": "Chauffagiste à Nantes, on vous appelle via la *fiche Google* ?"
+  }
+ ]
+}

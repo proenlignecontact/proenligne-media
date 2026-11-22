@@ -91,6 +91,9 @@ P('estheticienne-swipe-clients-lyon', ('accroches', 1, None), "Esthéticienne à
 # passe 3
 P('chauffagiste-appels-nantes', ('accroches', 0, None), 'Chauffagiste à Nantes, on vous appelle grâce à *Google* ?')  # e017731
 
+# passe 4
+P('chauffagiste-appels-nantes', ('accroches', 0, None), 'Chauffagiste à Nantes, on vous appelle via la *fiche Google* ?')  # e017731
+
 for b in B:
     p = os.path.join(ICI, b['slug'] + '.json')
     if os.path.exists(p):
