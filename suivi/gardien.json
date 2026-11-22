@@ -134,6 +134,15 @@
    "erreur": "Instagram blocked your request",
    "prevu": "2026-11-20T12:00:00Z",
    "reprogramme": "2026-11-21T09:30:00Z"
+  },
+  {
+   "date": "2026-11-22",
+   "ancien_id": "cmwhmcgob00qjkb7zy7szdvrs",
+   "nouvel_id": "cmwrihwk600wlkb7zu40m5kv6",
+   "canal": "instagram",
+   "erreur": "Instagram blocked your request",
+   "prevu": "2026-11-21T12:30:00Z",
+   "reprogramme": "2026-11-22T09:30:00Z"
   }
  ],
  "echecs": [
@@ -207,6 +216,14 @@
    "publie_prevu": "2026-11-20T09:30:00Z",
    "erreur": "Instagram blocked your request",
    "note": "Déjà recréé (ancien cmwhmb39o00pvkb7zygt6nmm6, carrousel maçon chantier en cours), échoue encore : non recréé."
+  },
+  {
+   "date": "2026-11-22",
+   "postiz_id": "cmwq31y7z00wdkb7z4og5753y",
+   "canal": "instagram",
+   "publie_prevu": "2026-11-21T09:30:00Z",
+   "erreur": "Instagram blocked your request",
+   "note": "Déjà recréé (ancien cmwhmbngk00q7kb7zl7pve27t, carrousel coiffeur sondage avis), échoue encore : non recréé."
   }
  ]
 }
