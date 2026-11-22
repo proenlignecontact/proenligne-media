@@ -94,6 +94,12 @@ P('chauffagiste-appels-nantes', ('accroches', 0, None), 'Chauffagiste à Nantes,
 # passe 4
 P('chauffagiste-appels-nantes', ('accroches', 0, None), 'Chauffagiste à Nantes, on vous appelle via la *fiche Google* ?')  # e017731
 
+# passe 5
+P('chauffagiste-appels-nantes', ('accroches', 0, None), 'Chauffagiste à Nantes, votre *fiche Google* fait-elle sonner ?')  # e017731
+
+# passe 6
+P('chauffagiste-appels-nantes', ('accroches', 0, None), 'Chauffagiste à Nantes, on vous *appelle* depuis Google ?')  # e017731
+
 for b in B:
     p = os.path.join(ICI, b['slug'] + '.json')
     if os.path.exists(p):

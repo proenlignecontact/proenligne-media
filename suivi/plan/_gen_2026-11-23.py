@@ -344,6 +344,12 @@ T('2026-11-29', '13:00', 'visuel.slides.1.titre', "La pelouse d'été ne convien
 T('2026-11-25', '13:00', 'visuel.slides.3.texte', "Vous ajoutez toujours vos horaires de fêtes, vous y pensez trop tard, ou c'est une découverte ? Dites-le en commentaire.")  # e1ad39f
 T('2026-11-25', '19:00', 'textes.facebook', "Paysagiste à Lille, le matériel rangé, vous passez encore la soirée sur votre fiche Google ?\n\nLe chantier est fini, mais la fiche Google, elle, attend encore. C'est l'encadré qu'un client ouvre sur Google Maps avant de vous appeler, avec vos photos, vos avis et vos horaires.\n\nIl faut choisir une photo, répondre aux avis, écrire une nouvelle publication. Chaque tâche est courte, mais elles reviennent chaque semaine, souvent le soir, une fois le camion vidé.\n\nProenligne s'en occupe à votre place, avec une photo le lundi, une publication le jeudi et une réponse à chaque avis.\n\nCombien de soirées par semaine passez-vous sur votre fiche Google ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Paysagiste #Jardin #Lille #ReferencementLocal")  # e6cc1ed
 
+# ───────── Corrections après la relecture, passe 5 ─────────
+
+
+# ───────── Corrections après la relecture, passe 6 ─────────
+
+
 C.sort(key=lambda c: (c['date'], c['creneau_nominal']))
 p = os.path.join(ICI, f'{LUNDI}.json')
 ancien = {}

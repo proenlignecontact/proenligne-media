@@ -1,0 +1,19 @@
+{
+ "empreinte": "725d7def84f15e91",
+ "verdicts": [
+  {
+   "id": "e1ad39f",
+   "verdict": "ok"
+  },
+  {
+   "id": "e6cc1ed",
+   "verdict": "ok"
+  },
+  {
+   "id": "e017731",
+   "verdict": "refuse",
+   "motif": "Critère 1, « on vous appelle via la fiche Google ? » est ambigu à l'oral (on peut comprendre que c'est nous qui appelons) et, affiché à côté du gros « 0 », ne dit pas ce que ce zéro compte.",
+   "proposition": "Combien d'appels vous apporte votre *fiche Google* ?"
+  }
+ ]
+}
