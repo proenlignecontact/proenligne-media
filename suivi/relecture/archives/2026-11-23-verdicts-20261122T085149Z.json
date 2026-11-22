@@ -1,0 +1,209 @@
+{
+ "empreinte": "f580ae91fb0cc3d2",
+ "verdicts": [
+  {
+   "id": "e689d77",
+   "verdict": "ok"
+  },
+  {
+   "id": "e06906d",
+   "verdict": "ok"
+  },
+  {
+   "id": "e798810",
+   "verdict": "ok"
+  },
+  {
+   "id": "ea1d8ce",
+   "verdict": "ok"
+  },
+  {
+   "id": "e957d21",
+   "verdict": "ok"
+  },
+  {
+   "id": "ea4a963",
+   "verdict": "ok"
+  },
+  {
+   "id": "edcc30f",
+   "verdict": "ok"
+  },
+  {
+   "id": "e262a2c",
+   "verdict": "ok"
+  },
+  {
+   "id": "e1ad39f",
+   "verdict": "refuse",
+   "motif": "Critère 1. « Oui à chaque fois, souvent trop tard » enchaîne des bouts de phrase sans sujet ni verbe, la question ne se lit pas seule.",
+   "proposition": "Vous ajoutez vos horaires de fêtes à chaque fois, vous y pensez trop tard, ou vous ne saviez pas que c'était possible ? Dites-le en commentaire."
+  },
+  {
+   "id": "ee70c4b",
+   "verdict": "ok"
+  },
+  {
+   "id": "e45216e",
+   "verdict": "refuse",
+   "motif": "Critères 2 et 3. Dire que la fiche Google « demande chaque soir » une publication à écrire est faux et contredit le premier commentaire, qui conseille une seule publication par semaine.",
+   "proposition": "Paysagiste à Lille, le matériel rangé, vous passez encore la soirée sur votre fiche Google ?\nVotre fiche Google, celle que vos clients voient sur Google Maps, demande un peu de temps chaque semaine, souvent le soir, avec des photos à trier, des avis à lire et une publication à écrire.\n\n#FicheGoogle #Paysagiste #Lille\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio."
+  },
+  {
+   "id": "ee68e1d",
+   "verdict": "ok"
+  },
+  {
+   "id": "e6cc1ed",
+   "verdict": "refuse",
+   "motif": "Critères 8 et 11. La question finale « Vous préférez y passer vos soirées ou vos week-ends ? » est une fausse alternative qui enferme le lecteur, juste après avoir dit que Proenligne s'en occupe ; ce n'est pas une question honnête.",
+   "proposition": "Paysagiste à Lille, le matériel rangé, vous passez encore la soirée sur votre fiche Google ?\n\nLe chantier est fini, mais la fiche Google, elle, attend encore. C'est l'encadré qu'un client ouvre sur Google Maps avant de vous appeler, avec vos photos, vos avis et vos horaires.\n\nIl faut trier les photos, répondre aux avis, écrire une nouvelle publication. Ce n'est jamais long, mais il y en a un peu chaque soir, et la soirée y passe.\n\nProenligne s'en occupe à votre place.\n\nCombien de soirées par semaine passez-vous sur votre fiche Google ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Paysagiste #Jardin #Lille #ReferencementLocal"
+  },
+  {
+   "id": "ed95954",
+   "verdict": "ok"
+  },
+  {
+   "id": "e231c44",
+   "verdict": "ok"
+  },
+  {
+   "id": "e54e0a0",
+   "verdict": "ok"
+  },
+  {
+   "id": "ef58061",
+   "verdict": "ok"
+  },
+  {
+   "id": "ede0c1c",
+   "verdict": "ok"
+  },
+  {
+   "id": "e8edaeb",
+   "verdict": "ok"
+  },
+  {
+   "id": "ee70c20",
+   "verdict": "ok"
+  },
+  {
+   "id": "e3af29a",
+   "verdict": "refuse",
+   "motif": "Critère 1. Le texte dit que les réponses aux avis négatifs sont « validées par l'institut » sans dire qui les écrit, un lecteur qui ne connaît pas Proenligne ne comprend pas qui a changé quoi.",
+   "proposition": "Avant, les avis de l'institut Petit restaient sans réponse sur sa fiche Google. Désormais, chaque avis reçoit un merci.\n\nC'est un exemple imaginaire. La fiche Google, c'est ce que vos clientes voient en premier quand elles cherchent un institut sur Google Maps, avec vos photos, vos horaires et vos avis.\n\nAvant, des clientes ravies avaient laissé un mot, et personne ne les avait remerciées. Une future cliente pouvait se demander si quelqu'un lisait.\n\nAprès, chaque avis a sa réponse, avec le prénom et le soin. C'est Proenligne qui écrit ces réponses, et l'institut valide celles aux avis négatifs avant qu'elles soient publiées.\n\nLa note n'a pas changé. L'impression, si.\n\nCombien d'avis attendent encore une réponse sur votre fiche Google ?\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #ReferencementLocal #GoogleBusinessProfile"
+  },
+  {
+   "id": "e38c168",
+   "verdict": "ok"
+  },
+  {
+   "id": "e305e38",
+   "verdict": "ok"
+  },
+  {
+   "id": "ea5ac4d",
+   "verdict": "ok"
+  },
+  {
+   "id": "e560032",
+   "verdict": "ok"
+  },
+  {
+   "id": "e06a2bf",
+   "verdict": "ok"
+  },
+  {
+   "id": "e435310",
+   "verdict": "ok"
+  },
+  {
+   "id": "ef68ec9",
+   "verdict": "ok"
+  },
+  {
+   "id": "eb4d8dd",
+   "verdict": "ok"
+  },
+  {
+   "id": "e4bc3f8",
+   "verdict": "ok"
+  },
+  {
+   "id": "e6a44df",
+   "verdict": "ok"
+  },
+  {
+   "id": "e5a846c",
+   "verdict": "ok"
+  },
+  {
+   "id": "edae2be",
+   "verdict": "ok"
+  },
+  {
+   "id": "ea4d069",
+   "verdict": "ok"
+  },
+  {
+   "id": "e874143",
+   "verdict": "ok"
+  },
+  {
+   "id": "e5c8b19",
+   "verdict": "ok"
+  },
+  {
+   "id": "ef44181",
+   "verdict": "ok"
+  },
+  {
+   "id": "e017731",
+   "verdict": "refuse",
+   "motif": "Critère 1. Affichée en même temps que la grosse valeur jaune « 0 », l'accroche « votre fiche Google est-elle à jour ? » ne dit pas zéro de quoi, le chiffre reste incompréhensible à la première image.",
+   "proposition": "Chauffagiste à Nantes, des appels via votre *fiche Google* ?"
+  },
+  {
+   "id": "eec2fa3",
+   "verdict": "ok"
+  },
+  {
+   "id": "eb09b0e",
+   "verdict": "ok"
+  },
+  {
+   "id": "efc66d0",
+   "verdict": "ok"
+  },
+  {
+   "id": "e4634c5",
+   "verdict": "refuse",
+   "motif": "Critère 1. « Votre fiche Google arrête la cliente ? » est ambigu (arrêter qui, comment ?) et ne se comprend pas à la première lecture.",
+   "proposition": "Esthéticienne à Lyon, la cliente s'arrête-t-elle sur votre fiche Google ?"
+  },
+  {
+   "id": "ebb03b1",
+   "verdict": "ok"
+  },
+  {
+   "id": "e04d77a",
+   "verdict": "ok"
+  },
+  {
+   "id": "e88a3bf",
+   "verdict": "ok"
+  },
+  {
+   "id": "ee5b5ba",
+   "verdict": "ok"
+  },
+  {
+   "id": "e1015b3",
+   "verdict": "ok"
+  },
+  {
+   "id": "e24e5af",
+   "verdict": "ok"
+  }
+ ]
+}

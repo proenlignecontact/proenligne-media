@@ -84,6 +84,10 @@ P('electricien-classement-vannes', ('voix', 0, 'texte'), 'Souvent, on appelle le
 P('electricien-classement-vannes', ('voix', 2, 'texte'), 'Et les clients du coin voient une entreprise active.')  # efc66d0
 P('garage-appels-lorient', ('voix', 2, 'texte'), "Et votre fiche Google donne envie d'appeler.")  # e04d77a
 
+# passe 2
+P('chauffagiste-appels-nantes', ('accroches', 0, None), 'Chauffagiste à Nantes, des appels via votre *fiche Google* ?')  # e017731
+P('estheticienne-swipe-clients-lyon', ('accroches', 1, None), "Esthéticienne à Lyon, la cliente s'arrête-t-elle sur votre fiche Google ?")  # e4634c5
+
 for b in B:
     p = os.path.join(ICI, b['slug'] + '.json')
     if os.path.exists(p):
