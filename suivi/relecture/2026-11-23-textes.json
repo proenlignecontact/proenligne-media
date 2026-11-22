@@ -1,90 +1,10 @@
 {
  "lundi": "2026-11-23",
- "empreinte": "ba01c95a652195ac",
- "nb": 78,
- "nb_a_relire": 6,
+ "empreinte": "da67419fbb8e0ea5",
+ "nb": 46,
+ "nb_a_relire": 3,
  "consigne": "Un verdict pour chaque élément a_relire=true (les autres sont du contexte déjà validé : verdict facultatif, mais à refuser s'ils contredisent un élément relu).",
  "elements": [
-  {
-   "ref": "2026-11-23 19:00",
-   "source": "plan",
-   "champ": "accroche",
-   "texte": "« Elle ne fait pas ce soin, on passe. » Esthéticienne à Lyon, votre nouveau soin manque sur votre fiche Google.",
-   "cle": "2026-11-23 19:00|plan|accroche",
-   "h": "1031f7af1f5e",
-   "id": "e670e7b",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-23 19:00",
-   "source": "plan",
-   "champ": "premier_commentaire",
-   "texte": "Une astuce simple. Ajoutez chaque nouveau soin dans la rubrique Services de votre fiche Google le jour où vous le lancez, avec une phrase qui dit à qui il s'adresse.",
-   "cle": "2026-11-23 19:00|plan|premier_commentaire",
-   "h": "577d978e0f74",
-   "id": "e84baeb",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-23 19:00",
-   "source": "plan",
-   "champ": "youtube_title",
-   "texte": "Esthéticienne, votre nouveau soin est-il visible sur votre fiche Google ?",
-   "cle": "2026-11-23 19:00|plan|youtube_title",
-   "h": "ea13e08dfadd",
-   "id": "eb93290",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-23 19:00",
-   "source": "plan",
-   "champ": "tiktok_title",
-   "texte": "Esthéticienne à Lyon, votre nouveau soin est-il sur votre fiche Google ?",
-   "cle": "2026-11-23 19:00|plan|tiktok_title",
-   "h": "d71ddacf65e6",
-   "id": "e9d4e81",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-23 19:00",
-   "source": "plan",
-   "champ": "texte tiktok",
-   "texte": "« Elle ne fait pas ce soin, on passe. » Esthéticienne à Lyon, votre nouveau soin manque sur votre fiche Google.\nSur Google Maps, la cliente fait défiler les fiches Google des instituts. Si votre soin n'y est pas, elle s'arrête ailleurs.\n\n#FicheGoogle #Estheticienne #Lyon\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio.",
-   "cle": "2026-11-23 19:00|plan|texte tiktok",
-   "h": "9d05980ecd1b",
-   "id": "e5e84a6",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-23 19:00",
-   "source": "plan",
-   "champ": "texte instagram",
-   "texte": "« Elle ne fait pas ce soin, on passe. » Esthéticienne à Lyon, votre nouveau soin manque sur votre fiche Google.\n\nUne cliente cherche un soin précis. Elle tape le nom du soin et sa ville, et Google lui montre des fiches Google d'instituts, avec les photos, les avis et la liste des services.\n\nVous proposez ce soin depuis la rentrée. Mais sur votre fiche Google, il n'apparaît pas. Elle fait glisser son doigt et s'arrête sur l'institut d'à côté, qui l'affiche.\n\nVotre dernier soin, il est sur votre fiche Google ou seulement dans la cabine ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #Lyon #ReferencementLocal",
-   "cle": "2026-11-23 19:00|plan|texte instagram",
-   "h": "67cbf366a7c7",
-   "id": "eb83ba2",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-23 19:00",
-   "source": "plan",
-   "champ": "texte youtube",
-   "texte": "Esthéticienne à Lyon, votre nouveau soin est-il visible sur votre fiche Google ?\n\nLa fiche Google, c'est l'encadré qui présente votre institut sur Google et Google Maps, avec vos photos, vos avis, vos horaires et vos services. Une cliente qui cherche un soin précis compare ces fiches Google avant de réserver.\n\nProenligne publie une photo le lundi, une publication le jeudi, et répond à chaque avis.\n\nQuel soin avez-vous lancé en dernier, et se voit-il sur votre fiche Google ?\n\n#FicheGoogle #Estheticienne #Lyon",
-   "cle": "2026-11-23 19:00|plan|texte youtube",
-   "h": "4eb383f178e7",
-   "id": "e5677dd",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-23 19:00",
-   "source": "plan",
-   "champ": "texte facebook",
-   "texte": "« Elle ne fait pas ce soin, on passe. » Esthéticienne à Lyon, votre nouveau soin manque sur votre fiche Google.\n\nAvant de réserver, beaucoup de clientes regardent la fiche Google de l'institut, ce que Google affiche avec les photos, les avis et les services. C'est là qu'elles vérifient que le soin existe.\n\nUn soin lancé au salon mais absent de votre fiche Google, une nouvelle cliente ne peut pas le connaître.\n\nDepuis quand votre liste de soins n'a-t-elle pas bougé sur Google ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #Lyon #ReferencementLocal",
-   "cle": "2026-11-23 19:00|plan|texte facebook",
-   "h": "59eba3a0fa99",
-   "id": "e52842c",
-   "a_relire": false
-  },
   {
    "ref": "2026-11-24 19:00",
    "source": "plan",
@@ -329,9 +249,9 @@
    "ref": "2026-11-25 13:00",
    "source": "plan",
    "champ": "visuel slide 5 texte",
-   "texte": "Vous les ajoutez toujours, vous y pensez trop tard, ou vous ne saviez pas que c'était possible ? Dites-le en commentaire.",
+   "texte": "Vous les ajoutez toujours, vous y pensez trop tard, ou vous ne saviez pas ? Dites-le en commentaire.",
    "cle": "2026-11-25 13:00|plan|visuel slide 5 texte",
-   "h": "c6bb4d1cbc8f",
+   "h": "2f470715060e",
    "id": "e1ad39f",
    "a_relire": true
   },
@@ -383,7 +303,7 @@
    "cle": "2026-11-25 19:00|plan|texte tiktok",
    "h": "8a061d9bf486",
    "id": "e45216e",
-   "a_relire": true
+   "a_relire": false
   },
   {
    "ref": "2026-11-25 19:00",
@@ -409,199 +329,19 @@
    "ref": "2026-11-25 19:00",
    "source": "plan",
    "champ": "texte facebook",
-   "texte": "Paysagiste à Lille, le matériel rangé, vous passez encore la soirée sur votre fiche Google ?\n\nLe chantier est fini, mais la fiche Google, elle, attend encore. C'est l'encadré qu'un client ouvre sur Google Maps avant de vous appeler, avec vos photos, vos avis et vos horaires.\n\nIl faut trier les photos, répondre aux avis, écrire une nouvelle publication. Ce n'est jamais long, mais il y en a un peu chaque soir, et la soirée y passe.\n\nProenligne s'en occupe à votre place.\n\nCombien de soirées par semaine passez-vous sur votre fiche Google ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Paysagiste #Jardin #Lille #ReferencementLocal",
+   "texte": "Paysagiste à Lille, le matériel rangé, vous passez encore la soirée sur votre fiche Google ?\n\nLe chantier est fini, mais la fiche Google, elle, attend encore. C'est l'encadré qu'un client ouvre sur Google Maps avant de vous appeler, avec vos photos, vos avis et vos horaires.\n\nIl faut choisir une photo, répondre aux avis, écrire une nouvelle publication. Chaque tâche est courte, mais elles reviennent chaque soir, et la soirée finit par y passer.\n\nProenligne s'en occupe à votre place, avec une photo le lundi, une publication le jeudi et une réponse à chaque avis.\n\nCombien de soirées par semaine passez-vous sur votre fiche Google ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Paysagiste #Jardin #Lille #ReferencementLocal",
    "cle": "2026-11-25 19:00|plan|texte facebook",
-   "h": "2def018428ea",
+   "h": "4fb158bc1c62",
    "id": "e6cc1ed",
    "a_relire": true
-  },
-  {
-   "ref": "2026-11-27 13:00",
-   "source": "plan",
-   "champ": "accroche",
-   "texte": "Avant, les avis de l'institut Petit restaient sans réponse sur sa fiche Google. Désormais, chaque avis reçoit un merci.",
-   "cle": "2026-11-27 13:00|plan|accroche",
-   "h": "a9618e9ef5c8",
-   "id": "ee70c20",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-27 13:00",
-   "source": "plan",
-   "champ": "premier_commentaire",
-   "texte": "Une réponse d'avis n'a pas besoin d'être longue. Le prénom de la cliente, le soin reçu et un merci sincère suffisent souvent.",
-   "cle": "2026-11-27 13:00|plan|premier_commentaire",
-   "h": "375e471a6b21",
-   "id": "e72db61",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-27 13:00",
-   "source": "plan",
-   "champ": "texte instagram",
-   "texte": "Avant, les avis de l'institut Petit restaient sans réponse sur sa fiche Google. Désormais, chaque avis reçoit un merci.\n\nC'est un exemple imaginaire. La fiche Google, c'est ce que vos clientes voient en premier quand elles cherchent un institut sur Google Maps, avec vos photos, vos horaires et vos avis.\n\nAvant, des clientes ravies avaient laissé un mot, et personne ne les avait remerciées. Une future cliente pouvait se demander si quelqu'un lisait.\n\nAprès, chaque avis a sa réponse, avec le prénom et le soin. C'est Proenligne qui écrit ces réponses, et l'institut valide celles aux avis négatifs avant qu'elles soient publiées.\n\nLa note n'a pas changé. L'impression, si.\n\nCombien d'avis attendent encore une réponse sur votre fiche Google ?\n\n#FicheGoogle #Estheticienne #InstitutDeBeaute #ReferencementLocal #GoogleBusinessProfile",
-   "cle": "2026-11-27 13:00|plan|texte instagram",
-   "h": "451322ae7a57",
-   "id": "e3af29a",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-27 13:00",
-   "source": "plan",
-   "champ": "visuel surtitre",
-   "texte": "Démonstration sur la fiche Google d'un institut",
-   "cle": "2026-11-27 13:00|plan|visuel surtitre",
-   "h": "1c4f60f08426",
-   "id": "ebf39c3",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-27 13:00",
-   "source": "plan",
-   "champ": "visuel titre",
-   "texte": "Sur cette fiche Google, chaque avis a maintenant sa réponse",
-   "cle": "2026-11-27 13:00|plan|visuel titre",
-   "h": "8def574a7d0f",
-   "id": "e38c168",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-27 13:00",
-   "source": "plan",
-   "champ": "visuel question",
-   "texte": "Combien d'avis attendent une réponse sur votre fiche Google ?",
-   "cle": "2026-11-27 13:00|plan|visuel question",
-   "h": "c762c47a2534",
-   "id": "eb6f91a",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-27 13:00",
-   "source": "plan",
-   "champ": "visuel carte enseigne",
-   "texte": "Institut Petit",
-   "cle": "2026-11-27 13:00|plan|visuel carte enseigne",
-   "h": "bd118cb324fe",
-   "id": "ec6dabc",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-27 13:00",
-   "source": "plan",
-   "champ": "visuel carte metier",
-   "texte": "Esthéticienne",
-   "cle": "2026-11-27 13:00|plan|visuel carte metier",
-   "h": "f99b52450545",
-   "id": "e8abf65",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-27 13:00",
-   "source": "plan",
-   "champ": "visuel carte avant",
-   "texte": "Des avis restés sans réponse",
-   "cle": "2026-11-27 13:00|plan|visuel carte avant",
-   "h": "e7086ff76f15",
-   "id": "ecb12c9",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-27 13:00",
-   "source": "plan",
-   "champ": "visuel carte apres",
-   "texte": "Une réponse sous chaque avis",
-   "cle": "2026-11-27 13:00|plan|visuel carte apres",
-   "h": "b7977eaacf3e",
-   "id": "e0a2c5a",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-27 13:00",
-   "source": "plan",
-   "champ": "visuel slide 2 titre",
-   "texte": "Avant, les avis restaient sans réponse",
-   "cle": "2026-11-27 13:00|plan|visuel slide 2 titre",
-   "h": "52f757131ccd",
-   "id": "e305e38",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-27 13:00",
-   "source": "plan",
-   "champ": "visuel slide 2 texte",
-   "texte": "Des clientes contentes avaient écrit, et personne ne les avait remerciées. La fiche Google semblait abandonnée.",
-   "cle": "2026-11-27 13:00|plan|visuel slide 2 texte",
-   "h": "01025b006f4f",
-   "id": "ef7d54d",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-27 13:00",
-   "source": "plan",
-   "champ": "visuel slide 3 titre",
-   "texte": "Après, chaque avis a sa réponse",
-   "cle": "2026-11-27 13:00|plan|visuel slide 3 titre",
-   "h": "5502ea09082d",
-   "id": "e2ba15e",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-27 13:00",
-   "source": "plan",
-   "champ": "visuel slide 3 texte",
-   "texte": "Chaque avis reçoit un merci personnalisé, et l'institut valide les réponses aux avis négatifs.",
-   "cle": "2026-11-27 13:00|plan|visuel slide 3 texte",
-   "h": "572c1f39e5f4",
-   "id": "ea5ac4d",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-27 13:00",
-   "source": "plan",
-   "champ": "visuel slide 4 titre",
-   "texte": "La future cliente le voit",
-   "cle": "2026-11-27 13:00|plan|visuel slide 4 titre",
-   "h": "24a8b7e7b7eb",
-   "id": "e5583bb",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-27 13:00",
-   "source": "plan",
-   "champ": "visuel slide 4 texte",
-   "texte": "En lisant les réponses sur la fiche Google de l'institut, elle voit qu'il y a quelqu'un derrière la porte.",
-   "cle": "2026-11-27 13:00|plan|visuel slide 4 texte",
-   "h": "15fd11385d67",
-   "id": "e560032",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-27 13:00",
-   "source": "plan",
-   "champ": "visuel slide 5 titre",
-   "texte": "Et chez vous ?",
-   "cle": "2026-11-27 13:00|plan|visuel slide 5 titre",
-   "h": "c05f95d5854c",
-   "id": "ecfe625",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-27 13:00",
-   "source": "plan",
-   "champ": "visuel slide 5 texte",
-   "texte": "Votre dernier avis a-t-il reçu sa réponse ?",
-   "cle": "2026-11-27 13:00|plan|visuel slide 5 texte",
-   "h": "540607f5e152",
-   "id": "e78a128",
-   "a_relire": false
   },
   {
    "ref": "2026-11-24 19:00",
    "source": "brief:chauffagiste-appels-nantes",
    "champ": "accroche A",
-   "texte": "Chauffagiste à Nantes, des appels via votre *fiche Google* ?",
+   "texte": "Chauffagiste à Nantes, on vous appelle grâce à *Google* ?",
    "cle": "2026-11-24 19:00|brief:chauffagiste-appels-nantes|accroche A",
-   "h": "7ea77018d7a1",
+   "h": "1c57961784b9",
    "id": "e017731",
    "a_relire": true
   },
@@ -663,66 +403,6 @@
    "cle": "2026-11-24 19:00|brief:chauffagiste-appels-nantes|voix 4 (Offre, dite)",
    "h": "0c29505704b4",
    "id": "ebde2c3",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-23 19:00",
-   "source": "brief:estheticienne-swipe-clients-lyon",
-   "champ": "accroche A",
-   "texte": "Esthéticienne à Lyon, votre nouveau soin est sur votre fiche Google ?",
-   "cle": "2026-11-23 19:00|brief:estheticienne-swipe-clients-lyon|accroche A",
-   "h": "a1ee0fca2526",
-   "id": "edeb540",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-23 19:00",
-   "source": "brief:estheticienne-swipe-clients-lyon",
-   "champ": "accroche B",
-   "texte": "Esthéticienne à Lyon, la cliente s'arrête-t-elle sur votre fiche Google ?",
-   "cle": "2026-11-23 19:00|brief:estheticienne-swipe-clients-lyon|accroche B",
-   "h": "9423cab1b875",
-   "id": "e4634c5",
-   "a_relire": true
-  },
-  {
-   "ref": "2026-11-23 19:00",
-   "source": "brief:estheticienne-swipe-clients-lyon",
-   "champ": "voix 1 (Probleme, dite)",
-   "texte": "La cliente ne voit rien de neuf et passe.",
-   "cle": "2026-11-23 19:00|brief:estheticienne-swipe-clients-lyon|voix 1 (Probleme, dite)",
-   "h": "cf7c0e2f2458",
-   "id": "ebb03b1",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-23 19:00",
-   "source": "brief:estheticienne-swipe-clients-lyon",
-   "champ": "voix 2 (Bascule, dite)",
-   "texte": "Pro en ligne montre vos soins.",
-   "cle": "2026-11-23 19:00|brief:estheticienne-swipe-clients-lyon|voix 2 (Bascule, dite)",
-   "h": "707875a8ad56",
-   "id": "ee522d4",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-23 19:00",
-   "source": "brief:estheticienne-swipe-clients-lyon",
-   "champ": "voix 3 (Bascule, dite)",
-   "texte": "Et la cliente s'arrête chez vous.",
-   "cle": "2026-11-23 19:00|brief:estheticienne-swipe-clients-lyon|voix 3 (Bascule, dite)",
-   "h": "420b95a206a1",
-   "id": "ebd1e68",
-   "a_relire": false
-  },
-  {
-   "ref": "2026-11-23 19:00",
-   "source": "brief:estheticienne-swipe-clients-lyon",
-   "champ": "voix 4 (Offre, dite)",
-   "texte": "Trente jours offerts, le lien est en bio.",
-   "cle": "2026-11-23 19:00|brief:estheticienne-swipe-clients-lyon|voix 4 (Offre, dite)",
-   "h": "286220c51666",
-   "id": "e9f5035",
    "a_relire": false
   },
   {

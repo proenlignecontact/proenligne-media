@@ -904,6 +904,22 @@
   "2026-11-26 19:00|brief:plombier-swipe-concurrent-brest|voix 3 (Bascule, dite)": {
    "h": "f2dea70be8a2",
    "quand": "2026-11-22T08:51:49+00:00"
+  },
+  "2026-11-25 13:00|plan|visuel slide 5 texte": {
+   "h": "c6bb4d1cbc8f",
+   "quand": "2026-11-22T08:53:51+00:00"
+  },
+  "2026-11-25 19:00|plan|texte tiktok": {
+   "h": "8a061d9bf486",
+   "quand": "2026-11-22T08:53:51+00:00"
+  },
+  "2026-11-27 13:00|plan|texte instagram": {
+   "h": "451322ae7a57",
+   "quand": "2026-11-22T08:53:51+00:00"
+  },
+  "2026-11-23 19:00|brief:estheticienne-swipe-clients-lyon|accroche B": {
+   "h": "9423cab1b875",
+   "quand": "2026-11-22T08:53:51+00:00"
   }
  }
 }
