@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-22T08:36:51.864Z",
+    "generatedAt": "2026-11-22T13:26:33.774Z",
     "days": 60,
     "channels": [
         {
@@ -25,8 +25,8 @@
                     },
                     {
                         "metric": "Posts Engagement",
-                        "latest": 0,
-                        "sum": 85,
+                        "latest": 1,
+                        "sum": 86,
                         "percentageChange": 5
                     },
                     {
@@ -9339,6 +9339,19 @@
             }
         },
         {
+            "id": "cmwhu06vd00ufkb7zkz4m5ehl",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-22T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7710917575240534038",
+            "content": "Menuisier \u00e0 Bordeaux, vous \u00eates encore sur votre fiche Google \u00e0 22 h ?\nL'atelier est balay\u00e9, mais il reste les photos et les avis sur votre fiche Google, celle que vos clients voient sur Google Maps.\n\n#FicheGoogle #Menuisier #Bordeaux\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio.",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
             "id": "cmwhty03k00thkb7zavauv71i",
             "platform": "x",
             "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
@@ -9611,14 +9624,147 @@
                 "metrics": [
                     {
                         "metric": "Views",
+                        "latest": 4,
+                        "sum": 4,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
                         "latest": 2,
                         "sum": 2,
                         "percentageChange": 0
                     },
                     {
-                        "metric": "Reach",
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
                         "latest": 1,
                         "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwhu06x200uhkb7zpdug9yty",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-22T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/1869072850970902",
+            "content": "Menuisier \u00e0 Bordeaux, le soir, votre fiche Google vous attend ?\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche \u00ab menuisier \u00bb sur Google ou Google Maps, avec vos photos, vos avis et vos horaires. Elle montre votre savoir-faire, si on la fait vivre.\n\nLe probl\u00e8me, c'est le moment. Apr\u00e8s une journ\u00e9e \u00e0 l'atelier, publier une photo et r\u00e9pondre aux avis passe souvent apr\u00e8s le reste.\n\nVous publiez vos r\u00e9alisations le jour de la pose, ou bien plus tard ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Menuisier #Bordeaux #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwhu072d00unkb7zo4g1omk9",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-22T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=XTkDVp8eIGo",
+            "content": "Menuisier \u00e0 Bordeaux, vous \u00eates encore sur votre fiche Google \u00e0 22 h ?\n\nLa fiche Google, c'est l'encadr\u00e9 qui pr\u00e9sente votre atelier sur Google et Google Maps, avec vos photos, vos avis et votre num\u00e9ro. La tenir \u00e0 jour finit souvent le soir.\n\nProenligne publie une photo le lundi, une publication le jeudi, et r\u00e9pond \u00e0 chaque avis, pendant que vous \u00eates \u00e0 l'atelier.\n\nQuelle r\u00e9alisation de l'ann\u00e9e montreriez-vous en premier ?\n\n#FicheGoogle #Menuisier #Bordeaux #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 20,
+                        "sum": 20,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwhu070r00ulkb7zgbs0gcn3",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-22T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2124427846294626719",
+            "content": "Menuisier \u00e0 Bordeaux, vous \u00eates encore sur votre fiche Google \u00e0 22 h ? Photos, avis\u2026 Proenligne s'en occupe en journ\u00e9e. Le soir, vous d\u00eenez enfin \u00e0 votre table. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Menuisier",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmwhu06yx00ujkb7zkt4ebcwa",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-22T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DgCbulFjedo/",
+            "content": "Menuisier \u00e0 Bordeaux, vous \u00eates encore sur votre fiche Google \u00e0 22 h ?\n\nL'atelier est propre, les machines sont coup\u00e9es. \u00c0 la maison, vous ouvrez votre fiche Google, l'encadr\u00e9 qu'un client regarde sur Google Maps avant de vous demander un placard ou un escalier.\n\nIl faudrait publier la photo de l'escalier livr\u00e9 cette semaine, et remercier le client pour son avis. \u00c7a attendra encore un soir.\n\nProenligne s'en occupe en journ\u00e9e, avec une photo le lundi, une publication le jeudi et une r\u00e9ponse \u00e0 chaque avis. Le soir, vous d\u00eenez enfin \u00e0 votre table.\n\nLa derni\u00e8re r\u00e9alisation que vous avez publi\u00e9e, c'\u00e9tait quoi ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Menuisier #Bordeaux #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 4,
+                        "sum": 4,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 3,
+                        "sum": 3,
                         "percentageChange": 0
                     },
                     {
@@ -10961,8 +11107,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 42,
-                        "sum": 42,
+                        "latest": 44,
+                        "sum": 44,
                         "percentageChange": 0
                     },
                     {
@@ -11050,8 +11196,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 2,
-                        "sum": 2,
+                        "latest": 3,
+                        "sum": 3,
                         "percentageChange": 0
                     },
                     {
