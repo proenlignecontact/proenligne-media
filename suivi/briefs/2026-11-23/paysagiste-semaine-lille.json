@@ -32,5 +32,10 @@
  ],
  "offre_ligne": "Vos soirées *vous reviennent.*",
  "musique": true,
- "audio_src": {}
+ "audio_src": {
+  "prise-A": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/fnjHACM4LaNPoqP88JId/w9LcDkqn8TXdZNHVLzOx/content.mp3?Expires=1795348800&KeyName=assets-cdn-key-1&Signature=qx2QMHzu12YojZ8mkiUNefiQYJs=",
+   "duree": 13.76
+  }
+ }
 }

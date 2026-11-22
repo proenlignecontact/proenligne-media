@@ -31,5 +31,14 @@
  ],
  "offre_ligne": "Cet hiver, *votre téléphone sonne.*",
  "musique": true,
- "audio_src": {}
+ "audio_src": {
+  "prise-A": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/a2uuDDO8MXMZG6qxYMWa/5ECZfqMEgSiMEQTdGoTi/content.mp3?Expires=1795348800&KeyName=assets-cdn-key-1&Signature=WDQr5w9pOC-ZRQELnb9mHmBpIMM=",
+   "duree": 13.52
+  },
+  "prise-B": {
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/65AGVRShbCvBXqIWNPP3/irdPZjUhjpP239EYPENi/content.mp3?Expires=1795348800&KeyName=assets-cdn-key-1&Signature=XbmQrGqIeKNUBwwo_k-zaEjllEI=",
+   "duree": 14.32
+  }
+ }
 }
