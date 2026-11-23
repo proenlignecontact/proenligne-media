@@ -143,6 +143,24 @@
    "erreur": "Instagram blocked your request",
    "prevu": "2026-11-21T12:30:00Z",
    "reprogramme": "2026-11-22T09:30:00Z"
+  },
+  {
+   "date": "2026-11-23",
+   "ancien_id": "cmwhmd2im00qtkb7zg8nyqbss",
+   "nouvel_id": "cmwsxynby012xkb7ziredqkqd",
+   "canal": "instagram",
+   "erreur": "Instagram blocked your request",
+   "prevu": "2026-11-22T12:30:00Z",
+   "reprogramme": "2026-11-23T09:30:00Z"
+  },
+  {
+   "date": "2026-11-23",
+   "ancien_id": "cmwhu0pyo00uvkb7zs3dmndtn",
+   "nouvel_id": "cmwsxyne1012zkb7z3ft2zyyl",
+   "canal": "facebook",
+   "erreur": "The Facebook Page or post this was targeting no longer exists, please reconnect the channel and schedule again",
+   "prevu": "2026-11-22T15:30:00Z",
+   "reprogramme": "2026-11-23T09:30:00Z"
   }
  ],
  "echecs": [
@@ -224,6 +242,14 @@
    "publie_prevu": "2026-11-21T09:30:00Z",
    "erreur": "Instagram blocked your request",
    "note": "Déjà recréé (ancien cmwhmbngk00q7kb7zl7pve27t, carrousel coiffeur sondage avis), échoue encore : non recréé."
+  },
+  {
+   "date": "2026-11-23",
+   "postiz_id": "cmwrihwk600wlkb7zu40m5kv6",
+   "canal": "instagram",
+   "publie_prevu": "2026-11-22T09:30:00Z",
+   "erreur": "Timeout downloading media, please try again",
+   "note": "Déjà recréé (ancien cmwhmcgob00qjkb7zy7szdvrs, carrousel offre « sans vos soirées »), échoue encore : non recréé."
   }
  ]
 }
