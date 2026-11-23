@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-23T07:25:26.091Z",
+    "generatedAt": "2026-11-23T16:08:36.576Z",
     "days": 60,
     "channels": [
         {
@@ -25,8 +25,8 @@
                     },
                     {
                         "metric": "Posts Engagement",
-                        "latest": 0,
-                        "sum": 87,
+                        "latest": 3,
+                        "sum": 90,
                         "percentageChange": 5
                     },
                     {
@@ -58,6 +58,54 @@
             "stats": {
                 "available": false,
                 "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmvsbyqw20001jv87195lx18q",
+            "name": "Alexandre | Google My Business",
+            "platform": "youtube",
+            "profile": "@proenligne-u5m",
+            "disabled": false,
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Estimated Minutes Watched",
+                        "latest": 3,
+                        "sum": 112,
+                        "percentageChange": null
+                    },
+                    {
+                        "metric": "Average View Duration",
+                        "latest": 8,
+                        "sum": 241,
+                        "percentageChange": null
+                    },
+                    {
+                        "metric": "Average View Percentage",
+                        "latest": 47.12,
+                        "sum": 1431.07,
+                        "percentageChange": null
+                    },
+                    {
+                        "metric": "Subscribers Gained",
+                        "latest": 0,
+                        "sum": 1,
+                        "percentageChange": null
+                    },
+                    {
+                        "metric": "Subscribers Lost",
+                        "latest": 0,
+                        "sum": 1,
+                        "percentageChange": null
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 1,
+                        "sum": 7,
+                        "percentageChange": null
+                    }
+                ]
             }
         },
         {
@@ -116,54 +164,6 @@
                         "latest": 0,
                         "sum": 0,
                         "percentageChange": 0
-                    }
-                ]
-            }
-        },
-        {
-            "id": "cmvsbyqw20001jv87195lx18q",
-            "name": "Alexandre | Google My Business",
-            "platform": "youtube",
-            "profile": "@proenligne-u5m",
-            "disabled": false,
-            "stats": {
-                "available": true,
-                "metrics": [
-                    {
-                        "metric": "Estimated Minutes Watched",
-                        "latest": 3,
-                        "sum": 112,
-                        "percentageChange": null
-                    },
-                    {
-                        "metric": "Average View Duration",
-                        "latest": 8,
-                        "sum": 241,
-                        "percentageChange": null
-                    },
-                    {
-                        "metric": "Average View Percentage",
-                        "latest": 47.12,
-                        "sum": 1431.07,
-                        "percentageChange": null
-                    },
-                    {
-                        "metric": "Subscribers Gained",
-                        "latest": 0,
-                        "sum": 1,
-                        "percentageChange": null
-                    },
-                    {
-                        "metric": "Subscribers Lost",
-                        "latest": 0,
-                        "sum": 1,
-                        "percentageChange": null
-                    },
-                    {
-                        "metric": "Likes",
-                        "latest": 1,
-                        "sum": 7,
-                        "percentageChange": null
                     }
                 ]
             }
@@ -9751,8 +9751,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 31,
-                        "sum": 31,
+                        "latest": 32,
+                        "sum": 32,
                         "percentageChange": 0
                     },
                     {
@@ -9951,6 +9951,19 @@
                         "percentageChange": 0
                     }
                 ]
+            }
+        },
+        {
+            "id": "cmwrtpakh00z1kb7zovnyrpw8",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-23T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2124794011902783877",
+            "content": "\u00c9lectricien \u00e0 Toulouse, sa fiche Google montre son travail. Et la v\u00f4tre ? Un tableau refait en photo rassure le client qui compare. Proenligne publie vos chantiers chaque lundi. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Electricien",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
             }
         },
         {
@@ -10544,8 +10557,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 0,
-                        "sum": 0,
+                        "latest": 1,
+                        "sum": 1,
                         "percentageChange": 0
                     },
                     {
@@ -11228,8 +11241,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 63,
-                        "sum": 63,
+                        "latest": 66,
+                        "sum": 66,
                         "percentageChange": 0
                     },
                     {
@@ -11279,8 +11292,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 46,
-                        "sum": 46,
+                        "latest": 47,
+                        "sum": 47,
                         "percentageChange": 0
                     },
                     {
@@ -11352,6 +11365,19 @@
                         "percentageChange": 0
                     }
                 ]
+            }
+        },
+        {
+            "id": "cmwrtpviz00zbkb7zno5fcy49",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-23T15:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2124888383625261174",
+            "content": "Fleuriste \u00e0 Quimper, la boutique ferm\u00e9e, votre fiche Google vous attend encore. Photos, avis, horaires des f\u00eates. Proenligne s'en charge \u00e0 votre place. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Fleuriste",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
             }
         },
         {
@@ -11451,6 +11477,304 @@
                         "metric": "Reach",
                         "latest": 4,
                         "sum": 4,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrtpao000z3kb7zhdo21mtc",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-23T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=2LW5rtrXY_M",
+            "content": "\u00c9lectricien \u00e0 Toulouse, sa fiche Google montre son travail. Et la v\u00f4tre ?\n\nLa fiche Google, c'est ce qui s'affiche quand un client cherche \u00ab \u00e9lectricien \u00bb sur Google ou Google Maps, avec vos photos, vos avis et vos horaires. Des photos de chantiers r\u00e9cents rassurent avant de confier une installation.\n\nProenligne publie une photo de vos chantiers le lundi, une publication le jeudi, et r\u00e9pond \u00e0 chaque avis.\n\nQuel chantier r\u00e9cent m\u00e9riterait une photo sur votre fiche Google ?\n\n#FicheGoogle #Electricien #Toulouse #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrtpagi00yxkb7za6teo1sq",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-23T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/1497133142319089",
+            "content": "\u00c9lectricien \u00e0 Toulouse, le voisin montre ses chantiers sur sa fiche Google.\n\nSur Google Maps, chaque \u00e9lectricien a sa fiche Google, avec la note, les photos et le bouton Appeler. C'est elle qu'on ouvre avant de confier son installation.\n\nAvant, une fiche Google avec un logo et rien d'autre. Apr\u00e8s, un chantier en photo chaque semaine, un tableau refait, une r\u00e9novation termin\u00e9e. La note n'a pas boug\u00e9, mais le client voit enfin un \u00e9lectricien au travail.\n\nVotre dernier chantier est-il visible sur votre fiche Google ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Electricien #Toulouse #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrtpaiq00yzkb7zbym1kits",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-23T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DgFCPZdk-Ht/",
+            "content": "\u00c9lectricien \u00e0 Toulouse, sa fiche Google montre son travail. Et la v\u00f4tre ?\n\nPrenons un exemple imaginaire, l'entreprise d'\u00e9lectricit\u00e9 Durand. Avant, sa fiche Google montrait le logo et une camionnette. Un client qui cherchait un \u00e9lectricien ne voyait rien de ce qu'elle savait faire.\n\nApr\u00e8s, chaque lundi, une photo de chantier. Un tableau \u00e9lectrique refait, des prises pos\u00e9es dans une cuisine neuve, un \u00e9clairage de jardin. Le client voit le travail avant m\u00eame d'appeler.\n\nLa fiche Google, c'est l'encadr\u00e9 que Google affiche avec la note, les photos et le num\u00e9ro de l'entreprise. C'est souvent l\u00e0 que le client compare.\n\nProenligne publie une photo de vos chantiers le lundi, une publication le jeudi, et r\u00e9pond \u00e0 chaque avis.\n\nQuel chantier de la semaine montreriez-vous en premier ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Electricien #Toulouse #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 2,
+                        "sum": 2,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrtpael00yvkb7zip5a9c8i",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-23T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7711292598342043670",
+            "content": "\u00c9lectricien \u00e0 Toulouse, sa fiche Google montre son travail.\nChez le voisin, on voit des tableaux refaits et des installations r\u00e9centes. Le client qui compare sait d\u00e9j\u00e0 \u00e0 qui il a affaire.\n\n#FicheGoogle #Electricien #Toulouse\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio.",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmwsxyne1012zkb7z3ft2zyyl",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-23T09:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/1364672462302141",
+            "content": "Boulangerie \u00e0 Saint-Brieuc, la boulangerie d'en face montre sa vitrine sur sa fiche Google.\n\nQuand on arrive dans un quartier, on cherche souvent la boulangerie sur son t\u00e9l\u00e9phone. Google affiche alors des fiches Google, avec la note, les photos et l'itin\u00e9raire. Le matin, c'est souvent la vitrine en photo qui d\u00e9cide.\n\nAvec Proenligne, chaque semaine\n\u2705 une photo de vos pains ou de vos viennoiseries le lundi\n\u2705 une publication le jeudi\n\u2705 une r\u00e9ponse \u00e0 chaque avis, valid\u00e9e par vous si l'avis est n\u00e9gatif\n\nEssayez Proenligne gratuitement, 30 jours offerts, sans engagement.\n\n#FicheGoogle #Boulangerie #SaintBrieuc #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrtpvki00zdkb7zs2gh4dmg",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-23T15:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=kp6d21kKM8U",
+            "content": "Fleuriste \u00e0 Quimper, combien de soir\u00e9es donnez-vous \u00e0 votre fiche Google ?\n\nCherchez \u00ab fleuriste \u00bb dans votre ville. Les encadr\u00e9s avec une note, des photos et l'itin\u00e9raire sont des fiches Google. Les garder vivantes prend un peu de temps chaque semaine, souvent apr\u00e8s la fermeture.\n\nProenligne publie une photo le lundi, une publication le jeudi, et r\u00e9pond \u00e0 chaque avis \u00e0 votre place.\n\nCombien de temps y passez-vous chaque semaine ?\n\n#FicheGoogle #Fleuriste #Quimper #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 8,
+                        "sum": 8,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrtpvft00z7kb7zkfe7vz3v",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-23T15:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/2142502573025561",
+            "content": "Fleuriste \u00e0 Quimper, apr\u00e8s la fermeture, votre fiche Google vous attend encore.\n\nEn d\u00e9cembre, les journ\u00e9es sont pleines de compositions et de commandes. Le soir, il reste votre fiche Google, cet encadr\u00e9 que vos clientes ouvrent sur Google Maps avant de venir, avec les photos, les avis et les horaires.\n\nUne photo \u00e0 trier, un avis \u00e0 remercier, des horaires de f\u00eates \u00e0 annoncer. Rien de long, mais tout s'ajoute \u00e0 la journ\u00e9e.\n\nProenligne s'en occupe pour vous, avec une photo le lundi, une publication le jeudi et une r\u00e9ponse \u00e0 chaque avis.\n\nQui s'occupe de votre fiche Google chez vous, et \u00e0 quel moment ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Fleuriste #Quimper #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrtpvec00z5kb7zv0fmv6j8",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-23T15:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7711389568074942486",
+            "content": "Fleuriste \u00e0 Quimper, la boutique ferm\u00e9e, votre fiche Google vous attend encore.\nLes bouquets le jour, les photos \u00e0 publier et les avis le soir. Avec les f\u00eates qui approchent, les soir\u00e9es raccourcissent.\n\n#FicheGoogle #Fleuriste #Quimper\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio.",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmwrtpvh500z9kb7z9q1hk3pq",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-23T15:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DgFtKDKE-9y/",
+            "content": "Fleuriste \u00e0 Quimper, la boutique ferm\u00e9e, votre fiche Google vous attend encore.\n\nLe rideau est baiss\u00e9, les seaux sont rinc\u00e9s. Il reste \u00e0 choisir la photo du bouquet du jour, \u00e0 remercier une cliente pour son avis, \u00e0 annoncer les horaires des f\u00eates.\n\nVotre fiche Google, c'est ce que Google montre quand on cherche \u00ab fleuriste \u00bb pr\u00e8s de chez soi, avec vos photos, vos avis et l'itin\u00e9raire. Elle m\u00e9rite des nouvelles, mais pas forc\u00e9ment vos soir\u00e9es.\n\nProenligne s'en charge \u00e0 votre place, avec une photo le lundi, une publication le jeudi et une r\u00e9ponse \u00e0 chaque avis.\n\n\u00c0 quelle heure fermez-vous vraiment la boutique en d\u00e9cembre ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Fleuriste #Quimper #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 0,
+                        "sum": 0,
                         "percentageChange": 0
                     },
                     {
