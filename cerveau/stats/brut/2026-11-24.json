@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-24T07:24:44.673Z",
+    "generatedAt": "2026-11-24T15:58:45.467Z",
     "days": 60,
     "channels": [
         {
@@ -25,8 +25,8 @@
                     },
                     {
                         "metric": "Posts Engagement",
-                        "latest": 0,
-                        "sum": 91,
+                        "latest": 1,
+                        "sum": 92,
                         "percentageChange": 5
                     },
                     {
@@ -58,6 +58,54 @@
             "stats": {
                 "available": false,
                 "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmvsbyqw20001jv87195lx18q",
+            "name": "Alexandre | Google My Business",
+            "platform": "youtube",
+            "profile": "@proenligne-u5m",
+            "disabled": false,
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Estimated Minutes Watched",
+                        "latest": 5,
+                        "sum": 117,
+                        "percentageChange": null
+                    },
+                    {
+                        "metric": "Average View Duration",
+                        "latest": 6,
+                        "sum": 247,
+                        "percentageChange": null
+                    },
+                    {
+                        "metric": "Average View Percentage",
+                        "latest": 33.66,
+                        "sum": 1464.73,
+                        "percentageChange": null
+                    },
+                    {
+                        "metric": "Subscribers Gained",
+                        "latest": 0,
+                        "sum": 1,
+                        "percentageChange": null
+                    },
+                    {
+                        "metric": "Subscribers Lost",
+                        "latest": 0,
+                        "sum": 1,
+                        "percentageChange": null
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 7,
+                        "percentageChange": null
+                    }
+                ]
             }
         },
         {
@@ -116,54 +164,6 @@
                         "latest": 0,
                         "sum": 0,
                         "percentageChange": 0
-                    }
-                ]
-            }
-        },
-        {
-            "id": "cmvsbyqw20001jv87195lx18q",
-            "name": "Alexandre | Google My Business",
-            "platform": "youtube",
-            "profile": "@proenligne-u5m",
-            "disabled": false,
-            "stats": {
-                "available": true,
-                "metrics": [
-                    {
-                        "metric": "Estimated Minutes Watched",
-                        "latest": 5,
-                        "sum": 117,
-                        "percentageChange": null
-                    },
-                    {
-                        "metric": "Average View Duration",
-                        "latest": 6,
-                        "sum": 247,
-                        "percentageChange": null
-                    },
-                    {
-                        "metric": "Average View Percentage",
-                        "latest": 33.66,
-                        "sum": 1464.73,
-                        "percentageChange": null
-                    },
-                    {
-                        "metric": "Subscribers Gained",
-                        "latest": 0,
-                        "sum": 1,
-                        "percentageChange": null
-                    },
-                    {
-                        "metric": "Subscribers Lost",
-                        "latest": 0,
-                        "sum": 1,
-                        "percentageChange": null
-                    },
-                    {
-                        "metric": "Likes",
-                        "latest": 0,
-                        "sum": 7,
-                        "percentageChange": null
                     }
                 ]
             }
@@ -11381,6 +11381,69 @@
             }
         },
         {
+            "id": "cmwrtqya700zvkb7z14r2d9g0",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-24T15:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2125254543197823145",
+            "content": "Coiffeuse \u00e0 Montpellier, la fiche Google vous retient le soir ? Avis \u00e0 remercier, photos de coupes \u00e0 publier. Proenligne s'en charge pendant vos rendez-vous. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Coiffeuse",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmwrtqy8b00ztkb7zlwb83vhv",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-24T15:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DgITqkoilOI/",
+            "content": "Coiffeuse \u00e0 Montpellier, la fiche Google vous retient le soir ?\n\nIl est 22 h. Le salon est balay\u00e9, les serviettes tournent dans la machine. Sur votre t\u00e9l\u00e9phone, trois avis attendent un merci et la photo du balayage de l'apr\u00e8s-midi n'est pas encore publi\u00e9e.\n\nVotre fiche Google, c'est ce que voient les clientes quand elles cherchent \u00ab coiffeuse \u00bb sur Google Maps, avec vos photos, vos avis et vos horaires. Elle a besoin de nouvelles, mais pas de vos soir\u00e9es.\n\nProenligne s'en occupe \u00e0 votre place, avec une photo le lundi, une publication le jeudi et une r\u00e9ponse \u00e0 chaque avis.\n\n\u00c0 quelle heure r\u00e9pondez-vous \u00e0 vos avis, en g\u00e9n\u00e9ral ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Coiffeuse #Montpellier #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
             "id": "cmwhu0q4600v1kb7z4gl0p4y9",
             "platform": "youtube",
             "integrationId": "cmvsbyqw20001jv87195lx18q",
@@ -11589,14 +11652,14 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 4,
-                        "sum": 4,
+                        "latest": 5,
+                        "sum": 5,
                         "percentageChange": 0
                     },
                     {
                         "metric": "Reach",
-                        "latest": 3,
-                        "sum": 3,
+                        "latest": 4,
+                        "sum": 4,
                         "percentageChange": 0
                     },
                     {
@@ -11684,8 +11747,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 28,
-                        "sum": 28,
+                        "latest": 29,
+                        "sum": 29,
                         "percentageChange": 0
                     },
                     {
@@ -11752,6 +11815,44 @@
             "stats": {
                 "available": false,
                 "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmwrtqdlg00znkb7zwg8d5j4p",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-24T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=mOpQdvpXVWA",
+            "content": "Ramoneur \u00e0 Angers, l'hiver arrive. Votre fiche Google se voit-elle quand on cherche un ramoneur ?\n\nQuand on tape \u00ab ramoneur pr\u00e8s de moi \u00bb, Google affiche des fiches Google avec photos, avis et horaires. La v\u00f4tre en fait partie. Avant le premier feu de l'hiver, c'est l\u00e0 que les foyers comparent.\n\nProenligne publie une photo le lundi, une publication le jeudi, et r\u00e9pond \u00e0 chaque avis.\n\nQuelle intervention de la semaine montreriez-vous en photo ?\n\n#FicheGoogle #Ramoneur #Angers #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 18,
+                        "sum": 18,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
             }
         },
         {
@@ -11935,6 +12036,223 @@
                         "percentageChange": 0
                     }
                 ]
+            }
+        },
+        {
+            "id": "cmwrtqdgr00zhkb7zuld1r6d3",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-24T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/2189296268351852",
+            "content": "Ramoneur \u00e0 Angers, l'hiver arrive. Quand on cherche un ramoneur, on vous voit sur Google ?\n\nFaites le test avec le t\u00e9l\u00e9phone d'un proche. Tapez \u00ab ramoneur \u00bb et votre ville sur Google Maps. Google affiche des fiches Google, ces encadr\u00e9s avec la note, les photos et le t\u00e9l\u00e9phone.\n\nEn novembre, beaucoup de foyers font ce geste avant le premier feu. Ceux qui ont des photos de conduits r\u00e9cents et des avis avec r\u00e9ponse donnent envie d'appeler.\n\nVous \u00eates o\u00f9 dans la liste ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Ramoneur #Angers #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrtqdjv00zlkb7zni68k62s",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-24T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2125152629122629635",
+            "content": "Ramoneur \u00e0 Angers, l'hiver arrive. On vous voit sur Google ? Avant le premier feu, les foyers comparent les fiches Google sur Google Maps. Proenligne fait vivre la v\u00f4tre chaque semaine. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Ramoneur",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmwrtqdi600zjkb7zrhsker9o",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-24T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DgHlWGYFTi_/",
+            "content": "Ramoneur \u00e0 Angers, l'hiver arrive. On vous voit sur Google ?\n\nLes premiers froids, et beaucoup de foyers pensent au ramonage avant d'allumer le po\u00eale. Ils tapent \u00ab ramoneur \u00bb et leur ville sur Google Maps, puis ils parcourent la liste.\n\nChaque encadr\u00e9 de cette liste est une fiche Google, avec la note, les photos et le bouton Appeler. Une fiche Google qui montre des interventions r\u00e9centes donne envie d'appeler. Une fiche Google vide, on la d\u00e9passe.\n\nProenligne fait vivre la v\u00f4tre, avec une photo le lundi, une publication le jeudi et une r\u00e9ponse \u00e0 chaque avis.\n\nAvez-vous d\u00e9j\u00e0 tap\u00e9 votre m\u00e9tier et votre ville sur Google Maps pour voir o\u00f9 vous \u00eates ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Ramoneur #Angers #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrtqdfk00zfkb7zjrf0mj7v",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-24T09:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7711659942474041366",
+            "content": "Ramoneur \u00e0 Angers, l'hiver arrive. On vous voit sur Google ?\nTapez \u00ab ramoneur Angers \u00bb sur Google Maps. Les encadr\u00e9s qui s'affichent sont des fiches Google, et c'est souvent l'une des premi\u00e8res qu'on appelle.\n\n#FicheGoogle #Ramoneur #Angers\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio.",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmwrmfgpg00x1kb7zjhn8b6tw",
+            "platform": "linkedin-page",
+            "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "publishDate": "2026-11-24T11:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7530956059243356160",
+            "content": "Dans le b\u00e2timent, la fiche Google d'une entreprise de ma\u00e7onnerie montre souvent un chantier vieux de plusieurs ann\u00e9es.\nOr c'est elle que beaucoup de clients regardent avant de demander un devis.\n\nLa fiche Google, c'est l'encadr\u00e9 que Google affiche avec le nom de l'entreprise, sa note, ses photos et son num\u00e9ro.\n\nPrenons un exemple imaginaire, la ma\u00e7onnerie Martin.\nAvant, il n'y avait qu'une seule photo, un muret de 2021. Rien n'indiquait que l'\u00e9quipe travaillait encore.\nApr\u00e8s, une photo de chantier para\u00eet chaque lundi, une chape, une ouverture de mur ou une terrasse.\n\nLa note n'a pas boug\u00e9. Ce qui change, c'est l'image laiss\u00e9e au client qui compare deux entreprises. Des chantiers r\u00e9cents montrent une \u00e9quipe au travail et un savoir-faire concret.\n\nC'est ce que fait Proenligne pour les artisans, avec une photo le lundi, une publication le jeudi et une r\u00e9ponse \u00e0 chaque avis.\n\nDans votre entreprise, qui prend les photos de chantier, et que deviennent-elles ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #Maconnerie #TPE",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrtqybv00zxkb7zjk3er09u",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-24T15:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=N7qB5OWTxdc",
+            "content": "Coiffeuse \u00e0 Montpellier, votre fiche Google vous retient encore le soir ?\n\nLa fiche Google, c'est la carte de visite que Google montre \u00e0 votre place, avec vos photos, vos avis, vos horaires et votre t\u00e9l\u00e9phone. La tenir \u00e0 jour se fait souvent apr\u00e8s la fermeture du salon.\n\nProenligne publie une photo le lundi, une publication le jeudi, et r\u00e9pond \u00e0 chaque avis \u00e0 votre place.\n\nQuel moment de la semaine lui consacrez-vous ?\n\n#FicheGoogle #Coiffeuse #Montpellier #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 7,
+                        "sum": 7,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrtqy7000zrkb7zl9vi4oeo",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-24T15:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/2060749687917649",
+            "content": "Coiffeuse \u00e0 Montpellier, la fiche Google vous retient encore le soir ?\n\nLe dernier brushing est fini, le salon est rang\u00e9. Reste votre fiche Google, l'encadr\u00e9 que Google montre aux clientes avec vos photos de coupes, vos avis et vos horaires.\n\nRemercier une cliente, publier la photo d'une couleur r\u00e9ussie, mettre \u00e0 jour un horaire. Chaque geste est court, mais ils reviennent tous les soirs.\n\nProenligne s'en charge pour vous, avec une photo le lundi, une publication le jeudi et une r\u00e9ponse \u00e0 chaque avis.\n\nCombien de soir\u00e9es par semaine passez-vous sur votre fiche Google ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Coiffeuse #Montpellier #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrtqy5u00zpkb7z6xtpbgy0",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-24T15:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7711764296778450966",
+            "content": "Coiffeuse \u00e0 Montpellier, la fiche Google vous retient le soir ?\nApr\u00e8s la derni\u00e8re cliente, il reste les avis \u00e0 remercier et les photos de coupes \u00e0 publier. Le salon ferme, pas la journ\u00e9e.\n\n#FicheGoogle #Coiffeuse #Montpellier\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio.",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
             }
         }
     ]
