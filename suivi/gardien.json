@@ -170,6 +170,15 @@
    "erreur": "Instagram blocked your request",
    "prevu": "2026-11-23T12:45:00Z",
    "reprogramme": "2026-11-24T09:30:00Z"
+  },
+  {
+   "date": "2026-11-25",
+   "ancien_id": "cmwrmfgnx00wzkb7z0b6tnn1y",
+   "nouvel_id": "cmwvsumqy0137kb7zz7u2m5et",
+   "canal": "instagram",
+   "erreur": "Instagram blocked your request",
+   "prevu": "2026-11-24T11:30:00Z",
+   "reprogramme": "2026-11-25T09:30:00Z"
   }
  ],
  "echecs": [
@@ -267,6 +276,14 @@
    "publie_prevu": "2026-11-23T09:30:00Z",
    "erreur": "Instagram blocked your request",
    "note": "Déjà recréé (ancien cmwhmd2im00qtkb7zg8nyqbss, carrousel garage avant/après), échoue encore : non recréé."
+  },
+  {
+   "date": "2026-11-25",
+   "postiz_id": "cmwude1py0133kb7z8cvkg6yu",
+   "canal": "instagram",
+   "publie_prevu": "2026-11-24T09:30:00Z",
+   "erreur": "Instagram blocked your request",
+   "note": "Déjà recréé (ancien cmwrmerfg00wpkb7zg8opbywj, carrousel coiffeur nouvelle prestation), échoue encore : non recréé."
   }
  ]
 }
