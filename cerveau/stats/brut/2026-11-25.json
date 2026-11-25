@@ -1,7 +1,54 @@
 {
-    "generatedAt": "2026-11-25T07:25:10.162Z",
+    "generatedAt": "2026-11-25T15:45:21.934Z",
     "days": 60,
     "channels": [
+        {
+            "id": "cmvs9p6ky0001mq8gkj2c0a82",
+            "name": "Proenligne",
+            "platform": "facebook",
+            "profile": "",
+            "disabled": false,
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Page Impressions",
+                        "latest": 0,
+                        "sum": 12,
+                        "percentageChange": 5
+                    },
+                    {
+                        "metric": "Media views",
+                        "latest": 0,
+                        "sum": 53,
+                        "percentageChange": 5
+                    },
+                    {
+                        "metric": "Posts Engagement",
+                        "latest": 1,
+                        "sum": 95,
+                        "percentageChange": 5
+                    },
+                    {
+                        "metric": "Page followers",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 5
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmvs9xsx80003mq8gnh6baz7n",
+            "name": "Proenligne",
+            "platform": "instagram",
+            "profile": "proenligne",
+            "disabled": false,
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
         {
             "id": "cmvsbyqw20001jv87195lx18q",
             "name": "Alexandre | Google My Business",
@@ -48,53 +95,6 @@
                         "percentageChange": null
                     }
                 ]
-            }
-        },
-        {
-            "id": "cmvs9p6ky0001mq8gkj2c0a82",
-            "name": "Proenligne",
-            "platform": "facebook",
-            "profile": "",
-            "disabled": false,
-            "stats": {
-                "available": true,
-                "metrics": [
-                    {
-                        "metric": "Page Impressions",
-                        "latest": 0,
-                        "sum": 12,
-                        "percentageChange": 5
-                    },
-                    {
-                        "metric": "Media views",
-                        "latest": 0,
-                        "sum": 53,
-                        "percentageChange": 5
-                    },
-                    {
-                        "metric": "Posts Engagement",
-                        "latest": 0,
-                        "sum": 94,
-                        "percentageChange": 5
-                    },
-                    {
-                        "metric": "Page followers",
-                        "latest": 0,
-                        "sum": 0,
-                        "percentageChange": 5
-                    }
-                ]
-            }
-        },
-        {
-            "id": "cmvs9xsx80003mq8gnh6baz7n",
-            "name": "Proenligne",
-            "platform": "instagram",
-            "profile": "proenligne",
-            "disabled": false,
-            "stats": {
-                "available": false,
-                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
             }
         },
         {
@@ -3090,39 +3090,8 @@
             "url": "https://www.facebook.com/122101312257531668/posts/122110524249531668",
             "content": "En hiver, les chantiers ralentissent, et la fiche Google d'un ma\u00e7on s'arr\u00eate souvent avec eux.\n\nPourtant, c'est l'hiver que beaucoup de clients pr\u00e9parent leurs travaux du printemps. Ils cherchent \u00ab ma\u00e7on \u00bb sur Google Maps et regardent les fiches Google, avec les photos, les avis et le num\u00e9ro.\n\nUne fiche Google sans rien de nouveau depuis l'\u00e9t\u00e9 laisse un doute. Est-ce que l'entreprise prend encore des chantiers ?\n\nUn muret r\u00e9par\u00e9, une ouverture dans un mur, un chantier en cours sous la b\u00e2che. \u00c7a suffit \u00e0 montrer que vous \u00eates l\u00e0.\n\nQue montrez-vous sur votre fiche Google entre deux gros chantiers ?\n\n#FicheGoogle #Macon #Maconnerie #ReferencementLocal",
             "stats": {
-                "available": true,
-                "metrics": [
-                    {
-                        "metric": "Impressions",
-                        "latest": 0,
-                        "sum": 0,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Reactions",
-                        "latest": 0,
-                        "sum": 0,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Clicks",
-                        "latest": 0,
-                        "sum": 0,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Clicks by Type",
-                        "latest": 0,
-                        "sum": 0,
-                        "percentageChange": 0
-                    },
-                    {
-                        "metric": "Impressions",
-                        "latest": 0,
-                        "sum": 0,
-                        "percentageChange": 0
-                    }
-                ]
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
             }
         },
         {
@@ -11438,14 +11407,135 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 3,
-                        "sum": 3,
+                        "latest": 4,
+                        "sum": 4,
                         "percentageChange": 0
                     },
                     {
                         "metric": "Reach",
-                        "latest": 3,
-                        "sum": 3,
+                        "latest": 4,
+                        "sum": 4,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrtrhal0101kb7zq3n36ezz",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-25T08:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/1460799428796509",
+            "content": "Peintre \u00e0 Caen, le client fait d\u00e9filer votre fiche Google sans vous appeler ?\n\nAvant d'appeler un peintre, le client ouvre les fiches Google sur Google Maps et regarde les photos. Pour un peintre, la photo est la meilleure preuve du travail.\n\nUne fiche Google qui montre des pi\u00e8ces repeintes donne envie d'appeler. Une fiche Google avec une seule photo de camionnette fait passer au suivant.\n\nCombien de chantiers r\u00e9cents montre votre fiche Google aujourd'hui ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Peintre #Caen #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrtrhdp0105kb7za7yd9jdr",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-25T08:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2125511236804608487",
+            "content": "Peintre \u00e0 Caen, on fait d\u00e9filer votre fiche Google sans appeler ? Sans photo de pi\u00e8ce repeinte, le client passe au suivant. Proenligne publie vos chantiers chaque lundi. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Peintre",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmwrts0q60109kb7zhb9l8ljw",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-25T15:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7712127759115388950",
+            "content": "Boucherie \u00e0 Tours, la fiche Google d'en face fait envie ?\nEn face, on voit la vitrine du jour sur Google Maps. Avant les f\u00eates, c'est souvent l\u00e0 qu'on choisit o\u00f9 passer commande.\n\n#FicheGoogle #Boucherie #Tours\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio.",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmwrts0v6010fkb7ztpwg5rku",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-25T15:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2125609388140269823",
+            "content": "Boucherie \u00e0 Tours, la fiche Google d'en face fait envie ? Avant les f\u00eates, la vitrine du jour en photo donne envie de passer. Proenligne montre vos produits chaque semaine. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Boucherie",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmwrts0ta010dkb7z43izawcl",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-25T15:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DgK1Bs-hemI/",
+            "content": "Boucherie \u00e0 Tours, la fiche Google d'en face fait envie ?\n\nUn client pr\u00e9pare le repas de No\u00ebl. Il cherche \u00ab boucherie \u00bb sur son t\u00e9l\u00e9phone et Google lui montre des fiches Google, avec la note, les photos, les horaires et l'itin\u00e9raire.\n\nEn face, on voit la vitrine du jour, un r\u00f4ti ficel\u00e9, les volailles des f\u00eates. Chez vous, la devanture, et rien d'autre. Il prend l'itin\u00e9raire vers celle qui donne envie.\n\nProenligne montre vos produits sur votre fiche Google chaque semaine, avec une photo le lundi et une publication le jeudi.\n\nQuel produit de f\u00eate aimeriez-vous montrer en premier ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Boucherie #Tours #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 0,
+                        "sum": 0,
                         "percentageChange": 0
                     },
                     {
@@ -12386,6 +12476,177 @@
             "stats": {
                 "available": false,
                 "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmwrtrhf80107kb7zblk78wke",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-25T08:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=qcv-ps3lktI",
+            "content": "Peintre \u00e0 Caen, pourquoi on fait d\u00e9filer votre fiche Google sans appeler ?\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche \u00ab peintre \u00bb sur Google ou Google Maps, avec vos photos, vos avis et votre t\u00e9l\u00e9phone. Des photos de pi\u00e8ces repeintes donnent envie d'appeler.\n\nProenligne publie une photo de vos chantiers le lundi, une publication le jeudi, et r\u00e9pond \u00e0 chaque avis.\n\nVous prenez vos chantiers en photo une fois finis ?\n\n#FicheGoogle #Peintre #Caen #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 20,
+                        "sum": 20,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrtrh9g00zzkb7zvwr62b5n",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-25T08:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7712026892522375190",
+            "content": "Peintre \u00e0 Caen, on fait d\u00e9filer votre fiche Google sans appeler ?\nSur Google Maps, le client compare les peintres en quelques secondes. Sans photo de pi\u00e8ce repeinte, il appelle le suivant.\n\n#FicheGoogle #Peintre #Caen\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio.",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmwrtrhcb0103kb7z4jpfx63u",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-25T08:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DgKIb4OOBla/",
+            "content": "Peintre \u00e0 Caen, on fait d\u00e9filer votre fiche Google sans appeler ?\n\nUn couple veut refaire son salon avant les f\u00eates. Il tape \u00ab peintre \u00bb sur Google Maps et fait d\u00e9filer les fiches Google, ces encadr\u00e9s avec la note, les photos et le bouton Appeler.\n\nIl s'arr\u00eate sur celle qui montre des murs repeints, un plafond net, une cage d'escalier finie. Une fiche Google sans photo de chantier, son pouce la passe.\n\nProenligne publie une photo de vos chantiers chaque lundi, une publication le jeudi, et r\u00e9pond \u00e0 vos avis.\n\nQuelle pi\u00e8ce repeinte r\u00e9cemment m\u00e9riterait d'\u00eatre en photo ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Peintre #Caen #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrts0w7010hkb7z3b7yjjpn",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-25T15:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=He__1q3gxbU",
+            "content": "Boucherie \u00e0 Tours, la fiche Google d'en face montre sa vitrine. Et la v\u00f4tre ?\n\nCherchez \u00ab boucherie \u00bb dans votre ville. Les encadr\u00e9s avec une note et des photos sont des fiches Google. Celle qui montre sa vitrine du jour donne envie d'entrer.\n\nProenligne publie une photo de vos produits le lundi, une publication le jeudi, et r\u00e9pond \u00e0 chaque avis.\n\nQuelle pi\u00e8ce de votre vitrine mettriez-vous en photo cette semaine ?\n\n#FicheGoogle #Boucherie #Tours #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrts0rl010bkb7z6vortymh",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-25T15:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/1302573958721860",
+            "content": "Boucherie \u00e0 Tours, la boucherie d'en face montre sa vitrine sur sa fiche Google.\n\nLa fiche Google, c'est la carte de visite que Google montre \u00e0 votre place, avec vos photos, vos avis, vos horaires et l'itin\u00e9raire. Avant les f\u00eates, beaucoup de clients la regardent pour savoir o\u00f9 commander.\n\nUne vitrine en photo, une annonce pour les commandes de No\u00ebl, des avis qui ont une r\u00e9ponse. C'est ce qui donne envie de passer la porte.\n\nVos commandes de f\u00eates sont-elles annonc\u00e9es sur votre fiche Google ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Boucherie #Tours #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
             }
         }
     ]
