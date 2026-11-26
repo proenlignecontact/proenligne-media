@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-26T07:25:10.697Z",
+    "generatedAt": "2026-11-26T15:26:51.856Z",
     "days": 60,
     "channels": [
         {
@@ -25,8 +25,8 @@
                     },
                     {
                         "metric": "Posts Engagement",
-                        "latest": 0,
-                        "sum": 97,
+                        "latest": 2,
+                        "sum": 99,
                         "percentageChange": 5
                     },
                     {
@@ -11534,6 +11534,44 @@
             }
         },
         {
+            "id": "cmwrtsnk8010rkb7zdldu2bcm",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-26T09:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=hv01NW8OCY0",
+            "content": "Couvreur \u00e0 Rennes, vos soir\u00e9es partent sur votre fiche Google ?\n\nQuand on tape \u00ab couvreur pr\u00e8s de moi \u00bb, Google affiche des fiches Google avec photos, avis et horaires. La v\u00f4tre en fait partie. La garder vivante prend un peu de temps chaque semaine, souvent le soir.\n\nProenligne publie une photo le lundi, une publication le jeudi, et r\u00e9pond \u00e0 chaque avis \u00e0 votre place.\n\nEt vous, quand r\u00e9pondez-vous \u00e0 vos avis ?\n\n#FicheGoogle #Couvreur #Rennes #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
             "id": "cmwrts0v6010fkb7ztpwg5rku",
             "platform": "x",
             "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
@@ -11594,6 +11632,146 @@
                         "percentageChange": 0
                     }
                 ]
+            }
+        },
+        {
+            "id": "cmwrtsnek010lkb7zaptsy4j2",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-26T09:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/1853394882674106",
+            "content": "Couvreur \u00e0 Rennes, vos soir\u00e9es partent sur votre fiche Google ?\n\nApr\u00e8s une journ\u00e9e sur les toits, il reste votre fiche Google. C'est l'encadr\u00e9 qu'un client ouvre sur Google Maps avant d'appeler, avec vos photos, vos avis et vos horaires.\n\nTrier les photos de chantier, r\u00e9pondre \u00e0 un avis, \u00e9crire une publication. Ce n'est jamais long, mais \u00e7a revient chaque soir.\n\nProenligne s'en occupe pour vous, avec une photo le lundi, une publication le jeudi et une r\u00e9ponse \u00e0 chaque avis.\n\nCombien de temps passez-vous sur votre fiche Google chaque semaine ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Couvreur #Rennes #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrtsnil010pkb7ze0tlgm7i",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-26T09:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2125884949748162637",
+            "content": "Couvreur \u00e0 Rennes, descendu du toit, vous filez sur votre fiche Google ? Photos \u00e0 trier, avis \u00e0 remercier. Proenligne s'en charge pour vous. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Couvreur",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmwrtsngj010nkb7z1mv7k8nv",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-26T09:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DgMyV1ihx5o/",
+            "content": "Couvreur \u00e0 Rennes, descendu du toit, vous filez sur votre fiche Google ?\n\nL'\u00e9chelle est rang\u00e9e sur le camion. Il reste la photo de la toiture finie \u00e0 publier, deux avis qui attendent un merci, un message \u00e0 lire.\n\nVotre fiche Google, c'est ce qu'un client voit quand il cherche \u00ab couvreur \u00bb sur Google Maps, avec vos photos, vos avis et votre t\u00e9l\u00e9phone. Elle compte, mais elle n'a pas besoin de vos soir\u00e9es.\n\nProenligne s'en charge \u00e0 votre place, avec une photo le lundi, une publication le jeudi et une r\u00e9ponse \u00e0 chaque avis.\n\n\u00c0 quel moment de la journ\u00e9e vous occupez-vous de vos avis ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Couvreur #Rennes #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 3,
+                        "sum": 3,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 3,
+                        "sum": 3,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrtt8f9010vkb7zjwh2f9bj",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-26T15:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/1893168482136191",
+            "content": "Charpentier \u00e0 Bordeaux, votre concurrent montre ses charpentes sur sa fiche Google.\n\nSur Google Maps, chaque charpentier a sa fiche Google, avec la note, les photos et le bouton Appeler. Pour un gros projet, le client la regarde longtemps avant de demander un devis.\n\nAvant, une fiche Google avec l'entr\u00e9e de l'atelier. Apr\u00e8s, une charpente en photo chaque semaine, du levage \u00e0 la finition. La note est la m\u00eame, mais le client voit enfin ce que vous savez faire.\n\nVous photographiez vos charpentes avant qu'elles soient couvertes ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Charpentier #Bordeaux #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrtt8ik010zkb7zi8538iuf",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-26T15:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2125967996023718177",
+            "content": "Charpentier \u00e0 Bordeaux, sa fiche Google montre son travail. Et la v\u00f4tre ? Une charpente pos\u00e9e en photo rassure avant un devis. Proenligne publie votre savoir-faire chaque semaine. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Charpentier",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
             }
         },
         {
@@ -12811,6 +12989,159 @@
                         "percentageChange": 0
                     }
                 ]
+            }
+        },
+        {
+            "id": "cmwrtsnd8010jkb7ztlrs6i2e",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-26T09:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7712409670988105751",
+            "content": "Couvreur \u00e0 Rennes, descendu du toit, vous filez sur votre fiche Google ?\nLes tuiles le jour, les avis et les photos le soir. Chaque t\u00e2che est courte, mais elles s'empilent.\n\n#FicheGoogle #Couvreur #Rennes\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio.",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmwrmgw1j00xlkb7zgw00rd4c",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-26T11:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7712440754039343126",
+            "content": "Chauffagiste \u00e0 Nantes, on vous trouve sur Google cet hiver ?\nQuand la chaudi\u00e8re l\u00e2che, le client compare les fiches Google sur Google Maps et appelle celle qui a l'air active.\n\n#FicheGoogle #Chauffagiste #Nantes\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio.",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmwrmgw4b00xpkb7zwnto0det",
+            "platform": "linkedin-page",
+            "integrationId": "cmvxyqbk4001vkb7zbrwvu9pt",
+            "publishDate": "2026-11-26T11:45:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7531684613505740800",
+            "content": "Un avis n\u00e9gatif sur la fiche Google d'une entreprise n'est pas toujours une catastrophe.\nLa r\u00e9ponse du dirigeant compte souvent davantage que l'avis lui-m\u00eame.\n\nLa fiche Google, c'est l'encadr\u00e9 que Google affiche quand on cherche votre m\u00e9tier, avec la note, les avis et le t\u00e9l\u00e9phone. Dans les m\u00e9tiers d'urgence comme la serrurerie, le client la lit en quelques secondes.\n\nTrois r\u00e8gles simples pour r\u00e9pondre.\nRemercier, m\u00eame quand le reproche semble injuste.\nExposer les faits en une ou deux phrases, sans pol\u00e9mique.\nDire ce qui a \u00e9t\u00e9 corrig\u00e9 dans l'organisation.\n\nUne r\u00e9ponse calme montre au prochain client une entreprise qui \u00e9coute. Un avis sans r\u00e9ponse laisse le doute s'installer.\n\nProenligne r\u00e9pond \u00e0 chaque avis pour les artisans, et fait toujours valider les r\u00e9ponses aux avis n\u00e9gatifs par le dirigeant. S'y ajoutent une photo le lundi et une publication le jeudi.\n\nDans votre entreprise, qui r\u00e9pond aux avis n\u00e9gatifs, et dans quel d\u00e9lai ?\n\n#FicheGoogle #GoogleBusinessProfile #ReferencementLocal #AvisClients #TPE",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrtt8ki0111kb7z5rixczhq",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-26T15:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=UhUL2os_1jM",
+            "content": "Charpentier \u00e0 Bordeaux, quelle fiche Google rassure avant un devis ?\n\nAvant de demander un devis, le client ouvre la fiche Google du charpentier sur Google Maps et regarde les photos, les avis et vos r\u00e9ponses. Des charpentes r\u00e9centes en photo montrent un savoir-faire concret.\n\nProenligne publie une photo de vos chantiers le lundi, une publication le jeudi, et r\u00e9pond \u00e0 chaque avis.\n\nQuelle \u00e9tape de chantier montreriez-vous en photo ?\n\n#FicheGoogle #Charpentier #Bordeaux #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrtt8gy010xkb7zq0iclzhy",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-26T15:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DgNYIf2uKjh/",
+            "content": "Charpentier \u00e0 Bordeaux, sa fiche Google montre son travail. Et la v\u00f4tre ?\n\nPrenons un exemple imaginaire, la charpente Bernard. Avant, sa fiche Google montrait l'entr\u00e9e de l'atelier et une photo de 2021. Un client qui pr\u00e9parait une extension ne voyait rien du savoir-faire.\n\nApr\u00e8s, chaque lundi, une photo de chantier. Une ossature bois mont\u00e9e, un carport, une charpente traditionnelle avant la couverture. Le client voit le travail avant de demander un devis.\n\nLa fiche Google, c'est l'encadr\u00e9 que Google affiche avec la note, les photos et le t\u00e9l\u00e9phone de l'entreprise.\n\nProenligne publie une photo de vos chantiers le lundi, une publication le jeudi, et r\u00e9pond \u00e0 chaque avis.\n\nQuelle charpente de cette ann\u00e9e aimeriez-vous montrer en premier ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Charpentier #Bordeaux #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrtt8dv010tkb7zmqkivl9n",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-26T15:00:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7712494813794830358",
+            "content": "Charpentier \u00e0 Bordeaux, sa fiche Google montre son travail.\nChez votre concurrent, on voit ses derni\u00e8res charpentes pos\u00e9es. Le client qui h\u00e9site sait d\u00e9j\u00e0 \u00e0 qui demander un devis.\n\n#FicheGoogle #Charpentier #Bordeaux\n\nAbonnez-vous pour voir les autres m\u00e9tiers et leur fiche Google. 30 jours offerts, lien en bio.",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
             }
         }
     ]
