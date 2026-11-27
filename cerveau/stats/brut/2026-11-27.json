@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-27T07:25:05.175Z",
+    "generatedAt": "2026-11-27T15:14:51.054Z",
     "days": 60,
     "channels": [
         {
@@ -25,8 +25,8 @@
                     },
                     {
                         "metric": "Posts Engagement",
-                        "latest": 0,
-                        "sum": 100,
+                        "latest": 1,
+                        "sum": 101,
                         "percentageChange": 5
                     },
                     {
@@ -11463,6 +11463,38 @@
             }
         },
         {
+            "id": "cmwrttt6x0115kb7z287v19dh",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-27T08:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/1486087783483750",
+            "content": "Vitrier \u00e0 Saint-Brieuc, le client fait glisser votre fiche Google sans s'arr\u00eater ?\n\nQuand on tape \u00ab vitrier pr\u00e8s de moi \u00bb, Google affiche des fiches Google avec photos, avis et horaires. La v\u00f4tre en fait partie. Avec une vitre cass\u00e9e, on ne compare pas longtemps.\n\nUne photo de vitrage pos\u00e9 suffit souvent \u00e0 faire s'arr\u00eater le client. Une fiche Google sans photo, il la passe.\n\nCombien de poses r\u00e9centes montre votre fiche Google ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Vitrier #SaintBrieuc #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
             "id": "cmwrtqya700zvkb7z14r2d9g0",
             "platform": "x",
             "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
@@ -11819,6 +11851,82 @@
             "state": "PUBLISHED",
             "url": "https://twitter.com/Proenligne/status/2125967996023718177",
             "content": "Charpentier \u00e0 Bordeaux, sa fiche Google montre son travail. Et la v\u00f4tre ? Une charpente pos\u00e9e en photo rassure avant un devis. Proenligne publie votre savoir-faire chaque semaine. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Charpentier",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
+            "id": "cmwrttt630113kb7zy591rv0f",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-27T08:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7712765182263298070",
+            "content": "Vitrier \u00e0 Saint-Brieuc, pourquoi le client passe votre fiche Google ?\nUne vitre cass\u00e9e, et on fait d\u00e9filer les fiches Google sur Google Maps. Sans photo de pose r\u00e9cente, on passe \u00e0 la suivante.\n\n#FicheGoogle #Vitrier #SaintBrieuc\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio.",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmwrttt8h0117kb7zdv9rvvlx",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-27T08:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DgPQRUZgPlk/",
+            "content": "Vitrier \u00e0 Saint-Brieuc, pourquoi le client passe votre fiche Google ?\n\nUn ballon dans la fen\u00eatre du salon, un soir de novembre. Le client tape \u00ab vitrier \u00bb sur Google Maps et fait d\u00e9filer les fiches Google, avec la note, les photos et le bouton Appeler.\n\nIl ne lit pas tout. Une fiche Google sans photo, son pouce la passe. Celle qui montre une baie vitr\u00e9e pos\u00e9e la semaine derni\u00e8re, il s'y arr\u00eate.\n\nProenligne publie une photo de vos poses chaque lundi, une publication le jeudi, et r\u00e9pond \u00e0 vos avis.\n\nQuelle pose de vitrage de la semaine m\u00e9riterait une photo ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Vitrier #SaintBrieuc #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrttta10119kb7zm0lvy717",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-27T08:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2126232257811677678",
+            "content": "Vitrier \u00e0 Saint-Brieuc, pourquoi le client passe votre fiche Google ? Sans photo de pose r\u00e9cente, il fait glisser. Proenligne publie vos vitrages chaque lundi. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Vitrier",
             "stats": {
                 "available": false,
                 "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
@@ -13239,8 +13347,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 184,
-                        "sum": 184,
+                        "latest": 185,
+                        "sum": 185,
                         "percentageChange": 0
                     },
                     {
@@ -13275,6 +13383,44 @@
             "stats": {
                 "available": false,
                 "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmwrtttb4011bkb7zb8obbqx7",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-27T08:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=i0PaHNfEBfU",
+            "content": "Vitrier \u00e0 Saint-Brieuc, pourquoi le client fait glisser votre fiche Google ?\n\nSur Google Maps, chaque vitrier a sa fiche Google, avec la note, les photos et le bouton Appeler. C'est elle qu'on regarde avant d'appeler. Sans photo r\u00e9cente, on passe \u00e0 la suivante.\n\nProenligne publie une photo de vos vitrages chaque lundi, une publication le jeudi, et r\u00e9pond \u00e0 chaque avis.\n\nQuelle photo de pose mettriez-vous en premier ?\n\n#FicheGoogle #Vitrier #SaintBrieuc #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
             }
         }
     ]
