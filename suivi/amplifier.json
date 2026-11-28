@@ -1,6 +1,23 @@
 {
  "_lisezmoi": "Posts qui ont décollé (audience ≥ 50 vues ET > 2 × médiane du canal sur 14 jours, cerveau/amplifier.py). Écrit par la tâche quotidienne, lu et vidé par la tâche hebdomadaire après reprise.",
- "a_reprendre": [],
+ "a_reprendre": [
+  {
+   "fiche": "2026-11-26_1900_plombier-swipe-concurrent-brest",
+   "canal": "youtube",
+   "audience": 182,
+   "mediane_canal": 43,
+   "partages": null,
+   "commentaires": 0,
+   "metier": "plombier",
+   "angle": "peur-de-perdre",
+   "ton": "scene",
+   "intention": "utile",
+   "format": "fiche",
+   "creneau": "video",
+   "accroche": "Plombier à Brest, le voisin a la même note que vous, mais sa fiche Google montre ses chantiers.",
+   "detecte_le": "2026-11-28"
+  }
+ ],
  "repris": [
   {
    "fiche": "2026-11-02_1900_paysagiste-fiche-endormie-hiver",

@@ -8,7 +8,7 @@
  "entreprise": "",
  "accroches": [
   "Plombier à Brest, le voisin a votre note, mais sa fiche Google vit.",
-  "Plombier à Brest, entre deux fiches Google, laquelle garde-t-on ?"
+  "Plombier à Brest, à note égale, on appelle la fiche Google qui montre des chantiers."
  ],
  "voix": [
   {
@@ -37,8 +37,8 @@
    "duree": 12.96
   },
   "prise-B": {
-   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/m1eiAyrarH5unoZ6ZMv5/iidd9eJ8uwidfWeo6RLB/content.mp3?Expires=1795348800&KeyName=assets-cdn-key-1&Signature=meisF-yOKKtYEJIA1qDF81TUdgA=",
-   "duree": 12.0
+   "url": "https://elevenlabsusercontent.com/database/workspace/dc846b1fc39c435081aa8a1ae13774a3/content_generation/cOMRVAEk0SOGNbDKYDkp/0nAgC4M4sjR32VGIr6cH/content.mp3?Expires=1795860000&KeyName=assets-cdn-key-1&Signature=rSPBei1k_Tu-6xAe_08YhNeB9MI=",
+   "duree": 13.2
   }
  }
 }

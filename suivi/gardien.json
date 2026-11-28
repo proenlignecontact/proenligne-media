@@ -197,6 +197,15 @@
    "erreur": "Instagram blocked your request",
    "prevu": "2026-11-26T11:45:00Z",
    "reprogramme": "2026-11-27T09:30:00Z"
+  },
+  {
+   "date": "2026-11-28",
+   "ancien_id": "cmwrmhivl00xzkb7z59l91dgk",
+   "nouvel_id": "cmx035ad5013rkb7zi7crmufl",
+   "canal": "instagram",
+   "erreur": "Instagram blocked your request",
+   "prevu": "2026-11-27T12:45:00Z",
+   "reprogramme": "2026-11-28T09:30:00Z"
   }
  ],
  "echecs": [
@@ -318,6 +327,14 @@
    "publie_prevu": "2026-11-26T09:30:00Z",
    "erreur": "Instagram blocked your request",
    "note": "Déjà recréé (ancien cmwrmg2gj00xbkb7zky0tqgv0, carrousel boulangerie horaires de fêtes), échoue encore : non recréé."
+  },
+  {
+   "date": "2026-11-28",
+   "postiz_id": "cmwynov3d013jkb7z8wl90udc",
+   "canal": "instagram",
+   "publie_prevu": "2026-11-27T09:30:00Z",
+   "erreur": "Instagram blocked your request",
+   "note": "Déjà recréé (ancien cmwrmgw2w00xnkb7zcj7uzg8y, carrousel serrurier avis négatif), échoue encore : non recréé."
   }
  ]
 }
