@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-28T07:25:32.621Z",
+    "generatedAt": "2026-11-28T14:19:45.338Z",
     "days": 60,
     "channels": [
         {
@@ -25,8 +25,8 @@
                     },
                     {
                         "metric": "Posts Engagement",
-                        "latest": 0,
-                        "sum": 103,
+                        "latest": 1,
+                        "sum": 104,
                         "percentageChange": 5
                     },
                     {
@@ -8753,8 +8753,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 0,
-                        "sum": 0,
+                        "latest": 1,
+                        "sum": 1,
                         "percentageChange": 0
                     },
                     {
@@ -12060,6 +12060,114 @@
             }
         },
         {
+            "id": "cmwrtuzto011pkb7zoidj1hk0",
+            "platform": "facebook",
+            "integrationId": "cmvs9p6ky0001mq8gkj2c0a82",
+            "publishDate": "2026-11-28T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.facebook.com/reel/1207182408923369",
+            "content": "Serrurier \u00e0 Lille, en urgence, quelle fiche Google rassure le plus ?\n\nAvant d'appeler un serrurier, le client ouvre sa fiche Google sur Google Maps et lit les avis, les horaires et vos r\u00e9ponses. En urgence, il le fait en quelques secondes.\n\nUn avis avec une r\u00e9ponse calme montre quelqu'un de s\u00e9rieux. Une liste d'avis sans r\u00e9ponse laisse un doute, surtout quand on est bloqu\u00e9 dehors.\n\nVous r\u00e9pondez \u00e0 vos avis plut\u00f4t le jour m\u00eame, ou plus tard ?\n\nEssayez Proenligne gratuitement, 30 jours offerts.\n\n#FicheGoogle #Serrurier #Lille #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Plays",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reactions",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Engagement",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrtuzsi011nkb7zz46vx21l",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-28T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7713147971914909718",
+            "content": "Serrurier \u00e0 Lille, quelle fiche Google rassure le plus ?\nPorte claqu\u00e9e, le client compare deux fiches Google en vitesse. Des avis qui ont une r\u00e9ponse font souvent la diff\u00e9rence.\n\n#FicheGoogle #Serrurier #Lille\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio.",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
+            }
+        },
+        {
+            "id": "cmwrtuzvj011rkb7z2bzdmno2",
+            "platform": "instagram",
+            "integrationId": "cmvs9xsx80003mq8gnh6baz7n",
+            "publishDate": "2026-11-28T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.instagram.com/reel/DgR6OABhI-A/",
+            "content": "Serrurier \u00e0 Lille, quelle fiche Google rassure le plus ?\n\nUn samedi matin, la porte claque, les cl\u00e9s sont rest\u00e9es dedans. Sur le palier, le client ouvre Google Maps et compare deux fiches Google, avec la note, les avis et le bouton Appeler.\n\nLes deux ont une note proche. Chez l'un, chaque avis a une r\u00e9ponse polie. Chez l'autre, les avis restent sans r\u00e9ponse. Dans le doute, il appelle celui qui a l'air pr\u00e9sent.\n\nProenligne r\u00e9pond \u00e0 chacun de vos avis, et vous fait valider les r\u00e9ponses aux avis n\u00e9gatifs. S'y ajoutent une photo le lundi et une publication le jeudi.\n\nCombien de vos avis attendent encore une r\u00e9ponse ?\n\n30 jours offerts, lien en bio.\n\n#FicheGoogle #Serrurier #Lille #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 13,
+                        "sum": 13,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Reach",
+                        "latest": 11,
+                        "sum": 11,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Saves",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 1,
+                        "sum": 1,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Shares",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrtuzxk011tkb7zhmz9ze1b",
+            "platform": "x",
+            "integrationId": "cmvsbfk2y0001nr8eba2fo36u",
+            "publishDate": "2026-11-28T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://twitter.com/Proenligne/status/2126605954900758945",
+            "content": "Serrurier \u00e0 Lille, quelle fiche Google rassure le plus ? Porte claqu\u00e9e, on compare deux fiches Google. Des avis avec r\u00e9ponse font souvent la diff\u00e9rence. Proenligne r\u00e9pond aux v\u00f4tres. 30 jours offerts, lien en bio.\n\n#FicheGoogle #Serrurier",
+            "stats": {
+                "available": false,
+                "reason": "Aucune statistique renvoy\u00e9e par la plateforme"
+            }
+        },
+        {
             "id": "cmwhu0q4600v1kb7z4gl0p4y9",
             "platform": "youtube",
             "integrationId": "cmvsbyqw20001jv87195lx18q",
@@ -13563,8 +13671,8 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 11,
-                        "sum": 11,
+                        "latest": 12,
+                        "sum": 12,
                         "percentageChange": 0
                     },
                     {
@@ -13633,14 +13741,14 @@
                 "metrics": [
                     {
                         "metric": "Views",
-                        "latest": 1,
-                        "sum": 1,
+                        "latest": 2,
+                        "sum": 2,
                         "percentageChange": 0
                     },
                     {
                         "metric": "Reach",
-                        "latest": 1,
-                        "sum": 1,
+                        "latest": 2,
+                        "sum": 2,
                         "percentageChange": 0
                     },
                     {
@@ -13700,6 +13808,57 @@
                         "percentageChange": 0
                     }
                 ]
+            }
+        },
+        {
+            "id": "cmwrtuzz0011vkb7zs3k38j2s",
+            "platform": "youtube",
+            "integrationId": "cmvsbyqw20001jv87195lx18q",
+            "publishDate": "2026-11-28T09:15:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.youtube.com/watch?v=B6MgSPSK8jw",
+            "content": "Serrurier \u00e0 Lille, en urgence, quelle fiche Google rassure le plus ?\n\nVotre fiche Google, c'est ce qui s'affiche quand un client cherche \u00ab serrurier \u00bb sur Google ou Google Maps, avec vos avis, vos horaires et votre t\u00e9l\u00e9phone. Des avis qui ont une r\u00e9ponse rassurent celui qui est bloqu\u00e9 dehors.\n\nProenligne r\u00e9pond \u00e0 chaque avis, publie une photo le lundi et une publication le jeudi.\n\nQuel est le dernier avis auquel vous avez r\u00e9pondu ?\n\n#FicheGoogle #Serrurier #Lille #ReferencementLocal",
+            "stats": {
+                "available": true,
+                "metrics": [
+                    {
+                        "metric": "Views",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Likes",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Comments",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    },
+                    {
+                        "metric": "Favorites",
+                        "latest": 0,
+                        "sum": 0,
+                        "percentageChange": 0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cmwrmi6gw00y9kb7z3uvot71p",
+            "platform": "tiktok",
+            "integrationId": "cmvsaqnzu0001pj8d4gk1ojzz",
+            "publishDate": "2026-11-28T11:30:00.000Z",
+            "state": "PUBLISHED",
+            "url": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7713183019435165718",
+            "content": "Plombier \u00e0 Brest, entre deux fiches Google, laquelle le client garde-t-il ?\nSur Google Maps, ces deux fiches Google ont la m\u00eame note. L'une montre des chantiers r\u00e9cents, l'autre n'a rien publi\u00e9 depuis longtemps.\n\n#FicheGoogle #Plombier #Brest\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio.",
+            "stats": {
+                "available": false,
+                "reason": "Postiz ne conna\u00eet pas l'ID du post sur la plateforme"
             }
         }
     ]
