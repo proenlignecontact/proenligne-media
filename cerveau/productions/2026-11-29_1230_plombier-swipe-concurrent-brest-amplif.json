@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-29_1230_plombier-swipe-concurrent-brest-amplif",
+ "date_paris": "2026-11-29",
+ "heure_paris": "12:30",
+ "creneau_nominal": "12:30",
+ "intention": "utile",
+ "ab": "B",
+ "premier_commentaire": "Une photo de chantier prise au téléphone suffit. Un ballon d'eau chaude posé ou une salle de bain refaite montre au client que l'entreprise est active.",
+ "jour_semaine": "dimanche",
+ "creneau": "video",
+ "metier": "plombier",
+ "angle": "peur-de-perdre",
+ "format": "fiche",
+ "ton": "scene",
+ "symptome": "pas-de-nouveaute",
+ "offre": "essai",
+ "accroche": "Plombier à Brest, à note égale, on appelle la fiche Google qui montre des chantiers.",
+ "promesse": "photo lundi, publication jeudi, réponse à chaque avis",
+ "hashtags": [
+  "#Brest",
+  "#FicheGoogle",
+  "#Plombier"
+ ],
+ "media": {
+  "type": "video",
+  "fichiers": [
+   "medias/2026-11-29/plombier-swipe-concurrent-brest-amplif.mp4"
+  ],
+  "postiz": [
+   "https://media.glidy.uk/nxHckfYOq4.mp4"
+  ]
+ },
+ "publications": [
+  {
+   "canal": "tiktok",
+   "postiz_id": "cmx039cq9013tkb7z2x4dgyw2",
+   "caracteres": 331,
+   "texte": "Plombier à Brest, à note égale, on appelle la fiche Google qui montre des chantiers.\nSur Google Maps, deux fiches Google avec la même note. Celle qui montre des chantiers récents rassure, l'autre fait hésiter.\n\n#FicheGoogle #Plombier #Brest\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio."
+  }
+ ],
+ "source": "tache-hebdo",
+ "notes": "Variante amplifiée de 2026-11-26_1900_plombier-swipe-concurrent-brest (YouTube 182 vs médiane 43).",
+ "moteur": "swipe",
+ "angle_video": "Face au concurrent",
+ "ville_video": "Brest",
+ "duree_video": 16.5,
+ "musique": "ambiance-1"
+}

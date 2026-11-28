@@ -15,7 +15,12 @@
    "format": "fiche",
    "creneau": "video",
    "accroche": "Plombier à Brest, le voisin a la même note que vous, mais sa fiche Google montre ses chantiers.",
-   "detecte_le": "2026-11-28"
+   "detecte_le": "2026-11-28",
+   "variante_programmee": {
+    "date": "2026-11-29",
+    "postiz_id": "cmx039cq9013tkb7z2x4dgyw2",
+    "ab": "B"
+   }
   }
  ],
  "repris": [

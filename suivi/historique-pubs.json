@@ -2679,5 +2679,31 @@
    "youtube": "cmwrtwq8y012pkb7zgh4dwrld"
   },
   "serie": "supp"
+ },
+ {
+  "date": "2026-11-29",
+  "slug": "plombier-swipe-concurrent-brest-amplif",
+  "moteur": "swipe",
+  "angle": "Face au concurrent",
+  "metier": "plombier",
+  "ville": "Brest",
+  "valeur": "",
+  "accroches": [
+   "Plombier à Brest, à note égale, on appelle la fiche Google qui montre des chantiers.",
+   "Plombier à Brest, le voisin a votre note, mais sa fiche Google vit."
+  ],
+  "voix": [
+   "Et la vôtre, elle montre quoi de neuf ?",
+   "Pro en ligne publie vos chantiers.",
+   "Cette fois, c'est le voisin qu'on passe.",
+   "Lien en bio, et trente jours offerts."
+  ],
+  "ambiance": 1,
+  "duree": 16.5,
+  "voix_off": "Marcel - French touch (eleven_v4)",
+  "musique": true,
+  "canaux": {
+   "tiktok": "cmx039cq9013tkb7z2x4dgyw2"
+  }
  }
 ]

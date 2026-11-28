@@ -1,0 +1,31 @@
+{
+ "creneaux": [
+  {
+   "date": "2026-11-29",
+   "creneau_nominal": "12:30",
+   "heure": "12:30",
+   "utc": "2026-11-29T11:30:00Z",
+   "creneau": "video",
+   "offre": "essai",
+   "intention": "utile",
+   "ab": "B",
+   "metier": "plombier",
+   "angle": "peur-de-perdre",
+   "format": "fiche",
+   "ton": "scene",
+   "symptome": "pas-de-nouveaute",
+   "slug": "plombier-swipe-concurrent-brest-amplif",
+   "accroche": "Plombier à Brest, à note égale, on appelle la fiche Google qui montre des chantiers.",
+   "premier_commentaire": "Une photo de chantier prise au téléphone suffit. Un ballon d'eau chaude posé ou une salle de bain refaite montre au client que l'entreprise est active.",
+   "tiktok_title": "Plombier à Brest, à note égale, on appelle la fiche Google qui montre des chantiers",
+   "textes": {
+    "tiktok": "Plombier à Brest, à note égale, on appelle la fiche Google qui montre des chantiers.\nSur Google Maps, deux fiches Google avec la même note. Celle qui montre des chantiers récents rassure, l'autre fait hésiter.\n\n#FicheGoogle #Plombier #Brest\n\nAbonnez-vous pour d'autres astuces sur votre fiche Google. 30 jours offerts, lien en bio."
+   },
+   "media": {
+    "video": "https://media.glidy.uk/nxHckfYOq4.mp4",
+    "fichier": "medias/2026-11-29/plombier-swipe-concurrent-brest-amplif.mp4"
+   },
+   "notes": "Variante amplifiée de 2026-11-26_1900_plombier-swipe-concurrent-brest (YouTube 182 vs médiane 43)."
+  }
+ ]
+}
